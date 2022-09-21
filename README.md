@@ -1,2 +1,2 @@
 # czdracor
-Check Drama Corpus
+Czech Drama Corpus
