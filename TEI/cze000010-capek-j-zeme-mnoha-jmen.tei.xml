@@ -1,0 +1,3774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="cze000010" xml:lang="cze" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ZEMĚ MNOHA JMEN</title>
+        <subtitle>Hra o třech jednáních a proměně</subtitle>
+        <author>
+          <persName>
+            <forename>Josef</forename>
+            <surname>Čapek</surname>
+          </persName>
+          <idno type="wikidata">Q454568</idno>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>From the printed edition</name>
+          <availability>
+            <licence>
+              <ab>CC-BY-3.0</ab>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
+                >Licence</ref>
+            </licence>
+          </availability>
+          <bibl type="originalSource">
+            <title>Josef Čapek: Beletrie 1: Živý plamen, Tři prózy, Podzim 1914, Lelio, Lakomec, Moc pověry, Gassirova loutna, Země mnoha jmen, Pro delfína, Stín kapradiny. Edice: Delfín, sv. 116; 1. svazek Spisů Josefa Čapka. Editor: Daniel Vojtěch. Praha: Triáda, 2011.</title>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="elan-chol" sex="MALE">
+            <persName>ELAN CHOL</persName>
+          </person>
+          <person xml:id="metař-1" sex="MALE">
+            <persName>1. METAŘ</persName>
+          </person>
+          <person xml:id="metař-2" sex="MALE">
+            <persName>2. METAŘ</persName>
+          </person>
+          <person xml:id="opilec" sex="MALE">
+            <persName>OPILEC</persName>
+          </person>
+          <person xml:id="klepna-1" sex="FEMALE">
+            <persName>1. KLEPNA</persName>
+          </person>
+          <person xml:id="klepna-2" sex="FEMALE">
+            <persName>2. KLEPNA</persName>
+          </person>
+          <person xml:id="klepna-3" sex="FEMALE">
+            <persName>3. KLEPNA</persName>
+          </person>
+          <person xml:id="pieris" sex="MALE">
+            <persName>PIERIS</persName>
+          </person>
+          <person xml:id="milenec" sex="MALE">
+            <persName>MILENEC</persName>
+          </person>
+          <person xml:id="milenka" sex="FEMALE">
+            <persName>MILENKA</persName>
+          </person>
+          <person xml:id="horlitel" sex="MALE">
+            <persName>HORLITEL</persName>
+          </person>          
+          <person xml:id="dollarson" sex="MALE">
+            <persName>DOLLARSON</persName>
+          </person>
+          <person xml:id="vandergold" sex="MALE">
+            <persName>VANDERGOLD</persName>
+          </person>
+          <person xml:id="dělník-1" sex="MALE">
+            <persName>1. DĚLNÍK</persName>
+          </person>
+          <person xml:id="dělník-2" sex="MALE">
+            <persName>2. DĚLNÍK</persName>
+          </person>
+          <person xml:id="strážník-1" sex="MALE">
+            <persName>1. STRÁŽNÍK</persName>
+          </person>
+          <person xml:id="strážník-2" sex="MALE">
+            <persName>2. STRÁŽNÍK</persName>
+          </person>
+          <person xml:id="výrostek" sex="MALE">
+            <persName>VÝROSTEK</persName>
+          </person>
+          <person xml:id="primátor" sex="MALE">
+            <persName>PRIMÁTOR</persName>
+          </person>
+          <person xml:id="muž-s-rýčem" sex="MALE">
+            <persName>MUŽ S RÝČEM</persName>
+          </person>
+          <person xml:id="otec" sex="MALE">
+            <persName>OTEC</persName>
+          </person>
+          <person xml:id="matka" sex="FEMALE">
+            <persName>MATKA</persName>
+          </person>
+          <person xml:id="uspěchaný-muž" sex="MALE">
+            <persName>USPĚCHANÝ MUŽ</persName>
+          </person>
+          <person xml:id="žena-uspěchaného-muže" sex="FEMALE">
+            <persName>ŽENA USPĚCHANÉHO MUŽE</persName>
+          </person>
+          <person xml:id="sendvičmen-1" sex="MALE">
+            <persName>1. SENDVIČMEN</persName>
+          </person>          
+          <person xml:id="sendvičmen-2" sex="MALE">
+            <persName>2. SENDVIČMEN</persName>
+          </person>
+          <person xml:id="žena-v-černých-závojích" sex="FEMALE">
+            <persName>ŽENA V ČERNÝCH ZÁVOJÍCH</persName>
+          </person>
+          <person xml:id="invalida-1" sex="MALE">
+            <persName>1. INVALIDA</persName>
+          </person>
+          <person xml:id="invalida-2" sex="MALE">
+            <persName>2. INVALIDA</persName>
+          </person>
+          <person xml:id="občan" sex="MALE">
+            <persName>OBČAN</persName>
+          </person>
+          <person xml:id="stará-matka" sex="FEMALE">
+            <persName>STARÁ MATKA</persName>
+          </person>
+          <person xml:id="vdova" sex="FEMALE">
+            <persName>VDOVA</persName>
+          </person>
+          <person xml:id="hlasatel" sex="MALE">
+            <persName>HLASATEL</persName>
+          </person>
+          <personGrp xml:id="armáda" sex="MALE"> <!--PP: Grp - an army of engineers, soldiers and civil servants. Cf. listRelation below.-->
+            <persName>ARMÁDA INŽENÝRŮ, VOJÁKŮ A ÚŘEDNÍKŮ</persName>
+          </personGrp>
+          <person xml:id="inženýr" sex="MALE"> <!--PP: Cf. listRelation below.-->
+            <persName>INŽENÝR</persName>
+          </person>
+          <person xml:id="voják" sex="MALE"> <!--PP: Cf. listRelation below.-->
+            <persName>VOJÁK</persName>
+          </person>
+          <person xml:id="úředník" sex="MALE"> <!--PP: Cf. listRelation below.-->
+            <persName>ÚŘEDNÍK</persName>
+          </person>
+          <person xml:id="voják-3" sex="MALE">
+            <persName>3. VOJÁK</persName>
+          </person>
+          <personGrp xml:id="sbor-chuďasů" sex="UNKNOWN"> <!--PP: Grp - "sbor-chuďasů" (choir of the poor people). Cf. listRelation below.-->
+            <persName>SBOR CHUĎASŮ</persName>
+          </personGrp>
+          <personGrp xml:id="sbor" sex="UNKNOWN"> <!-- PP: vocal choir -->
+            <persName>SBOR</persName>
+          </personGrp>
+          <person xml:id="slepec" sex="MALE">
+            <persName>SLEPEC</persName>
+          </person>
+          <personGrp xml:id="dav" sex="UNKNOWN"> <!--PP: "dav" = crowd. Cf. listRelation below.-->
+            <persName>DAV</persName>
+          </personGrp>
+          <personGrp xml:id="zbylý-dav" sex="UNKNOWN"> <!--PP: "zbylý-dav" = rest of the crowd. Cf. listRelation below.-->
+            <persName>ZBYLÝ DAV</persName>
+          </personGrp>          
+          <personGrp xml:id="hlasy-z-davu" sex="UNKNOWN"> <!--PP: "hlasy-z-davu" = voices from the crowd. Cf. listRelation below.-->
+            <persName>HLASY Z DAVU</persName>
+          </personGrp>
+          <person xml:id="zpěv-za-scénou" sex="UNKNOWN">
+            <persName>ZPĚV ZA SCÉNOU</persName>
+          </person>
+          <person xml:id="stanice-vlevo" sex="UNKNOWN">
+            <persName>STANICE VLEVO</persName>
+          </person>
+          <person xml:id="stanice-vpravo" sex="UNKNOWN">
+            <persName>STANICE VPRAVO</persName>
+          </person>
+          <personGrp xml:id="vojáci" sex="MALE"> <!--PP: "vojáci" = soldiers. -->
+            <persName>VOJÁCI</persName>
+          </personGrp>
+          <personGrp xml:id="zpěv-vojáků" sex="MALE"> <!--PP: "zpěv-vojáků" = singing of soldiers. Are they the same as #soldiers?, I'm not sure). -->
+            <persName>ZPĚV VOJÁKŮ</persName>
+          </personGrp>
+          <!--PP: "chuďas-1 – chuďas-11" (= pauper) cf. listRelation below. -->
+          <person xml:id="chuďas-1" sex="MALE">
+            <persName>1. CHUĎAS</persName>
+          </person>
+          <person xml:id="chuďas-2" sex="MALE">
+            <persName>2. CHUĎAS</persName>
+          </person>
+          <person xml:id="chuďas-3" sex="MALE">
+            <persName>3. CHUĎAS</persName>
+          </person>
+          <person xml:id="chuďas-4" sex="MALE">
+            <persName>4. CHUĎAS</persName>
+          </person>
+          <person xml:id="chuďas-5" sex="MALE">
+            <persName>5. CHUĎAS</persName>
+          </person>
+          <person xml:id="chuďas-6" sex="MALE">
+            <persName>6. CHUĎAS</persName>
+          </person>
+          <person xml:id="chuďas-7" sex="MALE">
+            <persName>7. CHUĎAS</persName>
+          </person>
+          <person xml:id="chuďas-8" sex="MALE">
+            <persName>8. CHUĎAS</persName>
+          </person>
+          <person xml:id="chuďas-9" sex="MALE">
+            <persName>9. CHUĎAS</persName>
+          </person>
+          <person xml:id="chuďas-10" sex="MALE">
+            <persName>10. CHUĎAS</persName>
+          </person>
+          <person xml:id="chuďas-11" sex="MALE">
+            <persName>11. CHUĎAS</persName>
+          </person>          
+          <person xml:id="muž-1" sex="MALE">
+            <persName>1. MUŽ</persName>
+          </person>
+          <person xml:id="muž-2" sex="MALE">
+            <persName>2. MUŽ</persName>
+          </person>
+          <!-- PP: "hlas-z-davu-1 – hlas-z-davu-8" (= voice from the crowd) cf. listRelation below. -->
+          <person xml:id="hlas-z-davu-1" sex="UNKNOWN"> <!-- PP: also #výrostek" -->
+            <persName>1. HLAS Z DAVU</persName>
+          </person>
+          <person xml:id="hlas-z-davu-2" sex="UNKNOWN"> <!-- PP: also #muž-s-rýčem" -->
+            <persName>2. HLAS Z DAVU</persName>
+          </person>
+          <person xml:id="hlas-z-davu-3" sex="UNKNOWN"> <!-- PP: also #milenec -->
+            <persName>3. HLAS Z DAVU</persName>
+          </person>
+          <person xml:id="hlas-z-davu-4" sex="UNKNOWN"> <!-- PP: also #milenka -->
+            <persName>4. HLAS Z DAVU</persName>
+          </person>
+          <person xml:id="hlas-z-davu-5" sex="UNKNOWN"> <!-- PP: also #hlasatel -->
+            <persName>5. HLAS Z DAVU</persName>
+          </person>
+          <person xml:id="hlas-z-davu-6" sex="UNKNOWN">
+            <persName>6. HLAS Z DAVU</persName>
+          </person>
+          <person xml:id="hlas-z-davu-7" sex="UNKNOWN">
+            <persName>7. HLAS Z DAVU</persName>
+          </person>
+          <person xml:id="hlas-z-davu-8" sex="UNKNOWN">
+            <persName>8. HLAS Z DAVU</persName>
+          </person>
+          <person xml:id="žena-z-davu-1" sex="FEMALE"> <!-- PP: "žena-z-davu" = woman from the crowd, cf. listRelation below. -->
+            <persName>ŽENA Z DAVU</persName>
+          </person>
+          <person xml:id="žena-z-davu-2" sex="FEMALE"> <!-- PP: "žena-z-davu" = woman from the crowd, cf. listRelation below. -->
+            <persName>2. ŽENA Z DAVU</persName>
+          </person>
+          <!--PP: "muž-z-davu-1 – muž-z-davu-10" (= man from the crowd) cf. listRelation below. -->
+          <person xml:id="muž-z-davu-1" sex="MALE">
+            <persName>1. MUŽ Z DAVU</persName>
+          </person>
+          <person xml:id="muž-z-davu-2" sex="MALE">
+            <persName>2. MUŽ Z DAVU</persName>
+          </person>
+          <person xml:id="muž-z-davu-8" sex="MALE">
+            <persName>8. MUŽ Z DAVU</persName>
+          </person>
+          <person xml:id="muž-z-davu-9" sex="MALE">
+            <persName>9. MUŽ Z DAVU</persName>
+          </person>
+          <person xml:id="muž-z-davu-10" sex="MALE">
+            <persName>10. MUŽ Z DAVU</persName>
+          </person>
+          <listRelation type="personal">
+            <relation name="associated_with" active="žena-z-davu-1 žena-z-davu-2 #muž-z-davu-1 #muž-z-davu-2 #muž-z-davu-8 #muž-z-davu-9 #muž-z-davu-10 #hlas-z-davu-1 #hlas-z-davu-2 #hlas-z-davu-3 #hlas-z-davu-4 #hlas-z-davu-5 #hlas-z-davu-6 #hlas-z-davu-7 #hlas-z-davu-8 #zbylý-dav #hlasy-z-davu" passive="#dav"/>
+            <relation name="associated_with" active="#inženýr #úředník #voják" passive="#armáda"/>
+            <relation name="associated_with" active="#chuďas-1 #chuďas-2 #chuďas-3 #chuďas-4 #chuďas-5 #chuďas-6 #chuďas-7 #chuďas-8 #chuďas-9 #chuďas-10 #chuďas-11" passive="#sbor-chuďasů"/>
+          </listRelation>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2022-12-12">Petr Porizka (PP): First encoding: source text processing, conversion to XML</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1923">
+        <desc/>
+      </event>
+      <event type="premiere" when="1923">
+        <desc/>
+      </event>
+      <event type="written" when="1923">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="cze000010" name="wikidata" passive="Q110665601"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <front>
+      <castList>
+        <head>Osoby v pořádku, jak vystupují</head>
+        <castList>
+          <head>I. jednání</head>
+          <castItem>Elan Chol</castItem>
+          <castItem>1. metař</castItem>
+          <castItem>2. metař</castItem>
+          <castItem>Opilec</castItem>
+          <castGroup>
+            <castItem>1. klepna</castItem>
+            <castItem>2. klepna</castItem>
+            <castItem>3. klepna</castItem>
+          </castGroup>
+          <castItem>Pieris</castItem>
+            <roleDesc>básník starší školy</roleDesc>
+          <castItem>Milenec</castItem>
+          <castItem>Milenka</castItem>
+          <castItem>Horlitel</castItem>
+          <castItem>Dollarson</castItem>
+          <castItem>Vandergold</castItem>
+          <castItem>1. a 2. muž z davu</castItem>
+          <castItem>1. a 2. žena z davu</castItem>
+          <castItem>Dav</castItem>
+          <head>Přeměna:</head>
+          <castGroup>
+            <castItem>1. dělník</castItem>
+            <castItem>2. dělník</castItem>
+          </castGroup>
+          <castGroup>
+            <castItem>1. strážník</castItem>
+            <castItem>2. strážník</castItem>
+          </castGroup>
+          <castItem>Výrostek</castItem>
+          <castGroup>
+            <castItem>1. muž</castItem>
+            <castItem>2. muž</castItem>
+          </castGroup>
+          <castItem>Dollarson</castItem>
+          <castItem>Vandergold</castItem>
+          <castItem>Primátor</castItem>
+          <castItem>Pieris</castItem>
+          <castItem>Elan Chol</castItem>
+          <castItem>Milenec</castItem>
+          <castItem>Milenka</castItem>
+          <castItem>Školní děti a učitelé</castItem>
+          <castItem>Dav</castItem>
+          <head>II. jednání</head>
+          <castItem>Muž s rýčem</castItem>
+          <castItem>Otec</castItem>
+          <castItem>Matka</castItem>
+          <castItem>Výrostek</castItem>
+          <castItem>1. muž</castItem>
+          <castItem>Pieris</castItem>
+          <castItem>Elan Chol</castItem>
+          <castItem> Milenec</castItem>
+          <castItem>Milenka</castItem>
+          <castItem>Uspěchaný muž</castItem>
+          <castItem>Jeho žena</castItem>
+          <castGroup>
+            <castItem>1. sendvičmen</castItem>
+            <castItem>2. sendvičmen</castItem>
+          </castGroup>
+          <castItem>Sbor chuďasů</castItem>
+          <castItem> Dav</castItem>
+          <castItem>Vandergold</castItem>
+          <castItem>Žena v černých závojích</castItem>
+          <head>III. jednání</head>
+          <castItem>Elan Chol</castItem>
+          <castItem>1. a 2. invalida</castItem>
+          <castItem>3. voják</castItem>
+          <castItem>Slepec</castItem>
+          <castItem>Občan</castItem>
+          <castItem>Milenec</castItem>
+          <castItem>Stará matka</castItem>
+          <castItem>Vdova</castItem>
+          <castItem>Milenka</castItem>
+          <castItem>Hlasatel</castItem>
+          <castItem>1. muž z davu</castItem>
+          <castItem>Dollarson</castItem>
+          <castItem>Pieris</castItem>
+          <castItem>Žena v černých závojích</castItem>
+          <castItem>Armáda inženýrů, vojáků a úředníků</castItem>
+          <castItem>Dav</castItem>
+        </castList>
+      </castList>
+    </front>  
+    <body>
+      <div type="act">
+        <head>I. jednání</head>
+        <stage>Scéna představuje prostranství ve velkém moderním městě. Napřed vyvýšené plató s výstupkem dopředu. Domy vyjádřeny pásy temné látky a transparenty, na něž se vždy promítá v náznacích změna scény.</stage>
+        <stage>Noc, temnota, burácení a rachot, hudba kotlů a varhan.</stage>
+        <sp who="#elan-chol">
+          <speaker>ELAN CHOL:</speaker>
+          <lg>
+            <l>Ó, dozajista,</l>
+            <l>že v této chvíli se jakási těžká sudba blíží!</l>
+            <l>Země i nebesa se propadají!</l>
+            <l>Kéž by mne propast pohltila</l>
+            <l>a přikrylo kamení!</l>
+            <l>K čemu mně život?</l>
+            <l>Běda ti, Elan Chole,</l>
+            <l>nejsi jak jiní lidé,</l>
+            <l>neznámy ti jejich radosti,</l>
+            <l>strast i doufání.</l>
+            <l>Má duše je nemocna,</l>
+            <l>mou mysl zastínila černá peruť,</l>
+            <l>černý ji zastřel závoj</l>
+            <l>a noc jí vládne opilá šťávou z černého máku.</l>
+            <l>Nic se ve mně neděje,</l>
+            <l>ve mně sídlí jen stesk</l>
+            <l>jak v kameni chladnost.</l>
+            <l>Země se chvěje,</l>
+            <l>jak těžkým krokem po ní nějaká sudba kráčí,</l>
+            <l>snad se vše změní!</l>
+            <l>Chtěl bych viděti v růžové záři</l>
+            <l>radost lidí a doufání jejich,</l>
+            <l>být uzdraven a volné mysli.</l>
+            <l>Ó, chtěl bych žít</l>
+            <l>či mrtev být</l>
+            <l>nebo do dalekých krajů</l>
+            <l>odejít.</l>
+            <l>Ó, chtěl bych být šťastnější!</l>
+            <l>V rachotu rodí se nový den,</l>
+            <l>velká věc přichází strašným krokem,</l>
+            <l>ó, kéž jsem osvobozen.</l>
+            <l>Kéž sejmuta se mne kletba,</l>
+            <l>ať nejsem už zatracen!</l>
+            <l>Divným rachotem zmítá se zem,</l>
+            <l>těžkým krokem cos kráčí sem,</l>
+            <l>v bouři se rodí nový den,</l>
+            <l>snad se vše změní!</l>
+            <l>Ó, kéž jsem uzdraven!</l>
+          </lg>
+        </sp>
+        <stage>Pauza. Svítá. Promítán chodník. Přicházejí zametat METAŘI.</stage>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>Zatracený život!</p>
+        </sp>
+        <sp who="#metař-2">
+          <speaker>2. METAŘ:</speaker>
+          <p>Zatracený!</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>Prokletá díra, tohle zlořečené město, co mu oškrabuju svrab svým prokletým škrabákem!Pomoz bůh a naděl ďas, abychom je už brzo mohli smést celé mezi popel a střepy a trus a rozbité plechovky, se vším všudy, jak to tu stojí a leží – –</p>
+        </sp>
+        <sp who="#metař-2">
+          <speaker>2. METAŘ:</speaker>
+          <p>– – se vším tím neřádem, i s našimi škrabáky a košťaty, a s námi i s našima šmajdavýma nohama i s naší úřední čepicí se znakem tohohle Babylonu, co tak šeredně smrdí pod mým koštětem!</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>Já povídám, že tohle město je ze všech měst na světě nejmizernější. Všude jinde je líp.</p>
+        </sp>
+        <sp who="#metař-2">
+          <speaker>2. METAŘ:</speaker>
+          <p>Baže, všude jsou lidé i města šťastnější. Ale tohle, tohle město, to se drobí jako osutina, to kvasí blátem jako vřed, a fuj, potí se slizem a slinou. Tady se drobí omrzelostí železo, kámen i cihla, tady prýská všechna pevná hmota, a každé slovo i všechen dech se mění v hořký prach a zasypává ramena lidí.</p>
+        </sp>
+        <stage>Přichází OPILEC.</stage>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <stage>(zpívá)</stage>
+          <lg>
+            <l>Pijte, hoši, pijte,</l>
+            <l>jen se neopijte –</l>
+          </lg>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>Jistotně! I z lidí se trousí prach a s nohou jim kape bláto. Nechť nevím, co je špína! Nechť mne neživí neřád! Nechť nejsem odborníkem smetí! Povídám, co znám. Ať tudy jde ten nebo onen, křesťan či pohan, kupec nebo děvče v lakových střevíčkách, zloděj nebo uličník, i stařec už k ničemu, tuze starý, ať je to kdokoliv z nich a jeden každý, povídám, jak to vidím: že každý kluše za svou věcí, kvapí a spěchá a vytřásá ze sebe, čím je vycpán. Svou podstatu a jádro. Tady to na zemi přede mnou leží: špinavý papír, pleva a shnilé zbytky.</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>Je dokázáno, že i s hvězd se sype prach a padá kámen.</p>
+        </sp>
+        <sp who="#metař-2">
+          <speaker>2. METAŘ:</speaker>
+          <p>Buďtež nám nebesa lehká. Se zemí je to horší. To byla nějaká noc! Země jako kdyby se rozpadnout chtěla, psi vyli a městem se plašil úděs. Té spadané omítky a říms, těch střepů! A návěstí a reklamy lítaly s domů jako listí. Jak lezu z vrat, ležel tam takový velký štít. Stálo na něm: „Fortuna“. To znamená štěstí. Hoho, Fortuna! Štěstí, ale ne pro nás ani pro koho jiného. Zemřeme a bude sláva a amen.</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>No, země se kymácela –</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>Co se kymácelo?</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>No země!</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>Že se kymácela?</p>
+        </sp>
+        <sp who="#metař-2">
+          <speaker>2. METAŘ:</speaker>
+          <p>A jak! A jak to dunělo!</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>A to není pravda!</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>Tak se všechno houpalo –</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>Nehoupalo.</p>
+        </sp>
+        <sp who="#metař-2">
+          <speaker>2. METAŘ:</speaker>
+          <p>Když ti říkáme, že se země potácela –</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>A já říkám, že se nepotácela!1. a 2. METAŘ: Tak se jdi vyspat!</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>Nepůjdu se vyspat a nekymácela se. Hehe, proč by se kymácela země? Hehe, ta se nekymácela! Že země? Hehe, to já, já jsem se potácel! Jak se trošku napiju, tak se všecko kolem mne houpe –</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>No, když povídáme, že se země kymácela –</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>Ale nekymácela! Já jsem byl opilý –</p>
+        </sp>
+        <sp who="#metař-2">
+          <speaker>2. METAŘ:</speaker>
+          <p>Nu tak tedy jste se potáceli oba.</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>Ne, země ne. Země byla střízlivá. Máš dneska dost, povídám si, to se to zas všecko houpá. I jo, houpalo, jak by se nehoupalo? Hehe, ale ne doopravdy, to jen zdánlivě, rozumíte?</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>Když ale říkáme, že se země kymácela –</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>Ale jejej, přece se nepotácela celá země od toho, že já jsem se motal –</p>
+        </sp>
+        <sp who="#metař-2">
+          <speaker>2. METAŘ:</speaker>
+          <p>Hoho, už tomu tak bude! Tos to proved! Hoho, no tys nás pěkně rozhoupal svýma opilýma nohama! Ještě o sklínku víc a už bychom byli vyletěli z čepu.</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>Jsem chudák. Neměl jsem víc peněz.</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>Bohu chvála! budiž požehnána tvá chudoba. Nechť ti jí pánbůh nadělí v hojnosti a zachová!</p>
+        </sp>
+        <sp who="#metař-2">
+          <speaker>2. METAŘ:</speaker>
+          <p>Koukej, tamhle stojí Elan Chol. To může být jen on. Stojí tam jako sloup.</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>Ah, to je. To je on. Elan Chol.</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>Elan Chol? To jdu raději pryč.</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>A co, proč?</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>Nedělá mi to dobře, vidět ho. Potkal jsem ho několikráte dnes v noci. A to jdu vždy raději z cesty. Nedělá mi to dobře. Je jako strašidlo. Stojí jako zlé znamení.</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>Tak se o něm říká. Ale je to člověk a možná lepší než jiní.</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>To se, panečku, ještě neví, jestli je to vůbec člověk. Je to spíš jako duch. A má na sobě kletbu. Nosí neštěstí.</p>
+        </sp>
+        <sp who="#metař-2">
+          <speaker>2. METAŘ:</speaker>
+          <p>Lidé toho namluví –</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>A proč tedy lidé neradi vidí takové divné věci, proč neradi vidí třeba černý kámen, jak se potí rosou, která není z oblak ani ze země, proč nikdo nenaslouchá rád tomu, co mluví někdy z nočního větru a deště? Nebo, když tak náhle se setmí a když po nebi táhnou ptáci a vy cítíte, že to něco znamená –</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>A co s tím?</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>Počkejte. Nebo – řekněte – proč lidé v největší bolesti nekřičí a jsou jakoby v němém zamyšlení bez konce, nebo zase, proč některé dítě si neumí hrát a nedožije se? A tak se dívá – A proč mrtvým zatlačují oči? Proč? Proč? Aby se sem těma očima nedíval –</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>Kdo?</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>Kdo! Věčný smutek – A on, Elan Chol, on je z té strany.</p>
+        </sp>
+        <sp who="#metař-2">
+          <speaker>2. METAŘ:</speaker>
+          <p>Z které strany?</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>No, přece z té temné! Nebo byli už viděni černí andělé, nebo také jsou osudné stíny bez těla, které žijí svým divným životem pro sebe – a kdo se z takového spojení zrodí – <stage>(neboť oni někdy vstupují do lidského lůžka)</stage> – kdo odtud vzal svůj původ, ten je neblahý.</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>On?</p>
+        </sp>
+        <sp who="#opilec">
+          <speaker>OPILEC:</speaker>
+          <p>Je neblahý! Kde je někdo takový, tam není lidem dobře. A tady není dobře. Není. Je zle. Ve všem zle. A já už raději jdu, už jdu, už jdu.</p>
+        </sp>
+        <stage>ELAN CHOL se přibližuje, OPILEC exit.</stage>
+        <sp who="#metař-1 #metař-2">
+          <speaker>1. a 2. METAŘ:</speaker>
+          <p>Dobré jitro, pane Elan Chole.</p>
+        </sp>
+        <sp who="#elan-chol">
+          <speaker>ELAN CHOL:</speaker>
+          <p>Metaři! Stopu ptáka v povětří neviděti ani na vodách cestu, kudy uplývá mladost lidská. Více živých cest je zapsáno v prachu a stopy lidských kroků vryty jsou v blátě, které vy stíráte a zahlazujete. Zda mnohdy neslyšíte, jak dešť slz a krvavých kapek smáčívá půdu města? Je kluzká tím blátem, které stvořila trýzeň. Vy je čtete a zahlazujete. Domnívám se, že máte znalost vyčísti z prachu, jak po dlažbě města se plouží stesk a postává v koutech?</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>Tak jest, toto vše jest nám povědomo.</p>
+        </sp>
+        <sp who="#elan-chol">
+          <speaker>ELAN CHOL:</speaker>
+          <p>Zda nerozpoznáte v prachu stopy a místa, kudy olověnou nohou kráčela chromá sudba včerejšího dne?</p>
+        </sp>
+        <sp who="#metař-2">
+          <speaker>2. METAŘ:</speaker>
+          <p>Domníváme se, že to téměř s jistotou rozeznáváme.</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>Je těch znamení mnoho.</p>
+        </sp>
+        <sp who="#metař-2">
+          <speaker>2. METAŘ:</speaker>
+          <p>A ze všech je zase bláto a prach.</p>
+        </sp>
+        <sp who="#elan-chol">
+          <speaker>ELAN CHOL:</speaker>
+          <p>A vy je čtete. Řekněte mi přece, vy odklízíte tu podivnou noc, která tu právě přešla. Země se chvěla v těžkém burácení, neboť nějaká nová sudba se ubírala po ní dunivým krokem. Odpovězte mi, jaká je její stopa a kam vedla její cesta, i to mi řekněte, jak se vám to zdá: dobrá-li byla to věc, či zlá.</p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>Těžko, pane, říci. Ačkoliv cesta je plna tříště, přece tu nevidět ničeho, co by nasvědčovalo, že tato věc kráčela po zemi. Řekl jste prve, že stopu ptačího letu v povětří neviděti. Stejně tak neviděti stopu zítřejšího dne na ranní rose –</p>
+        </sp>
+        <sp who="#metař-2">
+          <speaker>2. METAŘ:</speaker>
+          <p>– ani zlobu zašlých let na dlani novorozeného. – A co druhé otázky se týká, jakkoli neznáme úkazu, který se tu neubíral po zemi, jako jiné věci přicházejí, jedno možno usoudit předem. Pravím to za všechny věci: dobrá i zlá.</p>
+        </sp>
+        <sp who="#elan-chol">
+          <speaker>ELAN CHOL:</speaker>
+          <p>Málo jste mi řekli. Sudba je temná. Avšak i za to jsem vám, metaři, povděčen. <stage>(Exit.)</stage></p>
+        </sp>
+        <sp who="#metař-1">
+          <speaker>1. METAŘ:</speaker>
+          <p>Divný je to člověk, ale není zlý. Též v něm, to musím přiznati, se nikterak jasně nevyznáme. Ale my tu povídáme a moh by nás přistihnout dozorce. Je čas, abychom šli klábosit jinam.</p>
+        </sp>
+        <stage>Metaři exeunt. Pauza, slabé, doznívající dunění. Změna scény, promítána návěstí krámů.</stage>
+        <sp who="#klepna-1">
+          <speaker>1. KLEPNA:</speaker>
+          <p>Achach ouvej, ach ouvej, ouvej, ještě jsem celá polámaná a sotva nohy táhnu. Svatá Panno! Housky, za dva pepř a maso na vaření. A mléko. Bože, ta drahota! A ještě mýdlo a louh. A hadr na podlahu. A ocet, abych nezapomněla.</p>
+        </sp>
+        <sp who="#klepna-2">
+          <speaker>2. KLEPNA:</speaker>
+          <p>Nový smeták a hodiny na správu. A sirup. Slyšela jsem, že u kupce v druhé ulici je o hodně lacinější. Ouha! Osobo, copak nemáte v hlavě oči? Takhle do člověka vrazit – Á, to jste vy, paní?</p>
+        </sp>
+        <sp who="#klepna-1">
+          <speaker>1. KLEPNA:</speaker>
+          <p>A vy! Dobrý den. To jsem se lekla! Zrovna jsem na vás myslela, jak je to u vás a jste-li všichni zdrávi.</p>
+        </sp>
+        <sp who="#klepna-2">
+          <speaker>2. KLEPNA:</speaker>
+          <p>Bože, to byla noc!</p>
+        </sp>
+        <sp who="#klepna-1">
+          <speaker>1. KLEPNA:</speaker>
+          <p>No právě, právě. Strašná noc. <stage>(Přichází 3. KLEPNA.)</stage></p>
+        </sp>
+        <sp who="#klepna-2">
+          <speaker>2. KLEPNA:</speaker>
+          <p>Říkám vám, drahá paní, ani se vypovědět nedá, co jsem zažila strachu. Nádobí drnčelo a hodiny se nám naráz zastavily a teď nejdou. Ó, tohle bude nějaké znamení, hned mne napadlo, to někdo umřel! To by tak mohl být tchán, ten už je tak nad hrobem, nebo snad strýc, či snad nakonec ta druhá sestřenice?</p>
+        </sp>
+        <sp who="#klepna-1">
+          <speaker>1. KLEPNA:</speaker>
+          <p>Ó, to bylo u nás ještě horší! Už jsem myslela, že je to moje poslední hodinka. Vždyť já se vám tak bojím bouřky! Srdce se mi zastaví a nemohu popadnout dechu, mám je tak slabé ještě od poslední nemoci, žádný by nevěřil, co zkusím. Musím strčit hlavu pod peřinu, abych nic neslyšela. A postel se vám se mnou tak houpala –</p>
+        </sp>
+        <sp who="#klepna-3">
+          <speaker>3. KLEPNA:</speaker>
+          <p>O jej, má milá, copak teprve já! Já jsem tak nervózní, však víte, hned už od druhého dítěte, tak jsem byla na smrt, že všichni doktoři o mně pochybovali. Když to začalo dunět, já povídám mužovi: co to děláš? A on říká „já nic, já nic nevím“. Já jsem se vám lekla, jako bych se proměnila v kámen.</p>
+        </sp>
+        <sp who="#klepna-2">
+          <speaker>2. KLEPNA:</speaker>
+          <p>A já! Když to začalo burácet, ve mně jako když hrkne, a v útrobách jsem cítila, jako kdyby do mne polínko vrazil. V krku se mně to stáhlo a hned jsem ztratila řeč. Já vám v tu chvíli obrátím oči v sloup a bledá jsem byla – no – jako stěna. Co to se jen dělo –</p>
+        </sp>
+        <sp who="#klepna-1">
+          <speaker>1. KLEPNA:</speaker>
+          <p>Tak to rachotilo a země se třásla, jako by už byl konec světa. Přede mnou si klekly děti i muž a všichni spínali ke mně ruce a prosili: Maminko, neumírej nám! Tak mně vám už bylo těch sirotků líto –</p>
+        </sp>
+        <sp who="#klepna-2">
+          <speaker>2. KLEPNA:</speaker>
+          <p>Inu, jak by ne. A tak vám, má milá, ani nevím, co se vlastně dělo. To už musí být, když já se takhle leknu! Ale hlavně jen když jsme tu hrůzu přečkaly.</p>
+        </sp>
+        <sp who="#klepna-3">
+          <speaker>3. KLEPNA:</speaker>
+          <p>Však to bude dlouho trvat, než se z toho zase vzpamatuju.</p>
+        </sp>
+        <sp who="#klepna-1">
+          <speaker>1. KLEPNA:</speaker>
+          <p>Docela jako já. Co to jen na ten nešťastný svět chodí! Každý naříká, každý je nespokojen – –</p>
+        </sp>
+        <sp who="#klepna-2">
+          <speaker>2. KLEPNA:</speaker>
+          <p>A jak by ne! Taková drahota ve všem, práce není, živobytí není, lidé chodí nazí a nemají kde bydlet –</p>
+        </sp>
+        <sp who="#klepna-3">
+          <speaker>3. KLEPNA:</speaker>
+          <p>Kdekdo si stýská na ty poměry, že to už tady není k vydržení. Co už se jen toho lidu odtud vystěhovalo! Každý říká, jen pryč, jen utéci, tady se nedá žít.</p>
+        </sp>
+        <sp who="#klepna-2">
+          <speaker>2. KLEPNA:</speaker>
+          <p>Jak by ne! Můj také říká, já tady nebudu, tady je jen holá bída, my musíme jinam, ať je to kam chce, jen odtud pryč!</p>
+        </sp>
+        <sp who="#klepna-3">
+          <speaker>3. KLEPNA:</speaker>
+          <p>Ach jo! Každý tu proklíná a kouká, kam by se vrtnul. A kdo nemůže, ten je nešťastný. Podívejte se jen těch sebevražd.</p>
+        </sp>
+        <sp who="#klepna-1">
+          <speaker>1. KLEPNA:</speaker>
+          <p>Maria Panno! Zrovna předevčírem se zase jeden oběsil, byl to ještě mladý člověk a nechal po sobě psaní. Odpusťte mi, tam stálo, bude mi lépe, zde pro mne už žádné štěstí nekvete, odcházím do krajů krásnějších.</p>
+        </sp>
+        <sp who="#klepna-2">
+          <speaker>2. KLEPNA:</speaker>
+          <p>Ach bože! Ale jak to krásně napsal! To by tak pěkně nenapsal ani tamhle pan Pieris. Tady už pro mne žádné štěstí nekvete, odcházím do krajů krásnějších –</p>
+        </sp>
+        <sp who="#klepna-1">
+          <speaker>1. KLEPNA:</speaker>
+          <p>No jistě. Cožpak ten to má dobré, píše si jen své básničky a nemá žádné starosti. A já tady nevím, kde mně hlava stojí.</p>
+        </sp>
+        <stage>Lomoz otevírané žaluzie.</stage>
+        <sp who="#klepna-1 #klepna-2 #klepna-3">
+          <speaker>1., 2. a 3. KLEPNA:</speaker>
+          <p>Proboha, už to zase začíná!</p>
+        </sp>
+        <sp who="#klepna-1">
+          <speaker>1. KLEPNA:</speaker>
+          <p>Ne, chvála bohu, to byla jen žaluzie.</p>
+        </sp>
+        <sp who="#klepna-2">
+          <speaker>2. KLEPNA:</speaker>
+          <p>Pro Kristovy rány, to jsem se zase lekla!</p>
+        </sp>
+        <sp who="#klepna-3">
+          <speaker>3. KLEPNA:</speaker>
+          <p>Ježíši, a já! Ale já už musím jít vařit a mám ještě tolik co nakupovat.</p>
+        </sp>
+        <sp who="#klepna-1 #klepna-2">
+          <speaker>1.a 2. KLEPNA:</speaker>
+          <p>A vždyť my také. Pro Krista Pána!</p>
+        </sp>
+        <stage>Exeunt.</stage>
+        <stage>Přichází PIERIS. Scéna se mění promítnutím náznaků velkého města. Zdi a okna.</stage>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Ach, ty starý pošetilý blázne, co sis to vysloužil? Co a čemu jsi žil? A co jsi, co vůbec jsi? Nevíš! Nevíš, až ti to řeknou, až ti řeknou jiní – Až ti řeknou – jakže to tu stojí? <stage>(Nahlíží do novin:)</stage> „Stavitel frází.“ – Ó! „Pan Pieris žije v té bláhové iluzi, že jeho dutě prorocká lyrika má nám ještě co říci. Je mu třeba povědět co nejdůrazněji, že mladá generace už dávno překonala jeho filistrovský mesianism.“ Ach, to bolí! – „Bylo už třeba kriticky rozptýliti tuto legendu, abychom si uvědomili nicotnost a zbytečnost Pieridova domněle obrodného díla.“ – Jak to bolí! Mé životní dílo, má práce a poslání, vše pohozeno a zašlapáno v prach! Ó, mládí, ty kruté mládí! Běda, není již v co doufati! <stage>(Čte.)</stage> „Jsme už syti proroků, kazatelů a vůdců na poušti, a jsme už syti i té pouště, i všech snů, ba ještě nadto: dnes jsme už syti i svého nejbližšího bližního. K čemu tu Pieris (nenahlížeje směšnosti svého postavení) ještě obchází se svou jalovou filozofií krásných frází?</p>
+          <p>“Ach, hanba a žalno! Nedal jsem vám své nejlepší, a nadarmo? Budil jsem naděje v příchod nového života: To že je klam? Budil jsem víru, že z nového života spásně zrodí se nový svět: To že je nicota? Bušil jsem na brány a rozžehal světla. Nadarmo: Je hlucho a temno. Doufal jsem a učil doufati, věřil a vybízel věřiti, miloval a zapřísahal milovat. Ach, marně. Není již ničeho. Ne. Teď ani já už v nic nedoufám, ani nevěřím a nic už nemiluji.</p>
+          <stage>Slabé rachocení.</stage>
+          <p>Ó, kéž bylo by se dnešní noci toto město sesulo, když všechny švy země i nebes se s rachotem otevíraly! Ó, tato neblahá půda, prosáklá tolikerou krví a vzdechy, jimiž ji zalévaly věky a pokolení za pokolením! <stage>(Hrozí:)</stage> Ty obludné město, přežrané myšlenkami, které jsi zadusilo! Ty hřbitove nadějí! Mládí z tebe vyrůstá jako jedovatá květina! Ach, daleko, daleko odtud! Ach, nový život a nový svět! Ó, kruté město, ó, špatné, nelítostné mládí!</p>
+        </sp>
+        <stage>Exit. Z druhé strany MILENEC a MILENKA.</stage>
+        <sp who="#milenka">
+          <speaker>MILENKA:</speaker>
+          <p>Proč nám ten starý tak hrozil? Tady jsou zlí lidé.</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>Nepřejí nám naše štěstí. Což může být šťasten člověk, který nemiluje –</p>
+        </sp>
+        <sp who="#milenka">
+          <speaker>MILENKA:</speaker>
+          <p>– – a není milován?</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>Ó, moje lásko! lásko mé duše, dechu mého srdce! Co mi záleží na světě, když mne tvé oči milují?</p>
+        </sp>
+        <sp who="#milenka">
+          <speaker>MILENKA:</speaker>
+          <p>Můj svět, to jsi ty.</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>A ty jsi duší mého života. Když se dnes v noci zdálo, že nastává konec světa v lomozu a rachocení, tu jsem myslil jedině na tebe. Jen o tebe jsem se bál. Jen po tom jsem toužil, bych mohl ochránit tebe, anebo zemřít v společném objetí s tebou!</p>
+        </sp>
+        <sp who="#milenka">
+          <speaker>MILENKA:</speaker>
+          <p>Též já jsem myslela jen na tebe. Zdálo se, že země puká a řítí se celý vesmír. Říkala jsem si, ochraň nás, bože, nechť se ještě živi shledáme! Nebo, mám-li zde umříti sama, dej našim duším shledat se na některé modré či růžové hvězdě!</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>Ó můj miláčku! Vždyť jsme nezemřeli! Žije město i lidé a všechno jest jako včera. Chtěl bych být s tebou daleko odtud, chtěl bych být s tebou někde na nové zemi, kde by nebylo lidí, jen my dva s naší láskou, v novém ráji, daleko tohoto města a lidí, jenom my dva, šťastni a sami!</p>
+        </sp>
+        <sp who="#milenka">
+          <speaker>MILENKA:</speaker>
+          <stage>(v jeho náruči)</stage>
+          <p>Rozmilý, jak byla bych šťastna s tebou daleko, daleko odtud!</p>
+        </sp>
+        <stage>Vystoupí HORLITEL.</stage>
+        <sp who="#horlitel">
+          <speaker>HORLITEL:</speaker>
+          <p>Aj, hanba na vás, hanba na tebe, město plné smilstva a neřestí! Běda vám, ulice nečisté, křižovatky hříchů a tržiště spuštění! Nevěstko babylonská! Boží tvář sklání se nad tvé střechy, aby tě soudila!</p>
+        </sp>
+        <stage>Sbíhá se DAV.</stage>
+        <sp who="#horlitel">
+          <speaker>HORLITEL:</speaker>
+          <p>Lide bezbožný, jenž válíš se v kalu svých nespočetných hříchů, míra tvého opilství, smilstva, sobectví, kupectví, lupu i nenávisti jest naplněna. Hle, bůh zástupů zvedl svou pravici v spravedlivé hrozbě a této noci oznámil vám hodinu zkázy!</p>
+        </sp>
+        <sp who="#žena-z-davu-1">
+          <speaker>ŽENA Z DAVU:</speaker>
+          <p>Pro boží umučení, co nám to nadchází, co se to jen v noci dělo?</p>
+        </sp>
+        <sp who="#muž-z-davu-1">
+          <speaker>MUŽ Z DAVU:</speaker>
+          <p>Co mluví, vždyť ta noc přešla, a nic se tak strašného nestalo. Slunce svítí nesvítí, jako svítilo včera, a lidé jsou živi neživi zrovna tak jako včera.</p>
+        </sp>
+        <sp who="#horlitel">
+          <speaker>HORLITEL:</speaker>
+          <p>Bůh zástupů zvedl svou pravici v spravedlivé hrozbě. I burácel vzduch a země praskala ve svých kostech, neboť pod hněvivým prstem božím pootevíraly se již brány pekelné, aby vás pohltily!</p>
+        </sp>
+        <sp who="#žena-z-davu-2">
+          <speaker>2. ŽENA Z DAVU:</speaker>
+          <p>Bože, co s námi jen bude?</p>
+        </sp>
+        <sp who="#muž-z-davu-2">
+          <speaker>2. MUŽ Z DAVU:</speaker>
+          <p>Co by bylo? Co by mohlo na nás přijít ještě horšího, než už máme?</p>
+        </sp>
+        <sp who="#horlitel">
+          <speaker>HORLITEL:</speaker>
+          <p>Této noci seslal na vás Hospodin první výstrahu. Hodina soudu se blíží! Dejte se na pokání!</p>
+        </sp>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>Dejte nám pokoj s pokáním. Dejte nám raději chleba!</p>
+        </sp>
+        <sp who="#muž-z-davu-2">
+          <speaker>2. MUŽ Z DAVU:</speaker>
+          <p>My jsme těch hříšných rozkoší tak tuze moc neužili!</p>
+        </sp>
+        <sp who="#horlitel">
+          <speaker>HORLITEL:</speaker>
+          <p>I usoudil Hospodin a – –</p>
+        </sp>
+        <sp who="#hlas-z-davu-1">
+          <speaker>1. HLAS Z DAVU:</speaker>
+          <p>To je klerikalismus!</p>
+        </sp>
+        <sp who="#hlas-z-davu-2">
+          <speaker>2. HLAS Z DAVU:</speaker>
+          <p>My chceme pozitivní vysvětlení. Vědecké! Tohle je –</p>
+        </sp>
+        <sp who="#hlas-z-davu-3">
+          <speaker>3. HLAS Z DAVU:</speaker>
+          <p>Tohle je zpátečnictví!</p>
+        </sp>
+        <sp who="#horlitel">
+          <speaker>HORLITEL:</speaker>
+          <p>A aj, přijde hodina soudu a Babylon bude srovnán se zemí a nezůstane kámen na kameni. Rozpukne se země a z propasti bude slyšán hlas zavržených: Eheu, hory, padněte na nás, eheu, pahrbkové, přikrejte mne! Spravedliví však se radovati budou – –</p>
+        </sp>
+        <stage>Slyšeti automobilovou trubku.</stage>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>Á, pan Dollarson jede na burzu.</p>
+        </sp>
+        <sp who="#muž-z-davu-2">
+          <speaker>2. MUŽ Z DAVU:</speaker>
+          <p>Pan Dollarson má vždycky a o všem první a přesné zprávy. Zeptáme se ho, co se vlastně v noci dělo.</p>
+        </sp>
+        <sp who="#horlitel">
+          <speaker>HORLITEL:</speaker>
+          <p>I řekne Hospodin: Seslal jsem na svět zkázu v podobě jízdních vojů andělských, aby kopyty koní a hroty svých mečů deptaly zemi –</p>
+        </sp>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>Jen si to nech!</p>
+        </sp>
+        <sp who="#muž-z-davu-2">
+          <speaker>2. MUŽ Z DAVU:</speaker>
+          <p>Jen si je nech, ta svá andělská kopyta!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>O tom, co se v noci dělo, nejsprávnější vysvětlení nám dá sám pan Dollarson.</p>
+        </sp>
+        <stage>Přichází DOLLARSON.</stage>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Poklona, pane Dollarsone.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Služebník.</p>
+        </sp>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>Pane Dollarsone, vy máte vždy o všech věcech první zprávy. Rádi bychom věděli, co se vlastně dnes v noci dělo.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Ano, ta dnešní noc! Mám již své informace.</p>
+        </sp>
+        <sp who="#muž-z-davu-2">
+          <speaker>2. MUŽ Z DAVU:</speaker>
+          <p>Nuže, pane, můžete nám to říci?</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Zajisté, rád vám to povím.</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Nuže? Jsem velice zvědav to vědět.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Nuže tedy, jak praví mé zprávy – jde tu o přírodní katastrofu – o rozsáhlý pohyb zemských vrstev čili o tak zvané zemětřesení.</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Hned jsem si myslel, že je to jen zemětřesení!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Událost, jakkoliv pozoruhodná po stránce geologické, nemá však obzvláštního hospodářského dosahu. Nezpůsobila větších škod –</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Jsem rád, že není škody.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>– zvláště ne ve vnitrozemí. Dle mých informací dostavily se některé záplavy na pobřežích, na moři pak větší bouře a – jak mohu dle svých zpráv souditi – budou ovšem některé ztráty na lodích. Pan Vandergold po této stránce snad utrpí nějaké škody – –</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Což, jenom když škodu netrpím já.</p>
+        </sp>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>Zde však přichází sám pan Vandergold ze svého byro – –</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>– a ten mívá ještě přesnější zprávy nežli pan Dollarson.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Co chcete ještě vědět? Pan Vandergold vám jen potvrdí to, co jsem vám pověděl já.</p>
+        </sp>
+        <stage>Přichází VANDERGOLD.</stage>
+        <sp who="#muž-z-davu-2">
+          <speaker>2. MUŽ Z DAVU:</speaker>
+          <p>Pan Vandergold je však bohatší a má ještě větší závod –</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>– Uctivý služebník, poklona, pane Vandergolde!</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Dobrý den, lidé. Aj, Dollarson, servus. Montánní trochu klesly, myslím však, že jste se jich doved včas zbavit.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>A což vaše dopravní?</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Ano, ano, něco se už musí unést.</p>
+        </sp>
+        <sp who="#muž-z-davu-2">
+          <speaker>2. MUŽ Z DAVU:</speaker>
+          <p>Odpusťte, pane Vandergolde, že jsem tak smělý, rádi bychom však z vašich vlastních úst slyšeli –</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>– Ti lidé na vás chtějí, abyste jim řekl totéž co já: že bylo zemětřesení, jež nemělo celkem následků. Snad jedině nějaké vaše lodě – –</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Tak. To jsou vaše zprávy?</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Ano. Toť, myslím, vše, co o celé věci možno jest říci.</p>
+        </sp>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>Ať řekne pan Vandergold sám – –</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Ovšem, tak tomu jest. Pan Dollarson má své zprávy a řekl vám všechno, co věděl. Našeho města dnes v noci se dotklo zemětřesení –</p>
+        </sp>
+        <sp who="#muž-z-davu-2">
+          <speaker>2. MUŽ Z DAVU:</speaker>
+          <p>– Zemětřesení.</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>– jehož maximum cítila pobřeží. Pohybem moře zničeny nějaké lodě –</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Hle, vše, co jsem pravil.</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>avšak – –</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>– Teď mluví pan Vandergold –</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>– avšak – nezlobte se, příteli – informace pana Dollarsona nejsou úplné.</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Slyšte, teď zvíme novinu úplnější!</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Pokud se týká příčiny tohoto zemětřesení –</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Slyšte příčinu!</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>– nuže, tedy –</p>
+        </sp>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>Mluvte již, pane Vandergolde –</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>– to nebylo jen prosté zemětřesení.</p>
+        </sp>
+        <sp who="#muž-z-davu-2">
+          <speaker>2. MUŽ Z DAVU:</speaker>
+          <p>Hned jsem si to myslel! Co se tedy stalo?</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Moje zprávy jsou bezpečné. – Divná, veliká věc se přihodila!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Stala se veliká věc!</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Tedy slyšte! Dnešní noci za rachotu země a v bouři mořské veliký ostrov se vynořil uprostřed Atlantiku!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Aj!</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Co pravím, ostrov? Je to veliká nová pevnina!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Aj, jaká novina!</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Ano! – Šestý díl světa zrodil se uprostřed Oceánu!</p>
+        </sp>
+        <stage>Opona.</stage>
+      </div>
+      <div type="act">
+        <head>Přeměna</head>
+        <stage>Totéž město, vyzdobené přečetnými prapory.</stage>
+        <stage>Dva dělníci dohotovují řečnickou tribunu.</stage>
+        <sp who="#dělník-1">
+          <speaker>1. DĚLNÍK:</speaker>
+          <p>Mně by se víc líbily oleandry než chvojí. Oleandry vypadají, řekl bych, slavnostněji.</p>
+        </sp>
+        <sp who="#dělník-2">
+          <speaker>2. DĚLNÍK:</speaker>
+          <p>Ale chvojí dělá veselejší dojem.</p>
+        </sp>
+        <stage>Přicházejí dva STRÁŽNÍCI a přihlížejí.</stage>
+        <sp who="#dělník-1">
+          <speaker>1. DĚLNÍK:</speaker>
+          <p>S oleandrem se to líp pracuje.</p>
+        </sp>
+        <sp who="#dělník-2">
+          <speaker>2. DĚLNÍK:</speaker>
+          <p>Oleandr a palma jsou lepší, když je mezi nimi socha. K praporům jde zas nejpěkněji chvojí.</p>
+        </sp>
+        <sp who="#dělník-1">
+          <speaker>1. DĚLNÍK:</speaker>
+          <p>Anebo květiny.</p>
+        </sp>
+        <sp who="#dělník-2">
+          <speaker>2. DĚLNÍK:</speaker>
+          <p>Tak, a je to hotovo.</p>
+        </sp>
+        <sp who="#dělník-1">
+          <speaker>1. DĚLNÍK:</speaker>
+          <p>Dobré je to. – Pojďme.</p>
+        </sp>
+        <stage>Exeunt, STRÁŽNÍCI se přiblíží.</stage>
+        <sp who="#strážník-1">
+          <speaker>1. STRÁŽNÍK:</speaker>
+          <p>Estráda je pěkná. To chvojí se na ní dělá dobře.</p>
+        </sp>
+        <sp who="#strážník-2">
+          <speaker>2. STRÁŽNÍK:</speaker>
+          <p>Oleandr by také nebyl špatný.</p>
+        </sp>
+        <sp who="#strážník-1">
+          <speaker>1. STRÁŽNÍK:</speaker>
+          <p>Oleandr se líp hodí k soše.</p>
+        </sp>
+        <sp who="#strážník-2">
+          <speaker>2. STRÁŽNÍK:</speaker>
+          <p>Mohli sem dát třeba také nějaké květiny.</p>
+        </sp>
+        <sp who="#strážník-1">
+          <speaker>1. STRÁŽNÍK:</speaker>
+          <p>Já mám ze všech květin nejraději sněženky.</p>
+        </sp>
+        <sp who="#strážník-2">
+          <speaker>2. STRÁŽNÍK:</speaker>
+          <p>Proč zrovna sněženky? Co je na sněženkách tak zvláštního? Jsou jiné květiny, pěknější!</p>
+        </sp>
+        <sp who="#strážník-1">
+          <speaker>1. STRÁŽNÍK:</speaker>
+          <p>Nevím. Snad proto, že to jsou nejprvnější kvítka. Země je ještě mrtvá a už tu jsou první sněženky. Když je vidím, tu mne to tak nějak chytne u srdce, ani to nemohu říct – no – skoro jako by mně bylo nějak do pláče nebo jak – a chtěl bych se toulat po horách. Já jsem z hor. Tam bylo málo lidí. Když jsem byl malý hoch, nosil jsem domů sněženky; maminka je měla tak ráda.</p>
+        </sp>
+        <sp who="#strážník-2">
+          <speaker>2. STRÁŽNÍK:</speaker>
+          <p>Já zas mám nejraději jasmín. Ten nejvíc voní. Heč, praskla mně! Na palci. Vždycky mně praskají rukavice na palci.</p>
+        </sp>
+        <sp who="#strážník-1">
+          <speaker>1. STRÁŽNÍK:</speaker>
+          <p>To já zas je mám na palcích vždycky nejdřív špinavé. Sněženky –</p>
+        </sp>
+        <sp who="#strážník-2">
+          <speaker>2. STRÁŽNÍK:</speaker>
+          <stage>(dívá se na hodinky)</stage>
+          <p>No, už to brzo začne. A ještě tu nikdo není.</p>
+        </sp>
+        <stage>Přichází 1. a 2. MUŽ a VÝROSTEK a usadí se u proscénia.</stage>
+        <sp who="#strážník-1">
+          <speaker>1. STRÁŽNÍK:</speaker>
+          <p>Pak se to nahrne najednou – –</p>
+        </sp>
+        <sp who="#strážník-2">
+          <speaker>2. STRÁŽNÍK:</speaker>
+          <p>A v ničem žádný pořádek.</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Heleď, jak jsou nastrojeni. Jak mají vyleštěné boty!</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>A bílé rukavice! Ti to mohou dělat. Já nemám ani ponožky.</p>
+        </sp>
+        <sp who="#muž-2">
+          <speaker>2. MUŽ:</speaker>
+          <p>Já mám, ale díravé.</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Však oni ti strážníci mají také třeba díravé ponožky.</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Jdi a optej se jich.</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Jo, ale na odpověď bych si raději nepočkal.</p>
+        </sp>
+        <sp who="#muž-2">
+          <speaker>2. MUŽ:</speaker>
+          <p>I co, jsou to lidé jako my.</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Ale koukají sem jako buldoci. Hé, co výráš?</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>S tím tlustým jsem už něco měl. Ten mě už jednou sebral. Prý pro výtržnost.</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Jo, ten je zlý. Toho znám z demonstrací.</p>
+        </sp>
+        <sp who="#muž-2">
+          <speaker>2. MUŽ:</speaker>
+          <p>Ten druhý tak ne. Ten jenom pořád říká: Lidi, mějte přece rozum!</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Hlídají tu tribunu.</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>A co je tady praporů. – To zas budou oslavovat někoho mrtvého.</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Nám by takovou slávu neudělali.</p>
+        </sp>
+        <sp who="#muž-2">
+          <speaker>2. MUŽ:</speaker>
+          <p>O chudém nikdo neví. Ale ona to nebude slavnost za mrtvého!</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Tak co to budou oslavovat?</p>
+        </sp>
+        <sp who="#muž-2">
+          <speaker>2. MUŽ:</speaker>
+          <p>Že už přestalo to zemětřesení.</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Mně je to jedno.</p>
+        </sp>
+        <sp who="#muž-2">
+          <speaker>2. MUŽ:</speaker>
+          <p>A mně taky.</p>
+        </sp>
+        <stage>Malá pauzička. – 1. MUŽ se drbe na levém boku, pak se drbe 2. MUŽ.</stage>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Tady lidi nemají do čeho kousnout, ale na slavnosti je peněz dost.</p>
+        </sp>
+        <sp who="#muž-2">
+          <speaker>2. MUŽ:</speaker>
+          <p>Co by se jen lidu oblíklo z těch praporů!</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>O chudého nikdo nedbá. Heleď kluka!</p>
+        </sp>
+        <stage>VÝROSTEK se zatím vyšplhal na tribunu.</stage>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <stage>(na tribuně)</stage>
+          <p>Slavné shromáždění, poslyšte píseň nejnovější o tom strašném zemětřesení, které se událo včera v noci:</p>
+          <lg>
+            <l>Ze včerejška na dnešek</l>
+            <l>byla strašná noc,</l>
+            <l>konec světa na nás přišel,</l>
+            <l>zem se třásla moc,</l>
+            <l>ojej, ojej, ojej.</l>
+            <l>S chudýma to házelo,</l>
+            <l>s bohatýma taky.</l>
+            <l>Šmarjá, vždyť se pomíchají</l>
+            <l>proleti s měšťáky,</l>
+            <l>hej hup, hej hup, hej hup.</l>
+            <l>Pomíchá se všecko všudy,</l>
+            <l>dědkové s pannami,</l>
+            <l>staré báby s mládenci</l>
+            <l>a psi s kočkami –</l>
+          </lg>
+        </sp>
+        <sp who="#strážník-2">
+          <speaker>2. STRÁŽNÍK:</speaker>
+          <p>Nechte toho, ano? Tady není žádná hospoda. Hnedka jděte dolů, nebo vás musím sebrat!</p>
+        </sp>
+        <stage>Na scénu vzadu přicházejí ŠKOLNÍ DĚTI vedené UČITELI.</stage>
+        <sp who="#strážník-1">
+          <speaker>1. STRÁŽNÍK:</speaker>
+          <p>Mějte přece rozum!</p>
+        </sp>
+        <sp who="#strážník-2">
+          <speaker>2. STRÁŽNÍK:</speaker>
+          <p>To je nepřístojnost!</p>
+        </sp>
+        <stage>VÝROSTEK se vrátí na své místo.</stage>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Hehe!</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Hehe!</p>
+        </sp>
+        <sp who="#muž-2">
+          <speaker>2. MUŽ:</speaker>
+          <p>Hehehe. Od tebe by se ty děti něco naučily! Ale teď ono to už asi brzo začne.</p>
+        </sp>
+        <stage>Přicházejí VANDERGOLD a DOLLARSON. Scéna se naplňuje.</stage>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>A vy se tu na slavnosti nezdržíte?</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Ne, mám si ještě ledacos vyřídit.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Já také.</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Ale svým lidem jsem dal prázdno. Je to veliká věc – –</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Ano, to je, to je nesporně. Věc veliká. Ale musím se vám poroučet –</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Na shledanou.</p>
+        </sp>
+        <stage>Exit.</stage>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>To já musím také dát svým lidem prázdno.</p>
+        </sp>
+        <stage>Exit.</stage>
+        <sp who="#strážník-1 #strážník-2">
+          <speaker>1. a 2. STRÁŽNÍK:</speaker>
+          <stage>(pořádají dav)</stage>
+          <p>Račte, prosím, udržeti trochu pořádek. Ustupte trochu tady. Dál, ještě dál, tak, tak! Netlačte se tak. Držte se tady v řadě! Račte trochu postoupit, pánové, sem. Děti pusťte kupředu! A ticho tady! Račte, prosím, zachovat ticho!</p>
+        </sp>
+        <stage>Zatím přichází PRIMÁTOR s notábly a PIERIDEM. PRIMÁTOR vystoupí na tribunu.</stage>
+        <sp who="#primátor">
+          <speaker>PRIMÁTOR:</speaker>
+          <stage>(z tribuny)</stage>
+          <p>Občané!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Ticho! Slyšme, co nám Primátor poví!</p>
+        </sp>
+        <sp who="#primátor">
+          <speaker>PRIMÁTOR:</speaker>
+          <p>Občané! Shromáždili jsme se k slavnosti vzácné, k slavnosti jedinečné. Vzpomínku na tuto krásnou chvíli uchovají si i budoucí věky, a budou nám záviděti, že bylo nám přáno býti účastníky události tak veliké, tak neobyčejné, tak povznášející. Ve všech zemích světa a právě v této hodině slavnostně shromažďuje se veškeré lidstvo ve znamení téže radosti, která rozechvívá naše krásné město. Tato radost klene se dnes nad světem jako duha míru. Kéž tato krásná duha nikdy již nepohasne a provždy potrvá, ozařujíc nadále světlem rodinné lásky všechny vztahy od národa k národu, přes všechny kontinenty a moře!I naše město stalo se svědkem včerejší noci, noci, která byla nocí strašnou, neboť za rachotu a hřmění zdála se země sesouvati se ve svých základech. Snad všichni z nás chvěli se bázní, že všemu pozemskému již nadchází zhouba a zmar. Ale nebylo tomu tak. Nikoliv, toto zemětřesení nebylo, jak jsme se obávali, předzvěstí zmaru, nýbrž naopak, abych tak řekl, bylo naopak jaksi mohutnou symfonií hlásající, že děje se velkolepý zázrak a div.Jitro přineslo nám pak překvapující zprávy, že uprostřed Oceánu vynořila se z hlubin mořských nová země, nová pevnina!K pěti dílům světa přibyl zemědíl šestý! – Stala se událost veliká. Její mocnost nás drtí, její krása obšťastňuje a jímá zbožnou bázní tváří v tvář divům stvoření. Zároveň však cítíme radost, hnutí nadšené sympatie a všelidské solidarity, neboť jsme dětmi téže veliké matky země, která dnešní noci vložila do našich loktů člena nejmladšího, pevninu nejmladší, nový svět. Tato rodinná radost prochvívá dnes slavnostně srdce všech zemí a národů světa. Tuto radost mohou nám však nejlépe tlumočiti jen slova básníkova. Pan Pieris se uvolil přednésti proslov k oslavě nové pevniny, i dávám slovo básníkovi.</p>
+        </sp>
+        <stage>PRIMÁTOR sestoupí s tribuny.</stage>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <stage>(na tribuně)</stage>
+          <lg>
+            <l>Dík budiž vzdáván nebesům i zemi!</l>
+            <l>V temnotách nebes hučely varhany větrů</l>
+            <l>a země se chvěla v bolestech porodních</l>
+            <l>skřípajíc zuby kamennými.</l>
+            <l>Velikou věc nám zchystala prozřetelnost,</l>
+            <l>nová radost všem zchystána jest v jejím lůně!</l>
+            <l>Vítejte novorozeného!</l>
+            <l>Hvězda mu svítí zářivá, milené naše slunce,</l>
+            <l>betlémská hvězda všechněch nás.</l>
+            <l>Svou lásku mu darem přineste</l>
+            <l>a světlo radosti stelte mu.</l>
+            <l>Z naší je zrozen kolébky:</l>
+            <l>Vítejte sestřičku nejmladší!</l>
+            <l>Pevnina nová se zrodila z oceánu,</l>
+            <l>nová Atlantis,</l>
+            <l>aj, z pěny mořské se noří nová Afrodite!</l>
+            <l>Příroda stvořila novou zemi!</l>
+            <l>Je čistá a panenská,</l>
+            <l>boží duch dosud se vznáší nad ní.</l>
+            <l>Ještě jí ptáci seménka prvního stromu nepřinesli,</l>
+            <l>ještě prameny hor jejích neskrápějí,</l>
+            <l>ještě krok lidský nevstoupil na ni.</l>
+            <l>Krásná krajina je to a blažená,</l>
+            <l>svých sester šťastnější.</l>
+            <l>Je to nová pevnina bez hříchu,</l>
+            <l>pevnina šestá, nový ráj,</l>
+            <l>lepší než jiné,</l>
+            <l>nový svět našich nadějí.</l>
+            <l>Dosud ji lidská krev a trýzeň nezbrotila,</l>
+            <l>dosud nesídlí na ní lidská bída a svár,</l>
+            <l>andělé nad ní poletují,</l>
+            <l>sny naše se vznášejí nad ní a věčné touhy.</l>
+          </lg>
+        </sp>
+        <sp who="#elan-chol">
+          <speaker>ELAN CHOL:</speaker>
+          <p>Toť ona zem!</p>
+        </sp>
+        <sp who="#milenka #milenec">
+          <speaker>MILENKA a MILENEC:</speaker>
+          <p>Toť ona zem!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Toť ona zem!</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <lg>
+            <l>Smekněte před pevninou šestou,</l>
+            <l>stvořením starých snů,</l>
+            <l>nejmladší dcerou země,</l>
+            <l>matky všech pevnin a lidí.</l>
+            <l>Vítejte nejmladší sestru!</l>
+            <l>Doposud nemá jména,</l>
+            <l>nuž dejme jí jméno nejsladší, jak přísluší její kráse</l>
+            <l>Nové Evy, Země Snu, Vytoužené a Splněné</l>
+            <l>Pevniny Nové Naděje!</l>
+          </lg>
+        </sp>
+        <stage>DAV tleská.</stage>
+        <sp who="#primátor">
+          <speaker>PRIMÁTOR:</speaker>
+          <stage>(vstupuje na tribunu)</stage>
+          <p>Vzdali jsme umělci náš dík, Pevnině Nové Naděje nejlépe příslušelo, aby první byla pozdravena básníkem. A nyní zapějte, sbory, hymnu oslavnou!</p>
+        </sp>
+        <stage>Hudba hraje první sloku.</stage>
+        <sp who="#sbor">
+          <speaker>SBOR:</speaker>
+          <lg>
+            <l>Jásej, písni požehnaná,</l>
+            <l>božská radost světu dána,</l>
+            <l>nevýstižně blahý dar:</l>
+            <l>konec bídy, konec hoře,</l>
+            <l>nová hvězda vyšla z moře,</l>
+            <l>zdar, věčný zdar, buď přán jí věčný zdar!</l>
+            <l>Zemí Naděje buď zvána,</l>
+            <l>velebena, uvítána;</l>
+            <l>starých tužeb nový tvar,</l>
+            <l>nové štěstí, nová víra,</l>
+            <l>nový oltář všehomíra,</l>
+            <l>zdar, věčný zdar, buď přán jí věčný zdar!</l>
+          </lg>
+        </sp>
+        <sp who="#primátor">
+          <speaker>PRIMÁTOR:</speaker>
+          <p>Budiž pozdravena!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Sláva – Sláva – Sláva!</p>
+        </sp>
+        <stage>MUŽI mávají klobouky, ŽENY kapesníky, DĚTI praporečky.</stage>
+        <stage>Opona.</stage>
+      </div>
+      <div type="act">
+        <head>II. jednání</head>
+        <stage>Totéž město. Nahoře na obzoru rozzařuje se pak měnivým světlem veliká hvězda. Na scéně MUŽ S RÝČEM, přichází OTEC a MATKA, oba v smutečních šatech. Vzadu se promítne obraz hřbitůvku na kopci.</stage>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <stage>(otírá si s čela pot, pro sebe)</stage>
+          <p>Ještě několik dnů práce a budu mít na cestu.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(podpírá paží MATKU)</stage>
+          <p>No pojď, pojď, neplač už, kdo ví, co by ho v životě třeba zlého nečekalo. Snad je to tak pro něj lépe.</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Vidím, že přicházíte ze hřbitova.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ano, byla to smutná cesta.</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Slyšel jsem, umřel vám synáček. Bůh vás potěš.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Děkujeme za účast. Náš hoch!</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>A co tak náhle, chuděra? Vídal jsem ho chodit do školy. Byl to hezký chlapec.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>A hodný. Byla to spála. Mnoho vytrpěl, ale nestonal dlouho.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Náš hoch!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Horečka pořád stoupala, chlapec blouznil, až lékař řekl, že není už naděje. Kéž smrt by si byla raději vzala, ach, mne!</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Škoda dítěte.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Chlapec v horečce blouznil. Tatínku, volal, já jdu do té Nové země! Já stanu se v té Nové zemi králem a přinesu vám pak veliké bohatství!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Můj hoch! Než zastonal, řekl nám ještě: Já odejdu do té Nové země a pak se jednou k vám vrátím – Vy budete sedět sami u večeře a budete vzpomínat: Kde je náš Jeník? Už musí být velký a co asi dělá? a jestlipak na nás nezapomněl? – a tu zaklepe někdo na dvéře – a to budu já! A přinesu vám krásné věci a veliké poklady –</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Ubohý chlapec.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>On tolik blouznil o té Nové zemi.Tolik o ní snil! Měl toho plnou hlavu, on i jiní hoši, jeho kamarádi.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Náš hoch!</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>A chuděra, nedočkal se. Však nejsou to jen chlapci, kteří mají plnou hlavu té nové země, té Země Nadějí. Každého to chytlo. Kdekdo o ní horuje a chce se tam vydat. Já sám – –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ach, i on zde, můj muž! Stále mne přemlouvá a nutí, abychom odešli.</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Vy tedy také? Začít nový život –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Ano, to chci, zde nic mne už nedrží. Umřelo nám dítě a všechno mně tu teď připomíná tu naši poslední bolest. Náš hoch! Zde já už nemohu žít. On tolik toužil po té Nové zemi –</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Ba, jako všichni.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ne, já však ne! Já nechci odejít! Nikdy bych nemohla, já nepůjdu nikam, já nemohu, já nesmím odtud –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Vždyť nám tu umřelo dítě, zde nedá mně už nic zapomenout. Když smrt mu odňala mládě, tu i pták – tvor srdce malinkého a s očima bez slz – opouští hnízdo osiřelé a odlétá v dál.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ne, prosím tě, ne! Svá křídla má pták – tvor srdce malého a s očima bez pláče –, má svůj zvučný zpěv a širý domov uprostřed květů. Já nemám však křídel. Ó šťastný úděl ptáka, než já nebohá – prosím tě, měj se mnou slitování! – ptákova duše je malá, má však křídla, ale nám umřelo dítě a máme tu hrob! Má pták svůj širý domov mezi všemi květy a jeho živlem je vzdušná obloha. Mé květy a obloha jsou však – ten hrobeček tady na hřbitově. Prosím tě snažně, já nemohu odejít ––</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Již na ni nenaléhejte, věru, že kvílí truchleji než pták. Žalno to slyšet. Oběma z celého srdce přeji vám síly a útěchy. Potěš vás Bůh.</p>
+        </sp>
+        <stage>MATKA i OTEC exeunt.</stage>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Smutná věc, smutná! – Já však jsem sám a nic mne tu neváže. Mně je přece volno se připravit na odchod, abych na Nové zemi zkusil své štěstí. Je smutno být připoután hrobem a ženou, matkou, jež ztratila dítě, hrdličkou plačící, jež nedá se utěšiti. Je smutno stát uprostřed svého bolu a z něho nevykročit. Ne tak člověk volný: odejde, jak mu libo, ničeho nelituje a za ničím nevzpomíná. A také nač? Já vidím to takhle: kdo odchází, ten nechává neštěstí za sebou.</p>
+        </sp>
+        <stage>Scéna se mění promítnutým obrazem předměstských plotů a továren.</stage>
+        <sp who="#zpěv-za-scénou">
+          <speaker>ZPĚV ZA SCÉNOU:</speaker>
+          <lg>
+            <l>Z moře vylezla nová zem,</l>
+            <l>která patří všem</l>
+            <l>šikovným lidem.</l>
+            <l>A kdo tam půjde, ten ji má,</l>
+            <l>kdo sedí doma,</l>
+            <l>nic z toho nemá.</l>
+            <l>Člověče, trhni, co se dá,</l>
+            <l>jenom kdo sáhne,</l>
+            <l>něco vytáhne,</l>
+            <l>tralala.</l>
+          </lg>
+        </sp>
+        <stage>Přichází 1. MUŽ a VÝROSTEK.</stage>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Hola, není-li pravda, člověk je volný jako pták?</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Jako pták? Jako vlaštovka!</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Jako vlaštovka? Jako racek, jako sokol, jako orel!</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>A může kamkoliv.</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Kamkoliv? To pták. Ale člověk neletí kamkoliv, člověk ví kam!</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Tam, kam chce!</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Kam ho to táhne!</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Haha! My víme, kam tě to táhne!</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Jak víte, kam chci?</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Haha! Protože my tam také chceme.</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Chce tam každý. Každý chce do Nové země!</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>A co tam chceš?</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Nevím. Podle toho, jak to tam bude.</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <stage>(zimničně)</stage>
+          <p>A to já vím zas moc dobře, co tam chci. Tady nic není. Tady není nic pro mne. Tady bych nikdy nic neměl. Co je tady, to já nemohu potřebovat. Tady bych jakživ k ničemu nepřišel!</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Copak, ty jsi mladý, ale já mám už svá léta za sebou a pořád jsem se ničeho nedomohl. Pořád nemám nic vlastního a pořád nemám nic.</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>No tak, co tady? Co tady máme? Tady je holá bída.</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Tady? Tu je jen dřina a žebrota. Koukněte se jenom na mne. Ba ne, tak já to věčně nepovedu. Já se už taky chci k něčemu dostat!</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>A máš pravdu. Jakýpak je to tu život? Pořád se honit za tou bídnou kůrčičkou chleba a pořád nemít nic. Leda ty holé ruce – –</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>To je to, co já říkám. Tady se už nic nedá dělat. Naplivat na to. Ale tam? Tam je to jiné, tam, to je nová země. Nevypotřebovaná. Tam je všeho, a ještě tam nikdo nebyl! Tam je to ještě nepřebrané! Jenom si sáhnout – –</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>No právě, jen pořádně vztáhnout ruku!</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Ale já do toho půjdu s pořádně vyhrnutými rukávy!</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Ten hoch má kuráž!</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>To mám. A mám to už všechno naveskrz promyšlené. Ej juch, panečku, já půjdu najisto a rovnou do toho! Tady už mám nůž. Pěkný. A teď si ještě musím někde splašit pušku –</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Nůž? Pušku? A na co?</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Hm, na co? Na zvířata – i na lidi! Holenku, já přece nezůstanu na kraji, já půjdu rovnou dovnitř. Tam jsou pralesy – a městům se vyhnu, tam se nebudu zdržovat – –</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Pralesy? Města?</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>No, to se ví, divoši a dravá zvěř. Je to země barbarská. Tam ještě nevkročila noha Evropanova. Tam jsou divoké kmeny – ale je tam bohatství – –</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>To mi nejde na rozum, jak to povídáš. Myslil jsem, že si tam někde vezmu pěkný kus půdy a zařídím si farmu.</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Haha, farmu! Vozit hnůj a dřít se na poli! To já to, panečku, vezmu kratší cestou!</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Hahaha, farma! Orat jako vůl, když stačí na dobrém místě hrábnout motykou – –</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Nebo tuhle nožem. Haha! – Jenom kdybych se moh dostat ještě k nějaké pušce –</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>A co se smějete, blázni? Vy, vy jste mně k smíchu! Povídáte: města, pralesy, lidé –</p>
+        </sp>
+        <sp who="#výrostek #muž-1">
+          <speaker>VÝROSTEK a 1. MUŽ:</speaker>
+          <p>Ovšem.</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Tak mně tedy řekněte, jestli už kdo viděl města a lidi a stromy na dně vody.</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>I co! – I třeba že viděl.</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Ale vždyť přece se ta země vynořila rovnou z moře, vy blázni! Odkud by se tam vzala města a divé kmeny a pralesy? Řekněte dobrá půda, pak mohu souhlasiti.</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Je to nová, neznámá země a já povídám, že to tam tak je. Divoká krajina, dravá zvěř, divocí národové, velké nebezpečenství, ale veliké bohatství. Ha, to já vím dobře: vždycky je to tak, v takových krajinách! A kdo tam jde, ten musí mít štěstí a odvahu. A víc už neřeknu ani slova.</p>
+        </sp>
+        <stage>Hlouběji ve scéně PIERIS a ELAN CHOL.</stage>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <stage>(k Elan Cholovi)</stage>
+          <p>Pravda, jsem už stár, ale též já jsem odhodlán vydat se do Nové země. Byl jsem již poklesnul trochu na mysli, ale teď zase doufám, věřím, jsem vzkříšen novými nadějemi.</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Slyšíš? Taky tam půjde.</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Hle! Vždyť to, o čem jsem snil po celý svůj život, je tu, je před námi, stává se skutkem! Ne, ne, od starých pevnin nelze už ničeho očekávat, ty staré pevniny jsou již u konce, ty jsou neschopny zroditi nový život, ale tam, tam, na nových základech uskuteční se nový svět; konečně! ten kýžený lepší, krásnější nový řád! Již se dočkáváme! Vidím již vycházet nové jitro: Tam, tam nám snad vzejde ten od věků toužený zlatý věk lidstva!</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Slyšíš to, slyšíš? Zlatý věk!</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>A jako Simeon –</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Pánové, odpusťte, že vás vytrhujeme. Chcem na vás poučení.</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Vy, pane Elan Chole, se do Země Nadějí nechystáte?</p>
+        </sp>
+        <sp who="#elan-chol">
+          <speaker>ELAN CHOL:</speaker>
+          <p>Nevím – myslím – snad že tam půjdu.</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>A řekněte nám! Že jsou na té Zemi Nadějí lidé?</p>
+        </sp>
+        <sp who="#elan-chol">
+          <speaker>ELAN CHOL:</speaker>
+          <p>Vidím je tam. Vidím tam lidi ve stanech, u ohňů i v skalnatých rozsedlinách –</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>– Divocí národové! A co ještě tam vidíte?</p>
+        </sp>
+        <sp who="#elan-chol">
+          <speaker>ELAN CHOL:</speaker>
+          <p>Vidím veliké vody a můj zrak obzírá písečnou poušť, nad níž vychází rudý měsíc. O skalnatý břeh teskně se tříští vlna a mocný pás mraků táhne nad novou pevninou. V oblacích letí bílý pták a křičí pronikavě. Srazil se vítr jižní i východní, a první dešť snesl se nad novou pevninou. Musíš mysleti na sebe! Usedni tam na té výspě: Z nové pevniny vyhlížej pět pevnin starých, pět hvězd je to a uprostřed šestá z nich nejkrásnější, temného lesku.</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>A je tam bohatství?</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>A bohatství?</p>
+        </sp>
+        <stage>ELAN CHOL neodpovídá.</stage>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Pane Elan Chole!</p>
+        </sp>
+        <stage>Krátká pauza.</stage>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Neslyší! A bohatství? Pane!</p>
+        </sp>
+        <stage>ELAN CHOL v myšlenkách odchází.</stage>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Neslyší. – Pane, hoj, pane!</p>
+        </sp>
+        <stage>ELAN CHOL exit.</stage>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Nechte již. Je duchem nepřítomen.</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Člověk neblahý.</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Tak tedy, pane, promluvte vy. Řekněte nám, jaká to zem a co je tam lidem hledat.</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Je to uprostřed pěti hvězd šestá, z nich nejjasnější. Toť Hvězda Nadějí!</p>
+        </sp>
+        <sp who="#výrostek #muž-1 #muž-s-rýčem">
+          <speaker>VÝROSTEK, 1. MUŽ a MUŽ S RÝČEM:</speaker>
+          <p>Pravíte nejjasnější.</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Tak jest. Hvězda bílá. Tabule mramorová, ještě nepopsaná. Ještě ji život nenavštívil. Nemá ještě stébélka zeleného ani rosy. Ještě tam nehnízdí vlaštovka běloprsá ani zpěvný kos. Laň rychlonohá, zvíře sladkých očí, ještě nechodí pít z jejích pramenů. Ještě ne! Ještě na úbočích nešumí koruny stromů a u vod rákosí. Nemá stínu a ještě tam modrý střevlík a sluníčko sedmitečné nespí ve spadaném listí. Ještě jí roční počasí nenavštívila. –</p>
+        </sp>
+        <sp who="#výrostek #muž-1 #muž-s-rýčem">
+          <speaker>VÝROSTEK, 1. MUŽ a MUŽ S RÝČEM:</speaker>
+          <p>Je tedy pustá?!</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Země pak byla nesličná a pustá a Duch boží vznášel se nad vodami. Byl večer a bylo jitro, den první.</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>A bohatství, poklady?</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Ó, pokladnice šťastného příští! Je to nová pevnina, nový ráj. Odvěký sen stane se tu skutkem! Vzejde nám nový svět, nový život! V nevýslovné čistotě stkví se nahá země, je jasná nadějemi a září slávou budoucích věků. Deska přečistá, skvoucí, nepopsaná očekává příchodu člověkova, aby ji označil svou láskou a duchem.</p>
+        </sp>
+        <sp who="#výrostek #muž-1">
+          <speaker>VÝROSTEK a 1. MUŽ:</speaker>
+          <p>My přijdeme!</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Aj, hle, nejde člověk násilný s mocnou čelistí a pěstí sevřenou v kapse. Ó, ne, tentokráte člověk nešťastný půjde konat své dílo. Jemu tuto zem uštědřil osud, tomu, jenž trpí! Říši míru a bratrství stvoří teď on, muž bolesti!</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Však bylo nám mnoho trpěti v tomto starém světě.</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>A vy pravíte, že tam nebude chudých?</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Nebude chudých ani bohatých. Jen jediné bratrství dobra.</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Ale já chci být bohatým!</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>A já!</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>A já ostatně také!</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Budete bohati láskou!</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Co nás krmíte láskou?</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Chceme bohatství!</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Běda, co chcete hledati v Zemi Nadějí?</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Zlato!</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Majetek, konečně jednou majetek!</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Co jiného než zlato?</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Ó! Kéž byste se raději nikdy do Země Nadějí nedostali!</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Co! Vy ano, a my ne?</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Abyste tam mohli hrabat a obohacovat se sami, vy lháři!</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>My abychom neměli nic.</p>
+        </sp>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Nás chcete krmit jen krásnými slovy!</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Na to nás, holenku, nechytíte!</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>MUŽ S RÝČEM:</speaker>
+          <p>Eh, pojďme.</p>
+        </sp>
+        <stage>Odplivne. – Odcházejí.</stage>
+        <sp who="#muž-1">
+          <speaker>1. MUŽ:</speaker>
+          <p>Povídám, nikoho se neptat a raději koukat, abychom se tam co nejdřív dostali.</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>VÝROSTEK:</speaker>
+          <p>Jenom jedno bych ještě potřeboval: a to je pořádná puška, která střílí.</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <stage>(sám na scéně)</stage>
+          <p>Ach, Země Nadějí! Země Nadějí!</p>
+        </sp>
+        <stage>Přichází MILENEC s MILENKOU, scéna se mění, rozzařuje se světelný obraz růžové hvězdy.</stage>
+        <sp who="#milenka">
+          <speaker>MILENKA:</speaker>
+          <p>Ach, můj milý, tolik se již těším!</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>Ano, odejdeme. Odejdeme tam, odletíme, jako odlétají ptáci. Praví se, že ta nová země je ze všech nejkrásnější. Říkají jí také Hvězda Lásky.</p>
+        </sp>
+        <sp who="#milenka">
+          <speaker>MILENKA:</speaker>
+          <p>Hvězda Lásky! To je krásné jméno. Tam nebude špatných lidí, viď? Láska nás tam povede – –</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>– a budeme žít jako nový Adam a Eva v novém ráji. Já budu pracovat – tam bude jiný, lepší život než tady ve starém světě. Tam budou jen lidé dobří a šťastní, na Hvězdě Lásky –</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <stage>(vzpíná k nim ruce)</stage>
+          <p>Vezměte mne s sebou! Já půjdu s vámi!</p>
+        </sp>
+        <sp who="#milenka">
+          <speaker>MILENKA:</speaker>
+          <stage>(přes rameno)</stage>
+          <p>S námi? My si stačíme sami!</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <stage>(táž hra)</stage>
+          <p>My nikoho nepotřebujeme. – Ten starý blázen!</p>
+        </sp>
+        <stage>Oba odcházejí – hvězda hasne.</stage>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <stage>(v hořkém zmatku)</stage>
+          <p>Ne, nejsem blázen, jsem starý, ale já nejsem blázen, já přece nejsem blázen?!?!</p>
+        </sp>
+        <stage>Exit.</stage>
+        <stage>Scéna se mění promítnutým obrazem pustých silničních alejí. Hvězda se rozzařuje žlutavě. Na scénu vběhne uspěchaný otrhaný a kučeravý muž poněkud jižního vzezření, obtížený ranci, těžce následován ženou, která strká před sebou dětský kočárek naplněný chudým nářadím a má na zádech dítě. Druhé dítě, brečíc, následuje.</stage>
+        <sp who="#uspěchaný-muž">
+          <speaker>USPĚCHANÝ MUŽ:</speaker>
+          <p>Můj bože, bože, proklatě, tak pospěšte trochu, hněte se přec, tak pojďte rychleji.</p>
+        </sp>
+        <sp who="#žena-uspěchaného-muže">
+          <speaker>ŽENA USPĚCHANÉHO MUŽE:</speaker>
+          <p>Už nemohu rychleji!</p>
+        </sp>
+        <sp who="#uspěchaný-muž">
+          <speaker>USPĚCHANÝ MUŽ:</speaker>
+          <p>Bože, bože, zatracené břemeno, taková žena a děti! Takhle se tam nikdy nedostaneme, do té Nové země! Každý jiný tam bude dříve než my a pro nás pak nezbude nic.</p>
+        </sp>
+        <sp who="#žena-uspěchaného-muže">
+          <speaker>ŽENA USPĚCHANÉHO MUŽE:</speaker>
+          <p>Já už nemohu, my už nemůžeme – ty děti –</p>
+        </sp>
+        <sp who="#uspěchaný-muž">
+          <speaker>USPĚCHANÝ MUŽ:</speaker>
+          <p>Tak hybaj, rychleji, hybaj, sic vás tu nechám. Co se budu tahat s vámi! Ach, bože! Proklatě! Tak si tu zůstaňte na cestě a já půjdu sám a vás tu nechám, tebe i ty parchanty. Pojděte si tu sami, co je mi po vás!</p>
+        </sp>
+        <sp who="#žena-uspěchaného-muže">
+          <speaker>ŽENA USPĚCHANÉHO MUŽE:</speaker>
+          <p>Vždyť už jdeme, už jdeme – achich – ale ty děti, a já už nemohu – už nemůžeme – my nemůžeme –</p>
+        </sp>
+        <stage>Všichni exeunt.</stage>
+        <stage>Kolem hvězdy se později objeví nápisy:</stage>
+        <stage>Nová pevnina!</stage>
+        <stage>Chcete do Země Nadějí?</stage>
+        <stage>Kupujte akcie Dollarsonovy!</stage>
+        <stage>Hvězda se pak rozzařuje stále zlatověji, oranžověji.</stage>
+        <stage>Úder bubnu a gongu, na scénu vběhnou dva SENDVIČMENI s týmž nápisem a postaví se každý po jedné straně portálu.</stage>
+        <sp who="#sendvičmen-1">
+          <speaker>1. SENDVIČMEN:</speaker>
+          <p>Zajímáte se o Novou pevninu?Informujte se u Dollarsona!</p>
+        </sp>
+        <sp who="#sendvičmen-2">
+          <speaker>2. SENDVIČMEN:</speaker>
+          <p>Chcete do Země Nadějí?Obraťte se na Dollarsona,Dollarson vám vše obstará!</p>
+        </sp>
+        <sp who="#sendvičmen-1">
+          <speaker>1. SENDVIČMEN:</speaker>
+          <p>Chcete si prohlédnout Novou pevninu?Dollarson zřizuje dopravu, jež bude nejpohodlnější a nejlevnější!Dollarson vám vše opatří a zařídí.Obraťte se na jeho kanceláře a budete spokojeni.</p>
+        </sp>
+        <sp who="#sendvičmen-2">
+          <speaker>2. SENDVIČMEN:</speaker>
+          <p>Uspořádá turistické výpravy ve třech třídách:První, nejvyšší komfort, třída luxusní,druhá, levnější, prvotřídní,třetí, neobyčejně levná, lidová,vesměs za ceny nejmírnější!</p>
+        </sp>
+        <sp who="#sendvičmen-1">
+          <speaker>1. SENDVIČMEN:</speaker>
+          <p>Chcete se zúčastniti Dollarsonových zábavních výprav výzkumných po Zemi Nadějí?Dollarson vám je zaranžuje,sestaví cestovní rozvrh a opatří potřebný inventář,nářadí, proviant, transporty a personál,společníky, průvodce, odborný výklad a zřízence pro osobní bezpečnosta pojistí vás proti úrazu za podmínek nejvýhodnějších!</p>
+        </sp>
+        <sp who="#sendvičmen-2">
+          <speaker>2. SENDVIČMEN:</speaker>
+          <p>Ve všem, co se týká Nové země, obraťte se na Dollarsonovy kanceláře,je to podnik veliký, první, jediný svého druhu!</p>
+        </sp>
+        <sp who="#sendvičmen-1">
+          <speaker>1. SENDVIČMEN:</speaker>
+          <p>Dollarson za vás myslí, uvažuje a předvídá,aby vám to při všech výhodách přišlo co nejlaciněji.Je to podnik bez konkurence,Dollarson zde překonává i Dollarsona!</p>
+        </sp>
+        <stage>Přichází Dollarson.</stage>
+        <stage>Na scéně se pak postupně promítá světelná reklama podniků Dollarsonových.</stage>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Aj, ty krásné dílo, ty nádherný vzruchu, stvořený mozkem důmyslným! Ty skvostný Živote, který tryskáš pod údery mých nápadů! Hle, co jsem vytvořil, a toť teprve skromný počátek velkolepé věci Dollarsonovy! Kdo nechce do Země Nadějí? Kdo nechce zbohatnout?</p>
+        </sp>
+        <sp who="#sendvičmen-1">
+          <speaker>1. SENDVIČMEN:</speaker>
+          <p>Kupujte akcie Dollarsonovy,akcie Sdružených podniků Dollarsonových!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Akciové Přepravní družstvo Dollarsonovo obstará dopravu na vlastních lodích i linkách. Chystá se ohromný příval turistů. Hotelové akciové družstvo Dollarsonovo vystaví jim na Nové zemi hotely prvotřídní i lidové, opatřené moderním komfortem, koupelnami, kavárnami, bary, koncerty, hernami, tančírnami i hříšti!</p>
+        </sp>
+        <sp who="#sendvičmen-2">
+          <speaker>2. SENDVIČMEN:</speaker>
+          <p>Kupujte akcie Přepravního družstva Dollarsonova!</p>
+        </sp>
+        <sp who="#sendvičmen-1">
+          <speaker>1. SENDVIČMEN:</speaker>
+          <p>Kupujte akcie Hotelového družstva Dollarsonova!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Automobilové omnibusy, karavany koní i mezků, motorové čluny i nosítka obstarají spojení na pobřeží i ve vnitrozemí.</p>
+        </sp>
+        <sp who="#sendvičmen-1">
+          <speaker>1. SENDVIČMEN:</speaker>
+          <p>Kupujte akcie Komunikační společnosti Dollarsonovy!Dollarson vám vydělá veliké peníze!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Důvtipný člověk nedá se překvapiti událostmi a umí z nich těžiti včas. Účastněte se svými kapitály! Nejvýhodnější uložení úspor! Nejvyšší zúročení, skvělé dividendy! Byl by v tom ďas, abychom nezbohatli, vy i já!</p>
+        </sp>
+        <sp who="#sendvičmen-2">
+          <speaker>2. SENDVIČMEN:</speaker>
+          <p>Účastněte se! Emise akcií Dollarsonových je vypsána!Nemeškejte a upisujte!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Bystrý člověk předvídá, usuzuje a dbá svého prospěchu. Leží před námi rozsáhlé problémy kolonizační. Pamatujte na vystěhovalce! Dbejte svých krajanů v cizí zemi! Kdo zapůjčí kolonistům potřebných peněz na pevné splátky, kdo je založí penězi na stavbu příbytků, na nářadí i na opatření dobytka?</p>
+        </sp>
+        <sp who="#sendvičmen-1">
+          <speaker>1. SENDVIČMEN:</speaker>
+          <p>Dollarsonova Kolonizační banka Nové Naděje!</p>
+        </sp>
+        <sp who="#sendvičmen-2">
+          <speaker>2. SENDVIČMEN:</speaker>
+          <p>Upisujte, dokud je čas!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Tato banka vyřeší všechny problémy kolonizační na obě strany. Pro chudé vystěhovalce, jimž poskytne nutné zálohy, i pro ty, kdož chtějí výhodně na jejich práci bráti podíl svými kapitály.</p>
+        </sp>
+        <sp who="#sendvičmen-2">
+          <speaker>2. SENDVIČMEN:</speaker>
+          <p>Vystěhovalci, obraťte se s důvěrou na Kolonizační kancelář Dollarsonovu –</p>
+        </sp>
+        <sp who="#sendvičmen-1">
+          <speaker>1. SENDVIČMEN:</speaker>
+          <p>Kapitalisté, účastněte se na Dollarsonově Kolonizační bance!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Tyto kanceláře budou zaujímati celou ulici. Otevřeme je v nejbližším okamžiku; jejich zahájení bude ohlášeno slavnostním výstřelem. Nemeškejte, přihlašujte se, jednejte, upisujte! Bystrý a uvážlivý člověk nedá se překvapit událostmi. Já aspoň ne. – Jinak snad Vandergold. Já nejsem unaven a hotov se svými nápady. V skvělé tvůrčí síle rozvíjím řetěz veliké věci, spekulaci ohromnou, dílo velkolepé. Neváhejte, vzhůru, chvíle nadchází! <stage>(Úder gongu.)</stage> Dollarsonovy Sdružené podniky zahájily svou činnost! Vzhůru do Nové země! – Otevírám stavidla bohatství!</p>
+        </sp>
+        <stage>Při úderu gongu vyrazí dav.</stage>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <stage>(řítí se přes jeviště)</stage>
+          <p>Já! Já! Já! Já!</p>
+        </sp>
+        <sp who="#sendvičmen-1 #sendvičmen-2">
+          <speaker>1. a 2. SENDVIČMEN:</speaker>
+          <p>Účastněte se podniků Dollarsonových,Dollarson založí váš blahobyt! Vzhůru do Země Nadějí!</p>
+        </sp>
+        <stage>DAV exit.</stage>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Vzhůru do Země Nadějí! Veliké dílo je zahájeno. Nová pevnina vychází vám v zlaté záři!</p>
+        </sp>
+        <sp who="#sbor-chuďasů">
+          <speaker>SBOR CHUĎASŮ:</speaker>
+          <stage>(stoupá na jeviště)</stage>
+          <lg>
+            <l>Jásej, písni požehnaná,</l>
+            <l>božská radost světu dána,</l>
+            <l>nevýstižně blahý dar –</l>
+          </lg>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Výborně! Vzhůru do Země Nadějí! Kdo jsou ti lidé?</p>
+        </sp>
+        <sp who="#sbor-chuďasů">
+          <speaker>SBOR CHUĎASŮ:</speaker>
+          <lg>
+            <l>– konec bídy, konec hoře,</l>
+            <l>Zem Nadějí vyšla z moře,</l>
+            <l>zdar, dobrý zdar, buď nám dán dobrý zdar!</l>
+          </lg>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Kdo jste?</p>
+        </sp>
+        <sp who="#sbor-chuďasů">
+          <speaker>SBOR CHUĎASŮ:</speaker>
+          <p>Jsme žebráci.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>– Žebráci. Nikdy bych nevěřil, že je na světě tolik žebráků.</p>
+        </sp>
+        <sp who="#sbor-chuďasů">
+          <speaker>SBOR CHUĎASŮ:</speaker>
+          <p>Je nás mnoho.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>– Tedy žebráci. Jen žebráci. – Ó, vidím, je vás velmi mnoho, zajisté mnoho, ba příliš mnoho, na mou věru, žasnu, jak vás může tolik být!</p>
+        </sp>
+        <sp who="#chuďas-1">
+          <speaker>1. CHUĎAS:</speaker>
+          <p>Pane, stále nás přibývá, stále nás táhne víc.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>A kam?</p>
+        </sp>
+        <sp who="#sbor-chuďasů">
+          <speaker>SBOR CHUĎASŮ:</speaker>
+          <p>Putujeme do Země Nadějí!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Toť úžasné! Hahaha. Žebráci do Země Nadějí!</p>
+        </sp>
+        <sp who="#sendvičmen-1 #sendvičmen-2">
+          <speaker>1. a 2. SENDVIČMEN:</speaker>
+          <p>Kdo chce do Země Nadějí?Kupujte akcie Dollarsonovy!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Počkejte trochu. Vy tedy jdete do Země Nadějí?</p>
+        </sp>
+        <sp who="#chuďas-1">
+          <speaker>1. CHUĎAS:</speaker>
+          <p>Do Země Nadějí, jak je nazývána, ale říkají jí také Země spravedlivá, Země Vyplnění, také Nový Ráj, Hvězda moře a jinak.</p>
+        </sp>
+        <sp who="#chuďas-2">
+          <speaker>2. CHUĎAS:</speaker>
+          <p>Též Zemí Nového štěstí je jmenována.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Hahaha. Vy, hahaha, vy, ó, snad si myslíte, že Nová zem žádá si vás? Že Nová země nejprve vás má zapotřebí? Že, hahaha, totě úžasné, haha, že jsou to jedině žebráci, co jí schází? Ó, vy jste mi radostní poutníci, bůh žehnej, to praví lidé si vybrali pravý cíl!</p>
+        </sp>
+        <sp who="#sbor-chuďasů">
+          <speaker>SBOR CHUĎASŮ:</speaker>
+          <p>Pane, my hledáme štěstí.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Štěstí, aj, štěstí, přeji vám mnoho štěstí k tomu štěstí! Nová země už na vás čeká, o zajisté, ničeho není jí třeba tak jako žebráků! Tak, tak, všechno je na ní, jen bída jí ještě schází. Hahaha, velikou mezeru jdete vyplnit!</p>
+        </sp>
+        <sp who="#chuďas-1">
+          <speaker>1. CHUĎAS:</speaker>
+          <p>Pane, nežertujte tak krutě. Nová země se zrodila pro všechny lidi.</p>
+        </sp>
+        <sp who="#chuďas-2">
+          <speaker>2. CHUĎAS:</speaker>
+          <p>Je známo, že Země Nadějí náleží všem.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Tak, vy myslíte? A co tam chcete dělat? Co tam s vámi? Vy umíte jen bídu. Co chcete vy na Zemi Nadějí?</p>
+        </sp>
+        <sp who="#chuďas-1">
+          <speaker>1. CHUĎAS:</speaker>
+          <p>Je to země vyděděných. Též nám byla Nová země osudem přisouzena.</p>
+        </sp>
+        <sp who="#chuďas-2">
+          <speaker>2. CHUĎAS:</speaker>
+          <p>Teď na nás je jednou řada!</p>
+        </sp>
+        <sp who="#chuďas-3">
+          <speaker>3. CHUĎAS:</speaker>
+          <p>Chceme bohatství!</p>
+        </sp>
+        <sp who="#chuďas-1">
+          <speaker>1. CHUĎAS:</speaker>
+          <p>Půdu!</p>
+        </sp>
+        <sp who="#chuďas-3">
+          <speaker>3. CHUĎAS:</speaker>
+          <p>A zlato!</p>
+        </sp>
+        <sp who="#chuďas-2">
+          <speaker>2. CHUĎAS:</speaker>
+          <p>A zlato! Nevíte, že tam leží zlato na povrchu země? Je toho, kdo je zvedne. Jenom se shýbnout – –</p>
+        </sp>
+        <sp who="#chuďas-3">
+          <speaker>3. CHUĎAS:</speaker>
+          <p>Nevíte, že tam leží na světle dne zlato a drahý kámen? A v prachu země že se tam válí veškeré bohatství? Tam je dost bohatství pro každého! Tam je bohatství pro vyděděné!</p>
+        </sp>
+        <sp who="#sbor-chuďasů">
+          <speaker>SBOR CHUĎASŮ:</speaker>
+          <p>V Zemi Nadějí!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <stage>(do publika)</stage>
+          <p>Hahaha, kdopak by nechtěl do Země Nadějí? Kupujte akcie Dollarsonovy! Slyšíte? Je tam půda, zlato, bohatství –</p>
+        </sp>
+        <sp who="#chuďas-5">
+          <speaker>5. CHUĎAS:</speaker>
+          <stage>(vyskočí kupředu)</stage>
+          <p>Nejenom bohatství a zlato! Je tam víc!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Víc? Ještě víc? Co tam chcete hledat většího?</p>
+        </sp>
+        <sp who="#chuďas-5">
+          <speaker>5. CHUĎAS:</speaker>
+          <p>Svobodu!</p>
+        </sp>
+        <sp who="#chuďas-6">
+          <speaker>6. CHUĎAS:</speaker>
+          <stage>(vyskočí kupředu)</stage>
+          <p>Víc!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Ještě víc?</p>
+        </sp>
+        <sp who="#chuďas-6">
+          <speaker>6. CHUĎAS:</speaker>
+          <p>Óoo, klid duše, únik, zapomenutí!</p>
+        </sp>
+        <sp who="#chuďas-7">
+          <speaker>7. CHUĎAS:</speaker>
+          <p>A úkryt, chci úkryt, chci se skrýt!</p>
+        </sp>
+        <sp who="#chuďas-8">
+          <speaker>8. CHUĎAS:</speaker>
+          <p>Ó, víc! Chci víc! Chci býti zdráv! Já vím, že jedině tam se uzdravím!</p>
+        </sp>
+        <sp who="#chuďas-9">
+          <speaker>9. CHUĎAS:</speaker>
+          <p>Ještě víc! Chci tam volnost, sílu a moc!</p>
+        </sp>
+        <sp who="#chuďas-10">
+          <speaker>10. CHUĎAS:</speaker>
+          <p>Víc!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Víc, co je tam ještě víc?</p>
+        </sp>
+        <sp who="#chuďas-10">
+          <speaker>10. CHUĎAS:</speaker>
+          <p>Spánek! – Tam je spánek. Chci tam najíti spánek!</p>
+        </sp>
+        <sp who="#chuďas-11">
+          <speaker>11. CHUĎAS:</speaker>
+          <p>Víc! já najdu tam ještě víc!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Co může být ještě víc?</p>
+        </sp>
+        <sp who="#chuďas-11">
+          <speaker>11. CHUĎAS:</speaker>
+          <p>Víc, je ještě víc –</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Co možno na Zemi Nadějí hledati ještě víc?</p>
+        </sp>
+        <sp who="#chuďas-11">
+          <speaker>11. CHUĎAS:</speaker>
+          <p>– Já tam najdu Boha! –</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>– Na Nové pevnině – Všechno – Na Boha jsem nevzpomněl. <stage>(K chuďasům:)</stage> Jen pěkně křičte, já vám to zaplatím. Najímám vás za vyvolávače. <stage>(S velikým gestem do publika.)</stage> Kdo by nechtěl do Nové země? Obraťte se na Dollarsonovy kanceláře! Dollarson pracuje ve věci Země Nadějí! Hlaste se, chystejte se, vydejte se na cestu, upisujte!</p>
+        </sp>
+        <stage>Scéna se vzadu naplňuje davem.</stage>
+        <sp who="#sbor-chuďasů">
+          <speaker>SBOR CHUĎASŮ:</speaker>
+          <p>Do Země Nadějí!</p>
+        </sp>
+        <sp who="#sendvičmen-1 #sendvičmen-2">
+          <speaker>1. a 2. SENDVIČMEN:</speaker>
+          <p>Podniky Dollarsonovy!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Výlety do Země Nadějí! Kolonizace Země Nadějí! Jsou tam pozemky, naděláte si tam bohatství, najdete tam zlato!</p>
+        </sp>
+        <sp who="#sbor-chuďasů">
+          <speaker>SBOR CHUĎASŮ:</speaker>
+          <p>Tam je vše!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Ano! Tam najdete zábavu a rozkoš, získáte majetek, naděláte si bohatství, objevíte zlato!</p>
+        </sp>
+        <sp who="#sbor-chuďasů">
+          <speaker>SBOR CHUĎASŮ:</speaker>
+          <p>V Zemi Nadějí je vše –</p>
+        </sp>
+        <sp who="#sendvičmen-1 #sendvičmen-2">
+          <speaker>1. a 2. SENDVIČMEN:</speaker>
+          <p>Obraťte se na Dollarsona!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Tak! Tam je též svoboda, tam najdete klid duše, úkryt, únik a zapomenutí!</p>
+        </sp>
+        <sp who="#sendvičmen-1 #sendvičmen-2">
+          <speaker>1. a 2. SENDVIČMEN:</speaker>
+          <p>Podniky Dollarsonovy –</p>
+        </sp>
+        <sp who="#sbor-chuďasů">
+          <speaker>SBOR CHUĎASŮ:</speaker>
+          <p>Tam najdete vše!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Toužíte po síle a moci? Tam rozvinete svou zvůli a moc! Hledáte zdraví či spánek? Tam dojdete uzdravení! Ba co víc! – Tam jest i Bůh! – A ještě víc? – Všechen prospěch a zisk. Všechno, co chcete!</p>
+        </sp>
+        <sp who="#sbor-chuďasů">
+          <speaker>SBOR CHUĎASŮ:</speaker>
+          <p>V Zemi Nadějí je vše –</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Dollarson vám vše obstará –</p>
+        </sp>
+        <sp who="#sbor-chuďasů">
+          <speaker>SBOR CHUĎASŮ:</speaker>
+          <p>– Vzhůru do Země Nadějí!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Do Země Nadějí!</p>
+        </sp>
+        <sp who="#sendvičmen-1 #sendvičmen-2">
+          <speaker>1. a 2. SENDVIČMEN:</speaker>
+          <p>Kdo ještě nemá akcie Dollarsonovy?</p>
+        </sp>
+        <stage>Automobilová trubka, objeví se Vandergold.</stage>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Vizte, Vandergold!</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Vandergold.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Aj, pane Vandergolde, vy? Těší mne, že vás vidím. Domníval jsem se, že jste nemocen. Vy – smím snad doufati – že též vy přišel jste se zúčastniti mých Podniků?</p>
+        </sp>
+        <sp who="#sendvičmen-1">
+          <speaker>1. SENDVIČMEN:</speaker>
+          <p>Velkolepé Podniky Dollarsonovy –</p>
+        </sp>
+        <sp who="#sendvičmen-2">
+          <speaker>2. SENDVIČMEN:</speaker>
+          <p>– Největší prospěch a zisk!</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Nikoliv.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Tedy mohu se snad domnívat, že jste udělal své vlastní spekulace? Jakkoliv jsem neslyšel, že něco podnikáte. A přece, divím se, tak nádherný objekt –</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Ne.</p>
+        </sp>
+        <sp who="#sendvičmen-1 #sendvičmen-2">
+          <speaker>1. a 2. SENDVIČMEN:</speaker>
+          <p>Slyšte, Dollarson překonal Vandergolda!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Aj, příteli, silný muž se nedá překvapiti událostmi.</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Vy jste se nedal událostmi překvapit?</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Já nikoliv, vizte přece moje akce.</p>
+        </sp>
+        <sp who="#sendvičmen-1">
+          <speaker>1. SENDVIČMEN:</speaker>
+          <p>Vandergold zůstal za Dollarsonem,Dollarson vede a Vandergold se vzdal.</p>
+        </sp>
+        <sp who="#sendvičmen-2">
+          <speaker>2. SENDVIČMEN:</speaker>
+          <p>Vandergold je hendikepován!Sázejte na Dollarsona!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Věru, příteli, že dal jste se událostmi překvapit. Je mi s podivem, že necítil jste se – že nechopil jste se příležitosti dělat ve věci Nové země!</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Jak jí říkáte?</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Jak? Nová země, Země Nadějí!</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>A jak ještě?</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Země Nového Štěstí!</p>
+        </sp>
+        <sp who="#sbor-chuďasů">
+          <speaker>SBOR CHUĎASŮ:</speaker>
+          <p>Země chudých!</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Má ještě jiná jména. Všude ji nazývají jinak.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Bah, co záleží na jméně? Je to nová, šestá pevnina.</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Jméno vypovídá o věci a praví, čím jest. <stage>(K davu.)</stage> Mluvte jen a vypočítejte to, nu, povězte, jak je ta země nazývána!</p>
+        </sp>
+        <sp who="#výrostek">
+          <speaker>1. HLAS Z DAVU:</speaker>
+          <stage>(VÝROSTEK)</stage>
+          <p>Zve se Hvězda zlatá!</p>
+        </sp>
+        <sp who="#muž-s-rýčem">
+          <speaker>2. HLAS Z DAVU:</speaker>
+          <stage>(MUŽ S RÝČEM)</stage>
+          <p>Země požehnaná!</p>
+        </sp>
+        <sp who="#chuďas-4">
+          <speaker>4. CHUĎAS:</speaker>
+          <p>Země vyplnění!</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>3. HLAS Z DAVU:</speaker>
+          <stage>(MILENEC)</stage>
+          <p>Nový ráj!</p>
+        </sp>
+        <sp who="#chuďas-1">
+          <speaker>1. CHUĎAS:</speaker>
+          <p>Země chudých!</p>
+        </sp>
+        <sp who="#chuďas-3">
+          <speaker>3. CHUĎAS:</speaker>
+          <p>Nová země hojnosti!</p>
+        </sp>
+        <sp who="#milenka">
+          <speaker>4. HLAS Z DAVU:</speaker>
+          <stage>(MILENKA)</stage>
+          <p>Nová Utopie!</p>
+        </sp>
+        <sp who="#chuďas-5">
+          <speaker>5. CHUĎAS:</speaker>
+          <p>Země Rovnosti! Země spravedlivá!</p>
+        </sp>
+        <sp who="#hlasatel">
+          <speaker>5. HLAS Z DAVU:</speaker>
+          <stage>(HLASATEL)</stage>
+          <p>Nikoliv! – Země Spásy!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Co záleží na jménech? Jména právě dokazují, s jakou láskou a s jakými nadějemi vítá lidstvo Novou zemi.</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Ó, jen dále, jen dále! Jak ji ještě nazýváte?</p>
+        </sp>
+        <sp who="#hlas-z-davu-6">
+          <speaker>6. HLAS Z DAVU:</speaker>
+          <p>Říše stoletá!</p>
+        </sp>
+        <sp who="#chuďas-6">
+          <speaker>6. CHUĎAS:</speaker>
+          <p>Zem Thule!</p>
+        </sp>
+        <sp who="#chuďas-11">
+          <speaker>11. CHUĎAS:</speaker>
+          <p>Ne tak! Je nazvána Pevninou u Srdce Ježíšova!</p>
+        </sp>
+        <sp who="#hlas-z-davu-7">
+          <speaker>7. HLAS Z DAVU:</speaker>
+          <p>Nikoliv! – Nový Sion!</p>
+        </sp>
+        <sp who="#muž-z-davu-8">
+          <speaker>8. MUŽ Z DAVU:</speaker>
+          <stage>(vyrazí kupředu)</stage>
+          <p>Nesmysl! Jmenuje se Zemí Marxovou!</p>
+        </sp>
+        <sp who="#muž-z-davu-9">
+          <speaker>9. MUŽ Z DAVU:</speaker>
+          <stage>(vrhá se za ním)</stage>
+          <p>Nikdy ne! Nechceme žádnou Zemi Marxovu! Zemí Silných se bude nazývati!</p>
+        </sp>
+        <sp who="#muž-z-davu-10">
+          <speaker>10. MUŽ Z DAVU:</speaker>
+          <stage>(vrhá se na předešlého)</stage>
+          <p>Pryč s tebou! Však uvidíte. Ona ponese jméno – Leninia!</p>
+        </sp>
+        <stage>Vzruch v davu, dav dělí se na nepřátelské skupiny.</stage>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Ah, jen klid, jen klid! Není třeba, abyste se proto pobíjeli! Vždyť má ta země ještě jiná jména! Nu? –</p>
+        </sp>
+        <sp who="#hlas-z-davu-1">
+          <speaker>1. HLAS Z DAVU:</speaker>
+          <p>Nová Atlantis!</p>
+        </sp>
+        <sp who="#sendvičmen-1">
+          <speaker>1. SENDVIČMEN:</speaker>
+          <p>Hvězda Západu!</p>
+        </sp>
+        <sp who="#sendvičmen-2">
+          <speaker>2. SENDVIČMEN:</speaker>
+          <p>Dědictví Východu!</p>
+        </sp>
+        <sp who="#hlas-z-davu-2">
+          <speaker>2. HLAS Z DAVU:</speaker>
+          <p>Země Severu!</p>
+        </sp>
+        <sp who="#sendvičmen-1">
+          <speaker>1. SENDVIČMEN:</speaker>
+          <p>Nová Evropa!</p>
+        </sp>
+        <sp who="#sendvičmen-2">
+          <speaker>2. SENDVIČMEN:</speaker>
+          <p>Nová Amerika!</p>
+        </sp>
+        <sp who="#hlas-z-davu-3">
+          <speaker>3. HLAS Z DAVU:</speaker>
+          <p>Ne! Nová Afrika!</p>
+        </sp>
+        <sp who="#hlas-z-davu-4">
+          <speaker>4. HLAS Z DAVU:</speaker>
+          <p>Hvězda latinská!</p>
+        </sp>
+        <sp who="#hlas-z-davu-5">
+          <speaker>5. HLAS Z DAVU:</speaker>
+          <p>K smíchu! Hvězda keltická!</p>
+        </sp>
+        <sp who="#hlas-z-davu-6">
+          <speaker>6. HLAS Z DAVU:</speaker>
+          <p>Koruna států!</p>
+        </sp>
+        <sp who="#hlas-z-davu-5">
+          <speaker>5. HLAS Z DAVU:</speaker>
+          <p>Žádné jiné státy! Je to Jitřenka iberská.</p>
+        </sp>
+        <sp who="#sendvičmen-1">
+          <speaker>1. SENDVIČMEN:</speaker>
+          <p>Nová Anglie!</p>
+        </sp>
+        <sp who="#sendvičmen-2">
+          <speaker>2. SENDVIČMEN:</speaker>
+          <p>Nová Francie!</p>
+        </sp>
+        <sp who="#hlas-z-davu-7">
+          <speaker>7. HLAS Z DAVU:</speaker>
+          <p>Ne! Země všech Pevnin!</p>
+        </sp>
+        <sp who="#hlas-z-davu-8">
+          <speaker>8. HLAS Z DAVU:</speaker>
+          <p>Nikdy! Nikdy ne! Nové Německo!</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Slyšíte to? Slyšíte?</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>K čemu pokračovati v té litanii jmen? Vypovídají jen o tom, jaký národohospodářský, politický, sociální i kulturní význam přikládá celý svět Nové pevnině a jak veliké naděje upírají se k její budoucnosti. Proto se nazývá Zemí Nadějí.</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Nazvěte ji tedy raději zatím jen Zemí Mnoha Jmen. Ale ona ponese jméno jen jediné.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Které?</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Nevím ještě. Ale ponese jméno toho – jemuž bude náležeti.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Jemuž bude náležeti?</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Což nenáleží všem?</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Ale – vždyť přece Země Nadějí není na Měsíci. Ona dnes existuje, je předmětem nejrůznějších zájmů i protichůdných záměrů, a – leží v mocenských sférách interesovaných Pevnin a Států světa. Stala se předmětem vzájemných jednání. – Nuže – – tato jednání nedospěla k cíli.</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Co je nám po tom! Jest nás všech!</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Ale ano, proč ne, třeba bude vaše. Ale dřív Země Nadějí musí být vykoupena –</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Vykoupena?</p>
+        </sp>
+        <sp who="#muž-z-davu-8">
+          <speaker>8. MUŽ Z DAVU:</speaker>
+          <p>Mluvte jasněji, jak tomu máme rozumět!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Vykoupena? Čím?</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Krví a utrpením!</p>
+        </sp>
+        <sp who="#sbor-chuďasů">
+          <speaker>SBOR CHUĎASŮ:</speaker>
+          <p>Krev a utrpení na tebe, jenž toto pravíš!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Krev a utrpení –</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Řekněme to stručněji: válka!</p>
+        </sp>
+        <stage>Světelná zlatě zářivá hvězda zrudne.</stage>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Nechceme války, chceme Novou zemi!</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Budete ji míti, ale ne zadarmo. To jsou moje zprávy. Jsou včasné a přesné. Jednání mezi Státy ztroskotala. Nyní má rozhodnout zbraň!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Běda!</p>
+        </sp>
+        <stage>Lepiči vylepují na portál mobilizační vyhlášky.</stage>
+        <sp who="#sendvičmen-1 #sendvičmen-2">
+          <speaker>1. a 2. SENDVIČMEN:</speaker>
+          <p>Mobilizace!</p>
+        </sp>
+        <stage>MUŽI odcházejí ze scény.</stage>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Moje podniky!</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Pane Dollarsone, vy jste se dal opět překvapiti událostmi.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Přisám, že naposledy, Vandergolde. – Tedy válka –</p>
+        </sp>
+        <stage>DOLLARSON exit.</stage>
+        <sp who="#zbylý-dav">
+          <speaker>ZBYLÝ DAV:</speaker>
+          <p>Běda, válka! Běda, ale Země Nadějí musí být naše!</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Ano, válka. – Pozor, lidé! Ti, kdož nejsou povoláni na vojnu, najdou zaměstnání v mých závodech, které jsem nyní cele přehodil na výrobu válečného materiálu. Zaměstnám jakýkoliv počet žen, starců i dětí, všechny, jichž se netýká mobilizační vyhláška. Nechť se hlásí v mých kancelářích!</p>
+        </sp>
+        <stage>Zbylý DAV odchází.</stage>
+        <sp who="#zbylý-dav">
+          <speaker>HLAS DAVU V DÁLCE:</speaker>
+          <p>Do boje – válka –</p>
+        </sp>
+        <sp who="#vandergold">
+          <speaker>VANDERGOLD:</speaker>
+          <p>Ano, nejdříve přichází válka. – S člověkem chodí hned smrt.</p>
+        </sp>
+        <stage>Exit.</stage>
+        <stage>Prázdná scéna. Za scénou bubnování. Hvězda krvavě plane. Pod rudě planoucí hvězdou stínový obraz vojáků v pochodu.</stage>
+        <sp who="#zpěv-vojáků">
+          <speaker>ZPĚV VOJÁKŮ:</speaker>
+          <lg>
+            <l>Jen vesele, jen vesele, pojď se mnou, puško má,</l>
+            <l>my dobudem tam za mořem tu novou zem, hurá!</l>
+            <l>již jdem se bíti,</l>
+            <l>hvězda nám svítí,</l>
+            <l>ta nová hvězda, ta musí být má,</l>
+            <l>ta nová hvězda, ta musí být má!</l>
+          </lg>
+        </sp>
+        <sp who="#žena-v-černých-závojích">
+          <speaker>ŽENA V ČERNÝCH ZÁVOJÍCH:</speaker>
+          <stage>(vztyčí se uprostřed scény a spíná ruce)</stage>
+          <p>Běda, válka, zase válka!</p>
+        </sp>
+        <sp who="#zpěv-vojáků">
+          <speaker>ZPĚV VOJÁKŮ:</speaker>
+          <lg>
+            <l>A prapory, hoj, prapory, ať letí ještě výš,</l>
+            <l>tam za mořem je nová zem a ty ji uvidíš!</l>
+            <l>Z té země krásné,</l>
+            <l>z té hvězdy šťastné</l>
+            <l>se domů nikdy nevrátíme již –</l>
+          </lg>
+        </sp>
+        <sp who="#žena-v-černých-závojích">
+          <speaker>ŽENA V ČERNÝCH ZÁVOJÍCH:</speaker>
+          <stage>(pokleká)</stage>
+          <lg>
+            <l>Ó moje děti –</l>
+          </lg>
+        </sp>
+        <stage>Stínový obraz vojáků v pochodu mizí, hvězda temně žhne.</stage>
+        <sp who="#zpěv-vojáků">
+          <speaker>ZPĚV VOJÍNŮ V DÁLCE:</speaker>
+          <lg>
+            <l>– my se však nikdy nevrátíme již!</l>
+          </lg>
+        </sp>
+        <sp who="#žena-v-černých-závojích">
+          <speaker>ŽENA V ČERNÝCH ZÁVOJÍCH:</speaker>
+          <stage>(se hroutí)</stage>
+          <lg>
+            <l>– mé děti!</l>
+          </lg>
+        </sp>
+        <stage>Opona.</stage>
+      </div>
+      <div type="act">
+        <head>III. jednání</head>
+        <stage>Totéž město; tma. V popředí ELAN CHOL.</stage>
+        <sp who="#elan-chol">
+          <speaker>ELAN CHOL:</speaker>
+          <lg>
+            <l>Nuž tedy,</l>
+            <l>krvavé dílo je dokonáno,</l>
+            <l>zas místo Lític budeme mít Mír,</l>
+            <l>skončena válka!</l>
+            <l>Smrt viděl jsem kosit pluky,</l>
+            <l>ohněm jsem kráčel,</l>
+            <l>a nezemřel jsem – jak divno!</l>
+            <l>Světlo dáno je tomu, jehož srdce je v stínu,</l>
+            <l>a život tomu, kdo ducha je truchlivého.</l>
+            <l>Neb dávno již jsem v okovech</l>
+            <l>nepřítele, jenž nezná slitování:</l>
+            <l>mne zajal smutek bezpříčinný,</l>
+            <l>lítější než smrt.</l>
+            <l>Snažněji hledal jsem hrob než spánek</l>
+            <l>a nenalezl ho,</l>
+            <l>nýbrž viděl, jak žíznivým rtům</l>
+            <l>Smrt odnímá nádobu života,</l>
+            <l>mně však, jenž netoužím vody života pít,</l>
+            <l>mně umříti smrtí nebylo uděleno.</l>
+            <l>Smutnější je můj duch než krajina nejpustší,</l>
+            <l>nad skály strnulejší,</l>
+            <l>tesknější, než je prach a hlína,</l>
+            <l>temnější nad zhaslý oheň.</l>
+            <l>Svět celý svou tíhou kruší mne</l>
+            <l>a leží na mně, jak písek na poušti leží.</l>
+            <l>Já ještě žiji:</l>
+            <l>Mé tělo je rakví mému duchu</l>
+            <l>a duch můj je hrobkou mého těla.</l>
+            <l>Čím je mi život?</l>
+            <l>Jsem zhuben dříve, než jsem umřel smrtí.</l>
+            <l>Vyhnula se mi střela</l>
+            <l>a smrtící meč se přede mnou odchýlil,</l>
+            <l>mne oheň se štítil požíti</l>
+            <l>a oči vojsk nepřátelských neviděly mne.</l>
+            <l>Mne neuznal Život za svého syna</l>
+            <l>a Smrt svou náruč ode mne odvrátila,</l>
+            <l>hrob utekl přede mnou,</l>
+            <l>jen smutek bezpříčinný drží se mne,</l>
+            <l>v svá pouta mne sevřel a svým mne pohání bičem,</l>
+            <l>němý, ani mi neukázav cesty, mne žene,</l>
+            <l>nevím kam!</l>
+          </lg>
+        </sp>
+        <stage>Exit.</stage>
+        <stage>Tma, skupina vrátivších se vojáků invalidů rýsuje se stále jasněji u ohně.</stage>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>Nu tak, nikdo z vás už nemá tabák? Ani špetku? Ani štipec? Ani pápěrku?</p>
+        </sp>
+        <sp who="#invalida-2">
+          <speaker>2. INVALIDA:</speaker>
+          <p>Není, není.</p>
+        </sp>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>Bah, to je zlé! Špatně se to bafá z prázdné dýmky.</p>
+        </sp>
+        <sp who="#občan">
+          <speaker>OBČAN:</speaker>
+          <stage>(zastaví se u skupiny)</stage>
+          <p>Tady je tabák.</p>
+        </sp>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>Pánbůh zaplať; pěkný tabáček. Ale co jsem to chtěl říci? Povídám: my jsme se zakopali v tom písku. Říkali tam v Pekle, však se mnoho o tom místě vypravovalo. Nebylo nikde kapky vody a my mřeli žízní. A ten hoch, co pořád mluvil o tom zlatě, my zase o ničem než o vodě, jako kdyby sám jediný té strašné žízně necítil, pořád jen říkal zlato, zlato, tam na druhé straně je zlato, tam se musíme dostat! Pak zahodím pušku a naplním si ranec zlatem a pak se teprve napiju. To už jsme čtvrtý den neměli co pít. A teď on tedy dělá ten útok. Já ho chci chytit za ruku, ale on už letí, oči z hlavy ven. „Kam běžíš,“ povídám, ale on jenom: „zlato, zlato!“</p>
+        </sp>
+        <sp who="#občan">
+          <speaker>OBČAN:</speaker>
+          <p>No, a bylo?</p>
+        </sp>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>Nevím. Třeskla veliká rána a po hochovi nezbyl ani knoflík. To bylo hned na začátku vojny.</p>
+        </sp>
+        <sp who="#invalida-2">
+          <speaker>2. INVALIDA:</speaker>
+          <p>To u nás sloužil rotmistr, byl to strážník, člověk ne zlý, takový bezvousý, snad jste ho tu znali. Když jsme všichni brečeli, brečeli jsme jako děti, my zas leželi v těch pověstných močálech, tu on vždycky říkal: Mějte rozum, to jste muži? My jsme leželi v těch slaných močálech, živé maso z nás lezlo, ale to jsem už řekl: však o nich každý ví. Dostal ji do prsou. Padnul, zalitý krví, a povídá: Maminko, podívej se, sněženky. Nevím, kde to vzal. Povídal „sněženky“ a byla tam bažina a krev. Bylo hned po něm.</p>
+        </sp>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>Hm.</p>
+        </sp>
+        <sp who="voják-3">
+          <speaker>3. VOJÁK:</speaker>
+          <p>Ten vždycky tak držel na pořádek na ulici. Byl to řádný strážník. Kdyby tak vstal a viděl teď tady to město, ten by koukal!</p>
+        </sp>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>Bah, špatně to tu vypadá.</p>
+        </sp>
+        <sp who="#občan">
+          <speaker>OBČAN:</speaker>
+          <p>I tady bylo zle. Tuze jsme zkusili. Nepřítel vrhal na město síru a oheň. Žijeme v zříceninách – Ó bože! Bylo hladu a bylo bídy! Ani se to vypovědět nedá.</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>Přicházím –</p>
+        </sp>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>Hah!</p>
+        </sp>
+        <sp who="#invalida-2">
+          <speaker>2. INVALIDA:</speaker>
+          <p>Co to? Ty? Ty jsi na živu? Vždyť přece – myslil jsem, že už se nikdo nevrátí, že jsme tam zůstali, že tam padli všichni? –</p>
+        </sp>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>Vždyť jsem tě viděl –</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>Přišel jsem –</p>
+        </sp>
+        <sp who="#invalida-2">
+          <speaker>2. INVALIDA:</speaker>
+          <p>Vždyť tě viděli –</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>Ať jsem mrtev či živ, musel jsem přijít.</p>
+        </sp>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>Živ – – ?</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>Živ nebo mrtev, mně je to jedno. Ale přísahal jsem –</p>
+        </sp>
+        <sp who="#invalida-2">
+          <speaker>2. INVALIDA:</speaker>
+          <p>Co?</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>– Nic.</p>
+        </sp>
+        <sp who="#stará-matka">
+          <speaker>STARÁ MATKA:</speaker>
+          <p>Můj syn! Ne, to není můj syn! Neviděli jste mého syna? Ještě se nevrátil? Není mezi vámi. Můj hoch!</p>
+        </sp>
+        <sp who="#voják-3">
+          <speaker>3. VOJÁK:</speaker>
+          <p>Nevíme. Snad – se ještě někteří vrátí.</p>
+        </sp>
+        <sp who="#stará-matka">
+          <speaker>STARÁ MATKA:</speaker>
+          <p>Můj syn! Tolik chtěl do té Nové země! Tak rád šel na vojnu! Vy jste ho neviděli? Proč nepřišel s vámi? – Poslali mi oznámení, že padl. Ale já tomu nevěřím. Byl to můj syn. Já tomu nevěřím. Řekněte mi, kdy přijde?</p>
+        </sp>
+        <sp who="#invalida-2">
+          <speaker>2. INVALIDA:</speaker>
+          <p>Hm! On tedy přijde – později.</p>
+        </sp>
+        <sp who="#stará-matka">
+          <speaker>STARÁ MATKA:</speaker>
+          <p>Já vím, že přijde. Je to takový čilý hoch. Není možno, že by umřel takový hoch jako ten můj! Já vím, že se vrátí, já ho čekám, on přijde –</p>
+        </sp>
+        <sp who="#vojáci">
+          <speaker>VOJÁCI:</speaker>
+          <p>Čekejte jen – vrátí se – později.</p>
+        </sp>
+        <sp who="#stará-matka">
+          <speaker>STARÁ MATKA:</speaker>
+          <p>On přijde, ne, on není mrtev, já vím, já čekám, vždyť on se vrátí –</p>
+        </sp>
+        <stage>Exit.</stage>
+        <sp who="#vdova">
+          <speaker>VDOVA:</speaker>
+          <p>Slyšte mne! Ale mne neutěšujte, mně neříkejte lži! Já vím, že můj manžel je mrtev! Jen o to vás prosím, řekněte mi, kdy jste ho naposled viděli, řekněte, rozpomeňte se, kdy jste ho viděli naposled a jaký mi nechal vzkaz.</p>
+        </sp>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p></p>
+        </sp>
+        <stage>(vzlyká).</stage>
+        <sp who="#vdova">
+          <speaker>VDOVA:</speaker>
+          <p>Ó, mluvte jen, hleďte, já nepláču, jen řekněte, kdy jste ho viděli naposled, co řekl, co mi vzkázal?</p>
+        </sp>
+        <sp who="#invalida-2">
+          <speaker>2. INVALIDA:</speaker>
+          <p>Ležel tváří k nebi, oči rozevřeny.</p>
+        </sp>
+        <sp who="#vdova">
+          <speaker>VDOVA:</speaker>
+          <p>To se díval na nás! A jaký mi dal vzkaz?</p>
+        </sp>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>Óoooo – on neměl úst!</p>
+        </sp>
+        <sp who="#vdova">
+          <speaker>VDOVA:</speaker>
+          <p>Óoooo – nemám již dítěte, nemám již slz, manžela nemám, mám srdce puklé, nemám již úst, abych klnula nebi!</p>
+        </sp>
+        <stage>Exit.</stage>
+        <sp who="#voják-3">
+          <speaker>3. VOJÁK:</speaker>
+          <p>Žalno pohledět.</p>
+        </sp>
+        <sp who="#invalida-2">
+          <speaker>2. INVALIDA:</speaker>
+          <p>A není jediná. Takových je příliš mnoho.</p>
+        </sp>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>Raději na to nemyslet. <stage>(K MILENCI.)</stage> Ty tedy nejsi mrtev – ty jsi přišel –</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>Jsem tu. Přísahal jsem, že se vrátím i z hrobu –</p>
+        </sp>
+        <stage>Přichází MILENKA.</stage>
+        <sp who="#milenka">
+          <speaker>MILENKA:</speaker>
+          <stage>(vzpíná k němu ruce)</stage>
+          <p>Můj drahý! Moje lásko! – Ty mne už nebudeš milovat!</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>Ale ještě jsem přišel za tebou.</p>
+        </sp>
+        <sp who="#milenka">
+          <speaker>MILENKA:</speaker>
+          <p>Už nebudu mít tvou lásku!</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>Vím všechno. Přišel jsem ti jen říci, žes běhna.</p>
+        </sp>
+        <sp who="#milenka">
+          <speaker>MILENKA:</speaker>
+          <p>Slitování! Mé srdce myslelo jen na tebe.</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>Vím všechno. Stala ses Vandergoldovou čubkou. Nepřítel mne ušetřil, ale ty, ty jsi vrazila do mého srdce nůž!</p>
+        </sp>
+        <sp who="#milenka">
+          <speaker>MILENKA:</speaker>
+          <p>Měla jsem hlad.</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>Ó ty – co jsi učinila z naší lásky?</p>
+        </sp>
+        <sp who="#milenka">
+          <speaker>MILENKA:</speaker>
+          <p>Bylo mi líto mého mladého života. –</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>A co život můj – mého života ti nebylo žel?</p>
+        </sp>
+        <sp who="#milenka">
+          <speaker>MILENKA:</speaker>
+          <p>Mé srdce je jediný pláč a jediná láska k tobě. Ale běda, ty mne už nebudeš milovat!</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>Ó – jsi krásná. Jsi krásná, jako jsi byla – Nedívej se na mne! Mé srdce mne sžírá hořkým plamenem. – Jsi kurva, ale jsi krásná! Miluji tě, ale odpustit ti už nedovedu. Pojď!</p>
+        </sp>
+        <sp who="#milenka">
+          <speaker>MILENKA:</speaker>
+          <p>Ó, dej mi odpuštění!</p>
+        </sp>
+        <sp who="#milenec">
+          <speaker>MILENEC:</speaker>
+          <p>Nikdy ti nemohu odpustit. Pojď!</p>
+        </sp>
+        <stage>Oba exeunt.</stage>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>Ti už nikdy nebudou šťastni.</p>
+        </sp>
+        <sp who="#invalida-2">
+          <speaker>2. INVALIDA:</speaker>
+          <p>To nebudou.</p>
+        </sp>
+        <sp who="#voják-3">
+          <speaker>3. VOJÁK:</speaker>
+          <p>Ani Vandergold. Hoši, povídám: za jeho život bych teď nedal ani knoflík.</p>
+        </sp>
+        <sp who="#občan">
+          <speaker>OBČAN:</speaker>
+          <p>Za jeho život? Vandergold se nemusí bát.</p>
+        </sp>
+        <sp who="#invalida-2">
+          <speaker>2. INVALIDA:</speaker>
+          <p>Vandergold ať si dá pozor. Ten hoch nebude znát slitování.</p>
+        </sp>
+        <sp who="#občan">
+          <speaker>OBČAN:</speaker>
+          <p>Vandergold se už nikoho nebojí – Vandergold je mrtev.</p>
+        </sp>
+        <sp who="#voják-3">
+          <speaker>3. VOJÁK:</speaker>
+          <p>Vandergold mrtev?</p>
+        </sp>
+        <sp who="#občan">
+          <speaker>OBČAN:</speaker>
+          <p>Vandergold padnul v zázemí.</p>
+        </sp>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>Tak přece ten hoch?</p>
+        </sp>
+        <sp who="#občan">
+          <speaker>OBČAN:</speaker>
+          <p>Ne, nebyl to ten hoch.</p>
+        </sp>
+        <sp who="#invalida-2">
+          <speaker>2. INVALIDA:</speaker>
+          <p>Byla to kule?</p>
+        </sp>
+        <sp who="#občan">
+          <speaker>OBČAN:</speaker>
+          <p>Kule to nebyla.</p>
+        </sp>
+        <sp who="#voják-3">
+          <speaker>3. VOJÁK:</speaker>
+          <p>Tedy nůž?</p>
+        </sp>
+        <sp who="#občan">
+          <speaker>OBČAN:</speaker>
+          <p>Ani nůž. Náhlé neštěstí. Vandergold roztrhán na kusy. Vandergold i s automobilem. A nyní je navrchu Dollarson, jen Dollarson, sám Dollarson. Oj, divné věci se staly. I tady byla vojna. Nám pak, kdož jsme to přežili, zbývá jen prositi: budiž zas mír!</p>
+        </sp>
+        <stage>Hlas trubky, před promítnutý obraz „Listů Dollarsonových“ vběhne HLASATEL.</stage>
+        <sp who="#hlasatel">
+          <speaker>HLASATEL:</speaker>
+          <p>Radostnou hlásím všem zprávu!</p>
+          <stage>Shromažďuje se DAV.</stage>
+          <p>Slyšte: je skončena válka, boj vybojován! Nová pevnina je nám otevřena! Země Nadějí jest v našem držení až po hranice námi vytýčené. Naše prapory vlají na našem území, až kam šel náš nárok. Tak bylo zpečetěno ohněm, krví a mečem. – Těm pak, kdož zhynuli, buď vděčná paměť a sláva. Ostatně sladko je položit život za dobro budoucích dnů. Náš podíl na Zemi Nadějí činí přes 5 000 000 km2. Největší šířka jest 2200 km, největší délka 3800 km, všechno krásná slibná půda po stranách i v prostředku, navrchu i uvnitř.</p>
+          <p>Slyšte, co o tom soudí Dollarson! Dollarson se vyslovil, že je to veliký a krásný kus. Míní, že získali jsme mnohem víc, než jsme doufali. Řekl, že můžeme býti hrdi a spokojeni. – Praví, že nyní nás čeká to nejkrásnější, neboť kde dohotoveno jest dílo války, teď dílo míru má býti vykonáno. A kde jednali hrdinové, tam nyní že třeba jest pracovníků. Doufá, že všichni, kdož chtějí trhati ovoce tohoto velkého díla, se připraví radostně k odchodu do Země Zaslíbené. Jest naše, jest vykoupena!</p>
+        </sp>
+        <stage>Obraz „Dollarsonových listů“ mizí, zjevuje se světelný přízrak hvězdy.</stage>
+        <stage>HLASATEL exit.</stage>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Země Nadějí je vykoupena!?</p>
+        </sp>
+        <sp who="#občan">
+          <speaker>OBČAN:</speaker>
+          <p>Byla též nazvána Zemí Mnoha Jmen. Každý po ní dychtil. Ale vy, vojáci, vy jste ji už viděli.</p>
+        </sp>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>My vojáci jsme tam byli a nazvali jsme ji Peklo.</p>
+        </sp>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>Pravilo se, že je to země rajská, ze všech nejkrásnější.</p>
+        </sp>
+        <sp who="#invalida-2">
+          <speaker>2. INVALIDA:</speaker>
+          <p>Hahaha! Je krásy přímo vražedné! Tady ten slepý mezi námi, ten nemoh ani své oči od ní odtrhnouti a nechal je tam. Ať řekne, co viděl.</p>
+        </sp>
+        <sp who="#slepec">
+          <speaker>SLEPÝ VOJÁK:</speaker>
+          <p>Uzřel jsem ji jako jediný zlatý a ohnivý květ – a pak už jsem neviděl nic.</p>
+        </sp>
+        <sp who="#invalida-2">
+          <speaker>2. INVALIDA:</speaker>
+          <p>A co vidíš nyní?</p>
+        </sp>
+        <sp who="#slepec">
+          <speaker>SLEPÝ VOJÁK:</speaker>
+          <p>Své oči, vidím jen své oči!</p>
+        </sp>
+        <sp who="#invalida-2">
+          <speaker>2. INVALIDA:</speaker>
+          <p>A co cítíš?</p>
+        </sp>
+        <sp who="#slepec">
+          <speaker>SLEPÝ VOJÁK:</speaker>
+          <p>Píseň.</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Zpívej nám, slepče! Zpívej o Zemi Nadějí!</p>
+        </sp>
+        <sp who="#slepec">
+          <speaker>SLEPÝ VOJÁK:</speaker>
+          <p>Zazpívám o těch, kdož sloužili pod Elan Cholem.</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Setnina Elan Cholova!</p>
+        </sp>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>On je z té setniny. Tedy zpívej!</p>
+        </sp>
+        <sp who="#slepec">
+          <speaker>SLEPEC:</speaker>
+          <lg>
+            <l>Bylo nás sto pod Elan Cholem.</l>
+            <l>Ať žije setník, každý děl!</l>
+            <l>On první šel</l>
+            <l>a smrt hledá polem,</l>
+            <l>Elan Chol sám, náš velitel,</l>
+            <l>a jeho sto hochů je kolem.</l>
+            <l>Ležíme v černém kamení,</l>
+            <l>nad námi temné znamení:</l>
+            <l>Toť kapitán!</l>
+            <l>na stráži stojí</l>
+            <l>a vyzývá osud k boji.</l>
+          </lg>
+        </sp>
+        <sp who="#sbor">
+          <speaker>SBOR:</speaker>
+          <lg>
+            <l>Na stráži stál Elan Chol sám</l>
+            <l>a kletby dech už nad ním vál.</l>
+          </lg>
+        </sp>
+        <sp who="#slepec">
+          <speaker>SLEPEC:</speaker>
+          <lg>
+            <l>Hurá, my byli mrtvi dřív,</l>
+            <l>než zemřeli jsme! Kdo byl živ,</l>
+            <l>kdo padl už, či právě mřel,</l>
+            <l>v temnotu stejnou stejně zřel:</l>
+            <l>Smrt sama k raportu nás volá,</l>
+            <l>setniny naší majitel.</l>
+          </lg>
+        </sp>
+        <sp who="#sbor">
+          <speaker>SBOR:</speaker>
+          <lg>
+            <l>Hurá, kdo živ byl nebo mřel,</l>
+            <l>do věčné tmy k raportu spěl,</l>
+            <l>jeť Smrt setniny majitel.</l>
+          </lg>
+        </sp>
+        <sp who="#slepec">
+          <speaker>SLEPEC:</speaker>
+          <lg>
+            <l>Na stráži stojí slepec sám,</l>
+            <l>s ním černý stín, náš kapitán,</l>
+            <l>Elan Chol a sto hochů kol,</l>
+            <l>sto mrtvých kol i s kletbou svou</l>
+            <l>odchází věčnou temnotou.</l>
+          </lg>
+        </sp>
+        <sp who="#sbor">
+          <speaker>SBOR:</speaker>
+          <lg>
+            <l>Já vidím je putovat,</l>
+            <l>z tmy jejich tvář i dech i šat,</l>
+            <l>za kletbou svou kupředu jdou</l>
+            <l>pochodem věčnou temnotou.</l>
+          </lg>
+        </sp>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>A Elan Chol je živ?</p>
+        </sp>
+        <sp who="#slepec">
+          <speaker>SLEPEC:</speaker>
+          <p>Není mrtev.</p>
+        </sp>
+        <sp who="#občan">
+          <speaker>OBČAN:</speaker>
+          <p>Strašné, co říkáš.</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Úděs se vznáší nad námi.</p>
+        </sp>
+        <stage>dVzdálené dunění.</stage>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>Slyším jakési hřmění.</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Běda, což válka ještě trvá?</p>
+        </sp>
+        <stage>Hukot automobilu, sirény. DOLLARSON vystoupí.</stage>
+        <sp who="#hlasy-z-davu">
+          <speaker>HLASY Z DAVU:</speaker>
+          <p>Dollarson!</p>
+        </sp>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>Pane Dollarsone, je slyšet jakési hřmění.</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Jsem vystrašen!</p>
+        </sp>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>Což válka ještě neskončila?</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Válka je úspěšně dodělána. Válečná vřava se likviduje, umlkají děla a v červáncích hrdinské krve nový rodí se den. My jsme to vyhráli! Země Nadějí je naše! Teď bude jen třeba ujmout se statku dosaženého. Chop se ho ruka pilná!</p>
+        </sp>
+        <stage>Malá pauza.</stage>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Chop se ho ruka pilná. Pluh a rýč!</p>
+        </sp>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>První pluh neoral onu zem úrodnou brázdou a první rýč nekypřil její půdu ku živné setbě. První pluh i rýč ji brázdily válečným zákopem a první tráva, jež vyrostla, byl ostnatý kůl a drát.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Tak žádal si osud. Ten první zákop a nábojem vyrytá brázda, ty do ní vtlačily pečeť lidského majitelství. Nová pevnina se musí udělat majetkem!</p>
+        </sp>
+        <sp who="#invalida-2">
+          <speaker>2. INVALIDA:</speaker>
+          <p>Tak značil ji člověk svým majitelstvím. Svou krví pohnojil Zemi Snů a první své semeno zasel: své otce a bratry a syny.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Musí člověk vzdáti svou oběť Nových zemí nadlidskému stvořiteli. Ze setby lidské však vzchází veliká sklízeň. Země Nadějí je vykoupena! Co je to platno, museli jsme zaplatit svou cenu. Ale já povídám, že stálo to za to! Ze Země Nadějí Zemi Života teď uděláme!</p>
+        </sp>
+        <sp who="#invalida-1">
+          <speaker>1. INVALIDA:</speaker>
+          <p>Jakže jí říkáte?</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Plesejte! Zemí Života chce být teď zvána!</p>
+        </sp>
+        <sp who="#invalida-2">
+          <speaker>2. INVALIDA:</speaker>
+          <p>My jsme jí říkali Veliký Hřbitov.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Nikoliv. Je to kynoucí Země Nového Života!</p>
+        </sp>
+        <sp who="#slepec">
+          <speaker>SLEPEC:</speaker>
+          <p>Je obydlena stíny. Je to Země mrtvých vojsk!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Ne. V té zemi není stínů. Září svými čtverečnými rozlohami, svítí obilím, jež na ní vzroste, skvěje se obrazy lesů, září městy, jimiž ji oděje nový život. – Haha! Není spíš zemí mrtvých vojsk a odvěkým hřbitovem Nadějí tady ten starý svět? Ta půda tady – ta ne jednou, ale už stokrát musela být životu vykoupena! Tady se od věků proklínalo a marně toužilo. Tady kráčíte po kostech milionů, které snily o lepším, a nedočkaly se! A tam je ta Země nová! Haha. Jací vy to jste lidé! Každý jste tam chtěl – a teď byste se rozmýšleli? Jděte mi! Vždyť tento starý svět vám už nemá co dát!</p>
+        </sp>
+        <stage>Světelný přízrak hvězdy se zvolna barevně rozzařuje.</stage>
+        <stage>Vzdálené dunění.</stage>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>Je slyšet hřmění.</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Jsem vystrašen. Cosi mne svírá –</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Nemějte obav. Země Nadějí je vybojována. Haha, tohle už máme spořádáno. Na mou duši. Není tam už války ani smrti! Kdo by teď váhal? – Ó zlatý sne nového světa! Hle, Pieride, zde by bylo třeba vašich nadšených slov!</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Chtěl jsem odejít, nyní však zůstanu. Jsem stár a už se mi nechce bloudit.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Kde je vaše velká víra, Pieride? Tak se teď díváte vpřed? Vy jste byl přece tak nadšen novými nadějemi! Jděte, jste už mdlý a stár!</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Ne, jsem ještě pevnější ve své víře. Vy však jste pravil, že též tato půda zde – však ne jednou, ne – ba stokrát musela býti životu vykoupena. A že tu stojíme na věčném hoři milionů, které zde mřely a doufaly. Tak jste to řekl?</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Asi tak.</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Ano, tak tomu vpravdě jest. Pak tedy – slyšte: zde jest Zem Nadějí!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Není mi dost jasno, přemýšlím těžce.</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Tak pravím já. Ne tam – však tady je Země Nadějí. Hleďte, lidi, na tuto zemi! Trpí a doufá. Čeká na vaši víru. Neopouštějte ji. Zde, zde je Země věčného doufání a vykoupení! Vždyť ona je zde!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Jsem zmaten. Divná předtucha –</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Nesmysl. Co komu dá ta vaše nabídka? Vy směšný apoštole! Co si kdo vyzíská na těch vašich nadějích? Co tady s prázdnou nadějí, když tam možno mít, k čemu tu planě doufat a snít, když tam možno vzít? Slyšte, lidé! Nová pevnina na vás už čeká a nabízí vám své dary! Hola, kde jste, lidé Nového světa?</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Ah, nemám dost odvahy –</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Jen s chutí do toho! Nová pevnina všem, kdož žádají více, než mají!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Ah! Slyšme!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Hlaste se, pionýři! odměnou kyne vám zisk! Nová pevnina na vás už čeká! Nyní jen majitelstvím nutno je zpečetit majetek udělený. Chopte ho do svých rukou! Té zemi je třeba rukou, by mohla odevzdat všechno své bohatství! Dost je tam místa pro všechny ruce. Pravím, půjčte mi své ruce! Potřebuji více rukou. Potřebuji všechny ruce, aby mohly obemknout, sevřít a držet tak velikou věc!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Váhám –</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Všichni jste po ní bláznili a teď, když ji máme, teď byste se najednou rozmýšleli? Kdo může váhat? Kdo nechce více, než má?</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>– však zdá se – že mi tam kyne prospěch.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Říkám vám, jak to je: co pro vás tady? Tady vás čeká zas jen ta stará starost a bída –</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Ach, budu muset jíti!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>– jen vzpomeňte každý svých starostí! Ostatně, poraď si každý, jak nejlíp můžeš. – Zde je váš horší včerejšek –</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Lituji opustit tuto starou zem –</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Vezmi to ďas! Ale tam? hej! tam čeká vás lepší zítřek na Nové zemi –</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>– ale zbavím se své bídy –</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>– na Nové pevnině. Ona už čeká! Chce se zbavit svých přebytků. Kdo může váhat? Je nově zrozena, panensky bohatá, nevyčerpaná – hahaha, kdo by nechtěl jít k plnému stolu? Bude toho tam pro všechny dost!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>– ale hoj, budu snad bohat a šťasten!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Aj, kdo by nechtěl? Kdo nemá půdy? Tam je půda, jež vydá život a bohatství, a země své poklady otevře tomu, kdo si je neváhá vzít! Otevřte uši! Já povídám, že je tam zlato!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Již jdu!</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Neopouštějte pevninu starou, tu starou Zem Touhy! Jste jí povinni!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Již jsem rozhodnut!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Výborně! Vezmete do svých rukou půdu. Vezmete do svých rukou zlato. Majetek jest to, co držím v ruce. Nová pevnina žádá si majitelství. Chce býti v rukou! Dejte mi vaše ruce! Jest v ní vše! I ten nejbídnější z vás může být malým Dollarsonem.</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Ach! Vysvobodím se ze své bídy a budu mocný –</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Jaká to veliká příležitost! Je tam vše! Dejte mi své ruce! Ruce na všechno! – Co všecko se neřeklo: že bude tam i volnost i utišení duše, co kdo chce, že je tam i úkryt a spánek, a moc a síla i zapomenutí! Ba, co víc! Tam má být i Bůh! Vezmete do svých rukou i Boha –</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>– a hoj, položím svou ruku i na Boha, a budu mocný a šťastný!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>– v dobyté Zemi Nadějí! Vzhůru tedy!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Do Země nové!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Takhle se mně to líbí! Jen do toho! Uchopíme Novou pevninu. Ona ponese jméno toho, komu bude náležet! Pravím vám, je to veliký obchod a náramná věc. Óhohohó – něco takového tu ještě nebylo! Nuže vpřed!</p>
+        </sp>
+        <stage>Na scénu vstoupí Dollarsonova ARMÁDA INŽENÝRŮ, VOJÁKŮ a ÚŘEDNÍKŮ.</stage>
+        <sp who="#armáda">
+          <speaker>ARMÁDA INŽENÝRŮ, VOJÁKŮ A ÚŘEDNÍKŮ:</speaker>
+          <p>Zde!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Vše v pořádku! Dílo je zahájeno! Mé lodě už čekají. Hle, zde transport první: Inženýři, Úředníci a Vojáci. – Práce, Zákon a Autorita. – Tak a teď stvoříme – Pevninu Dollarsonovu! Bližší instrukce podám až tam. – Vzhůru a vpřed!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Již odcházím! Vpřed!</p>
+        </sp>
+        <stage>Hřmění.</stage>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>Běda, hřmí a země se chvěje.</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Jsem vyděšen a chvěji se též.</p>
+        </sp>
+        <sp who="#občan">
+          <speaker>OBČAN:</speaker>
+          <p>Jak země duní a stená!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Ó hrůza!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>To Stará země se chvěje a praská –</p>
+        </sp>
+        <sp who="#pieris">
+          <speaker>PIERIS:</speaker>
+          <p>Nebesa, chraňte ji!</p>
+        </sp>
+        <stage>Zesílené hřmění.</stage>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Zdá se, že ta stará rachotina pěje svou pohřební píseň. Hurá, tu píseň teď slyším rád! Nám září Pevnina nová!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Hurá!</p>
+        </sp>
+        <stage>Zesílené hřmění.</stage>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>A vpřed! Ó jen se chvěj a zmítej a praskej, ty Starý světe! To osud mluví. Haha! Ta Stará země se hroutí! Je hotova! – Já však udělám Pevninu novou!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Vzhůru a vpřed!</p>
+        </sp>
+        <stage>Slyšeti aeroplán.</stage>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>Země se boří, ale slyším ještě zvuk jiný –</p>
+        </sp>
+        <sp who="#muž-z-davu-2">
+          <speaker>2. MUŽ Z DAVU:</speaker>
+          <p>Toť aeroplán.</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Hle, již je nad námi.</p>
+        </sp>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>Je to létadlo signálové.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Hola, přináší zprávy!</p>
+        </sp>
+        <stage>Hřmění, stanice napravo v portále se rozsvítí, pronikavě zazvoní, pak volá:</stage>
+        <sp who="#stanice-vpravo">
+          <speaker>STANICE VPRAVO:</speaker>
+          <p>Země Nadějí.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Hurá, Země Nadějí!</p>
+        </sp>
+        <sp who="#stanice-vpravo">
+          <speaker>STANICE VPRAVO:</speaker>
+          <p>Země Nadějí –</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Vzhůru do Země Nadějí!</p>
+        </sp>
+        <sp who="#stanice-vpravo">
+          <speaker>STANICE VPRAVO:</speaker>
+          <stage>(skomíravě)</stage>
+          <p>Země Na-dě-jí –</p>
+        </sp>
+        <stage>Zesílené hřmění.</stage>
+        <sp who="#občan">
+          <speaker>OBČAN:</speaker>
+          <p>Hle, za ním létadlo druhé –</p>
+        </sp>
+        <sp who="#muž-z-davu-1">
+          <speaker>1. MUŽ Z DAVU:</speaker>
+          <p>– druhé létadlo signálové.</p>
+        </sp>
+        <stage>Stanice nalevo se rozsvítí a zazvoní.</stage>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Pozdrav ze Země Nadějí!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Hurá. Země Nadějí!</p>
+        </sp>
+        <sp who="#stanice-vpravo">
+          <speaker>STANICE VPRAVO:</speaker>
+          <p>Dollarson! Dollarson!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Sláva! Co je?</p>
+        </sp>
+        <sp who="#stanice-vpravo">
+          <speaker>STANICE VPRAVO:</speaker>
+          <p>Země Nadějí je ztracena!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Nemožno! Tu nám už nikdo nevezme!</p>
+        </sp>
+        <sp who="#stanice-vpravo">
+          <speaker>STANICE VPRAVO:</speaker>
+          <p>Hlásím, že Nová pevnina je ztracena!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>– Ha! má předtucha –</p>
+        </sp>
+        <stage>Dunění.</stage>
+        <stage>INŽENÝR, VOJÁK a ÚŘEDNÍK předstoupí.</stage>
+        <sp who="#inženýr">
+          <speaker>INŽENÝR:</speaker>
+          <p>Pane Dollarsone, předpokládáme, že v tomto případě vyplatíte nám slíbené čtvrtletní služné –</p>
+        </sp>
+        <sp who="#úředník">
+          <speaker>ÚŘEDNÍK:</speaker>
+          <p>– i s příplatky a dietami –</p>
+        </sp>
+        <sp who="#voják">
+          <speaker>VOJÁK:</speaker>
+          <p>– jak je stanoveno ve služebním poměru.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>Všechno, jen mlčte! Ó – toť nemožno –</p>
+        </sp>
+        <stage>ARMÁDA INŽENÝRŮ, VOJÁKŮ a ÚŘEDNÍKŮ exit.</stage>
+        <stage>Dunění.</stage>
+        <sp who="#stanice-vlevo">
+          <speaker>STANICE VLEVO:</speaker>
+          <p>Dnešního rána počalo zemětřesení, jehož ohniskem se stala Nová pevnina. Moře se vzedmulo a za strašného dunění a podzemního rachotu propadá se Nová pevnina do oceánu.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <stage>(potácí se vpravo)</stage>
+          <p>– ó –</p>
+        </sp>
+        <sp who="#stanice-vlevo">
+          <speaker>STANICE VLEVO:</speaker>
+          <p>V této chvíli potápějí se již i naše vlajky.</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <stage>(hroutí se vpravo)</stage>
+          <p>– ó Vandergolde – příliš –</p>
+        </sp>
+        <stage>Krátký veliký rachot.</stage>
+        <sp who="#stanice-vpravo">
+          <speaker>STANICE VPRAVO:</speaker>
+          <p>Nová pevnina, zvaná též Zemí Nadějí, se propadla do hlubin mořských!</p>
+        </sp>
+        <sp who="#dollarson">
+          <speaker>DOLLARSON:</speaker>
+          <p>– příliš zla <stage>(zhroutí se).</stage> Ztracena!</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Je ztracena! Ó, jaký žel!</p>
+        </sp>
+        <sp who="#slepec">
+          <speaker>SLEPEC:</speaker>
+          <p>Slyšte! Země Stínů se propadla do temnot Oceánu!</p>
+        </sp>
+        <sp who="#elan-chol">
+          <speaker>ELAN CHOL:</speaker>
+          <p>Země Stínů?!</p>
+        </sp>
+        <stage>Varhany.</stage>
+        <sp who="#žena-v-černých-závojích">
+          <speaker>ŽENA V ČERNÝCH ZÁVOJÍCH:</speaker>
+          <p>Na kolena! Na kolena! Naši mrtví umírají po druhé!</p>
+        </sp>
+        <stage>DAV pokleká.</stage>
+        <sp who="#elan-chol">
+          <speaker>ELAN CHOL:</speaker>
+          <p>Cestu, cestu –</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Klekni, neblahý!</p>
+        </sp>
+        <sp who="#elan-chol">
+          <speaker>ELAN CHOL:</speaker>
+          <p>Cestu – –</p>
+        </sp>
+        <sp who="#dav">
+          <speaker>DAV:</speaker>
+          <p>Kam se řítíš, Temný Šílený?</p>
+        </sp>
+        <sp who="#elan-chol">
+          <speaker>ELAN CHOL:</speaker>
+          <p>Do Země Stínů!</p>
+        </sp>
+        <stage>Opona.</stage>
+      </div>
+    </body>
+  </text>
+</TEI>
