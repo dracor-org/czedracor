@@ -265,18 +265,22 @@
       </div>
       <castList>
         <head>OSOBY</head>
-        <castList>
+        <castGroup>
           <head>PŘEDEHRA:</head>
           <castItem>TULÁK</castItem>
           <castItem>PEDANT</castItem>
+        </castGroup>
+        <castGroup>
           <head>I. AKT: Motýlové</head>
           <castItem>APATURA IRIS</castItem>
           <castItem>APATURA CLYTHIA</castItem>
-          <castGroup>
-            <castItem>MOTÝL FELIX</castItem>
-            <castItem>MOTÝL VIKTOR</castItem>
-            <castItem>MOTÝL OTAKAR</castItem>
-          </castGroup>
+        </castGroup>
+        <castGroup>
+          <castItem>MOTÝL FELIX</castItem>
+          <castItem>MOTÝL VIKTOR</castItem>
+          <castItem>MOTÝL OTAKAR</castItem>
+        </castGroup>
+        <castGroup>
           <head>II. AKT: Kořistníci</head>
           <castItem>KUKLA</castItem>
           <castItem>CHROBÁK</castItem>
@@ -287,7 +291,9 @@
           <castItem>CVRČEK</castItem>
           <castItem>CVRČKOVÁ</castItem>
           <castItem>PARAZIT</castItem>
-          <castItem>LOUPEŽIVÁ SMEČKA</castItem> <!--PP: There are three bugs; they move on stage without words, i.e. without dialogues in the text. See notes in the "stage" element at the beginning of the second act.-->
+          <castItem>LOUPEŽIVÁ SMEČKA</castItem>
+        </castGroup> <!--PP: There are three bugs; they move on stage without words, i.e. without dialogues in the text. See notes in the "stage" element at the beginning of the second act.-->
+        <castGroup>
           <head>III. AKT: Mravenci</head>
           <castItem>PRVNÍ INŽENÝR – DIKTÁTOR</castItem>
           <castItem>DRUHÝ INŽENÝR – NÁČELNÍK GENERÁLNÍHO ŠTÁBU</castItem>
@@ -301,6 +307,8 @@
           <castItem>VOJEVŮDCE ŽLUTÝCH</castItem>
           <castItem>MRAVENCI DĚLNÍCI A VOJÁCI, ÚŘEDNÍCI, POSLOVÉ, DŮSTOJNÍCI, NOSÍTKÁŘI, RANĚNÍ atd.</castItem>
           <castItem>VOJSKO ŽLUTÝCH</castItem>
+        </castGroup>
+        <castGroup>
           <head>EPILOG: Život a smrt</head>
           <castGroup>
             <castItem>PRVNÍ JEPICE</castItem>
@@ -316,7 +324,7 @@
           <castItem>TETA</castItem>
           <castItem>ŠKOLAČKA</castItem>
           <castItem>POUTNÍK</castItem>
-        </castList>
+        </castGroup>
       </castList>
       <set>
         <p>Obleky u hmyzu celkem lidské: u Motýlů salonní, u Kořistníků občanské, u Mravenců černé, popřípadě žluté, přiléhavé a přepásané šaty dělnické, Jepice v gázových závojích. Hmyzí charakter se vyjadřuje hlavně v pantomimice. Ale vždy to zůstávají lidé, až na to, co skuteční lidé mají hmyzího.</p>
