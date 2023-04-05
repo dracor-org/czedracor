@@ -42,52 +42,52 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="galén" sex="MALE">
+          <person xml:id="galen" sex="MALE">
             <persName>DR. GALÉN</persName>
           </person>
-          <person xml:id="dvorní-rada" sex="MALE">
+          <person xml:id="dvorni-rada" sex="MALE">
             <persName>DVORNÍ RADA</persName>
           </person>
-          <person xml:id="baron-krüg" sex="MALE">
+          <person xml:id="baron-krug" sex="MALE">
             <persName>BARON KRÜG</persName>
           </person>
-          <person xml:id="krüg" sex="MALE">
+          <person xml:id="krug" sex="MALE">
             <persName>KRÜG</persName>
           </person>
-          <person xml:id="maršál" sex="MALE">
+          <person xml:id="marsal" sex="MALE">
             <persName>MARŠÁL</persName>
           </person>
-          <person xml:id="pobočník" sex="MALE">
+          <person xml:id="pobocnik" sex="MALE">
             <persName>POBOČNÍK</persName>
           </person>
-          <person xml:id="generál" sex="MALE">
+          <person xml:id="general" sex="MALE">
             <persName>GENERÁL</persName>
           </person>
           <person xml:id="ministr" sex="MALE">
             <persName>MINISTR</persName>
           </person>
-          <person xml:id="ministr-zdravotnictví" sex="MALE">
+          <person xml:id="ministr-zdravotnictvi" sex="MALE">
             <persName>MINISTR ZDRAVOTNICTVÍ</persName>
           </person>          
           <person xml:id="ministr-propagandy" sex="MALE">
             <persName>MINISTR PROPAGANDY</persName>
           </person>
-          <person xml:id="malomocný" sex="MALE">
+          <person xml:id="malomocny" sex="MALE">
             <persName>MALOMOCNÝ</persName>
           </person>
-          <person xml:id="malomocný-1" sex="MALE">
+          <person xml:id="malomocny-1" sex="MALE">
             <persName>PRVNÍ MALOMOCNÝ</persName>
           </person>
-          <person xml:id="malomocný-2" sex="MALE">
+          <person xml:id="malomocny-2" sex="MALE">
             <persName>DRUHÝ MALOMOCNÝ</persName>
           </person>
-          <person xml:id="malomocný-3" sex="MALE">
+          <person xml:id="malomocny-3" sex="MALE">
             <persName>TŘETÍ MALOMOCNÝ</persName>
           </person>
           <person xml:id="jeden-profesor" sex="MALE">
             <persName>JEDEN PROFESOR</persName>
           </person>
-          <person xml:id="jiný-profesor" sex="MALE">
+          <person xml:id="jiny-profesor" sex="MALE">
             <persName>JINÝ PROFESOR</persName>
           </person>
           <person xml:id="profesor-3" sex="MALE">
@@ -105,7 +105,7 @@
           <person xml:id="sestra" sex="FEMALE">
             <persName>SESTRA</persName>
           </person>
-          <personGrp xml:id="nemocnice-přítomní" sex="UNKNOWN">
+          <personGrp xml:id="nemocnice-pritomni" sex="UNKNOWN">
             <persName>NEMOCNICE – PŘÍTOMNÍ</persName>
           </personGrp>
           <person xml:id="otec" sex="MALE">
@@ -120,34 +120,34 @@
           <person xml:id="syn" sex="MALE">
             <persName>SYN</persName>
           </person>          
-          <person xml:id="novinář" sex="MALE">
+          <person xml:id="novinar" sex="MALE">
             <persName>NOVINÁŘ</persName>
           </person>
-          <person xml:id="jeden-novinář" sex="MALE">
+          <person xml:id="jeden-novinar" sex="MALE">
             <persName>JEDEN NOVINÁŘ</persName>
           </person>
-          <person xml:id="jiný-novinář" sex="MALE">
+          <person xml:id="jiny-novinar" sex="MALE">
             <persName>JINÝ NOVINÁŘ</persName>
           </person>
-          <personGrp xml:id="hlouček-novinářů" sex="UNKNOWN"> <!--PP note: More people (#hlouček-novinářů = a group of journalists) acting as one character.-->
+          <personGrp xml:id="hloucek-novinaru" sex="UNKNOWN"> <!--PP note: More people (#hlouček-novinářů = a group of journalists) acting as one character.-->
             <persName>HLOUČEK NOVINÁŘŮ</persName>
           </personGrp>
-          <person xml:id="úřední-pán" sex="MALE">
+          <person xml:id="uredni-pan" sex="MALE">
             <persName>ÚŘEDNÍ PÁN</persName>
           </person>
-          <person xml:id="jiný-pán" sex="MALE">
+          <person xml:id="jiny-pan" sex="MALE">
             <persName>JINÝ PÁN</persName>
           </person>
-          <personGrp xml:id="zástup" sex="UNKNOWN"> <!--PP note: #zástup = the crowd - more people in the crowd.-->
+          <personGrp xml:id="zastup" sex="UNKNOWN"> <!--PP note: #zástup = the crowd - more people in the crowd.-->
             <persName>ZÁSTUP</persName>
           </personGrp>
-          <person xml:id="jeden-ze-zástupu" sex="UNKNOWN">
+          <person xml:id="jeden-ze-zastupu" sex="UNKNOWN">
             <persName>JEDEN ZE ZÁSTUPU</persName>
           </person>
-          <person xml:id="hlas-za-scénou" sex="UNKNOWN">
+          <person xml:id="hlas-za-scenou" sex="UNKNOWN">
             <persName>HLAS ZA SCÉNOU</persName>
           </person>
-          <person xml:id="druhý-hlas" sex="UNKNOWN">
+          <person xml:id="druhy-hlas" sex="UNKNOWN">
             <persName>DRUHÝ HLAS</persName>
           </person>
           <listRelation type="personal">
@@ -255,55 +255,55 @@
         <div type="scene">
           <head>OBRAZ PRVNÍ</head>
           <stage>Tři malomocní ve fáčích.</stage>
-          <sp who="#malomocný-1">
+          <sp who="#malomocny-1">
             <speaker>PRVNÍ MALOMOCNÝ:</speaker>
             <p>Mor je to, mor. V naší ulici už je v každém domě několik morem raněných. Povídám, sousede, vždyť vy taky máte na bradě tu bílou skvrnu; a on, prý to nic, ani to necítím. A dnes už z něho taky padají kusy masa jako ze mne. Mor je to.</p>
           </sp>
-          <sp who="#malomocný-2">
+          <sp who="#malomocny-2">
             <speaker>DRUHÝ MALOMOCNÝ:</speaker>
             <p>Žádný mor, malomocenství. Bílá nemoc tomu říkají, ale měli by tomu říkat trest — Taková nemoc přece nemůže přijít sama od sebe; to nás Bůh trestá.</p>
           </sp>
-          <sp who="#malomocný-3">
+          <sp who="#malomocny-3">
             <speaker>TŘETÍ MALOMOCNÝ:</speaker>
             <p>Kriste Pane Bože — Kriste Pane Bože — Kriste Pane Bože —</p>
           </sp>
-          <sp who="#malomocný-1">
+          <sp who="#malomocny-1">
             <speaker>PRVNÍ MALOMOCNÝ:</speaker>
             <p>Trest! trest! to bych rád věděl, zač mám být trestán. Já jsem tak mnoho neužil, člověče, leda bídy; to by byl divný bůh, kdyby trestal chudáky, no ne?</p>
           </sp>
-          <sp who="#malomocný-2">
+          <sp who="#malomocny-2">
             <speaker>DRUHÝ MALOMOCNÝ:</speaker>
             <p>Počkej, však uvidíš. Ze začátku to máš jen na kůži, ale až tě to začne žrát uvnitř jako tohohle, řekneš si, to není možné, aby to bylo jen tak, to musí být trest, to musí mít nějakou příčinu —</p>
           </sp>
-          <sp who="#malomocný-3">
+          <sp who="#malomocny-3">
             <speaker>TŘETÍ MALOMOCNÝ:</speaker>
             <p>Ježíši… Ježíši Bože nebeský…</p>
           </sp>
-          <sp who="#malomocný-1">
+          <sp who="#malomocny-1">
             <speaker>PRVNÍ MALOMOCNÝ:</speaker>
             <p>Taky že má. Nás lidí už bylo příliš mnoho na světě, a proto nás musí polovička vychcípat, aby bylo místo pro druhé. Tak je to. Ty jsi pekař a uděláš místo jinému pekounovi. A já jsem chudák a udělám místo jinému chudákovi, aby zas někdo jiný místo mne nuzoval a měl hlad. Proto musel přijít ten mor.</p>
           </sp>
-          <sp who="#malomocný-2">
+          <sp who="#malomocny-2">
             <speaker>DRUHÝ MALOMOCNÝ:</speaker>
             <p>Žádný mor, malomocenství. Při moru bys, člověče, zčernal, ale při malomocenství jsi bílý jako — no, jako křída.</p>
           </sp>
-          <sp who="#malomocný-1">
+          <sp who="#malomocny-1">
             <speaker>PRVNÍ MALOMOCNÝ:</speaker>
             <p>Bílý nebo černý, mně je to fuk; jen kdybych tak nesmrděl.</p>
           </sp>
-          <sp who="#malomocný-3">
+          <sp who="#malomocny-3">
             <speaker>TŘETÍ MALOMOCNÝ:</speaker>
             <p>Kriste Pane Bože… Ježíši můj… Ježíši Kriste, smiluj se…</p>
           </sp>
-          <sp who="#malomocný-2">
+          <sp who="#malomocny-2">
             <speaker>DRUHÝ MALOMOCNÝ:</speaker>
             <p>Copak ty, ty jsi sám; ale když se člověka štítí vlastní žena a děti — Chudáci, jak mají se mnou vydržet! A ženě se teď udělala bílá skvrna na prsu — Vedle nás bydlí čalouník, a ten naříká ve dne v noci, ve dne v noci —</p>
           </sp>
-          <sp who="#malomocný-3">
+          <sp who="#malomocny-3">
             <speaker>TŘETÍ MALOMOCNÝ:</speaker>
             <p>Ježíši — Ježíši — Ježíši…</p>
           </sp>
-          <sp who="#malomocný-1">
+          <sp who="#malomocny-1">
             <speaker>PRVNÍ MALOMOCNÝ:</speaker>
             <p>Kuš! Kdo to má pořád poslouchat, ty — malomocný!</p>
           </sp>
@@ -312,55 +312,55 @@
         <div type="scene">
           <head>OBRAZ DRUHÝ</head>
           <stage>Pracovna dvorního rady profesora doktora Sigelia.</stage>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>… prosím, pane redaktore; mám ovšem jen tři minuty času — to víte, moji pacienti! Tak co máme na srdci?</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Pane dvorní rado, náš list by chtěl informovat veřejnost z nejpovolanějších úst —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>— o takzvané bílé nemoci čili pejpinském malomocenství, já vím. Bohužel se toho o něm píše ažaž. A příliš laicky, pane. Po mém soudu se choroby mají ponechat lékařům. Pište o nich v novinách, a většina čtenářů hned začne na sobě hledat dotyčné příznaky, ne?</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Ano, ale náš list by právě chtěl veřejnost uklidnit —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Uklidnit? Člověče, čím ji chcete uklidnit? — Koukejte se, je to… těžká choroba, a šíří se jako lavina — Pravda, pracuje se na ní horečně na všech klinikách světa, ale — <stage>(Krčí rameny.)</stage> Zatím je naše věda bezmocná. Napište lidem, aby se při prvních příznacích obrátili s důvěrou k svému lékaři, a je to.</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>A jejich lékař —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>— jim předepíše mazání: těm chudším hypermangan a těm zámožnějším peruánský balzám.</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Pomůže to?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ano, proti zápachu, když se otevrou rány. To je druhé stadium choroby.</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>A třetí stadium?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Morfium, mládenče. Nic než morfium. A dost o tom, ne? Je to ošklivá nemoc.</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>A je… velmi nakažlivá?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(tónem přednášejícího profesora)</stage>
             <p>Jak se to vezme. Neznáme totiž mikroba, který naši chorobu přenáší; víme jenom, že se neobyčejně rychle šíří; dále že není přenosna na žádné zvíře a že se nedá naočkovat ani člověku — aspoň mladému člověku ne; ten krásný pokus udělal sám na sobě doktor Hirota v Tokiu. Bojujeme, příteli, bojujeme, ale s neznámým nepřítelem. Můžete napsat, že na mé klinice se na věci pracuje už třetí rok; publikovali jsme o naší nemoci slušnou řadu vědeckých statí, hojně a s uznáním citovaných v odborné literatuře — <stage>(Zvoní.)</stage> Zatím je nezvratně zjištěno — bohužel — mám jen tři minuty času.</p>
@@ -370,7 +370,7 @@
             <stage>(vejde)</stage>
             <p>Prosím, pane dvorní rado.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Připravte pro pana redaktora vědecké publikace naší kliniky.</p>
           </sp>
@@ -378,467 +378,467 @@
             <speaker>SESTRA:</speaker>
             <p>Prosím.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Můžete se o nich zmínit, mladý příteli. To veřejnost uklidní, když sezná, jak se u nás usilovně bojuje proti takzvanému pejpinskému malomocenství. My tomu ovšem malomocenství neříkáme. Malomocenství neboli lepra je kožní nemoc, kdežto naše choroba je čistě interní. Páni kolegové z kožní kliniky si taky sice osobují právo o ní přednášet, ale — nu, nechme toho. Naše choroba, pane, není žádný svrab. Můžete veřejnost uklidnit, že o žádné malomocenství nejde. Kam by se hrabala taková lepra proti naší nemoci!</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Je to… vážnější nemoc než malomocenství?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Nu ovšem. Daleko vážnější a zajímavější. Jenom první příznaky připomínají obyčejnou lepru: malá bílá skvrnka někde na povrchu těla, chladná jako mramor a naprosto znecitlivělá — takzvaná macula marmorea; proto se té chorobě také říká bílá nemoc; ale její další průběh je naprosto svérázný a odlišný od obyčejné leprosis maculosa. My ji prostě jmenujeme Čengova nemoc čili morbus Tshengi. Doktor Čeng, žák Charcotův a ovšem internista, ji totiž první popsal na několika případech v pejpinském špitále. Velmi pěkná publikace, pane; referoval jsem o ní už v roce dvacet tři, kdy ještě nikdo neměl tušení, že se Čengova nemoc jednou stane pandemií.</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Čím prosím?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Pandemií. Nemocí, která lavinově zachvátí celý svět. V Číně, pane, se skoro každý rok vynoří nová zajímavá choroba — to dělá ta bída; ale žádná dosud neměla takový úspěch jako nemoc Čengova. To je prostě choroba dneška. Dnes už na ni zašlo dobrých pět milionů lidí, nějakých dvanáct milionů je aktuálně zachvácených a nejmíň třikrát tolik jich běhá po světě a ani nevědí, že už někde na těle mají mramorovou a bezcitnou skvrnu stěží zvící čočky — A to nejsou ani tři roky, co se ta nemoc objevila u nás! Můžete napsat, že první případ v Evropě byl rozpoznán právě na mé klinice. Můžeme být na to hrdi, kamaráde. Jeden pěkný příznak Čengovy nemoci dostal dokonce název symptom Sigeliův.</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <stage>(píše)</stage>
             <p>Symptom — pana dvorního rady — profesora doktora Sigelia.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ano, Sigeliův symptom. Jak vidíte, pracujeme plnou parou. Zatím je nezvratně zjištěno, že Čengova nemoc postihuje jenom osoby asi tak od čtyřiceti pěti nebo padesáti let nahoru. Patrně jí poskytují příznivou půdu ony normální organické změny, kterým říkáme stárnutí —</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>To je neobyčejně zajímavé.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Myslíte? — Kolik vám je let?</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Třicet prosím.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Nu proto. Kdybyste byl starší, nezdálo by se vám to být… tak moc zajímavé. Dále víme s plnou jistotou, že od prvního příznaku choroby je prognosis infaustissima; smrt nastává ve třech až pěti měsících, obyčejně celkovou sepsí — Podle názoru mého a mé školy, která se podnes honosí tím, že je klinikou velikého Lilienthala, mého nebožtíka tchána, to byste mohl napsat, — tedy podle názoru klasické školy Lilienthalovy je morbus Tshengi choroba nakažlivá, kterou přenáší dosud neznámé agens; dispozice k ní se dostavují s prvními známkami tělesného stárnutí; příznaky a průběh choroby — to bychom mohli vynechat, ne? Není to nic hezkého, člověče. Co se týče léčení — sedativa tantum praescribere oportet.</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Jak prosím?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Vynechte to, mládenče, to je jen pro doktory. Klasický předpis velikého Lilienthala. To byl lékař, příteli! Kdybychom toho dnes měli! — Máte ještě nějakou otázku? Zbývají mi totiž jen tři minuty času.</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Kdyby pan dvorní rada dovolil… naše čtenáře by jistě nejvíc zajímalo, jak se lze té choroby uchránit —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Co — cože? Uchránit? Nijak! Vůbec nijak! <stage>(Vyskočí.)</stage> Člověče, vždyť na to zajdeme všichni! Každý, komu je přes čtyřicet let, je předem odsouzen — Vám je to jedno, vy, vy s vašimi hloupými třiceti léty! Ale my, my lidé na vrcholu života — Pojďte sem! Nevidíte na mně nic? Nemám někde na obličeji bílou skvrnu? Co? Ještě ne? Tak vidíte, každý den, desetkrát denně se dívám do zrcadla — Koukejme, vaše čtenáře by zajímalo, jak by se mohli uchránit před rozkladem zaživa! To věřím, pane; mne by to taky zajímalo. <stage>(Usedne, hlavu v dlaních.)</stage> Bože, jak je lidská věda marná!</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Pane dvorní rado, snad byste mohl říci k závěru několik povzbuzujících slov —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ano. Napište… napište do novin,… že se s tím musíme smířit.</p>
           </sp>
           <stage>(Drnčí telefon.)</stage>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(zvedne sluchátko)</stage>
             <p>Haló… Ano. — Co? — Víte přece, že nikoho nepřijímám. — Lékař? Jak se jmenuje? — Hm, doktor Galén. Má nějaké doporučení? Ne? Co tedy u mne chce? — Prosím vás, v zájmu vědy! Ať s tím obtěžuje mého druhého asistenta; já nemám pokdy na nějakou vědu. — Nu tak mi ho pošlete, když mne už pětkrát hledal; ale řekněte mu, že mi zbývají jenom tři minuty času. Ano. <stage>(Pověsí sluchátko a vstane.)</stage> Tak vidíte, mladý příteli. Pak se má člověk soustředit na vědeckou práci!</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Pan dvorní rada promine, že jsem ho připravil o tolik vzácného času —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Nevadí, kamaráde, nevadí. Věda a veřejnost si mají navzájem sloužit. Kdybyste něco potřeboval, jen se obraťte na mne. <stage>(Podává mu ruku.)</stage></p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Klaním se uctivě, pane dvorní rado! <stage>(V samých poklonách odchází.)</stage></p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Sbohem! <stage>(Usedne u psacího stolu.)</stage></p>
           </sp>
           <stage>(Zaklepání.)</stage>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(vezme péro a píše; po chvilce)</stage>
             <p>Dále!</p>
           </sp>
           <stage>(Vejde Dr. Galén a zůstane v rozpacích stát u dveří.)</stage>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(píše, aniž zvedl hlavu. Po delší chvíli)</stage>
             <p>Necháváte mě čekat, pane kolego.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(zakoktá se)</stage>
             <p>Promiňte, pane dvorní rado… nechtěl jsem vyrušovat… Mé jméno je doktor Galén…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(píše)</stage>
             <p>To vím. Přejete si, pane doktore Galéne —?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Já… já mám totiž pokladenskou praxi, pane dvorní rado… jak se říká, praxi chudých, že ano,… a tu mám příležitost… vidět spoustu případů, že ano,… protože… v chudších vrstvách… bují tolik chorob…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Jak? Bují?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano, šíří se.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ah tak! Lékař nemá mluvit květnatě, pane kolego.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano prosím. Hlavně v poslední době… když se tak šíří ta bílá nemoc —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Morbus Tshengi, pane kolego. Vědecký pracovník se vyjadřuje přesně a stručně.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>— a když člověk vidí tu bídu… jak se ti malomocní zaživa rozpadají… uprostřed rodiny… ten hrozný zápach, že ano…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Máte užívat prostředků odstraňujících zápach, pane kolego.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano, ale člověk by chtěl ty lidi zachránit! Já měl sta případů… strašných případů, pane dvorní rado; a když jsem tak nad nimi stál… s holýma rukama… přímo zoufalý…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>To je chyba, pane kolego. Lékař nemá být nikdy zoufalý.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Když je to taková hrůza, pane dvorní rado! A tu jsem si říkal, že se něco musí stát… že něco musím zkusit, abych tu nestál tak nadarmo. Pravda, sehnal jsem si celou literaturu o té nemoci, ale pan dvorní rada promine… tam to není… tam to prosím není…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Co tam není?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ta pravá cesta prosím.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(položí péro)</stage>
             <p>A vy ji znáte, co?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano. Myslím totiž, že ji znám.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Aha, vy si to myslíte. Máte asi svou vlastní teorii o Čengově nemoci, ne?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano prosím. Svou vlastní teorii.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Tak to mi stačí, pane kolego Galéne. Když si s nějakou nemocí nevíme rady, vymyslíme si na ni aspoň teorii. To se dělává. Ale praktický lékař se má po mém soudu držet raději osvědčených prostředků. Jak k tomu vaši klienti přijdou, abyste na nich zkoušel nějaké své pochybné nápady? Na to jsou kliniky, pane kolego.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ale právě proto jsem —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ještě jsem nedomluvil, pane doktore Galéne. Řekl jsem vám, že mám bohužel k dispozici jenom tři minuty. Co se týče Čengovy nemoci, doporučil bych vám užívat pilně prostředků na odstranění zápachu — a pak morfia, pane kolego, hlavně morfia; koneckonců jsme tu proto, abychom zmírnili útrapy — aspoň platícím klientům. To je všechno, pane kolego. Těšilo mě. <stage>(Chápe se pera.)</stage></p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ale já… pane dvorní rado…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Přejete si snad ještě něco?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano. Já totiž mohu bílou nemoc vyléčit.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(píše)</stage>
             <p>To už jste asi dvanáctý člověk, který s tím ke mně přišel. Dokonce bylo mezi nimi několik lékařů.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ale já už jsem své metody prakticky užil… na několika stech případů, že ano, a — byly jisté výsledky —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Kolik procent uzdravení?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Asi šedesát. U dvaceti dalších si nejsem ještě jist —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(položil pero)</stage>
             <p>Člověče, kdybyste byl řekl sto procent, dal bych vás hned vyvést jako blázna nebo šarlatána. Co mám s vámi dělat? — Podívejte se, pane kolego, já to chápu; je to svůdná představa, najít lék proti Čengově nemoci. To by znamenalo slávu, báječnou klientelu, Nobelovu cenu a třeba i univerzitní stolici, ne? To byste byl víc než Pasteur, víc než Koch, víc než Lilienthal — Pravda, může to člověku poplést hlavu; jenže takových zklamání už bylo —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Já bych svou metodu vyzkoušel na vaší klinice, pane dvorní rado.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Na mé klinice? To je ovšem dětinství. Vy jste — původem cizinec, ne?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano prosím. Původem Řek, z Pergama.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Tak vidíte. Já přece nemohu pustit cizince na státní kliniku Lilienthalovu!</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ale já jsem zdejším občanem… už od dětství…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ano, ale ten původ, pane kolego! Ten původ!</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Lilienthal byl taky… původem cizinec, že ano…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Upozorňuju vás, pane, že dvorní rada řádný profesor doktor Lilienthal byl mým tchánem. Ostatně dnes je jiná doba. To snad víte sám. — Mimoto, pane doktore Galéne, pochybuju velmi, že by veliký Lilienthal nechal ve svém vědeckém ústavu pracovat… nějakého pokladenského lékaře. Promiňte!</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Mne by tu nechal pracovat, pane dvorní rado. Já jsem byl kdysi jeho asistentem —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(vyskočí)</stage>
             <p>Vy jste byl — Člověče, proč jste to neřekl hned? Prosím, kolego, sedněte si — Jen žádné okolky, Galéne. Koukejme, tak vy jste byl u tchána asistentem! Zvláštní, nevzpomínám si, že by se byl někdy o vás zmínil!</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(na kraji židle)</stage>
             <p>On… on mi totiž říkal doktor Dětina.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Propána, tak vy jste Dětina! Dětina, ano — můj nejlepší žák, říkával Lilienthal; prý škoda doktora Dětiny! — Člověče, proč jste u něho nezůstal?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>To byly takové věci, pane dvorní rado… Hlavně… chtěl jsem se oženit… a jako asistent bych rodinu neuživil, že ano —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Chyba. Já vždycky říkám svým žákům: chcete-li dělat vědu, nežeňte se; a když, tedy bohatě. Vědě se musí obětovat soukromý život. — Kouříte, Galéne?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ne, děkuju, já — Já mám totiž anginu pectoris…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Nu, nu, snad nebude tak zle! Ukažte, kamaráde, já bych se podíval —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Děkuju, pane dvorní rado, ale… na to teď nemám pomyšlení. Já bych prosil, kdybych směl na vaší klinice… aplikovat svou metodu… na několika malomocných, které považujete za ztracené…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>To jsou všichni, Galéne. Ale to je těžké, co žádáte, safra, to je těžké… Nerado by se to vidělo, kolego. Ale že to jste vy, tchánův nejmilejší žák — počkejte, já vám něco řeknu: povězte nám, v čem záleží vaše metoda, a my ji vezmeme v úvahu, případně ji klinicky vyzkoušíme. Já jenom zařídím, aby nás teď nikdo nerušil — <stage>(Sahá po telefonu.)</stage></p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Prosím za prominutí, pane dvorní rado, ale já… dokud to nebude klinicky vyzkoušeno… neřeknu nikomu, jak léčím bílou nemoc. Prosím, já opravdu nemohu.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ani mně ne?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Nikomu prosím. To by skutečně nešlo.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Myslíte to vážně?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Docela vážně, pane dvorní rado.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Nu, tak se nedá nic dělat. Promiňte, Galéne, to by bylo proti klinickým pravidlům a proti — jak bych to řekl —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>— proti vaší vědecké odpovědnosti, já vím. Ale já mám prosím své důvody…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Jaké?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Pane dvorní rado, je mi hrozně líto… ale já bych je řekl až později.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Nu, jak chcete. Za těch okolností uděláme za věcí tečku, že? Přesto mne těší, že jsem vás osobně poznal, doktore Dětino.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Poslyšte, nedělejte to! Vy byste mne měl pustit na kliniku, pane dvorní rado! To byste měl udělat!</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Proč?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Pane dvorní rado, já za svůj prostředek ručím! Čestné slovo! Podívejte se, já nemám ani jednu recidivu… A tady mám dopisy kolegů… posílají mi své malomocné z celé čtvrti… Z takové chudé čtvrti to ani nepřijde na veřejnost. Prosím račte se podívat, pane dvorní rado…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Nemám zájmu.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Bože to je škoda… Tak abych šel, že ano?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(vstane)</stage>
             <p>Ano. Je mi líto.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(otálí u dveří)</stage>
             <p>Taková hrozná nemoc… Třeba jednou pan dvorní rada sám…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Co?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Nic, já jen… Snad by i pan dvorní rada mohl toho léku jednou potřebovat.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>To jste nemusel říkat, Galéne! — <stage>(Přechází.)</stage> Šeredná nemoc, člověče, příliš šeredná nemoc. Nechtěl bych se zaživa rozpadat.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Pak může pan dvorní rada na sobě použít prostředků odstraňujících zápach.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Děkuju! — Ukažte ty dopisy!</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Prosím, pane dvorní rado —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(čte dopisy)</stage>
             <p>Hm. <stage>(Odkašle.)</stage> Nono — Doktor Stradella, to je můj žák, ne? Takový dlouhý, ne?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano, pane dvorní rado. Velmi dlouhý.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(čte dál)</stage>
             <p>Safra! <stage>(Kroutí hlavou.)</stage> Zatrápeně, kolego — Pravda, jsou to jen praktikové, ale — Člověče, to byste měl báječné výsledky! — Poslyšte, Galéne, tak mě napadá — Že to jste vy, já bych zkusil vaši metodu sám na několika případech. Víc přece nemůžete žádat, co?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ne, ale… Já vím, že by to pro mne byla ohromná čest, ale…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>— ale vy svou metodu chcete až na další aplikovat sám, že?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano, pane dvorní rado. Já bych ji rád… na klinice… prováděl sám.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>A pak ji budete publikovat?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano, totiž… za jistých podmínek, že ano…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Jakých podmínek?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>— — Já bych je ohlásil později, pane dvorní rado.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(usedne za stůl)</stage>
             <p>Rozumím. Tedy vy byste chtěl, aby má klinika jenom ověřila vaši metodu, ale její další použití byste si vyhradil pro sebe. Asi tak si to představujete, ne?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano, pane dvorní rado. Totiž…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Počkejte. Je to ovšem nesmírná drzost, žádat něco takového od kliniky Lilienthalovy, pane doktore Galéne, a já mám sto chutí vás vlastní rukou shodit ze schodů. Já sice chápu, že každý lékař chce něco vydělat na svém umění; ale dělat z léčebného postupu své obchodní tajemství, to není jednání hodné lékaře, nýbrž pokoutního dryáčníka, šarlatána a mastičkáře. Předně je to, pane kolego, nelidské k trpícímu lidstvu, a za druhé —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ale já, pane dvorní rado —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Okamžik prosím. Za druhé je to krajně nekolegiální k druhým lékařům. Ti chtějí také uzdravovat své klienty, pane kolego; vždyť jsou z toho živi. Tak je to. Vy se na svou metodu díváte jako na věc svého soukromého zisku; bohužel já na ni musím pohlížet jako vědec a jako lékař, který si je vědom své povinnosti k lidstvu. Naše stanoviště pane doktore Galéne, se zásadně rozcházejí. Okamžik. <stage>(Bere telefon.)</stage> Pošlete mi sem prvního asistenta. Ano, ihned. <stage>(Položí sluchátko.)</stage> To už je skandál, jak hluboko klesla lékařská morálka! Co chvíli se objeví zázračný doktor, který vytlouká peníze ze své kdovíjaké tajné metody; ale aby si ještě ke všemu chtěl udělat reklamu na vědecké klinice, taková nestoudnost tu, pane kolego, ještě nebyla.</p>
           </sp>
           <stage>(Zaklepání.)</stage>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Dále!</p>
           </sp>
@@ -847,7 +847,7 @@
             <stage>(vejde)</stage>
             <p>Pan dvorní rada mě volal…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Pojďte sem. Na kterých pokojích máme morbus Tshengi?</p>
           </sp>
@@ -855,7 +855,7 @@
             <speaker>PRVNÍ ASISTENT:</speaker>
             <p>Skoro na všech, pane dvorní rado. Na dvojce, čtyřce, pětce…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>A neplatící —?</p>
           </sp>
@@ -863,7 +863,7 @@
             <speaker>PRVNÍ ASISTENT:</speaker>
             <p>Chudinské bílé máme na třináctce.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>A tu má na starosti —?</p>
           </sp>
@@ -871,7 +871,7 @@
             <speaker>PRVNÍ ASISTENT:</speaker>
             <p>Druhý asistent, pane dvorní rado.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Dobrá. Pane první asistente, řekněte panu druhému asistentovi, že ode dneška všechny lékařské zákroky na třináctce předpisuje nebo vykonává tady kolega doktor Galén. Budou to jeho případy.</p>
           </sp>
@@ -879,7 +879,7 @@
             <speaker>PRVNÍ ASISTENT:</speaker>
             <p>Prosím, pane dvorní rado, ale —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Co? Co chcete říci?</p>
           </sp>
@@ -887,7 +887,7 @@
             <speaker>PRVNÍ ASISTENT:</speaker>
             <p>Nic, pane dvorní rado.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Proto! Myslel jsem, že máte nějaké námitky. Dále řekněte panu druhému asistentovi, že mu nebude nic po tom, jak a čím bude kolega Galén své případy ošetřovat. Je to mé výslovné přání.</p>
           </sp>
@@ -895,38 +895,38 @@
             <speaker>PRVNÍ ASISTENT:</speaker>
             <p>Prosím, pane dvorní rado.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Můžete jít.</p>
           </sp>
           <stage>(Asistent zmizí.)</stage>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ani nevím… pane dvorní rado… jak vám mám poděkovat…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Není třeba. Dělám to jenom v zájmu lékařské vědy, pane kolego. Tomu musí ustoupit vše — i ta nejsilnější averze. Chcete-li, můžete se hned podívat na svou třináctku. <stage>(Bere telefon.)</stage> Vrchní sestro, uvedete na třináctku pana doktora Galéna. — <stage>(Položí sluchátko.)</stage> Kolik času budete potřebovat, pane kolego?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Stačí… šest neděl.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Tak? Zdá se, pane doktore Galéne, že chcete čarovat. Poroučím se vám.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(couvá ke dveřím)</stage>
             <p>Jsem vám opravdu… nesmírně zavázán, pane dvorní rado —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Mnoho štěstí! <stage>(Bere pero.)</stage></p>
           </sp>
           <stage>(Dr. Galén se rozpačitě vysouká ven.)</stage>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(uhodí perem)</stage>
             <p>Mizerný výdělkář! <stage>(Vstane a jde k zrcadlu, prohlíží si pozorně obličej.)</stage> Ne, nic. Doposud nic.</p>
@@ -1110,7 +1110,7 @@
         <div type="scene">
           <head>OBRAZ ČTVRTÝ</head>
           <stage>Nemocniční chodba před pokojem číslo 12 a 13.</stage>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(v čele hloučku profesorů)</stage>
             <p>Tak prosím, pánové, tady je to. Par ici, chers confrères. Here are we, gentlemen. Ich bitte meine verehrten Herren Kollegen hereinzutreten. <stage>(Uvádí je do třináctky.)</stage></p>
@@ -1201,7 +1201,7 @@
             <speaker>JEDEN PROFESOR:</speaker>
             <p>I congratulate you, professor! Splendid! Splendid!</p>
           </sp>
-          <sp who="#jiný-profesor">
+          <sp who="#jiny-profesor">
             <speaker>JINÝ PROFESOR:</speaker>
             <p>Wirklich überraschend! Ja, es ist erstaunlich!</p>
           </sp>
@@ -1214,7 +1214,7 @@
             <speaker>ČTVRTÝ PROFESOR:</speaker>
             <p>Okamžik, pane kolego. Blahopřeju vám k vašemu skvělému úspěchu.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ale ne, kolego, ale ne. To je úspěch kliniky Lilienthalovy.</p>
           </sp>
@@ -1222,7 +1222,7 @@
             <speaker>ČTVRTÝ PROFESOR:</speaker>
             <p>Prosím vás, kdo byl ten človíček —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Tady na třináctce? Ah, to je doktor, jak se jmenuje — Galén tuším.</p>
           </sp>
@@ -1230,7 +1230,7 @@
             <speaker>ČTVRTÝ PROFESOR:</speaker>
             <p>Váš asistent?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ne, chraň bůh! Jen tak sem chodí… zajímá se o Čengovu nemoc. Taky je ze školy Lilienthalovy.</p>
           </sp>
@@ -1238,7 +1238,7 @@
             <speaker>ČTVRTÝ PROFESOR:</speaker>
             <p>Opravdu, velkolepý úspěch. Napadá mě… mám jednoho pacienta… malomocného… na kterém mi velmi záleží. Je to… <stage>(Šeptá Dvornímu radovi do ucha.)</stage></p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(hvízdne)</stage>
             <p>A chudák!</p>
@@ -1247,7 +1247,7 @@
             <speaker>ČTVRTÝ PROFESOR:</speaker>
             <p>Směl bych vám ho poslat?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ale rozumí se, kolego, rozumí se! Jen řekněte prosím svému panu klientovi, aby se u mne přihlásil. My sice dosud neaplikujeme svou metodu na soukromých pacientech —</p>
           </sp>
@@ -1255,7 +1255,7 @@
             <speaker>ČTVRTÝ PROFESOR:</speaker>
             <p>Ovšem, zcela správně, pane kolego, ale —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>— ale když mohu vyhovět vám —</p>
           </sp>
@@ -1263,7 +1263,7 @@
             <speaker>ČTVRTÝ PROFESOR:</speaker>
             <p>— a když jde o takového pacienta — Bravo!</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Velmi rád, pane kolego, s největší radostí.</p>
           </sp>
@@ -1281,7 +1281,7 @@
             <p>Kamaráde, tady jsou peníze a styky — Hergot, kdybych já dostal takového pacienta!</p>
           </sp>
           <stage>(Z třináctky vystrčí hlavu Dr. Galén.)</stage>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Už jsou pryč?</p>
           </sp>
@@ -1289,7 +1289,7 @@
             <speaker>DRUHÝ ASISTENT:</speaker>
             <p>Potřebujete něčeho, pane doktore?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ne, ne, děkuju, pane kolego… děkuju uctivě…</p>
           </sp>
@@ -1299,88 +1299,88 @@
           </sp>
           <stage>(Oba odejdou. Dr. Galén se rozhlédne, a když vidí, že je sám, vytáhne z kapsy housku a žvýká, opřen o dveře.)</stage>
           <stage>(Vrací se Dvorní rada.)</stage>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Dobře, že vás vidím, Galéne. Musím vám ze srdce blahopřát. Máme nádherný úspěch, kolego. Velkolepý úspěch!</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(polyká)</stage>
             <p>Ještě… ještě snad musíme vyčkat, pane dvorní rado…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ale ovšem, doktore Dětino, ale ovšem! Nicméně výsledky jsou tak překvapující — Abych nezapomněl, dostanete jednoho privátního pacienta.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ale já… já totiž teď soukromou praxi nevedu…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Já vím, kolego, já vím, a chválím vás za to. Věnovat se jenom vědecké práci, správně. Ale tento případ jsem vám zvlášť vybral. Prima klient, milý Galéne.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Já jsem vám přece dal čestné slovo, pane dvorní rado,… že nepoužiju své metody… jenom tady na třináctce…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Správně, kolego. Ale pro tento jediný případ vás toho čestného slova zprostím.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ale já… já na něm trvám, pane dvorní rado.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Co tím míníte, pane kolego?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Že nebudu nikoho léčit, pokud tady nebudu hotov, že ano…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Upozorňuji vás, Galéne, že jsem přijal osobní závazek.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Je mi hrozně líto, ale…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Domnívám se, pane kolego, že na své klinice jsem pánem já. A úkoly tady přiděluju já.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Kdyby pan dvorní rada toho svého pacienta položil na třináctku, pak ovšem… samozřejmě…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Kamže, člověče?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Na třináctku, na zem. Já tam už nemám volné lůžko.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ale to je vyloučeno, Galéne. Takového pacienta přece nemůžeme strčit na kliniku! Ten by raději umřel, než by ležel mezi těmi tady — Moc bohatý pán, kamaráde! To nejde. Tak, prosím vás, doktore Dětino, žádné hlouposti —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Já budu léčit jenom na třináctce, pane dvorní rado. Já jsem dal své slovo, že ano… Kdyby pan dvorní rada dovolil… ti páni mě tak zdrželi… Smím jít k svým pacientům?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Můžete jít k čertu, vy — vy —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Děkuju uctivě. <stage>(Vklouzne do třináctky.)</stage></p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>— — Zatracený idiot! Takhle mne blamovat!</p>
           </sp>
@@ -1390,7 +1390,7 @@
             <stage>(odkašle)</stage>
             <p>Kdyby pan dvorní rada dovolil… já jsem proti své vůli zachytil několik slov — Chování doktora Galéna je neslýchané! A tu mě napadlo… Já jsem totiž sestrojil injekční látku, která barvou připomíná prostředek doktora Galéna. Prostě k nerozeznání, pane dvorní rado.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Nu, a co s ní?</p>
           </sp>
@@ -1398,7 +1398,7 @@
             <speaker>PRVNÍ ASISTENT:</speaker>
             <p>Mohlo by se jí použít… místo pravých injekcí doktora Galéna. Je totiž zaručeně neškodná.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>A léčivý efekt?</p>
           </sp>
@@ -1406,7 +1406,7 @@
             <speaker>PRVNÍ ASISTENT:</speaker>
             <p>Jsou v ní posilující prostředky, které pan dvorní rada sám předpisuje. Nemocným se na čas uleví —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ale nemoc pokračuje, co?</p>
           </sp>
@@ -1414,7 +1414,7 @@
             <speaker>PRVNÍ ASISTENT:</speaker>
             <p>… Injekce doktora Galéna taky v některých případech zůstaly bez účinku, pane dvorní rado.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>— — To máte pravdu, mládenče. Ale profesor Sigelius takové věci nedělá.</p>
           </sp>
@@ -1422,7 +1422,7 @@
             <speaker>PRVNÍ ASISTENT:</speaker>
             <p>To je známo, prosím, ale — — pan dvorní rada by snad nerad odmítl toho nebo onoho pacienta, na kterém mu záleží —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>To máte taky pravdu. <stage>(Vytáhne blok receptů a píše. S chladným despektem.)</stage> Nemyslíte, mladíku, že vás je na vědeckou práci škoda? Nechtěl byste si raději otevřít privátní ordinaci?</p>
           </sp>
@@ -1430,7 +1430,7 @@
             <speaker>PRVNÍ ASISTENT:</speaker>
             <p>Totiž na to právě pomýšlím —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Já vám to radím. <stage>(Podává mu utržený recept.)</stage> Stavíte se s tím u mého kolegy. Vezme vás s sebou… k jednomu pacientovi, víme?</p>
           </sp>
@@ -1439,7 +1439,7 @@
             <stage>(klaní se)</stage>
             <p>Děkuju nejuctivěji, pane dvorní rado!</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Mnoho štěstí! <stage>(Rychle odchází.)</stage></p>
           </sp>
@@ -1459,7 +1459,7 @@
             <stage>(přiběhne bez dechu)</stage>
             <p>Pane komisaři, právě telefonují — Pan maršál už nastoupil do auta.</p>
           </sp>
-          <sp who="#úřední-pán">
+          <sp who="#uredni-pan">
             <speaker>ÚŘEDNÍ PÁN:</speaker>
             <p>Tedy ještě jednou: všechny pokoje s nemocnými —</p>
           </sp>
@@ -1467,55 +1467,55 @@
             <speaker>DRUHÝ ASISTENT:</speaker>
             <p>— od devíti ráno uzamčeny. Všechen personál shromážděn dole ve vestibulu. Je tam už ministr zdravotnictví, musím letět — <stage>(Zmizí.)</stage></p>
           </sp>
-          <sp who="#úřední-pán">
+          <sp who="#uredni-pan">
             <speaker>ÚŘEDNÍ PÁN:</speaker>
             <p>Pozor! <stage>(Muži v ošetřovatelských pláštích se postaví do pozoru.)</stage> Tak naposledy: Nikdo tudy nesmí projít než průvod Jeho Excelence! — Pohov!</p>
           </sp>
           <stage>(Siréna auta.)</stage>
-          <sp who="#úřední-pán">
+          <sp who="#uredni-pan">
             <speaker>ÚŘEDNÍ PÁN:</speaker>
             <p>Už je tady! Pozor! <stage>(Ustoupí do kulis.)</stage></p>
           </sp>
           <stage>(Ticho. Odněkud zdola je slyšet uvítací řeč. — Dva páni v civilu rychle přejdou chodbou, muži v ošetřovatelských pláštích salutují.)</stage>
           <stage>(Přichází Maršál v polní uniformě, po jeho jednom boku Dvorní rada, po druhém Ministr zdravotnictví. Za nimi svita, vojenští páni, lékaři.)</stage>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>— zde, v čísle dvanáct, máme kontrolní pacienty, kteří jsou také stiženi Čengovou nemocí; ty však neléčíme svou novou metodou, aby bylo možno srovnávat dosažené výsledky —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Rozumím. Podíváme se na ně.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Vaše Excelence dovolí, abych ji varoval. Choroba je nakažlivá. Mimoto je to hrozný pohled — a přes všechna opatření také nesnesitelný zápach.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>My vojáci a doktoři musíme vydržet všechno. Pojďme!</p>
           </sp>
           <stage>(Vejde do dvanáctky. Celá svita za ním.)</stage>
           <stage>(Okamžik ticho, je slyšet jen hlas Dvorního rady z dvanáctky. Po chvilce vrávorá ven Generál, podpírán Druhým asistentem.)</stage>
-          <sp who="#generál">
+          <sp who="#general">
             <speaker>GENERÁL:</speaker>
             <stage>(sténá)</stage>
             <p>Příšerné! Příšerné!</p>
           </sp>
           <stage>(Z dvanáctky se tlačí ven jiní členové svity.)</stage>
-          <sp who="#ministr-zdravotnictví">
+          <sp who="#ministr-zdravotnictvi">
             <speaker>MINISTR ZDRAVOTNICTVÍ:</speaker>
             <p>To je hrůza! Otevřte okno!</p>
           </sp>
-          <sp who="#pobočník">
+          <sp who="#pobocnik">
             <speaker>POBOČNÍK:</speaker>
             <stage>(se šátkem u nosu)</stage>
             <p>Skandál! Sem vodit hosty!</p>
           </sp>
-          <sp who="#jiný-pán">
+          <sp who="#jiny-pan">
             <speaker>JINÝ PÁN:</speaker>
             <p>Kriste — Ježíši! Ježíši Kriste!</p>
           </sp>
-          <sp who="#generál">
+          <sp who="#general">
             <speaker>GENERÁL:</speaker>
             <p>Jak to může maršál vydržet?</p>
           </sp>
@@ -1523,15 +1523,15 @@
             <speaker>MINISTR:</speaker>
             <p>Pánové, já bych byl omdlel!</p>
           </sp>
-          <sp who="#pobočník">
+          <sp who="#pobocnik">
             <speaker>POBOČNÍK:</speaker>
             <p>Jak sem mohli maršála pozvat! Idioti! Ale já jim ukážu —</p>
           </sp>
-          <sp who="#jiný-pán">
+          <sp who="#jiny-pan">
             <speaker>JINÝ PÁN:</speaker>
             <p>Viděli jste… viděli jste… viděli jste…</p>
           </sp>
-          <sp who="#generál">
+          <sp who="#general">
             <speaker>GENERÁL:</speaker>
             <p>Prosím nemluvit o tom! Fuj, já toho mám dost pro celý život; a jako voják jsem viděl ledacos, pánové —</p>
           </sp>
@@ -1544,45 +1544,45 @@
             <p>To jste měl mít s sebou, člověče!</p>
           </sp>
           <stage>(Druhý asistent odběhne.)</stage>
-          <sp who="#pobočník">
+          <sp who="#pobocnik">
             <speaker>POBOČNÍK:</speaker>
             <p>Pozor!</p>
           </sp>
           <stage>(Svita odstoupí ode dveří. Vyjde Maršál, za ním Dvorní rada a lékaři.)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(zastaví se)</stage>
             <p>Jak vidím, pánové mnoho nesnesou. — Půjdeme dál.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>V čísle třináct je ovšem docela jiný obraz. Tam totiž aplikujeme svou novou metodu. Vaše Excelence se sama přesvědčí —</p>
           </sp>
           <stage>(Maršál vejde do třináctky. Za ním Dvorní rada a lékaři. Svita váhá, nahlíží do dveří a pak po jednom vchází do třináctky. Ticho, zas jen tlumený hlas Dvorního rady.)</stage>
-          <sp who="#hlas-za-scénou">
+          <sp who="#hlas-za-scenou">
             <speaker>HLAS ZA SCÉNOU:</speaker>
             <p>Stát!</p>
           </sp>
-          <sp who="#druhý-hlas">
+          <sp who="#druhy-hlas">
             <speaker>DRUHÝ HLAS:</speaker>
             <p>Pusťte mě, já tam musím —</p>
           </sp>
-          <sp who="#úřední-pán">
+          <sp who="#uredni-pan">
             <speaker>ÚŘEDNÍ PÁN:</speaker>
             <stage>(vynoří se z kulis)</stage>
             <p>Co je? Kdo je to?</p>
           </sp>
           <stage>(Dva muži v ošetřovatelských pláštích vlekou Dr. Galéna za ruce.)</stage>
-          <sp who="#úřední-pán">
+          <sp who="#uredni-pan">
             <speaker>ÚŘEDNÍ PÁN:</speaker>
             <p>Kdo ho sem vpustil? — Člověče, co tu chcete?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Pusťte mě k mým nemocným!</p>
           </sp>
           <stage>(Vrací se Druhý asistent s lahví kolínské vody.)</stage>
-          <sp who="#úřední-pán">
+          <sp who="#uredni-pan">
             <speaker>ÚŘEDNÍ PÁN:</speaker>
             <p>Znáte toho člověka?</p>
           </sp>
@@ -1590,7 +1590,7 @@
             <speaker>DRUHÝ ASISTENT:</speaker>
             <p>To je doktor Galén, pane komisaři.</p>
           </sp>
-          <sp who="#úřední-pán">
+          <sp who="#uredni-pan">
             <speaker>ÚŘEDNÍ PÁN:</speaker>
             <p>Má tu co dělat?</p>
           </sp>
@@ -1598,11 +1598,11 @@
             <speaker>DRUHÝ ASISTENT:</speaker>
             <p>Ano, totiž — Vlastně ano. Pracuje tady na třináctce.</p>
           </sp>
-          <sp who="#úřední-pán">
+          <sp who="#uredni-pan">
             <speaker>ÚŘEDNÍ PÁN:</speaker>
             <p>Promiňte, pane doktore — Pusťte ho! — Proč jste nepřišel před devátou hodinou, jako druzí lékaři?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(hladí si paže)</stage>
             <p>Já… já jsem neměl kdy… já jsem dělal lék pro své nemocné —</p>
@@ -1612,93 +1612,93 @@
             <stage>(tlumeně)</stage>
             <p>Pan doktor Galén totiž nebyl pozván.</p>
           </sp>
-          <sp who="#úřední-pán">
+          <sp who="#uredni-pan">
             <speaker>ÚŘEDNÍ PÁN:</speaker>
             <p>Ah tak. Teď musíte zůstat se mnou, pane doktore. Nemůžete dovnitř, dokud neodejde pan maršál.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ale já přece…</p>
           </sp>
-          <sp who="#úřední-pán">
+          <sp who="#uredni-pan">
             <speaker>ÚŘEDNÍ PÁN:</speaker>
             <p>Račte jít se mnou! <stage>(Odvádí ho do kulis.)</stage></p>
           </sp>
           <stage>(Z třináctky vychází Maršál, Dvorní rada a ostatní.)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Blahopřeju, milý Sigelie. Je to přímo zázrak.</p>
           </sp>
-          <sp who="#ministr-zdravotnictví">
+          <sp who="#ministr-zdravotnictvi">
             <speaker>MINISTR ZDRAVOTNICTVÍ:</speaker>
             <stage>(čte z papíru)</stage>
             <p>„Vaše Excelence, milovaný pane maršále, dovolte mi, abych jménem svého rezortu —“</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Děkuju vám, pane ministře zdravotnictví. <stage>(Obrátí se k Dvornímu radovi.)</stage></p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Vaše Excelence, jsem stěží mocen slova… Nám, klinice Lilienthalově, se dostalo tak vysokého uznání… My vědečtí pracovníci jsme si však vědomi, jak nepatrná a ubohá je naše zásluha proti té, která odvrátila daleko horší hlízu: hlízu anarchie, epidemii barbarské svobody, lepru korupce a mor společenského rozkladu, který zachvátil a téměř smrtelně oslabil organismus našeho národa —</p>
           </sp>
-          <sp who="#nemocnice-přítomní">
+          <sp who="#nemocnice-pritomni">
             <speaker>POCHVALNÉ MRUČENÍ:</speaker>
             <p>Velmi dobře! Bravo!</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>A proto používám této vzácné příležitosti, abych se jako prostý lékař hluboce sklonil před tím největším lékařem, který nás všechny vyléčil z národního malomocenství tvrdou, někdy chirurgickou, ale vždycky spásonosnou terapií. <stage>(Uklání se hluboce před Maršálem.)</stage></p>
           </sp>
-          <sp who="#nemocnice-přítomní">
+          <sp who="#nemocnice-pritomni">
             <speaker>POCHVALNÝ ŠUM:</speaker>
             <p>Bravo! Bravo!</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(podává mu ruku)</stage>
             <p>Děkuju vám, milý Sigelie. Vykonal jste velké dílo. Na shledanou!</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Nejhlubší dík, Vaše Excelence!</p>
           </sp>
           <stage>(Maršál odchází, provázen Dvorním radou, svitou, lékaři atd.)</stage>
-          <sp who="#úřední-pán">
+          <sp who="#uredni-pan">
             <speaker>ÚŘEDNÍ PÁN:</speaker>
             <stage>(vynoří se z kulis)</stage>
             <p>Tak hotovo. Pozor! Dvojstup a uzavřít průvod! <stage>(Muži v ošetřovatelských pláštích jdou za svitou.)</stage></p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Už smím dovnitř?</p>
           </sp>
-          <sp who="#úřední-pán">
+          <sp who="#uredni-pan">
             <speaker>ÚŘEDNÍ PÁN:</speaker>
             <p>Okamžiček, pane doktore, jen co pan maršál odjede. <stage>(Jde ke dvanáctce a strčí tam nos; honem zase zavře.)</stage> Hergot! A to tam chodí doktoři?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Co? Ano, ovšem.</p>
           </sp>
-          <sp who="#úřední-pán">
+          <sp who="#uredni-pan">
             <speaker>ÚŘEDNÍ PÁN:</speaker>
             <p>Nic naplat, pane doktore, je to veliký muž. Je to hrdina.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Kdo?</p>
           </sp>
-          <sp who="#úřední-pán">
+          <sp who="#uredni-pan">
             <speaker>ÚŘEDNÍ PÁN:</speaker>
             <p>Náš maršál. Vydržel tam dvě minuty. Já to měřil na hodinkách.</p>
           </sp>
           <stage>(Siréna auta.)</stage>
-          <sp who="#úřední-pán">
+          <sp who="#uredni-pan">
             <speaker>ÚŘEDNÍ PÁN:</speaker>
             <p>Už odjel. Tak už můžete dovnitř, pane doktore. A promiňte, že jsme vás na chvíli zatkli —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>To nevadí, těšilo mě velice — <stage>(Zaleze do třináctky.)</stage></p>
           </sp>
@@ -1707,7 +1707,7 @@
             <speaker>DRUHÝ ASISTENT:</speaker>
             <p>Honem, kde jsou ti páni od novin? <stage>(Přeběhne.)</stage></p>
           </sp>
-          <sp who="#úřední-pán">
+          <sp who="#uredni-pan">
             <speaker>ÚŘEDNÍ PÁN:</speaker>
             <stage>(podívá se na hodinky)</stage>
             <p>Mno. Ani to tak dlouho netrvalo. <stage>(Odejde.)</stage></p>
@@ -1721,12 +1721,12 @@
             <speaker>DRUHÝ ASISTENT:</speaker>
             <p>— Tady, pánové, na čísle dvanáct byste mohli vidět, jak vypadá takzvaná bílá nemoc, když není léčena podle naší metody; ale já pánům nedoporučuju…</p>
           </sp>
-          <sp who="#hlouček-novinářů">
+          <sp who="#hloucek-novinaru">
             <speaker>HLOUČEK NOVINÁŘŮ:</speaker>
             <stage>(vniká do dvanáctky, ale ihned zděšeně couvá)</stage>
             <p>Co je tam? — Zpátky! — Pusťte mne! — To je strašné! — Hrůza!</p>
           </sp>
-          <sp who="#jeden-novinář">
+          <sp who="#jeden-novinar">
             <speaker>JEDEN NOVINÁŘ:</speaker>
             <p>Ti… ti jsou ztraceni, ne?</p>
           </sp>
@@ -1740,7 +1740,7 @@
             <speaker>DRUHÝ ASISTENT:</speaker>
             <p>Prosím, pane dvorní rado, páni od novin jsou právě na třináctce…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Kdyby mne teď nechali! Jsem tak dojat… Tak honem, kde je máte?</p>
           </sp>
@@ -1749,7 +1749,7 @@
             <stage>(ve dveřích třináctky)</stage>
             <p>Prosím, pánové; pan dvorní rada právě přišel.</p>
           </sp>
-          <sp who="#hlouček-novinářů">
+          <sp who="#hloucek-novinaru">
             <speaker>HLOUČEK NOVINÁŘŮ:</speaker>
             <stage>(vychází na chodbu)</stage>
             <p>To je zázrak! — Úžasné! — Skvělé!</p>
@@ -1758,15 +1758,15 @@
             <speaker>DRUHÝ ASISTENT:</speaker>
             <p>Račte se rozestavit, pánové; pan dvorní rada vám poskytne informace…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Pánové prominou, ale jsem tak hluboce vzrušen… Kdybyste viděli, s jakým soucitem… a s jakou mravní statečností se sklonil náš maršál nad lůžky těch nejubožejších… To byl nezapomenutelný okamžik, pánové!</p>
           </sp>
-          <sp who="#jeden-novinář">
+          <sp who="#jeden-novinar">
             <speaker>JEDEN NOVINÁŘ:</speaker>
             <p>A co řekl?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Nu, vyjádřil se potom až příliš lichotivě —</p>
           </sp>
@@ -1774,216 +1774,216 @@
             <speaker>DRUHÝ ASISTENT:</speaker>
             <p>Kdyby pan dvorní rada dovolil, Jeho Excelence se vyjádřila: Blahopřeji vám, milý Sigelie. Je to zázrak. Vykonal jste veliké dílo, pane dvorní rado.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Nu ano, pan maršál velmi přecenil mou zásluhu. Nyní, když je nalezen bezpečný prostředek proti takzvané bílé nemoci, můžete napsat, pánové,… že to byla nejhroznější choroba dějin, horší než středověký mor — Teď už není třeba zamlčovat dosah té hrůzy. Jsem hrd, pánové, že palmu tohoto úspěchu si odnáší náš národ — a že ho bylo dobyto právě na půdě kliniky mého velkého učitele a předchůdce Lilienthala.</p>
           </sp>
           <stage>(Dr. Galén stojí unaveně ve dveřích třináctky.)</stage>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Pojďte sem, Galéne! Pánové, to je taky jeden ze zasloužilých spolubojovníků. V naší lékařské vědě nezáleží na osobních úspěších; pracujeme prostě pro lidstvo — Jen se nestyďte, milý Dětino. Všichni jsme splnili svou povinnost… až po nejmenší ošetřovatelku. Jsem rád, že v tento veliký den mohu ze srdce poděkovat všem svým obětavým spolupracovníkům —</p>
           </sp>
-          <sp who="#jeden-novinář">
+          <sp who="#jeden-novinar">
             <speaker>JEDEN NOVINÁŘ:</speaker>
             <p>Mohl byste nám říci, pane dvorní rado, v čem záleží vaše léčebná metoda?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ne moje, pane. Ne moje. Metoda kliniky Lilienthalovy. V čem záleží — pánové, to ohlásíme lékařům; léčebné prostředky náležejí jen do rukou odborných. Řekněte veřejnosti, co jste tady viděli. Napište prostě: Lék proti nejvražednější nemoci světa je nalezen. Nic víc. Ale chcete-li tento radostný den zvěčnit, pak pište, pánové, o velikém vojevůdci… o hlavě našeho státu… o nádherném hrdinovi, který vkročil mezi malomocné, aby vzdoroval hrůze a nákaze… To bylo nadlidské, pánové! Opravdu, nejsem ani mocen slova… Promiňte, moji nemocní už čekají. Poroučím se, pánové; kdybyste něco potřebovali, jsem vám vždycky k službám. <stage>(Rychle odejde.)</stage></p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Tak bychom byli hotovi, ne?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(vystoupí vpřed)</stage>
             <p>Prosím, pánové… ještě snad chvilinku… Prosím vás, vyřiďte, že já, doktor Galén… doktor chudých…</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Komu to máme vyřídit?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Komu? Všem králům a vladařům na světě… Napište jim, že bych je prosil… Já byl totiž na vojně, pánové, jako doktor… a já bych chtěl, aby už nebyly války, víte? Prosím vás, napište jim to!</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Myslíte, že vás poslechnou?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano, totiž… Řekněte jim, že jinak zajdou na malomocenství, že ano… Ten lék proti Čengově nemoci, to je můj lék, rozumíte? A já jej nedám, dokud… dokud neslíbí, že už se nebude zabíjet! Prosím vás, pánové, řekněte jim, že jim to vzkazuju! Já opravdu… nikdo druhý ten můj prostředek nezná, zeptejte se tady na klinice; jen já mohu léčit, jen já… Řekněte jim, že už jsou staří… všichni, kdo vládnou. Řekněte jim, že budou zaživa hnít… jako ti tady. Řekněte, že to čeká všechny lidi… vůbec všechny…</p>
           </sp>
-          <sp who="#jiný-novinář">
+          <sp who="#jiny-novinar">
             <speaker>JINÝ NOVINÁŘ:</speaker>
             <p>Vy byste nechal lidi takhle umírat?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>A vy byste je nechali zabíjet? Proč prosím… Když mohou lidé zabíjet olovem a plynem,… nač my doktoři máme někoho zachraňovat, ne? Kdybyste věděli, co to dá někdy práce… zachránit dítě… nebo vyhojit takový kostižer… A pak se řekne válka! Jako lékař… musím být proti střílení a yperitu, že? Já jsem viděl, jaké svinstvo to v člověku dělá… Rozumíte, prostě jako doktor — Já nejsem žádný politik, pánové, ale jako lékař jsem povinen… bojovat o každý lidský život, ne? To je prostě lékařská povinnost, odstranit válku!</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Prosím vás, jak ji chcete odstranit?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Jak? Prostě… ať se zřeknou válečného násilí, a já jim za to dám ten lék proti bílé nemoci, ne?</p>
           </sp>
           <stage>(Druhý asistent odběhne.)</stage>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Jak si představujete, že byste přinutil vlády celého světa —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano, jak… To je právě to těžké, že? Já vím, že se mnou nebudou jednat; ale když vy to napíšete v novinách — Napište, že ten lék nedostane žádný národ, dokud se nezaváže,… že… že… že už nikdy nepovede válku, víte?</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Ani kdyby se musel bránit?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Bránit se… Poslyšte, já bych se taky bránil; kdyby na nás někdo šel, tak… budu střílet, že ano… Ale proč by se nemohly zrušit útočné zbraně… proč by se nemohlo ve všech státech omezit zbrojení —</p>
           </sp>
-          <sp who="#jiný-novinář">
+          <sp who="#jiny-novinar">
             <speaker>JINÝ NOVINÁŘ:</speaker>
             <p>Vyloučeno. To dnes žádný stát neudělá.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ne? A to… to teda nechá své lidi tak hrozně umírat? Co? Tolik lidí se nechá zbytečně trpět? A… a… a lidé si to dají líbit, co? Myslíte, že se ani nebudou bouřit? A sami nemocní se budou zaživa rozpadat… Člověče, vždyť se budou bát… všichni se budou bát…</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Něco na tom je. Muselo by se počítat s veřejností —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano. A vy jim řeknete: Nebojte se, je tady lék — Přimějte své vladaře, aby složili slib věčného míru… aby uzavřeli věčnou smlouvu se všemi národy,… nu a bude po bílé nemoci, že ano?</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>A co když na to žádná vláda nepřistoupí?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Poslyšte, to by mně bylo hrozně líto… To bych pak svůj lék nemohl vydat. Ne prosím, to bych nemohl.</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>A co byste s ním dělal?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Co? Já? Jako doktor… musím přece léčit, ne? Léčil bych své chudé…</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Proč jenom chudé?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Protože jich je mnoho. To by byla ohromná praxe, člověče! Víte, mohl bych aspoň dokázat… na spoustě případů, že se dá bílá nemoc vyléčit.</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>A bohatého byste do léčení nevzal?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Je mi líto, pane… ale to bych nemohl. Bohatí — Bohatí mají víc vlivu, že ano — Budou-li mocní a bohatí opravdu chtít mír… Na ně se víc dá, víte?</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Nezdá se vám, že je to k těm bohatým — trochu nespravedlivé?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Je, pane. Já vím. Ale nezdá se vám, že je to k těm chudým — taky trochu nespravedlivé, že jsou chudí? Koukejte se, vždycky umíralo o tolik víc chudých, že ano — a nemuselo by to být, pane, nemuselo by to být! Každý má právo na život, že? Člověče, kdyby se dalo na špitály tolik jako na válečné lodi —</p>
           </sp>
           <stage>(Rychle přichází Dvorní rada s Druhým asistentem.)</stage>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Prosím pány novináře, aby opustili kliniku. Kolega Galén nervově ochuravěl.</p>
           </sp>
-          <sp who="#novinář">
+          <sp who="#novinar">
             <speaker>NOVINÁŘ:</speaker>
             <p>Ale nás by ještě zajímalo slyšet —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Pánové, tady za dveřmi je nakažlivá choroba. Je ve vašem zájmu vzdálit se. Pane asistente, doprovoďte pány redaktory k východu.</p>
           </sp>
           <stage>(Hlouček novinářů se vzdaluje.)</stage>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Galéne, vy jste se zbláznil! Já nestrpím, aby se na půdě mé kliniky vedly tak nesmyslné a podvratné řeči — a k tomu v takový den! Měl bych vás dát na místě sebrat pro pobuřování, rozumíte? Naštěstí vás jako lékař omlouvám; jste asi přepracován. Pojďte se mnou, Dětino!</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Proč?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Pěkně mi povíte chemickou formuli a přesné použití svého léku, a pak si půjdete odpočinout. Máte toho zapotřebí.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Pane dvorní rado, já jsem ohlásil své podmínky, že ano… Jinak…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Jinak co? Nu? Co bude?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Prosím za prominutí, ale… já jinak svůj lék nemohu vydat, pane dvorní rado.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Buď jste blázen, nebo vlastizrádce, Galéne! Žádám vás důtklivě, abyste se choval jako lékař. Vaše povinnost je pomáhat nemocným; po ostatním vám nic není.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ale já bych jako lékař chtěl, aby se už lidé nezabíjeli —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ale já na půdě své kliniky takové názory zakazuju! My nesloužíme žádné humanitě, nýbrž vědě — a svému národu, pane kolego. Nezapomínejte, že jste na státním ústavu.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ale proč, poslyšte — Proč by náš stát nemohl uzavřít věčný mír…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Protože nemůže a nesmí. Pan Galén jako cizinec původem nemá patrně dost jasné ponětí o tom, co je poslání a budoucnost našeho národa. A dost toho nesmyslu! Nyní vás žádám naposledy, doktore Galéne, abyste mně jako hlavě kliniky oznámil formuli svého léku.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Je mi hrozně líto, pane dvorní rado, ale… to prosím nemohu udělat.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>— — — Jděte! A na mou kliniku už nevkročíte!</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>… Prosím, pane dvorní rado. Ale je mi opravdu líto —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Mně také, člověče. Myslíte, že mně není líto nemocných, kteří budou dál umírat na Čengovu nemoc? Co? A myslíte, že mně není… zatraceně divně, když se podívám sám na sebe? Jak teď vypadám, člověče! Tady slavnostně ohlásím, že máme lék proti malomocenství; nu teď je s tím konec, a já — To je amen s mou vědeckou ctí, doktore Dětino; já příliš dobře vím, jaká to je ostuda. Ale raději tuhle porážku, než abych připustil… vaše utopistické vyděračství, Galéne! Raději nechám celý svět pojít na malomocenství, než bych tady strpěl… na jediný okamžik… váš pacifistický mor!</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Poslyšte, to byste neměl… To byste jako lékař neměl říkat!</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Já nejsem jenom lékař, pane. Já bohudík sloužím také svému státu. — Ven!</p>
           </sp>
@@ -2177,29 +2177,29 @@
         <div type="scene">
           <head>OBRAZ DRUHÝ</head>
           <stage>Fronta malomocných před ordinací doktora Galéna. Poslední v řadě Otec a Matka.</stage>
-          <sp who="#malomocný-1">
+          <sp who="#malomocny-1">
             <speaker>PRVNÍ MALOMOCNÝ:</speaker>
             <stage>(z prvního jednání)</stage>
             <p>Koukej, tady na krku —</p>
           </sp>
-          <sp who="#malomocný-2">
+          <sp who="#malomocny-2">
             <speaker>DRUHÝ MALOMOCNÝ:</speaker>
             <stage>(z prvního jednání)</stage>
             <p>To už mám dobré.</p>
           </sp>
-          <sp who="#malomocný-1">
+          <sp who="#malomocny-1">
             <speaker>PRVNÍ MALOMOCNÝ:</speaker>
             <p>To si myslím. Krásně se nám to hojí, říká doktor.</p>
           </sp>
-          <sp who="#malomocný-2">
+          <sp who="#malomocny-2">
             <speaker>DRUHÝ MALOMOCNÝ:</speaker>
             <p>A mně posledně řekl, už se nám to hnulo, člověče, už se nám to hodně zmenšuje.</p>
           </sp>
-          <sp who="#malomocný-1">
+          <sp who="#malomocny-1">
             <speaker>PRVNÍ MALOMOCNÝ:</speaker>
             <p>Tak vidíš, ty troubo!</p>
           </sp>
-          <sp who="#malomocný-2">
+          <sp who="#malomocny-2">
             <speaker>DRUHÝ MALOMOCNÝ:</speaker>
             <p>A nejdřív mě nechtěl vzít. Když jste pekař, povídá, tak nejste chudý člověk; já prý léčím jen chudé. A já jsem mu řekl, pane doktore, když má pekař malomocenství, tak u něho nikdo nekoupí ani housku; vždyť já jsem na tom hůř než žebrák. Tak mě nakonec vzal —</p>
           </sp>
@@ -2233,7 +2233,7 @@
             <p>Ne, ale já mu řeknu, co je jeho lidská povinnost! Já mu řeknu, pane doktore, ať to stojí co stojí — tady jde o mou ženu —</p>
           </sp>
           <stage>(Vychází Dr. Galén.)</stage>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Co… co chcete?</p>
           </sp>
@@ -2241,7 +2241,7 @@
             <speaker>OTEC:</speaker>
             <p>Pane doktore… kdybyste byl tak laskav… tady má žena…</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Kdo jste?</p>
           </sp>
@@ -2249,7 +2249,7 @@
             <speaker>OTEC:</speaker>
             <p>Já, prosím… já jsem účetním ředitelem… Krügových podniků.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Krügových podniků?… Prosím to já nemohu — Je mi hrozně líto, pane, ale já léčím jen chudé, že ano —</p>
           </sp>
@@ -2257,7 +2257,7 @@
             <speaker>OTEC:</speaker>
             <p>Pane doktore, mějte slitování! Budeme vám do smrti žehnat —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Poslyšte, ne… Prosím vás, to ne… Podívejte se, já… já opravdu mohu jen chudé… Chudí nemohou nic dělat, ale ti druzí, ti mohou spíš —</p>
           </sp>
@@ -2265,7 +2265,7 @@
             <speaker>OTEC:</speaker>
             <p>Prosím, já jsem ochoten cokoliv… ať to stojí co stojí…</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Podívejte se, ti bohatí mohou spíš prosadit, že ano… aby už nebyly války. Na ně se víc dá, pane… Mají větší vliv… Řekněte jim, aby všichni užili svého vlivu…</p>
           </sp>
@@ -2273,7 +2273,7 @@
             <speaker>OTEC:</speaker>
             <p>Pane doktore, já bych rád; ale já osobně nemohu nic dělat…</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano, ano… to říká každý, víte? Poslyšte, kdybyste vy řekl baronu Krügovi,… aby přestal vyrábět kanony a munici… Kdybyste získal barona Krüga —</p>
           </sp>
@@ -2281,7 +2281,7 @@
             <speaker>OTEC:</speaker>
             <p>Ale to přece nejde, pane doktore… Jak bych se já prosím mohl opovážit… To je vůbec vyloučeno!</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Tak vidíte, a jak mám potom já… Nu, co dělat… Je mi hrozně líto…</p>
           </sp>
@@ -2289,7 +2289,7 @@
             <speaker>OTEC:</speaker>
             <p>Pane doktore, prosím vás, aspoň z lidské povinnosti —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano, vidíte… Já tu povinnost vzal na sebe, pane, to je právě to… To je to hrozně těžké, že ano… Poslyšte, kdybyste vy se zřekl svého místa u barona Krüga… kdybyste mu řekl, že už nechcete pracovat pro jeho munici —</p>
           </sp>
@@ -2297,7 +2297,7 @@
             <speaker>OTEC:</speaker>
             <p>A čím bych se potom měl živit?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Tak vidíte, vy se taky živíte… válkou!</p>
           </sp>
@@ -2305,7 +2305,7 @@
             <speaker>OTEC:</speaker>
             <p>Kdybych dostal jinde místo účetního ředitele… Pane doktore, člověk se teprve k stáru dopracuje… To přece nemůžete žádat!</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano, vidíte — Člověk nemůže od lidí nic žádat. Co dělat, co dělat… Nu tak sbohem, pane; je mi líto — <stage>(Odejde.)</stage></p>
           </sp>
@@ -2322,201 +2322,201 @@
         <div type="scene">
           <head>OBRAZ TŘETÍ</head>
           <stage>Pracovna Dvorního rady.</stage>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(u dveří)</stage>
             <p>Jen račte dál, drahý barone Krügu.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <stage>(vstupuje)</stage>
             <p>Děkuju vám, milý dvorní rado. Už jsem myslel, že se k vám ani nedostanu…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>To věřím; v takových dobách — Prosím, posaďte se. Tyhle dny na vás kladou velké nároky, co?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Ano, značné nároky. Pravda.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ale jsou to veliké doby.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Co? Aha, vy myslíte politicky. Ano, veliké doby. Veliké a těžké.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Pro vás jistě těžké, pane barone.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Proč myslíte?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Myslím — ta příprava na válku, která se chválabohu zdá už nevyhnutelná — Řídit v takové době Krügovy podniky, to nemůže být maličkost.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Nu ano, pravda — Poslyšte, milý dvorní rado, myslel jsem, že bych u vás mohl složit nějakou částku… na zkoumání té bílé nemoci.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>To je celý baron Krüg. I v tak velké a napjaté době myslet na vědecké účely — Pořád stejně velkorysý a spontánní. To víte, pane barone, rádi přijmeme, a pokud stačí naše síly, využijeme k dalšímu bádání —</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Děkuju vám. <stage>(Položí na stůl velkou obálku.)</stage></p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Mám napsat kvitanci —?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Není třeba. A jak to vypadá, milý Sigelie —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>— s Čengovou nemocí? Děkuju za optání, rozmáhá se nám ažaž — Naštěstí teď lidé myslí víc na příští válku než na bílou nemoc. Nálada je velmi optimistická, barone Krügu. Naprostá důvěra.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Že se ta nemoc zdolá?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ne, ne. Že vyhrajeme tu válku. Celý národ důvěřuje v maršála, ve vás a v naše nádherné vojsko. Ještě nikdy nebyla tak příznivá chvíle —</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>A — doposud se nenašel žádný lék —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ne, dosud ne. Jenom ten Galénův prostředek. Pracuje se ovšem usilovně dál —</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>A co ten váš bývalý asistent — Prý se k němu nemocní jen hrnou. Říká se, že léčí tu nemoc metodou kliniky Lilienthalovy —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Docela obyčejný humbuk, pane barone. Mezi námi, není na tom zhola nic. Jsem rád, že jsem se toho chlapíka zbavil.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Nu, tak to je snad všechno — Mimochodem, co dělá ten… doktor Galén?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Léčí své chudé. To víte, je to jen demagogické gesto — ale léčebné výsledky ten potřeštěnec má —</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Bezpečné?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Bohužel, skoro na sto procent. Ještě dobře, že naše veřejnost je tak rozumná. Ten blázen Galén si myslel, že může svým lékem vydírat… pro svou nesmyslnou utopii. A vidíte, nejde za ním skoro nikdo… totiž z vyšších vrstev. Mezi námi, policie nenápadně zjišťuje, kdo k němu chodí — Tady se také ukázalo, jak je naše veřejnost vlastenecká; tak říkajíc bojkotuje celého Galéna i s jeho zázračným lékem — Podivuhodné, že?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Ano, velmi. Doktor Galén ovšem zásadně odmítá… léčit bohaté, ne?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Prosím vás, takový fanatik! Ještě štěstí, že tu je ten mládenec, co u mne býval asistentem; celá lepší klientela se k němu hrne houfem — říká se, že si od nás odnesl Galénův tajný předpis — Výsledky sice nemá žádné, ale zato praxi — kvetoucí. A o Galénovi se už skoro neví; zapadl mezi ty své chudé — a fantazuje dál o věčném míru. Chudák, je to mánie; prosím vás, blouznit dnes o věčném míru — Jako lékař bych řekl, že by měl být ošetřován v nějakém ústavu pro duševně choré.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Tedy za těch okolností… se nedá proti bílé nemoci dělat nic, ne?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Dá, barone. Chválabohu dá. Právě v posledních dnech se mi poštěstilo docílit… přímo skvělého úspěchu; teď už můžeme doufat, že se nám brzo podaří omezit další šíření Čengovy nemoci.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>To rád slyším, milý Sigelie. Opravdu, velmi rád… A čím, prosím vás —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Je to zatím přísně důvěrné, ale — Zkrátka v nejbližších dnech vyjde nařízení, které zavede povinnou izolaci takzvaných malomocných. To je mé dílo, pane barone. Sám maršál mně slíbil, že se o věc zasadí. — To je největší úspěch, kterého se dosud proti Čengově nemoci na světě dosáhlo.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Ano, je to jistě… krásný úspěch. A jakou izolaci myslíte…</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Tábory, pane barone. Každý nemocný, každý, na kom se ukáže bílá skvrna, bude dopraven do střežených táborů —</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Aha. A tam se nechá pomalu umřít.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ano, ale za lékařského dozoru. Čengova nemoc je nákaza, kterou každý nemocný roznáší dál. Musíme proti tomu chránit — nás ostatní, milý barone. Každá sentimentalita by byla přímo zločin. Kdo by se pokusil z tábora uprchnout, bude zastřelen. Každý občan nad čtyřicet let se měsíčně podrobí povinné lékařské prohlídce. Nákaza Čengovou nemocí bude potlačována násilím. Jiné záchrany není.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>— — Máte asi pravdu, milý Sigelie. Škoda, že se vám to nepodařilo dřív.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ano, škoda; s tím hloupým Galénovým lékem jsme ztratili trochu času; za tu dobu se nám ta bílá nemoc rozmohla — Svrchovaný čas uzavřít ty nemocné mezi ostnaté dráty; a nedovolit pak ani jedinou výjimku —</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <stage>(vstane)</stage>
             <p>Ano. Hlavně nedovolit ani jedinou výjimku. Děkuju vám, milý dvorní rado.</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(vstane)</stage>
             <p>Je vám něco, barone? Dovolte —</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <stage>(rozhrne si košili na prsou)</stage>
             <p>Kdybyste se podíval, milý Sigelie —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Ukažte, proboha! <stage>(Obrací ho k světlu a prohlíží baronovu hruď. Dotýká se jí nožem na papír.)</stage> Necítíte nic? <stage>(Po chvilce ticha.)</stage> Můžete se ustrojit, pane barone.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>— — Je to — —?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>Zatím se nedá říci — jen bílá skvrnka — Patrně pouhá dermatóza —</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>A vy mi radíte —</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <stage>(s bezradným gestem)</stage>
             <p>Kdyby šlo nějak přimět doktora Galéna — aby pana barona vyšetřil —</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>— Děkuju vám, Sigelie. Ruku vám — nemám podávat, že?</p>
           </sp>
-          <sp who="#dvorní-rada">
+          <sp who="#dvorni-rada">
             <speaker>DVORNÍ RADA:</speaker>
             <p>— — Nikomu, barone Krügu. Nikomu už nepodat ruku.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <stage>(ve dveřích)</stage>
             <p>A říkáte, že to nařízení… o izolaci nemocných… vyjde v nejbližších dnech? — To tedy musím zařídit,… aby v mých továrnách… zvýšili výrobu ostnatých drátů.</p>
@@ -2526,235 +2526,235 @@
         <div type="scene">
           <head>OBRAZ ČTVRTÝ</head>
           <stage>Ordinace Doktora Galéna.</stage>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Poslyšte, člověče, dobré je to. Můžete se ustrojit.</p>
           </sp>
-          <sp who="#malomocný">
+          <sp who="#malomocny">
             <speaker>MALOMOCNÝ:</speaker>
             <stage>(z prvního aktu)</stage>
             <p>A kdy mám zas, pane doktore, přijít? <stage>(Obléká se za plentou.)</stage></p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Za čtrnáct dní, abych se podíval, že ano… A pak už snad nebude třeba… <stage>(Otevře dveře.)</stage> Další nemocný!</p>
           </sp>
           <stage>(Vejde Baron Krüg, zarostlý, v žebráckých hadrech.)</stage>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Tak co je s vámi, člověče?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Pane doktore, já mám tu bílou nemoc —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Košili sundat. — A co vy tam… Tak dělejte, člověče —</p>
           </sp>
-          <sp who="#malomocný">
+          <sp who="#malomocny">
             <speaker>MALOMOCNÝ:</speaker>
             <p>Pane doktore, já jen… co jsem dlužen…</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Musíte ještě přijít.</p>
           </sp>
-          <sp who="#malomocný">
+          <sp who="#malomocny">
             <speaker>MALOMOCNÝ:</speaker>
             <p>Tak zatím mockrát děkuju. <stage>(Vysouká se ven.)</stage></p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(k Baronu Krügovi)</stage>
             <p>Ukažte se, člověče. — <stage>(Prohlíží ho.)</stage> Poslyšte, to ještě není tak zlé. Je to sice bílá nemoc, ale — Čím jste?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>… Bez místa, pane doktore. Býval jsem… v kovodílně…</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>A teď?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Co se tak najde… Já jsem slyšel, že pan doktor pomáhá chudým…</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Tak poslyšte, to by trvalo čtrnáct dní… Za čtrnáct dní byste mohl být v pořádku, víte? Já bych vám dal šest injekcí — Člověče, můžete zaplatit šest injekcí?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Ale ovšem — Totiž podle toho, nač by to přišlo…</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>To by přišlo… hodně draho, pane barone Krügu.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Ale pane doktore… Já přece nejsem žádný baron Krüg…</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Poslyšte, pane, to nejde… To bych prosím nemohl s vámi dál jednat. A… na to je škoda našeho času, že ano.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Máte pravdu, doktore. Škoda času. Já vím, vy léčíte… jenom chudé; ale kdybyste mne vzal do léčení, dám vám… k osobní dispozici… kolik bychom řekli? Milion?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(udiveně)</stage>
             <p>Milion?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Máte pravdu. Pět milionů. Doktore, to už je slušná částka — Řekl jsem deset milionů, ne? S deseti miliony se dá mnoho dělat… například kdybyste měl na mysli určitou propagandu —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Počkejte… Vy jste řekl… deset milionů?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Dvacet.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Na propagandu míru?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Nač chcete. Pane, za ty peníze si můžete nakoupit tisku — Mne má propaganda nestojí za rok ani tolik.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(užasle)</stage>
             <p>Poslyšte, to by opravdu stálo tolik peněz, aby se psalo… pro mír?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Ano. To někdy stojí hromadu peněz, aby se psalo pro mír — nebo pro válku.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Vidíte, to mě nenapadlo — <stage>(Koupá injekční stříkačku v lihu a ožehuje ji nad kahanem.)</stage> Tady se člověk nic nedozví — A jak se to, prosím vás, dělá?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Musíte mít styky.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Bože, a já… To je tak těžké, mít styky, že ano… Stojí to hrozně času, ne?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Ano. To stojí skoro celý život.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>To teda nevím, jak bych mohl… <stage>(Namáčí vatičku v benzínu.)</stage> Poslyšte, pane barone Krügu, nechtěl byste to vzít do rukou vy sám?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Vy myslíte — organizovat propagandu pro věčný mír?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano, organizovat propagandu. <stage>(Natírá mu kousek kůže na předloktí vatičkou.)</stage> Vy máte ty styky… A já, víte…, já bych vás za to vyhojil.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>— — Promiňte, doktore, ale tohle bych myslím nedovedl.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ne? <stage>(Zahodí vatičku.)</stage> Tak poslyšte, pane… To je zvláštní, vy jste… svým způsobem… hrozně poctivý člověk.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Možná. A vy jste hrozně naivní člověk, doktore. Vy si myslíte, že můžete sám, docela sám, na vlastní pěst vynutit mír —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ne, pane, sám ne. Já mám… silného spojence, víte?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Ano, bílou nemoc. A strach. Máte pravdu, člověče, já mám strach… Kriste Ježíši, já mám strach! Ale kdyby strach sám stačil ovládnout lidi, pak by už nikdy nemohla být válka — Copak myslíte, že se jí většina lidí nebojí? A vidíte, přece bude… vždycky zase bude —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(bere stříkačku)</stage>
             <p>A tak co tedy prosím — Čím se má na lidi působit?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>— — Nevím. Já jsem to obyčejně zkoušel s penězi. A zřídkakdy marně, doktore. Já vám mohu nabídnout… jenom peníze; ale je to, jak byste vy řekl, svým způsobem… poctivá nabídka. Dvacet… třicet milionů za jeden jediný život!</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Vy máte… takový strach z bílé nemoci? <stage>(Nasává lékem injekční stříkačku.)</stage></p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>… Ano.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>To je mně hrozně líto… <stage>(Přibližuje se k Baronu Krügovi se stříkačkou v ruce.)</stage> Poslyšte, nemohl byste… ve svých podnicích… zastavit výrobu zbraní a munice?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>— — — Nemohl.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Bože to je těžké… Tak co mně vůbec můžete dát?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>— Jenom peníze.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ale vždyť vidíte, že bych neuměl — <stage>(Položí stříkačku na stůl.)</stage> Ne, to by bylo zbytečné, prosím docela zbytečné, že ano —</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Vy mě nechcete vzít do léčení?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Je mně hrozně líto — Můžete se ustrojit, pane barone.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>To je tedy… konec, Kriste Ježíši… Ježíši Kriste ukřižovaný!</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Vy se ještě vrátíte, člověče.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <stage>(obléká se za plentou)</stage>
             <p>Mám… mám ještě jednou přijít?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano. A můžete si tam vzadu přečíst, kolik se platí za lékařskou prohlídku.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <stage>(vychází, zapínaje se)</stage>
             <p>Poslyšte, doktore, mně se zdá,… že nejste tak docela naivní.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Až si to rozmyslíte, tak — přijdete. <stage>(Otvírá dveře.)</stage> Další nemocný!</p>
           </sp>
@@ -2763,317 +2763,317 @@
         <div type="scene">
           <head>OBRAZ PÁTÝ</head>
           <stage>Pracovna Maršálova.</stage>
-          <sp who="#pobočník">
+          <sp who="#pobocnik">
             <speaker>POBOČNÍK:</speaker>
             <stage>(vejde)</stage>
             <p>Pan baron Krüg.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(píše u psacího stolu)</stage>
             <p>Ať vejde.</p>
           </sp>
           <stage>(Pobočník uvede Barona Krüga a zmizí.)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(píše)</stage>
             <p>Sedněte si, milý barone. Hned jsem hotov. <stage>(Položí pero.)</stage> Tak, kamaráde, k raportu. Jen seďte, milý Krügu. Zavolal jsem si vás, abyste mi dal osobně zprávu — Jak si stojíme?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Dělali jsme, co jsme mohli, Vaše Excelence. Propočítali jsme všechny možnosti —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>A výsledek —?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Nejsem ještě spokojen. Osmdesát těžkých tanků denně —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Místo žádaných šedesáti pěti?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Ano. Dále sedm set stihaček denně, sto dvacet bombardovacích letadel — Tady by se měla výrobní kapacita ještě hodně zvýšit. Nebudeme vyrábět jenom pro nás —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ovšem. A dál?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>S municí je to slušné. Můžeme dodat o třicet procent víc, než žádá hlavní štáb —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>A plyn C?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Jakékoliv množství. Včera se nám s ním stala nehoda — Praskla v jedné dílně nádobka —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Kolik mrtvých?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Všichni. Čtyřicet děvčat a tři muži. Smrt byla — okamžitá.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Smutné, ale jinak krásný výsledek. Gratuluju, milý Krügu.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Děkuju, Vaše Excelence.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Tedy tak dalece by bylo vše připraveno —</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Ano, Vaše Excelence.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Věděl jsem, že se na vás mohu spolehnout. Mimochodem, co dělá váš synovec?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Děkuju, Vaše Excelence, je zdráv.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Slýchám o něm — od své dcery. Tak se mi zdá, kamaráde, že mezi námi dvěma… se naváže příbuzenský svazek, co?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <stage>(vstane)</stage>
             <p>Byla by to pro mne veliká čest, Vaše Excelence.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(vstane)</stage>
             <p>A pro mne upřímná radost, Krügu; už proto, že nebýt vás, nebyl bych se stal, čím jsem teď — To se nezapomíná, příteli.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Byla to má povinnost, Vaše Excelence. Dělal jsem to pro vlast; bylo to… v zájmu mého průmyslového koncernu.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(jde k němu)</stage>
             <p>Pamatujete se, Krügu, jak jsme si podali ruku, nežli jsem tehdy… vytáhl se svými vojáky proti vládě?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Pane maršále, na takové dny se nezapomíná.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Nu tak, starý příteli, podejme si ruce i teď… před větším a slavnějším tažením. <stage>(Podává mu obě ruce.)</stage></p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <stage>(couvá)</stage>
             <p>— — Já nemohu Vaší Excelenci podat ruku.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Proč?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Vaše Excelence, já jsem… malomocný.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(couvne)</stage>
             <p>Můj bože! — — Krügu — byl jste u Sigelia —?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Byl.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>A co —</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Poslal mne… k doktoru Galénovi. Tam jsem… také byl.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>A co řekl Galén?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Že se mohu do čtrnácti dnů vyhojit —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Chválabohu! Ani nevíte, jak jsem rád — Nu tak vidíte, kamaráde, budete zase zdráv!</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Ovšem splním-li jednu podmínku.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Krügu, splňte ji! Já vám to sám nařizuju — My vás příliš potřebujeme, barone Krügu; ať to stojí co chce — Jakou podmínku máte splnit?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>… Jen to, že zastavím ve svých továrnách výrobu válečného materiálu.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>— — Ah tak. Tedy ten Galén je opravdu blázen.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Snad. V očích Vaší Excelence jistě.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>A ve vašich očích ne?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Pan maršál promine, ale já se na to dívám… z trochu jiné stránky.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Krügu, to přece je vyloučeno, aby vaše továrny zastavily dodávku —</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Technicky to nemožné není, Vaše Excelence.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ale politicky ano. Musíte přimět Galéna, aby na té podmínce netrval —</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Jeho jediná podmínka je… mír.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Dětinství! Nemůžeme si dát vnucovat podmínky od nějakého… utopisty! Podívejte se, Krügu — Povídáte, že by vás do čtrnácti dnů uzdravil? Řekněme, že byste na těch čtrnáct dní zastavil výrobu válečného materiálu — Pravda, bylo by to hodně nemilé, ale co dělat! Ohlásili bychom, že je to mírové gesto — — že činíme ještě jednou pokus řešit mocenské nesnáze dohodou — Ano, pro vás bych to udělal, Krügu. A jakmile budete zdráv —</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Děkuju Vaší Excelenci. Ale nebyla by to poctivá hra.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Kamaráde, ve válce nezáleží na poctivé hře.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>To vím, Excelence. Ale Galén není tak hloupý — Může léčení protahovat —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Pravda, bude vás mít v rukou. — Tak řekněte, Krügu, co myslíte vy sám —</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Vaše Excelence, dnes v noci jsem byl rozhodnut… přijmout Galénovu podmínku.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Krügu, to je šílené!</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Ano, strach je šílený, Vaše Excelence.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Vy se tak bojíte —?</p>
           </sp>
           <stage>(Baron Krüg krčí bezmocně rameny.)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(usedne za stůl)</stage>
             <p>To je tedy… bohužel… velmi těžká věc.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Maršále, kdybyste věděl… To je tak odporný pocit, když člověka proniká strach… až do konečků prstů… Fuj! Fuj!… Já pořád vidím sebe sama… jak křičím za ostnatými dráty… Ježíši Kriste, pomozte mi někdo! Kriste Bože, copak se nikdo nesmiluje —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Já vás mám rád, Krügu. Já tě mám rád, člověče, jako vlastního bratra. Co mám s tebou dělat?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Udělejte mír, Excelence… Udělejte mír! Spaste mne, spaste nás všechny… <stage>(Sváží se na kolena.)</stage> Maršále, zachraňte mě!</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(vstane)</stage>
             <p>Vstaňte, barone Krügu!</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <stage>(zvedne se)</stage>
             <p>Prosím, Vaše Excelence.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Barone Krügu, musíte zvýšit výrobu válečného materiálu. Nejsem spokojen s čísly, která jste mi uvedl. Víc, víc, rozumíte?</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Podle rozkazu, Vaše Excelence.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Očekávám, že svou povinnost k vlasti splníte do poslední tečky.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Ano, Vaše Excelence.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(jde k němu)</stage>
             <p>Na to mi dáte svou ruku.</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <p>Ne, maršále! Jsem malomocný!</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Já se nebojím, Krügu. V tom okamžiku, kdy bych se bál, přestanu být… vůdcem. Vaši ruku, barone Krügu!</p>
           </sp>
-          <sp who="#baron-krüg">
+          <sp who="#baron-krug">
             <speaker>BARON KRÜG:</speaker>
             <stage>(podává mu váhavě ruku)</stage>
             <p>Maršále… podle rozkazu.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Děkuju vám, barone Krügu.</p>
           </sp>
           <stage>(Baron Krüg se vypotácí ven.)</stage>
           <stage>MARŠÁL (zvoní).</stage>
-          <sp who="#pobočník">
+          <sp who="#pobocnik">
             <speaker>POBOČNÍK:</speaker>
             <stage>(objeví se ve dveřích)</stage>
             <p>Prosím, Vaše Excelence.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Musíte mi najít doktora Galéna.</p>
           </sp>
@@ -3082,345 +3082,345 @@
         <div type="scene">
           <head>OBRAZ ŠESTÝ</head>
           <stage>Táž pracovna Maršálova.</stage>
-          <sp who="#pobočník">
+          <sp who="#pobocnik">
             <speaker>POBOČNÍK:</speaker>
             <stage>(ve dveřích)</stage>
             <p>Doktor Galén.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(píše)</stage>
             <p>Uveďte ho.</p>
           </sp>
           <stage>(Pobočník uvede Dr. Galéna. Oba zůstanou stát u dveří.)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(píše dál. Po chvíli)</stage>
             <p>Doktor Galén?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(lekne se)</stage>
             <p>Prosím, pane dvorní rado.</p>
           </sp>
-          <sp who="#pobočník">
+          <sp who="#pobocnik">
             <speaker>POBOČNÍK:</speaker>
             <stage>(tiše napovídá)</stage>
             <p>Vaše Excelence.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Totiž Vaše Excelence, že ano —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(píše dál)</stage>
             <p>Pojďte blíž.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>K službám, pane… Vaše Excelence. <stage>(Přiblíží se o krok.)</stage></p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(položí tužku a chvilku ho pozoruje)</stage>
             <p>Chtěl jsem vám blahopřát, doktore Galéne, k vašim úspěchům v léčení bílé nemoci. Dostávám zprávy… od svých úřadů… o vašich výsledcích. <stage>(Bere do ruky fascikl aktů.)</stage> Ty výsledky jsou ověřeny, doktore. Je to podivuhodné.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(zmaten a dojat)</stage>
             <p>Děkuju uctivě, pane… Vaše Excelence.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Tady jsem připravil jakýsi projekt — Chci totiž udělat z nemocnice u Svatého Ducha státní ústav pro potírání Čengovy nemoci. Nastoupíte tam jako primář, doktore Galéne.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ale já… To by nešlo, pane… Já mám totiž takovou klientelu, Vaše Excelence, že ano… To bych prosím opravdu nemohl.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Považujte to za rozkaz, milý doktore Galéne.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Já bych jinak s největší radostí, Vaše Excelence… Ale já přece nemohu řídit… Člověk nemá ani tu zkušenost, že ano…</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Tak vám to řeknu jinak. <stage>(Podívá se na pobočníka, který zmizí.)</stage> Vy jste odmítl vzít do léčení barona Krüga.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>To ne prosím. Já jen… tady byla jistá podmínka —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Vím. Budete tedy léčit barona Krüga — bez jakékoliv podmínky, doktore Galéne.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Je mně hrozně líto, pane… Vaše Excelence… ale to opravdu nejde. Já… já musím trvati na své podmínce —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Doktore, jsou prostředky, kterými lze lidi přinutit,… aby splnili rozkazy.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Podívejte se, vy mě můžete dát zavřít, že ano, ale —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Dobře. <stage>(Sahá po zvonku.)</stage></p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Poslyšte, pane, nedělejte to! Já mám tolik pacientů — Zabijete je, když mne dáte zavřít!</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(pouští zvonek)</stage>
             <p>Nebyli by to první mrtví na mé cestě. Ale vy si to ještě rozmyslíte. <stage>(Vstane a jde k němu.)</stage> Člověče, jste blázen — nebo takový hrdina?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(couvá)</stage>
             <p>Ne prosím, já — Hrdina jistě ne; ale já byl na vojně… jako lékař…, a když jsem viděl tolik lidí umírat… tolik zdravých lidí, že ano —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Já byl také na vojně, doktore. Ale já jsem tam viděl lidi bojovat za vlast. A já jsem je přivedl zpátky jako vítěze.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>To je právě to. Já jsem viděl spíš ty, které… které jste už nepřivedl zpátky. To je ten rozdíl, pane… Vaše Excelence.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>V jaké hodnosti jste sloužil?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(srazí paty)</stage>
             <p>Jako asistenční lékař u šestatřicátého pěšího pluku, pane maršále.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Skvělý pluk. — Nějaké vyznamenání?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Zlatý kříž s meči, pane maršále.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Bravo. <stage>(Podá mu ruku.)</stage></p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Děkuju, pane maršále.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Dobrá. Půjdete se přihlásit k baronu Krügovi.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>— — Prosím, abych byl zatčen pro odepření poslušnosti.</p>
           </sp>
           <stage>(Maršál pokrčí rameny a zazvoní.)</stage>
           <stage>(Pobočník objeví se ve dveřích.)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Dáte zatknout doktora Galéna.</p>
           </sp>
-          <sp who="#pobočník">
+          <sp who="#pobocnik">
             <speaker>POBOČNÍK:</speaker>
             <p>Podle rozkazu, Vaše Excelence. <stage>(Přistoupí k Dr. Galénovi.)</stage></p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Poslyšte, nedělejte to!</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Proč?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Můžete mne potřebovat — třeba i vy.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Já ne. <stage>(K Pobočníkovi.)</stage> Nic. Můžete jít.</p>
           </sp>
           <stage>(Pobočník zmizí.)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Sedněte si, Galéne. <stage>(Usedne vedle něho.)</stage> — Jak vám to mám říci, tvrdohlavý člověče! Podívejte se, mně záleží osobně na baronu Krügovi. Je to vzácný muž a — můj jediný přítel. Nevíte, jaká to je samota, být… diktátorem. Mluvím s vámi… jako člověk. Doktore, zachraňte Krüga! Už jsem… hodně dlouho nikoho neprosil.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Bože, to je tak těžká věc… Já bych tak rád… Poslyšte, já bych měl taky prosbu.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>To není odpověď.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Prosím vás, Vaše Excelence, já jen okamžik… Vy jste takový státník a máte tak nesmírnou moc… Ne že bych vám chtěl lichotit, ale — bohužel je to tak, že ano… Podívejte se, kdybyste vy chtěl nabídnout věčný mír… Bože, jak by byli všichni rádi! Vždyť se celý svět bojí jenom vás… všichni zbrojí jen kvůli vám… Kdybyste vy řekl, že chcete mír, bude na celém světě pokoj, že ano…</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>— — Mluvil jsem o baronu Krügovi, doktore.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano, právě… Vy ho můžete zachránit… jeho a všechny malomocné. Řekněte, že chcete světu zajistit trvalý mír… že uzavřete smlouvu se všemi národy… a je to. Podívejte se, Vaše Excelence, vždyť to záleží jenom na vás! Proboha vás prosím, zachraňte ty chudáky malomocné! A co se týče pana barona, mě to tak mrzelo… Prosím vás, už kvůli němu…</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Baron Krüg na vaši podmínku nemůže přistoupit.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ale vy můžete, pane… Vy můžete udělat všechno!</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Nemohu. Copak vám to mám vysvětlovat jako malému dítěti? Myslíte, že válka nebo mír záleží na mé vůli? Musím se řídit tím, co je v zájmu mého národa. Půjde-li jednou můj národ do války, pak je… má povinnost jej pro ten boj vychovat.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Jenže… kdyby nebylo vás,… tak by váš národ do žádné výbojné války nešel, že ano.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Nešel. Nemohl by. Nebyl by tak dobře připraven. Nebyl by si tak vědom své síly — a svých šancí. Dnes o nich bohudík ví; a já plním jen jeho vůli —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>— kterou jste vy sám vyvolal.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ano. Vzbudil jsem v něm vůli žít. Vy věříte, že mír je lepší než válka. Já věřím, že vítězná válka je lepší než mír. A já svůj národ nesmím připravit o jeho vítězství.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ani o jeho padlé, že ano.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ani o jeho padlé. Člověče, teprve krev padlých dělá z kusu země vlast. Jenom válka udělá z lidí národ a z mužů hrdiny —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>— a mrtvé. Já viděl ve válce víc těch mrtvých, víte —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>To dělá vaše řemeslo, doktore. Já jsem při svém řemesle viděl víc těch hrdin.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano, ti byli vzadu, Vaše Excelence. My v zákopech jsme tak moc stateční nebyli.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Zač jste vy dostal ten řád?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>To bylo… jenom za to, že jsem ovázal nějaké raněné.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Já vím. Bylo to na bojišti mezi zákopy. To nebyla statečnost?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Nebyla prosím. To jen… prostě jako lékař. To člověk musí, že ano…</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>— — Poslyšte, vy s tím vaším mírem: proč, jakým právem to vlastně děláte? Řekněte, je vám to… uloženo?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Já nerozumím prosím.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(tiše)</stage>
             <p>Člověče, máte… vyšší poslání?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ne, vůbec ne. Já jenom jako obyčejný člověk, že ano…</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Pak to nesmíte dělat, doktore. Musí být vyšší poslání… Musí být vyšší vůle, která nás řídí —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Čí vůle?</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Bůh. Já jsem pověřen Bohem, člověče; jinak bych nemohl vést…</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>To teda… musíte vést tu válku?</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ano. Ve jménu národa —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>— jehož děti padnou v boji —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>— a dobudou vítězství. Ve jménu národa —</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>— jehož otcové a matky zajdou malomocenstvím —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(vstane)</stage>
             <p>Na těch nemám tolik zájmu, doktore. Z těch už vojáci nebudou. Nevím, proč jsem vás ještě nedal zatknout.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(vstane)</stage>
             <p>Vaše Excelence poroučí —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Vy uzdravíte barona Krüga. Vlast ho potřebuje.</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Tak já tedy… Tak jen ať pan baron ke mně přijde, že ano…</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>— a přistoupí na vaši nemožnou podmínku, ne?</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ano, Vaše Excelence. Až splní tu… nemožnou podmínku.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Vy na tom trváte? Pak ovšem — <stage>(Jde ke stolu. Vtom cinkne telefon. Maršál zvedne sluchátko.)</stage> — Ano, osobně. — — Jak? — Ano, slyším. — A je — Kdy se to stalo? — Ano. Tak děkuju. <stage>(Položí sluchátko. Chraptivě.)</stage> Můžete jít. Chválabohu před pěti minutami… se baron Krüg zastřelil.</p>
           </sp>
@@ -3432,7 +3432,7 @@
         <div type="scene">
           <head>OBRAZ PRVNÍ</head>
           <stage>U Maršála.</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Tedy v hlavních rysech —</p>
           </sp>
@@ -3440,7 +3440,7 @@
             <speaker>MINISTR PROPAGANDY:</speaker>
             <p>— všude se rozmáhá agitace proti válce. Zejména anglický tisk… Angličané se vždycky hrozně báli nemocí. Vláda dostala petici s mnoha miliony podpisů —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Dobrá. Tím se sami vnitřně oslabují. Dál!</p>
           </sp>
@@ -3448,7 +3448,7 @@
             <speaker>MINISTR:</speaker>
             <p>Tentokrát se bohužel i nejvyšší kruhy angažují pro mír; dokonce i jeden královský dvůr —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>To vím.</p>
           </sp>
@@ -3456,7 +3456,7 @@
             <speaker>MINISTR:</speaker>
             <p>Její Veličenstvo má chorobnou hrůzu před bílou nemocí; zachvátilo to její tetu — Král prý připravuje výzvu ke všem vládám světa, aby obeslaly konferenci o trvalém míru —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>To by bylo nepříjemné. Nemohlo by se předem zakročit —?</p>
           </sp>
@@ -3464,7 +3464,7 @@
             <speaker>MINISTR:</speaker>
             <p>Je to už všechno příliš daleko. Prostě veřejné mínění celého světa bude zuřivě proti každé válce. To dělá ten strach před malomocenstvím, Vaše Excelence. Lidé už nechtějí politiku, chtějí jen lék, jen záchranu — Dostáváme hlášení, že už i u nás se mluví dost malomyslně — řekněme přímo protiválečně. Raději prý zdraví než nějaké vavříny —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Zbabělci! Teď, když jsme tak připraveni — Tak příznivá situace se naskytne stěží jednou za sto let! Poslyšte, ručíte mi za to, že ta… nálada bude u nás potlačena?</p>
           </sp>
@@ -3472,7 +3472,7 @@
             <speaker>MINISTR:</speaker>
             <p>Vaše Excelence, nadlouho za to ručit nemohu. Mládež je plna nadšení a půjde za vámi do ohně; ale u starších lidí se šíří tíseň a strach —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Já víc potřebuju ty mladé.</p>
           </sp>
@@ -3480,7 +3480,7 @@
             <speaker>MINISTR:</speaker>
             <p>Zajisté, ale ti staří jsou… hospodářsky silnější. Mimoto mají ještě pořád v rukou vedoucí místa a vyšší úřady… V případě války by to mohlo tu a tam zaskřípat. Je krajně nutno uklidnit veřejnost —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Čím?</p>
           </sp>
@@ -3488,7 +3488,7 @@
             <speaker>MINISTR:</speaker>
             <p>Přinutit toho doktora, aby dal k dispozici svůj lék.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Člověče, toho kdybyste dal na skřipec, je to marné. Já ho znám.</p>
           </sp>
@@ -3496,7 +3496,7 @@
             <speaker>MINISTR:</speaker>
             <p>Máme své osvědčené prostředky, jak vykonat na lidi nátlak —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>— jenže ty prostředky se obyčejně končí smrtí. Ne, děkuju; to by v našem případě neudělalo dobrý dojem.</p>
           </sp>
@@ -3504,7 +3504,7 @@
             <speaker>MINISTR:</speaker>
             <p>Pak by nezbývalo než… třeba dočasně… povolit tomu volání po míru —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>— a propást příznivou situaci. Škrtněte to.</p>
           </sp>
@@ -3512,7 +3512,7 @@
             <speaker>MINISTR:</speaker>
             <p>Nebo udeřit tak rychle, než se zformuje mírová fronta. To znamená —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>— udeřit ihned. A udeřit na nejslabší místo. Pokud jde o příčiny k vojenskému zakročení —</p>
           </sp>
@@ -3520,7 +3520,7 @@
             <speaker>MINISTR:</speaker>
             <p>— máme je připraveny už dávno. Úklady proti našemu státu, soustavné provokace a tak dále. V pravý okamžik se přihodí menší politický atentát — Pak stačí nařídit rozsáhlé zatýkání a dát pokyn tisku. Dojde k spontánním demonstracím pro válku — Ručím za vlastenecké nadšení — dokud není pozdě.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>— Děkuju vám. Věděl jsem, že se na vás mohu spolehnout. — Konečně! Bože, konečně povedu svůj národ k velikosti!</p>
           </sp>
@@ -3530,17 +3530,17 @@
           <head>OBRAZ DRUHÝ</head>
           <stage>Před zvednutím opony je slyšet vojenské marše, polnice a bubny, zanikající v rostoucím nadšeném křiku davů.</stage>
           <stage>Zvedne se opona. Pracovna Maršálova. Na otevřeném balkonu mluví Maršál k davům. Uvnitř pracovny Maršálova Dcera a Mladý baron Krüg ve vojenské uniformě.</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(k davům)</stage>
             <p>— — v tuto chvíli, kdy naše stříbrná letadla už rozsévají zkázu nad městy našich zákeřných nepřátel — <stage>(Nadšený pokřik.)</stage> — chci se zodpovědět svému národu ze svého nejtěžšího kroku. <stage>(Ať žije maršál! Sláva maršálovi!)</stage> Ano, zahájil jsem válku, a zahájil jsem ji bez vypovězení. Učinil jsem tak, abych ušetřil tisíce životů vašich dětí, jež v tomto okamžiku vyhrávají svou první bitvu, dříve než se nepřítel mohl vzpamatovat ze svého zděšení. Žádám vás nyní dodatečně o váš souhlas — <stage>(Frenetický křik. Ano! Ano! Souhlasíme! Ať žije maršál!)</stage> Dále, zvedl jsem boj bez dalšího ponižujícího jednání s tím malým, mizerným státečkem, který si myslel, že může beztrestně provokovat a urážet náš velký národ — <stage>(Rozhořčený křik davů.)</stage> — a rozvracet jeho pořádek a bezpečnost svými placenými bandity. <stage>(Řev davů. Zabít je! Na ně! Zrádci! Pověsit!)</stage> Ticho! Křikem se toho zla nezbavíme! Byla jen jedna cesta: zničit trestnou výpravou ten obtížný státeček, který soustavně ohrožoval náš mír; zničit ten malý a méněcenný národ, který ani nemá práva žít; zničit jej, ať jej chrání kdokoliv, — a teď ať ty druhé mocnosti ukážou své karty! Pravím jen, že my se nebojíme nikoho! <stage>(Veliký křik: Nebojíme! Ať žije maršál! Ať žije válka!)</stage> Věděl jsem, že stojíte za mnou. Za vaši čest jsem poslal své nádherné vojsko do boje. Stejně tak za vás prohlašuju celému světu do očí: My jsme tu válku nechtěli, ale my ji vyhrajeme! Vyhrajeme ji z vůle boží — Vyhrajeme ji, <stage>(tluče se do prsou)</stage> protože my jsme v právu!… My jsme v právu… <stage>(Slaběji.)</stage> My… jsme v právu… <stage>(Velký křik. My jsme v právu! Sláva válce! Sláva maršálovi!)</stage></p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(potácí se z balkonu a tluče se do prsou)</stage>
             <p>My jsme v právu… My jsme v právu… My jsme… Já…</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <stage>(přiběhne k němu)</stage>
             <p>Co je vám, Excelence?</p>
@@ -3549,15 +3549,15 @@
             <speaker>DCERA:</speaker>
             <p>Co se ti stalo?</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Nechte mne… Jděte… <stage>(Tluče se do prsou.)</stage> My jsme v právu… Co je to? <stage>(Rozepíná si kabát a sahá si na prsa.)</stage> My… jsme v právu… <stage>(Roztrhne si košili.)</stage> Podívejte se… tady…</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Ukažte! <stage>(Krüg i Dcera se skloní k Maršálově hrudi.)</stage></p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Já tady nic necítím… Je to jako mramor…</p>
           </sp>
@@ -3566,7 +3566,7 @@
             <stage>(sevřeně)</stage>
             <p>Ale ne, tati… Nic tam nemáš, ani se nedívej —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Pusť… <stage>(Hmatá si na prsa.)</stage> Bez citu… docela bez citu…</p>
           </sp>
@@ -3575,23 +3575,23 @@
             <p>Tatínku, nic to není… uvidíš!</p>
           </sp>
           <stage>(Zvenčí rostoucí volání: Maršál! Maršál! Maršál!)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Já vím, co to je. Jdi, holčičko, jdi… Nech mne…</p>
           </sp>
           <stage>(Zvenčí volání: Maršál! Chceme maršála!)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ano! Už jdu. <stage>(Zapíná si kabát.)</stage> Prosím vás, děti, jděte! Nemá to smysl, abyste tady… Tohle už není nic pro vás.</p>
           </sp>
           <stage>(Maršál! Chceme maršála!)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Už jdu. <stage>(Vystoupí na balkon, vzpřímený, s rukou zvednutou na pozdrav.)</stage></p>
           </sp>
           <stage>(Nesmírný křik: Ať žije maršál! Sláva maršálovi! Sláva válce!)</stage>
           <stage>(Dcera propukne v pláč.)</stage>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>To nesmíte! Slyšíte, drahoušku…</p>
           </sp>
@@ -3599,49 +3599,49 @@
             <speaker>DCERA:</speaker>
             <p>Pavle… když tatínek…</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Já vím; ale teď nesmíte plakat. <stage>(Jde k telefonu, horečně listuje v seznamu, natočí číslo.)</stage> Haló… Dvorní rada Sigelius? — Tady Krüg. Přijeďte ihned sem, do maršálova paláce. — Ano, k maršálovi samotnému… Ano, bílá skvrna. <stage>(Položí sluchátko.)</stage> Prosím vás, Aneto, neplačte!</p>
           </sp>
           <stage>(Zvenčí volání: Ať žije maršál! Ať žije válka! Ať žije armáda! Sláva maršálovi!)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(vrací se z balkonu)</stage>
             <p>Přece jen mne mají rádi… Je to veliký den. — Nu neplač, malá!</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Vaše Excelence, dovolil jsem si zavolat dvorního radu Sigelia…</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ano, Pavle. Abych stonal podle vědeckých předpisů, že? <stage>(Mávne rukou.)</stage> Nedošly ještě… žádné zprávy… o našich letadlech?</p>
           </sp>
           <stage>(Zvenčí zpěv a vojenská hudba.)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Slyšíte je? Jak jásají — Konečně jsem z nich udělal národ! <stage>(Hmatá si pod kabátem.)</stage> Zvláštní… Je to studené jako mramor. Jako bych to už nebyl já —</p>
           </sp>
           <stage>(Zvenčí: Maršál! Maršál! Maršál!)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Už jdu… už jdu… <stage>(Potácí se k balkonu.)</stage></p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Dovolte, Vaše Excelence. <stage>(Vyběhne na balkon a dává znamení, aby se dav utišil.)</stage> Jeho Excelence pan maršál vám děkuje. Právě se odebral k své práci.</p>
           </sp>
           <stage>(Ať žije maršál! Ať žije válka! Sláva maršálovi!)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Je to hodný hoch… Starého Krüga jsem měl velmi rád. <stage>(Usedá.)</stage> Chudák baron Krüg! Chudák… chudák…</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <stage>(vrací se z balkonu)</stage>
             <p>Prosím vás, Aneto — <stage>(Ukáže na okna. Oba stahují těžké záclony a rozsvítí lampu na stole. Šero a ticho, jen tlumeně zaléhá zvenčí zpěv a pochody.)</stage></p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ano. Teď to tu aspoň vypadá jako u nemocného.</p>
           </sp>
@@ -3650,15 +3650,15 @@
             <stage>(usedne u jeho nohou)</stage>
             <p>Ty nebudeš nemocný. Přijdou největší doktoři světa a uzdraví tě. Teď si musíš lehnout, tati —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ne, ne, já přece nemohu stonat. Já musím vést válku, holčičko. Uvidíš, že na to nebudu ani myslet — Jenom teď, tu chvilku mezi vámi… jen co si oddychnu. To dělal ten hluk. Člověku je líp, když může zalézt do tmy… a někoho držet za ruku, víš?… Ale to přejde, uvidíte; já musím dělat tu vojnu… Jen co přijdou první zprávy! — Slyšíte, jak venku zpívají? Zní to jako… z jiného břehu.</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Kdyby to Vaši Excelenci rušilo —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ne, nechte je. Teď všude, všude vlají prapory… Měl bych jet městem… ukázat se… a říci všem, že my jsme v právu, my… my… <stage>(Tluče se do prsou.)</stage></p>
           </sp>
@@ -3666,16 +3666,16 @@
             <speaker>DCERA:</speaker>
             <p>Tatínku, ne! Nesmíš už na to myslet!</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ne, nesmím, dceruško. Počkej, až pojedu v čele vojáků jako vítěz… Tys mne neviděla, když jsem v poslední válce vedl naše vojáky domů. Tos byla ještě moc maličká, viď? Ale teď uvidíš — Počkej, jakou budeš mít radost! Pavle, válka je krásná věc! To je, pro nás muže, to největší — Udeřit na pravém křídle! Obchvat! Hoďte tam deset armádních sborů —</p>
           </sp>
-          <sp who="#pobočník">
+          <sp who="#pobocnik">
             <speaker>POBOČNÍK:</speaker>
             <stage>(ve dveřích)</stage>
             <p>Pan dvorní rada Sigelius přijel. Mám ho uvést sem?</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Co?… Co chce?</p>
           </sp>
@@ -3683,11 +3683,11 @@
             <speaker>DCERA:</speaker>
             <p>Uveďte ho… do tatínkovy ložnice.</p>
           </sp>
-          <sp who="#pobočník">
+          <sp who="#pobocnik">
             <speaker>POBOČNÍK:</speaker>
             <p>Prosím. <stage>(Zmizí.)</stage></p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ano, už vím. Nejlepší doktoři světa, že?… <stage>(Vstane.)</stage> Škoda. S vámi mně bylo líp.</p>
           </sp>
@@ -3696,12 +3696,12 @@
             <stage>(provází ho ke dveřím)</stage>
             <p>Nesmíš se bát, tati.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Co? — Maršál se nebojí, děvčátko. Maršál… má své poslání. <stage>(Vyjde.)</stage></p>
           </sp>
           <stage>(Ticho. Jen vojenský pochod zvenčí.)</stage>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Plač, Aneto, plač! Teď můžeš!</p>
           </sp>
@@ -3709,7 +3709,7 @@
             <speaker>DCERA:</speaker>
             <p>Poslyš, Pavle — Snad opravdu má poslání — Snad se mu opravdu nemůže nic stát!</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>— — Je to hrůza, Aneto! Tak pokročilé stadium… Pro Krista, jak je možno, že o tom nevěděl dřív?</p>
           </sp>
@@ -3717,7 +3717,7 @@
             <speaker>DCERA:</speaker>
             <p>Když… když on na sebe vůbec nemyslel… Byl si tak jist… <stage>(Vzlyká, opřena o krb.)</stage></p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Aneto, dnes večer nastupuju k svému pluku.</p>
           </sp>
@@ -3725,7 +3725,7 @@
             <speaker>DCERA:</speaker>
             <p>Ty přece nemusíš —</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>V naší rodině se obyčejně povinnosti plnívají. Taková hloupá tradice, víš?</p>
           </sp>
@@ -3733,7 +3733,7 @@
             <speaker>DCERA:</speaker>
             <p>Ale vždyť ta válka nemůže dlouho trvat! Tatínek říkal, že za několik dní —</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Možná. Ale v každém případě… tu budeš nějaký čas sama. Musíš být statečná, Aneto.</p>
           </sp>
@@ -3741,16 +3741,16 @@
             <speaker>DCERA:</speaker>
             <p>Já budu.</p>
           </sp>
-          <sp who="#pobočník">
+          <sp who="#pobocnik">
             <speaker>POBOČNÍK:</speaker>
             <stage>(vejde)</stage>
             <p>Jiskrové depeše prosím.</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Dejte je panu maršálovi na stůl.</p>
           </sp>
-          <sp who="#pobočník">
+          <sp who="#pobocnik">
             <speaker>POBOČNÍK:</speaker>
             <p>Prosím. <stage>(Položí telegramy na stůl a zmizí.)</stage></p>
           </sp>
@@ -3758,7 +3758,7 @@
             <speaker>DCERA:</speaker>
             <p>Pavle,… co mám dělat?</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Okamžik. <stage>(Jde ke stolu a prohlíží depeše.)</stage> Promiň, neměl bych, ale… To by člověk nevěřil! Takový malý národ —</p>
           </sp>
@@ -3766,7 +3766,7 @@
             <speaker>DCERA:</speaker>
             <p>Co dělají?</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Začali se bránit. Jako křečci. Máme úspěchy, ale útok na hlavní město selhal. Ztratili jsme tam osmdesát letadel… Tanky na hranicích narazily na silný odpor —</p>
           </sp>
@@ -3774,7 +3774,7 @@
             <speaker>DCERA:</speaker>
             <p>Je to špatné?</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Přinejmenším ztráta času. Zatím jim může přijít pomoc, víš? Maršál asi počítal s tím, že první náraz stačí — Tady dvě velmoci nám dávají ultimátum — Už nařídily mobilizaci. Kriste, to to jde rychle! Tři, čtyři… pět ultimát najednou —</p>
           </sp>
@@ -3782,7 +3782,7 @@
             <speaker>DCERA:</speaker>
             <p>Tedy vlastně… špatné zprávy?</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Myslím, že hodně špatné, Aneto.</p>
           </sp>
@@ -3790,12 +3790,12 @@
             <speaker>DCERA:</speaker>
             <p>Máme mu je ukázat?</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Musíme. Neboj se, děvče, maršál je silný — Takového člověka nemoc nezlomí. Uvidíš, jak se teď postaví nad válečnou mapu a zapomene na všechno… Je to voják. Postav ho před jícny pušek, a ani nemrkne…</p>
           </sp>
           <stage>(Do pracovny se vpotácí Maršál ve vlajícím županu.)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(vzlyká)</stage>
             <p>Ježíši, Bože nebeský… Kriste… Kriste Ježíši… Ježíši Kriste ukřižovaný!…</p>
@@ -3804,83 +3804,83 @@
             <speaker>DCERA:</speaker>
             <p>Tati!</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <stage>(běží k němu)</stage>
             <p>Vaše Excelence, vzpamatujte se — <stage>(Vede ho k lenošce.)</stage></p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Jděte pryč! Jděte pryč! To přejde… za chvíli… Můj Bože, můj ty Ježíši Kriste… Ještě šest neděl… Jenom šest neděl, řekl ten doktor — A potom ten konec… ten konec… Kriste Ježíši! Proč si to člověk nedovede dřív představit! Teprve když to pozná na sobě… Ježíši Kriste, smiluj se!</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <stage>(dává znamení Anetě, aby věc nechala jemu)</stage>
             <p>Vaše Excelence, došly zprávy z bojiště.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Co?… Nechte mne teď, já nemohu… Jděte všichni pryč! Copak nevidíte, lidi, copak nevidíte…</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Vaše Excelence, došly špatné zprávy.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Jak? — Dejte je sem! <stage>(Bere zprávy a mlčky je studuje.)</stage> To ovšem… mění situaci. <stage>(Vstane.)</stage> Zavolejte mi sem… ne, nikoho. Dám své rozkazy písemně. <stage>(Sedne k psacímu stolu.)</stage></p>
           </sp>
           <stage>(Krüg se postaví vedle něho. Dcera nehnutě stojí a modlí se.)</stage>
           <stage>(Zvenčí zpěv.)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(chvatně píše)</stage>
             <p>Mobilizovat další ročníky!</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <stage>(bere od něho list)</stage>
             <p>Ano, Vaše Excelence.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(píše, až přelomí tužku. Krüg mu podá novou)</stage>
             <p>Dispozice letectvu.</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <stage>(bere od něho list)</stage>
             <p>Ano, pane maršále.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>A tady — <stage>(Horečně něco škrtá.)</stage> Ne, to nejde. <stage>(Utrhne list z bloku, zmačká a hodí do koše.)</stage> To se musí udělat jinak — <stage>(Píše a opět se zarazí.)</stage> Ne. Počkejte okamžik. <stage>(Položí hlavu na stůl.)</stage></p>
           </sp>
           <stage>(Krüg bezradně vzhlédne k Anetě.)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>— — — Bože, smiluj se! Bože, smiluj se!</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Vaše Excelence, čekám na další rozkazy.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(zvedá hlavu)</stage>
             <p>Ano, hned… <stage>(Vstane a potácí se do středu scény.)</stage> Já tedy rozkazuju… Aneto, zítra… zítra se postavím osobně v čelo útočící armády. Já sám budu řídit všechny operace… To je mé poslání, víš? A až zvítězíme,… pojedu v čele vojáků na koni…</p>
           </sp>
           <stage>(Vojenský marš zvenčí.)</stage>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>— — mezi hromadami trosek. Víš, tam bývalo nějaké hlavní město. A já pojedu, maso ze mne už dávno spadalo… budu mít už jen oči, ale ještě pořád potáhnu v čele vojáků, kostra na bílém koni… A lidé budou volat: Ať žije maršál! Ať žije Jeho Excelence Smrťák!</p>
           </sp>
           <stage>(Dcera zakvílí a zakrývá si tváře rukama.)</stage>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Nesmíte tak mluvit, maršále!</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Máte pravdu, Pavle… Nebojte se, na to už nedojde. Já vím, co udělám. Zítra… zítra se postavím v čelo vojáků. Ale ne v hlavním stanu. Tam bych… třeba… svým generálům už páchnul. Ale v čelo útoku… se šavlí v ruce… hoši, za mnou! za mnou! A padnu-li, Pavle,… já totiž musím padnout. Pak aspoň vojáci pomstí svého maršála… Budou bojovat jako čerti… Hoši, kupředu! Na bodáky! Hurá, hoši, ať to už stojí za to! <stage>(Tluče se do prsou.)</stage> My jsme vyhráli! My… My… <stage>(Sahá si na prsa.)</stage> Já… Aneto! Aneto, já mám strach —</p>
           </sp>
@@ -3889,7 +3889,7 @@
             <stage>(jde k němu, mateřsky silná)</stage>
             <p>To nesmíš, tati. Tady si sedni a nemysli na nic, rozumíš? <stage>(Usadí ho do lenošky.)</stage></p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ano. Já nesmím myslet, nebo… nebo… Víš, já jsem to viděl na té klinice… Jeden člověk chtěl vstát, aby mne pozdravil,… a tu mu… upadl takový kus… Ježíši Kriste! Ježíši Kriste! Copak není žádné smilování?</p>
           </sp>
@@ -3899,54 +3899,54 @@
             <stage>(hladí Maršálovu hlavu)</stage>
             <p>Teď na to nemysli, tatínku. My tě přece nedáme. Ty se přece uzdravíš. To už je naše věc, tati. Ty se musíš vyhojit, ty musíš, ty prostě musíš! Řekni, že se chceš uzdravit —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Já chci… Já musím vyhrát tu válku, víš? Aspoň půl roku kdybych měl! Bože, mít aspoň rok na tu válku!</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <stage>(natočil na telefonu číslo)</stage>
             <p>Haló — doktor Galén? — Tady Krüg. Doktore, musíte přijít k maršálovi — Ano, je… velmi těžce nemocen. Jen vy můžete — Ano, rozumím. Vaše podmínka je, že… uzavře mír. Ano, já mu to oznámím. Prosím, počkejte u telefonu. <stage>(Zakryje dlaní mluvítko.)</stage></p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(vyskočí)</stage>
             <p>Ne! Ne! Já nechci mír! Já musím vést svou válku. To přece už nemohu odvolat — To by bylo takové ponížení — Vy jste se zbláznil, Pavle! My přece tu válku musíme vyhrát! My jsme v právu —</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Nejsme, pane maršále.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>— — Já vím, mladíku, že nejsme; ale já chci, aby můj národ zvítězil! Na mně nezáleží, člověče, ale jen na něm… Ve jménu národa… Položte to, Pavle, položte to; já mohu… pro svůj národ umřít.</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <stage>(podává telefon Anetě)</stage>
             <p>Můžete, pane; ale co bude potom?</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Po mé smrti? — Hochu, s tím se musí počítat, že jsem smrtelný, ne?</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Ale vy jste s tím nepočítal, pane. Nikdo vás nemůže nahradit — uprostřed války. Vy jste ze sebe udělal jedinou hlavu — Bez vás budeme poraženi. Bez vás nastane zmatek. Bůh nás chraň toho, co by teď přišlo po vás!</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Máte pravdu, Pavle; já — nesmím odejít uprostřed války. Já musím dřív tu válku vyhrát.</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Ta válka… nebude skončena do šesti neděl, pane maršále.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Pravda, do šesti neděl… Tohle mně Bůh neměl udělat! Tohle Bůh… neměl… dopustit… Kriste Ježíši, co mám dělat!</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Zabránit rozvratu, pane. Je to teď… váš úkol. — Aneto —</p>
           </sp>
@@ -3955,97 +3955,97 @@
             <stage>(do telefonu)</stage>
             <p>Doktore, slyšíte? — Já jsem jeho dcera. Přijdete? — Ano, splní vaši podmínku. Ne, ještě to neřekl, ale nemůže nic jiného udělat — Potom byste přišel? A zachráníte ho? Tak já mu řeknu — <stage>(Zakryje mluvítko.)</stage> Tati, kdybys prý mu řekl jen jedno slovo —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ne. Polož to, Aneto. Já — nemohu. Vyřízeno.</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <stage>(klidně)</stage>
             <p>Prosím za prominutí. Vaše Excelence to musí udělat.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Co udělat? Zavolat k sobě toho —</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Ano.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>A pak poníženě nabídnout mír, ne? Odvolat vojsko, že?</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Ano.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>A omluvit se… přijmout i trest —</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>— Ano.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Tak hrozně, tak nesmyslně pokořit svůj národ…</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>— — Ano, pane.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>A pak stejně odejít, muset pak složit svůj zneuctěný úřad —</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Ano. Ale odejít uprostřed míru, pane.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ne! Slyšíte, ne! To ať udělá někdo jiný! Je jich už dost, těch, co stáli proti mně; ať teď ukážou — Já jen… složím svůj úřad; a někdo jiný ať nabídne ten ponižující mír —</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>To jiný — nemůže udělat, Vaše Excelence.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Proč?</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>To by znamenalo občanskou válku. Jen vy můžete nařídit armádě ústup —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Tak ať pojde národ, který si neumí vládnout! Ať mne nechají jít… ať si poradí beze mne —</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Tomu jste je nenaučil, Vaše Excelence.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>— — Pak zbývá ještě jedna… důstojnická možnost. <stage>(Zamíří ke dveřím.)</stage></p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <stage>(postaví se mu do cesty)</stage>
             <p>To neuděláte, pane.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Co? Nemám snad právo na svůj život?</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Nemáte, Vaše Excelence. Musíte ještě… ukončit válku.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Možná že máte pravdu, mladíku — Aneto, je to hodný hoch, ale má příliš mnoho rozumu. Nikdy nic velkého neudělá —</p>
           </sp>
@@ -4054,7 +4054,7 @@
             <stage>(podává mu sluchátko)</stage>
             <p>Tak tati —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(odstrkuje sluchátko)</stage>
             <p>Ne, holčičko. Nechci. Nemohu. Já už nemám proč být živ… ještě dál.</p>
@@ -4063,7 +4063,7 @@
             <speaker>DCERA:</speaker>
             <p>Prosím tě, tati! Prosím tě za všechny malomocné —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Za všechny — Máš pravdu, Aneto: tady jsou ještě jiní — Tady jsme my, my malomocní! Miliony nás malomocných na celém světě — Pravda, já musím s nimi — Dívej se, světe, dívej se, tady stojí… maršál malomocných; a už ne v čele vojsk, ale v čele všeho bolavého lidského masa — Z cesty, z cesty, teď jdeme my — My, my jsme v právu, my malomocní; my chceme jen slitování — Ukaž, Aneto! <stage>(Bere sluchátko.)</stage> Haló, doktore — Ano, sám. — — Ano. — Ano. — Už jsem vám řekl, že ano! — Dobrá. Děkuju. <stage>(Položí sluchátko.)</stage> Tak, to by bylo odbyto. Bude tu… za několik minut.</p>
           </sp>
@@ -4071,7 +4071,7 @@
             <speaker>DCERA:</speaker>
             <p>Zaplaťbůh! <stage>(Rozpláče se radostí.)</stage> Já jsem tak ráda, tati — tak ráda, Pavle —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <stage>(hladí ji po vlasech)</stage>
             <p>Nu jdi — Neštítíš se mne ještě? — Víš, odjedeme potom,… až bude mír —</p>
@@ -4080,7 +4080,7 @@
             <speaker>DCERA:</speaker>
             <p>Až se uzdravíš —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ano, až se všichni uzdravíme. A až dám věci do pořádku, víš? Bude to těžké, Pavle… Jen co přijde ten doktor! — Musíme zastavit ofenzivu… a oznámit všem vládám… <stage>(Bere na psacím stole své rozkazy a trhá je na kousky.)</stage> Škoda, mohla to být… pěkná, veliká válka.</p>
           </sp>
@@ -4088,23 +4088,23 @@
             <speaker>DCERA:</speaker>
             <p>A vidíš, tati, už asi nikdy žádná válka nebude. Když ty rozpustíš tu největší armádu na světě —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Ano, byla to krásná armáda, holčičko… Ani nevíš, jaká to byla skvělá armáda. Dvacet let jsem ji dělal…</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Budete dělat mír, pane. Řeknete lidem, že Bůh vás poučil —</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Bůh… Kdybych opravdu věděl, že to Bůh chce — Pavle, to by také bylo poslání, že?</p>
           </sp>
-          <sp who="#krüg">
+          <sp who="#krug">
             <speaker>KRÜG:</speaker>
             <p>Ano, pane. Byla by to… velká práce.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Práce na dlouhé lokty, já vím. Znám přece diplomaty, chlapče. Ale budu-li ještě několik let živ… Člověk mnoho vydrží, má-li poslání. Mír… Bůh chce, abych dělal mír — Aneto, řekni to,… abych věděl, jak to zní.</p>
           </sp>
@@ -4112,7 +4112,7 @@
             <speaker>DCERA:</speaker>
             <p>Bůh chce, abys dělal mír, tatínku.</p>
           </sp>
-          <sp who="#maršál">
+          <sp who="#marsal">
             <speaker>MARŠÁL:</speaker>
             <p>Opravdu, nezní to špatně… To by bylo velké poslání, viď, Aneto? Už to, že by na světě přestala bílá nemoc — To by bylo ohromné vítězství, že? Dělat mír: to by náš národ byl první mezi všemi — Pravda, bude to dlouhá práce, ale budu-li žít… Jen když budu mít od Boha úkol! — Tak kde je ten doktor, Aneto? Kde je ten doktor?</p>
           </sp>
@@ -4127,7 +4127,7 @@
             <stage>(z prvního aktu)</stage>
             <p>A všichni najednou: Ať žije válka!</p>
           </sp>
-          <sp who="#zástup">
+          <sp who="#zastup">
             <speaker>ZÁSTUP:</speaker>
             <p>Ať žije válka!</p>
           </sp>
@@ -4135,7 +4135,7 @@
             <speaker>SYN:</speaker>
             <p>Nás vede maršál!</p>
           </sp>
-          <sp who="#zástup">
+          <sp who="#zastup">
             <speaker>ZÁSTUP:</speaker>
             <p>Nás vede maršál!</p>
           </sp>
@@ -4143,12 +4143,12 @@
             <speaker>SYN:</speaker>
             <p>Ať žije maršál!</p>
           </sp>
-          <sp who="#zástup">
+          <sp who="#zastup">
             <speaker>ZÁSTUP:</speaker>
             <p>Maršál! Maršál!</p>
           </sp>
           <stage>(Houkání auta, které si nemůže zástupem prorazit cestu.)</stage>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <stage>(vyběhne s kufříkem v ruce)</stage>
             <p>Doběhnu pěšky… Dovolte prosím… Prosím vás, pusťte mě… někdo mě čeká…</p>
@@ -4157,19 +4157,19 @@
             <speaker>SYN:</speaker>
             <p>Občané, volejte: Ať žije maršál! Ať žije válka!</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Ne! Válka ne! Nesmí být žádná válka! Poslyšte, ne, válka nesmí být!</p>
           </sp>
-          <sp who="#zástup">
+          <sp who="#zastup">
             <speaker>VÝKŘIKY:</speaker>
             <p>Co to říkal? — Zrádce! — Zbabělec! — Mažte ho!</p>
           </sp>
-          <sp who="#galén">
+          <sp who="#galen">
             <speaker>DR. GALÉN:</speaker>
             <p>Musí být mír! Pusťte mne — Já jdu k maršálovi —</p>
           </sp>
-          <sp who="#zástup">
+          <sp who="#zastup">
             <speaker>VÝKŘIKY:</speaker>
             <p>Urazil maršála! — Na lucernu! — Zabte ho!</p>
           </sp>
@@ -4180,7 +4180,7 @@
             <stage>(kopne do něho)</stage>
             <p>Vstávej, potvoro! Koukej mazat, nebo —</p>
           </sp>
-          <sp who="#jeden-ze-zástupu">
+          <sp who="#jeden-ze-zastupu">
             <speaker>JEDEN ZE ZÁSTUPU:</speaker>
             <stage>(klekne k ležícímu)</stage>
             <p>Počkat, občane. Ono je po něm.</p>
@@ -4189,7 +4189,7 @@
             <speaker>SYN:</speaker>
             <p>Žádná škoda. O jednoho zrádce míň. Sláva maršálovi!</p>
           </sp>
-          <sp who="#zástup">
+          <sp who="#zastup">
             <speaker>ZÁSTUP:</speaker>
             <p>Ať žije maršál! Maršál! Mar-šál!</p>
           </sp>
@@ -4198,7 +4198,7 @@
             <stage>(otevře kufřík)</stage>
             <p>Hele, byl to nějaký doktor! <stage>(Rozbíjí lahvičky s léky a dupe na ně.)</stage> Tak! Ať žije válka! Ať žije maršál!</p>
           </sp>
-          <sp who="#zástup">
+          <sp who="#zastup">
             <speaker>ZÁSTUP:</speaker>
             <stage>(valí se dál)</stage>
             <p>Maršál! Mar-šál! Ať — žije — maršál!</p>

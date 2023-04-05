@@ -43,7 +43,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="bůh" sex="UNKNOWN">
+          <person xml:id="buh" sex="UNKNOWN">
             <persName>HLAS BOŽÍ</persName>
           </person>
           <person xml:id="adam" sex="MALE">
@@ -61,22 +61,22 @@
           <person xml:id="lilith" sex="FEMALE">
             <persName>LILITH</persName>
           </person>
-          <person xml:id="žena_alter-egova" sex="FEMALE">
+          <person xml:id="zena_alter-egova" sex="FEMALE">
             <persName>ALTER EGOVA ŽENA</persName>
           </person>
-          <person xml:id="rétor" sex="MALE">
+          <person xml:id="retor" sex="MALE">
             <persName>RÉTOR</persName>
           </person>
           <person xml:id="poeta" sex="MALE">
             <persName>POETA</persName>
           </person>
-          <person xml:id="vědátor" sex="MALE">
+          <person xml:id="vedator" sex="MALE">
             <persName>VĚDÁTOR</persName>
           </person>
           <person xml:id="romantik" sex="MALE">
             <persName>ROMANTIK</persName>
           </person>
-          <person xml:id="hédonik" sex="MALE">
+          <person xml:id="hedonik" sex="MALE">
             <persName>HÉDONIK</persName>
           </person>
           <person xml:id="filozof" sex="MALE">
@@ -100,37 +100,37 @@
           <person xml:id="opilec" sex="MALE">
             <persName>OPILEC</persName>
           </person>
-          <person xml:id="velekněz" sex="MALE">
+          <person xml:id="veleknez" sex="MALE">
             <persName>VELEKNĚZ</persName>
           </person>
           <person xml:id="novic" sex="MALE">
             <persName>NOVIC</persName>
           </person>
-          <person xml:id="strážník" sex="MALE">
+          <person xml:id="straznik" sex="MALE">
             <persName>STRÁŽNÍK</persName>
           </person>
-          <person xml:id="hlídač" sex="MALE">
+          <person xml:id="hlidac" sex="MALE">
             <persName>HLÍDAČ</persName>
           </person>
-          <person xml:id="černý-hlasatel" sex="MALE"> <!--PP: Who is this? Cf. note below ("romantik"). Must be checked and solved, left like this for now.-->
+          <person xml:id="cerny-hlasatel" sex="MALE"> <!--PP: Who is this? Cf. note below ("romantik"). Must be checked and solved, left like this for now.-->
             <persName>ČERNÝ HLASATEL</persName>
           </person>
-          <person xml:id="červený-hlasatel" sex="MALE"> <!--PP: Is it "romantik"? Must be checked and solved, left like this for now.-->
+          <person xml:id="cerveny-hlasatel" sex="MALE"> <!--PP: Is it "romantik"? Must be checked and solved, left like this for now.-->
             <persName>ČERVENÝ HLASATEL</persName>
           </person>          
-          <person xml:id="jeden-v-davu" sex="MALE"> <!--PP note: One of the crowd of both Adam's people and Alter Ego´s. How to code it? Leave it like that as a separate single "character"?-->
+          <person xml:id="jeden-v-davu" sex="MALE"> <!--PP note: One of the crowd of both Adam's people and Alter Egos. How to code it? Leave it like that as a separate single "character"?-->
             <persName>JEDEN V DAVU</persName>
           </person>
           <personGrp xml:id="hlasy" sex="UNKNOWN"> <!--PP note: Again most likely both groups of Adam and AE people. Leave it like that as a group "anonymous" character, or to code it differently?-->
             <persName>HLASY</persName>
           </personGrp>
-          <personGrp xml:id="hlasy-za-scénou" sex="UNKNOWN"> <!--PP note: "hlasy-za-scénou" = voices behind the scene.-->
+          <personGrp xml:id="hlasy-za-scenou" sex="UNKNOWN"> <!--PP note: "hlasy-za-scenou" = voices behind the scene.-->
             <persName>HLASY ZA SCÉNOU</persName>
           </personGrp>
-          <personGrp xml:id="několik-hlasů" sex="UNKNOWN"> <!--PP note: "několik-hlasů" = a few voices.-->
+          <personGrp xml:id="nekolik-hlasu" sex="UNKNOWN"> <!--PP note: "nekolik-hlasu" = a few voices.-->
             <persName>NĚKOLIK HLASŮ</persName>
           </personGrp>
-          <personGrp xml:id="chóry-za-scénou" sex="UNKNOWN"> <!--PP note: "chóry-za-scénou" = choirs behind the scene.-->
+          <personGrp xml:id="chory-za-scenou" sex="UNKNOWN"> <!--PP note: "chory-za-scenou" = choirs behind the scene.-->
             <persName>CHÓRY ZA SCÉNOU</persName>
           </personGrp>
           <person xml:id="hlas-v-jeskyni" sex="UNKNOWN"> <!--PP: Could be Adam & Alter Ego together according to hints in the text (commentary). Leave it like this, or to code it with two values "#adam #alter-ego" of "who" attribute?-->
@@ -211,7 +211,7 @@
           <speaker>ADAM:</speaker>
           <p>Za šest minut poledne; ohlásil jsem to tabulemi a letáky po celém městě, a vida, nepřijde ani noha. Dobrá; stane se i bez vás. <stage>(Dívá se na hodinky.)</stage> To je to: bylo už tolik bláznů a šarlatánů, kteří chtěli svět spasit, že ani pes už nebere vážně člověka, který chce svět zničit. Ano, dámy a pánové, bude to jedinečná produkce; úderem dvanácté se předvede poprvé a naposled kratochvilná historie nazvaná Konec světa; složil a scénoval zneuznaný veliký autor a vynálezce jménem Adam. <stage>(Ukloní se.)</stage> Veliký člověk je vždycky sám. Mně je to jedno. <stage>(Dívá se na hodinky.)</stage> Chtěl bych, aby tu stálo celé to malé a bídné lidstvo a já mu vmetl ve tvář svou strašlivou žalobu i ortel. Však byste padli na kolena a prosili: Adame, zachraň nás! Ale já, já, stoje u tohoto děla, bych jenom řekl: Je konec. Svět musí býti zničen. <stage>(Dívá se na hodinky.)</stage> Nepřijdou. Tím hůř pro ně. Svět nestojí za to, aby byl zachráněn. Kanon negace je nabit až po ústí. <stage>(Strhne plachtu z Kanonu negace.)</stage> Můj krásný Kanone, co je prach a ekrazit proti lidskému Ne? Co jsem se nasbíral vší negace a nastřádal všech rozumů! Co vše jsem přečetl a co debat jsem svedl, než jsem se stal pánem záporu! <stage>(Dívá se na hodinky.)</stage> Začněme! Ale dřív ještě přečtu svůj Manifest, když už jsem se s tím psal. <stage>(Vyjme z kapsy složený Manifest, odkašle a čte:)</stage> „Ve jménu jediné osvobozující Anarchie –“– to zní dobře; je to stručné a silné.„– ohlašuje se zničení světa. Důvody: Každý řád je násilí. Náboženství je podvod. Soukromý život je předsudek. Zákony jsou otrocká pouta. Každá vláda je tyranie. Jediná odpověď na tento stav je hromové Ne!My –“– vlastně bych měl říci „já“, protože jsem mezi těmi šosáky nenašel jediného schopného učedníka; ale „my“ zní vždycky lépe.„My prohlašujeme veškerý řád, všechny zvyky a instituce za špatné a nulní; prohlašujeme, že každá snaha o nápravu a převrat světových řádů je zbabělý kompromis; prohlašujeme, že všechno je špatně; život je zlozvyk; humanita je slabost; trpělivost je zločin; ze všeho pak nejhorší je soucit a tolerance.“</p>
         </sp>
-        <sp who="#strážník">
+        <sp who="#straznik">
           <speaker>STRÁŽNÍK:</speaker>
           <stage>(který se zatím pomalu přiblížil)</stage>
           <p>Hej, pane!</p>
@@ -221,7 +221,7 @@
           <stage>(vzhlédne)</stage>
           <p>Co je?</p>
         </sp>
-        <sp who="#strážník">
+        <sp who="#straznik">
           <speaker>STRÁŽNÍK:</speaker>
           <p>Nekřičte tak, nebo vás seberu.</p>
         </sp>
@@ -229,7 +229,7 @@
           <speaker>ADAM:</speaker>
           <p>Dovolte, jako svobodný člověk mohu mluvit, co chci. Ostatně jsem to psal a kázal už tisíckrát: bylo to marné. Zbytečně bych se opakoval. <stage>(Zastrkuje zmačkaný Manifest do kapsy.)</stage></p>
         </sp>
-        <sp who="#strážník">
+        <sp who="#straznik">
           <speaker>STRÁŽNÍK:</speaker>
           <p>Říkat to můžete, ale hulákat ne. Co to tady máte?</p>
         </sp>
@@ -237,7 +237,7 @@
           <speaker>ADAM:</speaker>
           <p>Kanon negace.</p>
         </sp>
-        <sp who="#strážník">
+        <sp who="#straznik">
           <speaker>STRÁŽNÍK:</speaker>
           <p>A máte povolení?</p>
         </sp>
@@ -245,7 +245,7 @@
           <speaker>ADAM:</speaker>
           <p>Nač? Na negaci?</p>
         </sp>
-        <sp who="#strážník">
+        <sp who="#straznik">
           <speaker>STRÁŽNÍK:</speaker>
           <p>Ne, ale abyste to postavil na tenhle pozemek.</p>
         </sp>
@@ -253,7 +253,7 @@
           <speaker>ADAM:</speaker>
           <p>Já se vykašlu na povolení.</p>
         </sp>
-        <sp who="#strážník">
+        <sp who="#straznik">
           <speaker>STRÁŽNÍK:</speaker>
           <p>Tak to spakujte a koukejte, ať vás už tady nevidím. Nebo budete platit pokutu. Za hodinu ať je to pryč!</p>
         </sp>
@@ -261,7 +261,7 @@
           <speaker>ADAM:</speaker>
           <p>Za hodinu? Řekněte za půl minuty! Všecko bude za minutu totam, strážče světa! Nezeptáte se, co tím míním?</p>
         </sp>
-        <sp who="#strážník">
+        <sp who="#straznik">
           <speaker>STRÁŽNÍK:</speaker>
           <p>Jděte raději domů, pane! <stage>(Zajde.)</stage></p>
         </sp>
@@ -340,7 +340,7 @@
           </lg>
         </sp>
         <stage>(Rozsvítí se nahoře Boží oko. Zahřmění.)</stage>
-        <sp who="#bůh">
+        <sp who="#buh">
           <speaker>HLAS BOŽÍ:</speaker>
           <p>Adame, co jsi to učinil?</p>
         </sp>
@@ -348,7 +348,7 @@
           <speaker>ADAM:</speaker>
           <p>Co prosím? – Kdo mluví? Je tu někdo?</p>
         </sp>
-        <sp who="#bůh">
+        <sp who="#buh">
           <speaker>HLAS BOŽÍ:</speaker>
           <p>Co jsi to učinil?</p>
         </sp>
@@ -357,7 +357,7 @@
           <stage>(pyšné)</stage>
           <p>Vždyť vidíte, ne? Já jsem popřel svět.</p>
         </sp>
-        <sp who="#bůh">
+        <sp who="#buh">
           <speaker>HLAS BOŽÍ:</speaker>
           <p>Co jsi to učinil, Adame?</p>
         </sp>
@@ -366,7 +366,7 @@
           <stage>(pohlédne vzhůru)</stage>
           <p>Ježíšmarjá, to mluví Bůh! <stage>(Padá na kolena, zakrývaje si tváře.)</stage></p>
         </sp>
-        <sp who="#bůh">
+        <sp who="#buh">
           <speaker>HLAS BOŽÍ:</speaker>
           <p>Proč jsi to učinil?</p>
         </sp>
@@ -374,7 +374,7 @@
           <speaker>ADAM:</speaker>
           <p>Já… já jsem myslel…</p>
         </sp>
-        <sp who="#bůh">
+        <sp who="#buh">
           <speaker>HLAS BOŽÍ:</speaker>
           <p>Adame, proč jsi to učinil?</p>
         </sp>
@@ -382,7 +382,7 @@
           <speaker>ADAM:</speaker>
           <p>Protože byl svět udělán špatně a nespravedlivě! Například…</p>
         </sp>
-        <sp who="#bůh">
+        <sp who="#buh">
           <speaker>HLAS BOŽÍ:</speaker>
           <p>Stvoříš jej znovu ty sám.</p>
         </sp>
@@ -390,7 +390,7 @@
           <speaker>ADAM:</speaker>
           <p>Já? Jak to? Proč?</p>
         </sp>
-        <sp who="#bůh">
+        <sp who="#buh">
           <speaker>HLAS BOŽÍ:</speaker>
           <p>Ukaž, co umíš.</p>
         </sp>
@@ -398,7 +398,7 @@
           <speaker>ADAM:</speaker>
           <p>Proč bych já měl tvořit?</p>
         </sp>
-        <sp who="#bůh">
+        <sp who="#buh">
           <speaker>HLAS BOŽÍ:</speaker>
           <p>Za trest.</p>
         </sp>
@@ -406,7 +406,7 @@
           <speaker>ADAM:</speaker>
           <p>Tvořit? Ale jak? A z čeho?</p>
         </sp>
-        <sp who="#bůh">
+        <sp who="#buh">
           <speaker>HLAS BOŽÍ:</speaker>
           <p>Z hlíny, na které klečíš.</p>
         </sp>
@@ -414,7 +414,7 @@
           <speaker>ADAM:</speaker>
           <p>Jímá mne hrůza!</p>
         </sp>
-        <sp who="#bůh">
+        <sp who="#buh">
           <speaker>HLAS BOŽÍ:</speaker>
           <p>Hrozno je tvořit. Vstaň!</p>
         </sp>
@@ -422,7 +422,7 @@
           <speaker>ADAM:</speaker>
           <p>Pane, smiluj se nade mnou!</p>
         </sp>
-        <sp who="#bůh">
+        <sp who="#buh">
           <speaker>HLAS BOŽÍ:</speaker>
           <p>Adame, tvoř!</p>
         </sp>
@@ -2105,7 +2105,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Koukej, ta je báječná!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Proč jste mne vzbudili? Snila jsem tak nádherný a purpurový sen!</p>
         </sp>
@@ -2113,7 +2113,7 @@
           <speaker>ADAM:</speaker>
           <p>Vzbudili jsme tě k životu – eh, my jsme jí zapomněli dát jméno; jak jí máme říkat?</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Jmenuj mne Hádanka.</p>
         </sp>
@@ -2126,7 +2126,7 @@
           <speaker>ADAM:</speaker>
           <p>To je Alter Ego, Hádanko.</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Neříkej mi Hádanko. Já jsem Chiméra. To je zvláštní, kdo se na mne podívá, cítí, že je ve mně nějaké tajemství. Každý mi to říká.</p>
         </sp>
@@ -2135,7 +2135,7 @@
           <stage>(stísněně)</stage>
           <p>Dobré jitro, paní.</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Vy jste milá! Proč nosíte tak hrozné šaty? Musíme se spolu spřátelit, ano? Pohrdáte muži?</p>
         </sp>
@@ -2143,7 +2143,7 @@
           <speaker>LILITH:</speaker>
           <p>Já? Ale ne, proč?</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Protože jste žena, dušinko. Já vám povím tolik věcí, až budeme samy!</p>
         </sp>
@@ -2151,7 +2151,7 @@
           <speaker>LILITH:</speaker>
           <p>Ale já mám Adama ráda!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Jak jste naivní! Já vás musím políbit!</p>
         </sp>
@@ -2159,7 +2159,7 @@
           <speaker>LILITH:</speaker>
           <p>Ne, já se vás bojím! Adame, pojď domů!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Já vám ho nevezmu, dětino. To je zvláštní, jakou mám moc nad muži. Já už jsem tolik prožila…</p>
         </sp>
@@ -2167,7 +2167,7 @@
           <speaker>LILITH:</speaker>
           <p>Vždyť jste se teprve narodila!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Jsem tak unavena! Chtěla bych jet někam daleko, do nových zemí, za novými dojmy… Nemáte tu zrcadlo? Já zbožňuju prostý život. Tady je tak rozkošná samota… Já bych se dovedla dívat celý den na jedno stéblo trávy.</p>
         </sp>
@@ -2183,7 +2183,7 @@
           <speaker>ADAM:</speaker>
           <p>Ale ano, Lilitko, můžeš jít.</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Věříte v osud? Věříte, že jsou si někteří lidi souzeni? Táhne je to k sobě… na první pohled… To je zvláštní, že kdo mne miluje, musí zemřít.</p>
         </sp>
@@ -2191,7 +2191,7 @@
           <speaker>LILITH:</speaker>
           <p>A proč?</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Nevím, Ve mně je něco osudného; to vám strašně na každého působí. Tady je děsně nudno, nezdá se vám? Já bych tančila jako divá! Já bych tak něco chtěla!</p>
         </sp>
@@ -2199,7 +2199,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Co?</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Nevím, něco velikého. Ve mně je cosi neukojeného. Kdo mne pochopí?</p>
         </sp>
@@ -2207,7 +2207,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Já!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Kdo spoutá Elzu? Kdo mne ovládne?</p>
         </sp>
@@ -2263,7 +2263,7 @@
           <speaker>ADAM:</speaker>
           <p>Už jdu, u čerta! – Ještě si to vyřídíme, pane! <stage>(Odvádí Lilitku.)</stage></p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>To je jeho žena? Proč si ji vzal?</p>
         </sp>
@@ -2271,7 +2271,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Nevím. Já –</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Ale on je strašně zajímavý člověk, že? Má něco v očích takového zvláštního, zeleného, neodolatelného…</p>
         </sp>
@@ -2279,7 +2279,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Nevšiml jsem si; ale já –</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Viděls to? Je do mne šíleně zamilován. Všiml sis, jak Lilith žárlí?</p>
         </sp>
@@ -2287,7 +2287,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Ovšem, ale já –</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Já, já! Vy muži byste pořád mluvili jen o sobě.</p>
         </sp>
@@ -2295,7 +2295,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Já tě miluji, Elzo!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Já nejsem Elza, já jsem Laura. Já bych mohla milovat jen básníka. Ale tohle všechno patří jemu, že?</p>
         </sp>
@@ -2303,7 +2303,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Komu?</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Adamovi. On je tu pánem, viď? Proto je takový chladný. Mně ohromně imponují chladní muži. A všiml sis jeho rukou? Má takové královské ruce!</p>
         </sp>
@@ -2311,7 +2311,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Lauro, já tě miluju!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Já bych mohla milovat jen silného muže. Muže, který by mně položil k nohoum všechno bohatství světa, víš, a řekl mi: „To je tvé, Marcelo, má paní!“</p>
         </sp>
@@ -2319,7 +2319,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Já tě zbožňuju, Marcelo, má paní!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Nemluv! Kdybys mne miloval, nesnesl bys, aby taková Lilith byla víc než já, Izolda, rozumíš?</p>
         </sp>
@@ -2327,7 +2327,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Ty jsi tisíckráte víc, Izoldo!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Copak jsi neviděl, jak se na mne podívala? Takhle svrchu, jako by říkala: „Ty žebračko, tady je všecko mé.“</p>
         </sp>
@@ -2335,7 +2335,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Tohle že řekla?</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Copak jsi to neslyšel? Řekla to! A ještě povídala: Adam je pánem všeho, a ten tvůj nápadník je nic, nic, nic! Já ji nenávidím!</p>
         </sp>
@@ -2343,7 +2343,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Jakže? To řekla Lilith?</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>A on na to: To všecko patří mně. Budu-li chtít, je i Zaira moje. – Zaira, to jsem já. A přitom se na mne podíval tak násilně a rudě – To je vidět rozeného vládce.</p>
         </sp>
@@ -2409,7 +2409,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Já se nechci shodnout. Já chci dostat svou polovičku světa, a pak se můžeme shodnout přes plot.</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Jenom polovičku? Tak málo?</p>
         </sp>
@@ -2437,7 +2437,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Já se tě neprosím o tvůj Zlatý věk. Já si udělám svůj a ještě lepší. Děl, děl a nemluv!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Já chci tamto a ono! To je naše!</p>
         </sp>
@@ -2449,7 +2449,7 @@
           <speaker>ADAM:</speaker>
           <p>Hlína stvoření je moje!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Já nechci hlínu. Já chci květiny. Já chci oblaka.</p>
         </sp>
@@ -2461,7 +2461,7 @@
           <speaker>ADAM:</speaker>
           <p>Já nedovolím, aby se trhal svět!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Já chci to, co je za obzorem. Já chci tu modřejší stranu.</p>
         </sp>
@@ -2469,7 +2469,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Ano, má paní, to všecko je tvé. Jsi spokojena?</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Mne tak bolí nohy!</p>
         </sp>
@@ -2481,7 +2481,7 @@
           <speaker>ADAM:</speaker>
           <p>Nechoď tam! Co tam máš co hledat? <stage>(Chce za ním.)</stage></p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <stage>(zadrží ho)</stage>
           <p>Zůstaň!</p>
@@ -2490,7 +2490,7 @@
           <speaker>ADAM:</speaker>
           <p>Co chceš?</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Proč jsi mne nepochopil! Když jsem tě poprvé viděla, cítila jsem něco tak osudového… Alter Ego mne šíleně miluje. Viděls, jak na mne žárlí?</p>
         </sp>
@@ -2498,7 +2498,7 @@
           <speaker>ADAM:</speaker>
           <p>Ano, snad… Počkej, já musím domů!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Mne ohromně vzrušuje, když někdo žárlí. Já mám strašně ráda hrdinství.</p>
         </sp>
@@ -2506,7 +2506,7 @@
           <speaker>ADAM:</speaker>
           <p>Ale co tam u mne dělá?</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Nemysli na to. Život je tak opojný! Milovat a nedbat ničeho… Pojď, prchněme!</p>
         </sp>
@@ -2514,7 +2514,7 @@
           <speaker>ADAM:</speaker>
           <p>Pusť, já… Já tady mám tu hlínu… a Lilitku… a kanon… – Já nemohu odtud! Pusť!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Bojíš se, aby ti něco nevzal? Jak jsi malicherný!</p>
         </sp>
@@ -2531,7 +2531,7 @@
           <speaker>ADAM:</speaker>
           <p>Necháš naši židli! <stage>(Letí k domku.)</stage> To je naše židle, ty bandito!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Já ji chci! Já ji chci!</p>
         </sp>
@@ -2824,7 +2824,7 @@
             <l>Ach, blbě je člověku bez ženy!</l>
           </lg>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ALTER EGOVA ŽENA:</speaker>
           <stage>(vyšla zpozadí a váhá)</stage>
           <p>Alter Ego!</p>
@@ -2834,7 +2834,7 @@
           <stage>(znovu se dává do práce)</stage>
           <p>Nemám kdy.</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>To jsem já, Marie z Magdaly.</p>
         </sp>
@@ -2842,7 +2842,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Cože? <stage>(Vstane.)</stage> To jsi ty? Kde se tu bereš?</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Já se vracím.</p>
         </sp>
@@ -2850,7 +2850,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Táhni! Tady nemáš co hledat!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Alter Ego, ale co ze mne bude?</p>
         </sp>
@@ -2858,7 +2858,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Zůstaň si s ním, s Nadčlověkem!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Já ho už nechci ani vidět!… On mne nepochopil!</p>
         </sp>
@@ -2866,7 +2866,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Aha. Tak proč jsi za ním šla?</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Když se na mne tak božsky podíval! Kdybys věděl, jaké má ocelové oči! A ty jeho hrdinské ruce! Alter Ego, já jsem tak nešťastná!</p>
         </sp>
@@ -2874,7 +2874,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Já ti nemohu pomoci. Proč se sem vlastně vracíš?</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <stage>(vrhá se na kolena)</stage>
           <p>Abys mne zabil!</p>
@@ -2883,7 +2883,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Já? Co tě to napadá!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Já věděla, že mne zabiješ! A proto, víš, jen proto jsem to udělala, abych poznala, jak mne miluješ! Zab mne!</p>
         </sp>
@@ -2891,7 +2891,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Ale ne, dej pokoj! Nemám kdy. Nu vstaň, co klečíš?</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Klečím před tebou! Ty jsi tak dobrý a veliký! Já věděla, že mně odpustíš; já ti přísahám, že jsem to udělala jen proto, abys mohl ukázat svou dobrotu!</p>
         </sp>
@@ -2899,7 +2899,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Dobrotu? Nařezal bych ti!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Ty jsi tak krásný, když se zlobíš! Bij mne!</p>
         </sp>
@@ -2907,7 +2907,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Prosím tě, nehraj komedii!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Vidíš, ty jsi jediný člověk, který mne dovedl pochopit. Podej ruku své hříšné Anně; chce se s tebou rozloučit.</p>
         </sp>
@@ -2915,7 +2915,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Kam chceš jít?</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Neptej se. Já vím, kde teče hluboká voda. Tam za horami v černé rokli –</p>
         </sp>
@@ -2923,7 +2923,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Hm, jdi raději domů.</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Já jsem tak unavena! A víš, že Eva byla Adamova žena? Považ, utekla mu s tím Nadčlověkem.</p>
         </sp>
@@ -2931,7 +2931,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Ale jdi!</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Utekla; a vidíš, nevrátila se. Vsaď se, že o tom Lilith neví; ale já jí to povím. Řekni, nestýskalo se ti po tvé zbloudilé Luize?</p>
         </sp>
@@ -2939,7 +2939,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Ale ne. Ale ano. Já jsem neměl kdy.</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Já jsem tak ráda, že jsem zase doma! To ti je tak krásné, vracet se domů. Nevypadám staře?</p>
         </sp>
@@ -2947,7 +2947,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Ale ne. Tak vstaň už! <stage>(Pomáhá jí.)</stage></p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>Mne ti tak bolí nohy! Vidíš, to je z lásky k tobě.</p>
         </sp>
@@ -2955,7 +2955,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Ke mně?</p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <p>K tobě. Mne rozbolely až cestou zpátky.</p>
         </sp>
@@ -2963,7 +2963,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Tak pojď honem; já tu mám rozdělanou práci. <stage>(Odvádí ji.)</stage></p>
         </sp>
-        <sp who="#žena_alter-egova">
+        <sp who="#zena_alter-egova">
           <speaker>ŽENA:</speaker>
           <stage>(opírá se o něho)</stage>
           <p>Škoda že se na nás nedívá Lilith, viď? Ta by koukala!</p>
@@ -3576,32 +3576,32 @@
           </lg>
         </sp>
         <stage>(Odejde. Scéna je chvilku prázdná.)</stage>
-        <sp who="#hlasy-za-scénou">
+        <sp who="#hlasy-za-scenou">
           <speaker>HLASY ZA SCÉNOU:</speaker>
           <stage>(vlevo)</stage>
           <p>Pozor: hej–rup! hej–rup! hej–rup! Pohov!</p>
         </sp>
-        <sp who="#hlasy-za-scénou">
+        <sp who="#hlasy-za-scenou">
           <speaker>HLASY ZA SCÉNOU:</speaker>
           <stage>(vpravo)</stage>
           <p>Člověče, pusť to! – Ne, zdvihni to! – Tramtarára ratata! – To je špatně! – Z cesty! – A dzum a dzum a tydlitadli! – Ať to nerozbijete!</p>
         </sp>
-        <sp who="#hlasy-za-scénou">
+        <sp who="#hlasy-za-scenou">
           <speaker>HLASY ZA SCÉNOU:</speaker>
           <stage>(vlevo)</stage>
           <p>Pozor: hej–rup, hej–rup! hej–rup! Pohov!</p>
         </sp>
-        <sp who="#hlasy-za-scénou">
+        <sp who="#hlasy-za-scenou">
           <speaker>HLASY ZA SCÉNOU:</speaker>
           <stage>(vpravo)</stage>
           <p>Jak to strkáš? – Měli jste vzít sochory! – Vozíček! – Popruhy! – Hevery! – Pozor, padá to! – Pozor!! – Pozor!!! – Tak honem! Pomalu! – Dopředu! – Dozadu! –</p>
         </sp>
-        <sp who="#hlasy-za-scénou">
+        <sp who="#hlasy-za-scenou">
           <speaker>HLASY ZA SCÉNOU:</speaker>
           <stage>(vlevo)</stage>
           <p>Pozor: hej–rup! hej–rup! hej–rup! <stage>(Vejdou Alter Egovi lidé, krátce se nazývající AE, a nesou na popruhách velikou desku, na níž je vyryt nápis ZDE BYLO VYKONÁNO DÍLO STVOŘENÍ. Všichni jsou oděni stejně, všichni v khaki overalech, všichni s toutéž tváří, jež následkem jisté standardní idealizace je poněkud bezvýrazná.)</stage></p>
         </sp>
-        <sp who="#hlasy-za-scénou">
+        <sp who="#hlasy-za-scenou">
           <speaker>HLASY ZA SCÉNOU:</speaker>
           <stage>(vpravo)</stage>
           <p>Ještě kousek! – Nechme to tady! – Víc napravo! – Víc nalevo! To je špatně! – Tahej! Strkej! – Pusť! – Já to udělám sám! <stage>(Na scénu se vyvalí chumel Adamových lidí, kteří nesou, tahají, strkají a pošupují velikou desku, na níž je vyryt nápis ZDE BYLO VYKONÁNO DÍLO STVOŘENÍ. Jsou ověnčeni, některý má v ruce thyrsus, jiný loutnu, jiný učený foliant, jiný mává svazkem básní; každý je jinak oděn, ten v antickém chitónu, onen v kroji minstrela, jiný jako Oněgin, jiný v moderních šatech; ten je holý, onen vlasatý, třetí s vlajícím vousem, ten plavý, onen ryšavý, jiný opět černý; zkrátka velmi pestrá a živá společnost.)</stage> Tak šup! – Tam ne! – Přerazíte to!</p>
@@ -3610,7 +3610,7 @@
           <speaker>PRVNÍ AE:</speaker>
           <p>Hej vy, co to sem nesete?</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>PRVNÍ MUŽ ADAMŮV, podle všech známek Rétor:</speaker>
           <p>Cože? – Koukejte, tady jsou AE! <stage>(Křik a smích u lidí Adamových.)</stage></p>
         </sp>
@@ -3622,7 +3622,7 @@
           <speaker>DRUHÝ MUŽ ADAMŮV, patrně Poeta:</speaker>
           <p>A co je vám po tom?</p>
         </sp>
-        <sp who="#vědátor">
+        <sp who="#vedator">
           <speaker>TŘETÍ MUŽ ADAMŮV, asi Vědátor:</speaker>
           <p>Co vy tu chcete?</p>
         </sp>
@@ -3634,7 +3634,7 @@
           <speaker>VŠICHNI AE:</speaker>
           <p>Jděte odtud!</p>
         </sp>
-        <sp who="#hédonik">
+        <sp who="#hedonik">
           <speaker>PÁTÝ MUŽ ADAMŮV, nejspíše Hédonik:</speaker>
           <p>Až naprší!</p>
         </sp>
@@ -3642,7 +3642,7 @@
           <speaker>ŠESTÝ MUŽ ADAMŮV, asi Filozof:</speaker>
           <p>Dovolte, já jim to vysvětlím! Pánové –</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Jménem národa Adamova –</p>
         </sp>
@@ -3650,7 +3650,7 @@
           <speaker>ROMANTIK:</speaker>
           <p>Žádné řeči! Vyhodit je!</p>
         </sp>
-        <sp who="#vědátor">
+        <sp who="#vedator">
           <speaker>VĚDÁTOR:</speaker>
           <p>Prosím o slovo!</p>
         </sp>
@@ -3658,7 +3658,7 @@
           <speaker>POETA:</speaker>
           <p>My tu máme mít slavnost!</p>
         </sp>
-        <sp who="#hédonik">
+        <sp who="#hedonik">
           <speaker>HÉDONIK:</speaker>
           <p>Dobří lidé –</p>
         </sp>
@@ -3667,7 +3667,7 @@
           <p>Vy jste nás přišli vyprovokovat!</p>
         </sp>
         <stage>(Křik Adamových lidí.)</stage>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Pánové z druhé země, jelikož tu pořádáme odhalení desky –</p>
         </sp>
@@ -3679,7 +3679,7 @@
           <speaker>FILOZOF:</speaker>
           <p>– a přednáškou –</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>– žádáme vás, abyste se vzdálili!</p>
         </sp>
@@ -3692,7 +3692,7 @@
           <speaker>PRVNÍ AE:</speaker>
           <p>Pánové! <stage>(Hluk se utiší.)</stage> AE masy sem přicházejí konat AE manifestaci.</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Koukejme, a jakou?</p>
         </sp>
@@ -3705,7 +3705,7 @@
           <p>ZDE BYLO VYKONÁNO DÍLO STVOŘENÍ!</p>
         </sp>
         <stage>(Užaslá pauza.)</stage>
-        <sp who="#vědátor">
+        <sp who="#vedator">
           <speaker>VĚDÁTOR:</speaker>
           <p>Ale dovolte, vás přece Adam nestvořil!</p>
         </sp>
@@ -3725,12 +3725,12 @@
           <speaker>ROMANTIK:</speaker>
           <p>Oni si myslí, že jsou stvořeni!</p>
         </sp>
-        <sp who="#hédonik">
+        <sp who="#hedonik">
           <speaker>HÉDONIK:</speaker>
           <p>Zač je vás tucet?</p>
         </sp>
         <stage>(Křik a výsměšné hohó.)</stage>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Ale pánové, to je omyl! Vy přece nejste stvořeni!</p>
         </sp>
@@ -3742,11 +3742,11 @@
           <speaker>ROMANTIK:</speaker>
           <p>Vy nejste žádné originály!</p>
         </sp>
-        <sp who="#hédonik">
+        <sp who="#hedonik">
           <speaker>HÉDONIK:</speaker>
           <p>Vy jste jenom numera!</p>
         </sp>
-        <sp who="#vědátor">
+        <sp who="#vedator">
           <speaker>VĚDÁTOR:</speaker>
           <p>My s vámi vůbec nemluvíme!</p>
         </sp>
@@ -3766,7 +3766,7 @@
           <speaker>PRVNÍ AE:</speaker>
           <p>Dost! A co jste vy?</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>My jsme praví lidé.</p>
         </sp>
@@ -3786,7 +3786,7 @@
           <speaker>PRVNÍ AE:</speaker>
           <p>Vy jste prašivý přežitek.</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Cože jsme?</p>
         </sp>
@@ -3831,7 +3831,7 @@
           <p>Ať jde do háje!</p>
         </sp>
         <stage>(Strašlivý křik na straně Adamových lidí. Je slyšet výkřiky jako Na ně! Sprosťáci! Zabte je!)</stage>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <stage>(překřičí všechny)</stage>
           <p>Ticho! Přátelé, stala se nám strašná urážka. Tady ty hliněné potraty –</p>
@@ -3841,7 +3841,7 @@
           <stage>(překřičí ho)</stage>
           <p>Alter Ego je fušer a podvodník!</p>
         </sp>
-        <sp who="#vědátor">
+        <sp who="#vedator">
           <speaker>VĚDÁTOR:</speaker>
           <p>Ať žije Adam!</p>
         </sp>
@@ -3853,7 +3853,7 @@
           <speaker>ROMANTIK:</speaker>
           <p>Řežte je! Mažte je!</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Pánové, jen klid! Přišli jsme sem zasadit naši desku –</p>
         </sp>
@@ -3865,7 +3865,7 @@
           <speaker>VŠICHNI AE:</speaker>
           <p>Naše deska!</p>
         </sp>
-        <sp who="#vědátor">
+        <sp who="#vedator">
           <speaker>VĚDÁTOR:</speaker>
           <p>Adamova deska!</p>
         </sp>
@@ -3873,7 +3873,7 @@
           <speaker>FILOZOF:</speaker>
           <p>A žádná jiná!</p>
         </sp>
-        <sp who="#hédonik">
+        <sp who="#hedonik">
           <speaker>HÉDONIK:</speaker>
           <stage>(dupne)</stage>
           <p>Táhněte!</p>
@@ -3897,7 +3897,7 @@
           <p>Teď! Na ně!</p>
         </sp>
         <stage>VŠICHNI AE (počnou hvízdat Alter Egovu písničku).</stage>
-        <sp who="#rétor #poeta #vědátor #romantik #hédonik #filozof">
+        <sp who="#retor #poeta #vedator #romantik #hedonik #filozof">
           <speaker>ADAMOVI LIDÉ:</speaker>
           <stage>(v zmateném bojovném ryku)</stage>
           <p>Ha! Hurá! Na ně!</p>
@@ -3912,7 +3912,7 @@
           <speaker>PRVNÍ AE:</speaker>
           <p>Kdo je to?</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Co to znamená? <stage>(Mručení a povyk.)</stage></p>
         </sp>
@@ -3937,7 +3937,7 @@
           <speaker>NADČLOVĚK:</speaker>
           <p>Protože nejste řádně ozbrojeni. Musíte dostat uniformy. Musíte se ozbrojit.</p>
         </sp>
-        <sp who="#vědátor">
+        <sp who="#vedator">
           <speaker>VĚDÁTOR:</speaker>
           <p>Ale my jsme sem přišli jen zasadit desku!</p>
         </sp>
@@ -3953,7 +3953,7 @@
           <speaker>POETA:</speaker>
           <p>Do zbraně! Hurá!</p>
         </sp>
-        <sp who="#rétor #poeta #vědátor #romantik #hédonik #filozof">
+        <sp who="#retor #poeta #vedator #romantik #hedonik #filozof">
           <speaker>ADAMOVI LIDÉ:</speaker>
           <stage>(s velikým křikem)</stage>
           <p>Hurá! My jim dáme! Do zbraně! <stage>(Běží k svému městu.)</stage></p>
@@ -5217,11 +5217,11 @@
           <p>Ukliď, zameť, dones, zmiz! Zmetek má dycky co dělat. <stage>(Drbe se.)</stage> Jen kdyby tu nebylo tolik blech. – Aha, už dou; Zmetku, zmiz! <stage>(Zaleze do jeskyně.)</stage></p>
         </sp>
         <stage>(Zprava vejdou rázně Adamovi lidé.)</stage>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>PRVNÍ MUŽ Rétor:</speaker>
           <p>Je čas.</p>
         </sp>
-        <sp who="#vědátor">
+        <sp who="#vedator">
           <speaker>DRUHÝ MUŽ Vědátor:</speaker>
           <p>Kde jsou?</p>
         </sp>
@@ -5234,7 +5234,7 @@
           <speaker>DRUHÝ AE:</speaker>
           <p>Zde jsme.</p>
         </sp>
-        <sp who="#rétor #poeta #vědátor #romantik #hédonik #filozof">
+        <sp who="#retor #poeta #vedator #romantik #hedonik #filozof">
           <speaker>ADAMOVI LIDÉ:</speaker>
           <p>Zdar, kamarádi!</p>
         </sp>
@@ -5242,7 +5242,7 @@
           <speaker>VŠICHNI AE:</speaker>
           <p>Zdar!</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Jste všichni?</p>
         </sp>
@@ -5250,19 +5250,19 @@
           <speaker>PRVNÍ AE:</speaker>
           <p>Všichni. Začněme.</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Dobře. <stage>(Vystoupí na zvýšené plató.)</stage> Všem revoluční zdar.</p>
         </sp>
-        <sp who="#rétor #poeta #vědátor #romantik #hédonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
+        <sp who="#retor #poeta #vedator #romantik #hedonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
           <speaker>VŠICHNI:</speaker>
           <p>Zdar!</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Kamarádi! Delegáti! Táži se vás, máme-li tuto historickou schůzi zahájit obvyklými formalitami, jako je zkoumání plných mocí, volba prezidia a tak dále.</p>
         </sp>
-        <sp who="#rétor #poeta #vědátor #romantik #hédonik #filozof">
+        <sp who="#retor #poeta #vedator #romantik #hedonik #filozof">
           <speaker>ADAMOVI LIDÉ:</speaker>
           <p>Není třeba!</p>
         </sp>
@@ -5270,7 +5270,7 @@
           <speaker>VŠICHNI AE:</speaker>
           <p>Začněme!</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Souhlasím s vámi. Kamarádi, nepřišli jsme debatovat. Přišli jsme stvořit nový svět. Vše je domluveno, zbývá jednat.</p>
         </sp>
@@ -5278,15 +5278,15 @@
           <speaker>PRVNÍ AE:</speaker>
           <p>Podávám návrh: Aby padly hranice. Aby se obanaše osvobozené národy spojily. Aby bylo smeteno vše, co je dělí.</p>
         </sp>
-        <sp who="#rétor #poeta #vědátor #romantik #hédonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
+        <sp who="#retor #poeta #vedator #romantik #hedonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
           <speaker>VŠICHNI:</speaker>
           <p>Přijato.</p>
         </sp>
-        <sp who="#vědátor">
+        <sp who="#vedator">
           <speaker>DRUHÝ MUŽ Vědátor:</speaker>
           <p>Podávám návrh: Aby byl sesazen Adam, vulgo Stvořitel. Nebude žádného Stvořitele. Bajka o stvoření budiž prohlášena za pošetilý a babský mýtus. Budiž odhlasováno a nařízeno, že svět vznikl podle přírodních zákonů.</p>
         </sp>
-        <sp who="#rétor #poeta #vědátor #romantik #hédonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
+        <sp who="#retor #poeta #vedator #romantik #hedonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
           <speaker>VŠICHNI:</speaker>
           <p>Přijato.</p>
         </sp>
@@ -5294,7 +5294,7 @@
           <speaker>DRUHÝ AE:</speaker>
           <p>Podávám další návrh: Aby byl suspendován Alter Ego, vydávající se za stvořitele. Aby byl zbaven všech hodností a práv. Aby byl vypověděn za hranice.</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Věcná poznámka: Jelikož všechny hranice byly právě zrušeny, nelze nikoho vykázat za hranice. Vážený delegát ať podá jiný návrh.</p>
         </sp>
@@ -5310,24 +5310,24 @@
           <speaker>DRUHÝ AE:</speaker>
           <p>Aby byl konfinován!</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Je podán návrh, aby bývalí stvořitelé byli konfinováni.</p>
         </sp>
-        <sp who="#rétor #poeta #vědátor #romantik #hédonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
+        <sp who="#retor #poeta #vedator #romantik #hedonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
           <speaker>VŠICHNI:</speaker>
           <p>Přijato!</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Tím okamžikem je zlomen starý režim. Vztyčte desku!</p>
         </sp>
         <stage>(Je vztyčeno velké černé prkno s hrubým nápisem ZDE BYLO POPŘENO DÍLO STVOŘENÍ.)</stage>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>To je provizorní deska. Pak sem dáme věčnou.</p>
         </sp>
-        <sp who="#vědátor">
+        <sp who="#vedator">
           <speaker>VĚDÁTOR:</speaker>
           <stage>(slavnostně)</stage>
           <p>Tím byl zahájen věk rozumu. Rozum vyvrací pověry. Rozum vyvrací násilí. Rozum vyvrací všechno.</p>
@@ -5336,15 +5336,15 @@
           <speaker>TŘETÍ MUŽ Filozof:</speaker>
           <p>Podávám návrh: Aby slavnou, nezrušitelnou a velikou přísahou byl vyhlášen věčný mír, jakož i jednota všech názorů a veškerého mínění.</p>
         </sp>
-        <sp who="#rétor #poeta #vědátor #romantik #hédonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
+        <sp who="#retor #poeta #vedator #romantik #hedonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
           <speaker>VŠICHNI:</speaker>
           <p>Přijato!</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Přísaháte?</p>
         </sp>
-        <sp who="#rétor #poeta #vědátor #romantik #hédonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
+        <sp who="#retor #poeta #vedator #romantik #hedonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
           <speaker>VŠICHNI:</speaker>
           <p>Přísaháme!</p>
         </sp>
@@ -5353,7 +5353,7 @@
           <p>Zmetku, zapal!</p>
         </sp>
         <stage>(V tom okamžiku se rozžehne v jeskyni bengál a zjeví se Adam a Alter Ego, oba v nádherných úborech a držíce se za ruce.)</stage>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Co tu chcete? Nebyli jste předvoláni!</p>
         </sp>
@@ -5365,7 +5365,7 @@
           <speaker>PRVNÍ AE:</speaker>
           <p>Prosím neračte vyrušovat! Vzdalte se!</p>
         </sp>
-        <sp who="#vědátor">
+        <sp who="#vedator">
           <speaker>VĚDÁTOR:</speaker>
           <p>Tady nemáte co mluvit!</p>
         </sp>
@@ -5377,7 +5377,7 @@
           <speaker>DRUHÝ AE:</speaker>
           <p>Vyhoďte je! Pryč s nimi! <stage>(Hluk.)</stage></p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Občane Adame a občane Alter Ego, ohlašuji vám, že tento Výkonný Výbor Delegátů Obou Dílů Světa vás oba sesadil a popřel a prohlásil vaše dílo stvoření, jakož i vaše nároky, tituly a úřady za zrušené, anulované a neplatné. Máte k tomu co podotknout?</p>
         </sp>
@@ -5386,7 +5386,7 @@
           <stage>(vykročí rozčilen z jeskyně)</stage>
           <p>Ano! Můžete se mnou udělat co chcete; můžete mne ubít nebo ukřižovat; ale nemůžete popřít, že jsem vás stvořil!</p>
         </sp>
-        <sp who="#vědátor">
+        <sp who="#vedator">
           <speaker>VĚDÁTOR:</speaker>
           <p>To je pověra!</p>
         </sp>
@@ -5419,11 +5419,11 @@
           <speaker>FILOZOF:</speaker>
           <p>Nikdo. Já jsem povstal z opice.</p>
         </sp>
-        <sp who="#rétor #poeta #vědátor #romantik #hédonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
+        <sp who="#retor #poeta #vedator #romantik #hedonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
           <speaker>VŠICHNI:</speaker>
           <p>My také! My také!</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Ticho. Občane Adame, trváte na tom, že jste stvořil svět?</p>
         </sp>
@@ -5431,7 +5431,7 @@
           <speaker>ADAM:</speaker>
           <p>Já jsem stvořil vás!</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Beru vás za slovo. Proč jste to udělal? Kdo se vás o to prosil? Stvořil-li jste svět, byli bychom nuceni vás volat k odpovědnosti. Táži se vás podruhé: Jste stvořitelem světa?</p>
         </sp>
@@ -5439,7 +5439,7 @@
           <speaker>ADAM:</speaker>
           <p>Ano. Jsem.</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Tedy na vás žaluji delegátům světa, že jste se dopustil zločinu tvoření. Proč jste netvořil lépe? Proč jste nám nedal čtyři nohy, proč jste nás nepokryl srstí, proč nemáme křídel ani ploutví? Proč jsme smrtelní? Proč musíme pracovat? Jak ospravedlníte ten hanebný a neslýchaný šlendrián? Občane Adame, táži se potřetí a naposled: Přiznáváte se k stvoření světa?</p>
         </sp>
@@ -5447,7 +5447,7 @@
           <speaker>ADAM:</speaker>
           <p>Ne! Ne! Ne! <stage>(Křik a smích.)</stage></p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Tedy věc je odbyta. Můžete jít. <stage>(Adam se potácí stranou.)</stage> Občane Alter Ego, táži se vás: Stvořil jste svět?</p>
         </sp>
@@ -5463,7 +5463,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Na člověka je to až příliš dobré!</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Máte co uvést jako polehčující okolnost?</p>
         </sp>
@@ -5471,7 +5471,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Ano. Lituji, že jsem vás stvořil.</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Je dobře. Můžete zatím jít.</p>
         </sp>
@@ -5479,7 +5479,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>S výrazem nejhlubšího odporu! <stage>(Odchází za Adamem. Oba zůstanou u proscéniové stěny.)</stage></p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Za to se odpovíte později. – Další návrh?</p>
         </sp>
@@ -5487,7 +5487,7 @@
           <speaker>ČTVRTÝ MUŽ, dříve Poeta:</speaker>
           <p>Aby veškerá tvůrčí moc a tvůrčí práva přešla na svrchovaný a svobodný lid.</p>
         </sp>
-        <sp who="#rétor #poeta #vědátor #romantik #hédonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
+        <sp who="#retor #poeta #vedator #romantik #hedonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
           <speaker>VŠICHNI:</speaker>
           <p>Přijato.</p>
         </sp>
@@ -5495,7 +5495,7 @@
           <speaker>ČTVRTÝ AE:</speaker>
           <p>Aby nadále tvůrčím úřadem byl pověřen volený parlament, který bude zasedat v budoucím hlavním městě světa.</p>
         </sp>
-        <sp who="#rétor #poeta #vědátor #romantik #hédonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
+        <sp who="#retor #poeta #vedator #romantik #hedonik #filozof #ae-1 #ae-2 #ae-3 #ae-4">
           <speaker>VŠICHNI:</speaker>
           <p>Přijato.</p>
         </sp>
@@ -5515,7 +5515,7 @@
           <speaker>TŘETÍ AE:</speaker>
           <p>Žádám o slovo!</p>
         </sp>
-        <sp who="#vědátor">
+        <sp who="#vedator">
           <speaker>VĚDÁTOR:</speaker>
           <p>Žádám o slovo! <stage>(Všichni křičí.)</stage></p>
         </sp>
@@ -5532,7 +5532,7 @@
           <stage>(postoupí kupředu)</stage>
           <p>Slyšte nás, my vám neseme mír.</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Vy se do toho nepleťte!</p>
         </sp>
@@ -5548,44 +5548,44 @@
           <speaker>DRUHÝ AE:</speaker>
           <p>A my s vámi! Pojďte domů! <stage>(Křik a hrozby.)</stage></p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Žádám o ticho. <stage>(Hluk se utiší.)</stage> Jsou tu podány dva návrhy; než dám o nich hlasovat –</p>
         </sp>
         <stage>(Vběhne Červený hlasatel, snad dřívější Romantik.)</stage>
-        <sp who="#červený-hlasatel">
+        <sp who="#cerveny-hlasatel">
           <speaker>ČERVENÝ HLASATEL:</speaker>
           <p>Občanům revoluční pozdrav!</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Občane, neruš schůzi!</p>
         </sp>
-        <sp who="#červený-hlasatel">
+        <sp who="#cerveny-hlasatel">
           <speaker>ČERVENÝ HLASATEL:</speaker>
           <p>Mlčet! – Občané, Výkonný Výbor Delegátů Obou Dílů Světa nařizuje všem toto: Předně –</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Co tu chceš? My sami jsme přece Výkonný Výbor!</p>
         </sp>
-        <sp who="#červený-hlasatel">
+        <sp who="#cerveny-hlasatel">
           <speaker>ČERVENÝ HLASATEL:</speaker>
           <p>Zalez! Výkonný Výbor jsme my.</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>My jsme byli zvoleni lidem.</p>
         </sp>
-        <sp who="#červený-hlasatel">
+        <sp who="#cerveny-hlasatel">
           <speaker>ČERVENÝ HLASATEL:</speaker>
           <p>To je nám fuk. My jsme se zvolili sami.</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Vy nejste legální zástupci!</p>
         </sp>
-        <sp who="#červený-hlasatel">
+        <sp who="#cerveny-hlasatel">
           <speaker>ČERVENÝ HLASATEL:</speaker>
           <p>Ne, my jsme revoluční zástupci. My jsme delegáti své strany.</p>
         </sp>
@@ -5597,12 +5597,12 @@
           <speaker>PRVNÍ AE:</speaker>
           <p>Zatknout! <stage>(Veliký křik.)</stage></p>
         </sp>
-        <sp who="#červený-hlasatel">
+        <sp who="#cerveny-hlasatel">
           <speaker>ČERVENÝ HLASATEL:</speaker>
           <stage>(překřičí je)</stage>
           <p>Ticho! Předně se nařizuje: Stvořitelé budou odstraněni. Svět bude stvořen teprve námi.</p>
         </sp>
-        <sp who="#vědátor">
+        <sp who="#vedator">
           <speaker>VĚDÁTOR:</speaker>
           <p>To není pravda! Námi!</p>
         </sp>
@@ -5610,33 +5610,33 @@
           <speaker>DRUHÝ AE:</speaker>
           <p>Námi! <stage>(Povyk.)</stage></p>
         </sp>
-        <sp who="#červený-hlasatel">
+        <sp who="#cerveny-hlasatel">
           <speaker>ČERVENÝ HLASATEL:</speaker>
           <p>Dost! My přejímáme všechnu odpovědnost za další tvoření. Starý svět musí zhynout. Výkonný výbor se ujal všech tvůrčích práv jménem minority. Ať žije revoluce!</p>
         </sp>
         <stage>(Vběhne Černý hlasatel.)</stage>
-        <sp who="#černý-hlasatel">
+        <sp who="#cerny-hlasatel">
           <speaker>ČERNÝ HLASATEL:</speaker>
           <p>Revoluce! Revoluce!</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Jaká revoluce! Kdo vlastně jsi?</p>
         </sp>
-        <sp who="#černý-hlasatel">
+        <sp who="#cerny-hlasatel">
           <speaker>ČERNÝ HLASATEL:</speaker>
           <stage>(vyběhne nahoru)</stage>
           <p>Občane, Výkonný Výbor Delegátů Obou Dílů Světa nařizuje –</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>My jsme Výkonný Výbor!</p>
         </sp>
-        <sp who="#červený-hlasatel">
+        <sp who="#cerveny-hlasatel">
           <speaker>ČERVENÝ HLASATEL:</speaker>
           <p>My jsme Výkonný Výbor!</p>
         </sp>
-        <sp who="#černý-hlasatel">
+        <sp who="#cerny-hlasatel">
           <speaker>ČERNÝ HLASATEL:</speaker>
           <p>A my vás dáme postřílet. <stage>(Vyndá dvě pistole a namíří na shromáždění.)</stage> Mimoto se ohlašuje: Dosavadní Stvořitelé jsou vyhozeni a bude s nimi naloženo podle práva. Výkonný výbor jmenoval Stvořitelem mne. Kdo s tím nesouhlasí, bude zastřelen. Tak co?</p>
         </sp>
@@ -5645,16 +5645,16 @@
           <speaker>ADAM:</speaker>
           <p>Ty krvavý pse! Ty vrahu!</p>
         </sp>
-        <sp who="#černý-hlasatel">
+        <sp who="#cerny-hlasatel">
           <speaker>ČERNÝ HLASATEL:</speaker>
           <stage>(ukloní se)</stage>
           <p>Díky! Pochopil jste situaci.</p>
         </sp>
-        <sp who="#jeden-v-davu"> <!--PP note: One of the crowd of both Adam's people and Alter Ego´s. How to code it? Leave it like that as a separate single "character"?-->
+        <sp who="#jeden-v-davu"> <!--PP note: One of the crowd of both Adam's people and Alter Egos. How to code it? Leave it like that as a separate single "character"?-->
           <speaker>JEDEN V DAVU:</speaker>
           <p>Ďáblovo dílo je tento svět! Bůh jej proklel! Bůh jej obrátí v popel a poušť!</p>
         </sp>
-        <sp who="#červený-hlasatel">
+        <sp who="#cerveny-hlasatel">
           <speaker>ČERVENÝ HLASATEL:</speaker>
           <p>Nesmysl! MY jej obrátíme v poušť!</p>
         </sp>
@@ -5667,28 +5667,28 @@
           <speaker>PRVNÍ AE:</speaker>
           <p>MY vám to rozbijeme!</p>
         </sp>
-        <sp who="#černý-hlasatel">
+        <sp who="#cerny-hlasatel">
           <speaker>ČERNÝ HLASATEL:</speaker>
           <p>Ticho! Pánové, je tu snad někdo, kdo nechce svět rozbít?</p>
         </sp>
-        <sp who="#červený-hlasatel">
+        <sp who="#cerveny-hlasatel">
           <speaker>ČERVENÝ HLASATEL:</speaker>
           <p>My chceme svět spasit!</p>
         </sp>
-        <sp who="#černý-hlasatel">
+        <sp who="#cerny-hlasatel">
           <speaker>ČERNÝ HLASATEL:</speaker>
           <p>To je totéž. Vy všichni chcete svět spasit. Vy všichni chcete svět rozbít. Nudíte mne svým křikem. Cekne-li ještě někdo, střelím. <stage>(Natáhne kohoutky.)</stage> Tak co? – <stage>(Hluboké ticho.)</stage> – Ach, jak to ticho dělá dobře mým nervům! Vy řvoucí a poskakující opice, jak by byl svět krásný bez vás! Jen hvězdy by zvonily nad pouštěmi, moře by hučelo a tak dále. Funíte jako dobytčata. Zakazuji vám dýchat! Nikdo nesmí dýchat před tváří Diktátora!</p>
         </sp>
         <stage>(Hrobové ticho, do toho údery zvonů a vzdálená střelba.)</stage>
-        <sp who="#černý-hlasatel">
+        <sp who="#cerny-hlasatel">
           <speaker>ČERNÝ HLASATEL:</speaker>
           <p>Slyšíte? Vítají mne střelbou a zvoněním. Ave, Caesar!</p>
         </sp>
-        <sp who="#několik-hlasů">
+        <sp who="#nekolik-hlasu">
           <speaker>NĚKOLIK HLASŮ:</speaker>
           <p>Ať žije Diktátor!</p>
         </sp>
-        <sp who="#opilec #hédonik">
+        <sp who="#opilec #hedonik">
           <speaker>HLASY ZA SCÉNOU:</speaker>
           <p>Hihihi! Haha! Hihihi!</p>
         </sp>
@@ -5697,7 +5697,7 @@
           <speaker>OPILÝ AE:</speaker>
           <p>To je švanda, co? Hup! Povídám, proč bych nechodil po čtyřech? Každý může dělat, co chce, no ne? A on řekl: Doraz mě!</p>
         </sp>
-        <sp who="#hédonik">
+        <sp who="#hedonik">
           <speaker>HÉDONIK:</speaker>
           <p>Hihi, to je tak krásné!</p>
         </sp>
@@ -5705,15 +5705,15 @@
           <speaker>OPILEC:</speaker>
           <p>Lidi, tam je mela! A já jim povídám, jen ho! Jen mu uřízni nos! Nazdar, mládenci! A tamhle taky hoří, a támhle taky –</p>
         </sp>
-        <sp who="#hédonik">
+        <sp who="#hedonik">
           <speaker>HÉDONIK:</speaker>
           <p>Hihi, hoří tak báječně!</p>
         </sp>
-        <sp who="#rétor">
+        <sp who="#retor">
           <speaker>RÉTOR:</speaker>
           <p>Cože? Kde hoří?</p>
         </sp>
-        <sp who="#rétor #poeta #vědátor #romantik #hédonik #filozof">
+        <sp who="#retor #poeta #vedator #romantik #hedonik #filozof">
           <speaker>ADAMOVI LIDÉ:</speaker>
           <p>Naše město hoří!</p>
         </sp>
@@ -5722,11 +5722,11 @@
           <p>U nás hoří!</p>
         </sp>
         <stage>(Všichni se obrátí k oběma městům, jež hoří plamenem.)</stage>m
-        <sp who="#červený-hlasatel">
+        <sp who="#cerveny-hlasatel">
           <speaker>ČERVENÝ HLASATEL:</speaker>
           <p>To udělali naši! Revoluce!</p>
         </sp>
-        <sp who="#jeden-v-davu"> <!--PP note: One of the crowd of both Adam's people and Alter Ego´s. How to code it? Leave it like that as a separate single "character"?-->
+        <sp who="#jeden-v-davu"> <!--PP note: One of the crowd of both Adam's people and Alter Egos. How to code it? Leave it like that as a separate single "character"?-->
           <speaker>JEDEN V DAVU:</speaker>
           <p>Konec světa!</p>
         </sp>
@@ -5735,7 +5735,7 @@
           <p>Hoří! Pojďme hasit! Běžme rabovat! Utecme!</p>
         </sp>
         <stage>(Celý zástup se s křikem rozběhne.)</stage>
-        <sp who="#hédonik">
+        <sp who="#hedonik">
           <speaker>HÉDONIK:</speaker>
           <p>Krásně! Všecko je tak krásně!</p>
         </sp>
@@ -5743,7 +5743,7 @@
           <speaker>OPILEC:</speaker>
           <p>Haha! Haha! Pojď tam, to bude junda! <stage>(Vleče pryč Hédonika a zpívá.)</stage></p>
         </sp>
-        <sp who="#černý-hlasatel">
+        <sp who="#cerny-hlasatel">
           <speaker>ČERNÝ HLASATEL:</speaker>
           <p>Myslím že na pozadí toho požáru se vyjímám velkolepě. Sluší mně to?</p>
         </sp>
@@ -5751,7 +5751,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Kdo jsi, šílenče?</p>
         </sp>
-        <sp who="#černý-hlasatel">
+        <sp who="#cerny-hlasatel">
           <speaker>ČERNÝ HLASATEL:</speaker>
           <stage>(snímá černou masku: je to Nadčlověk!)</stage>
           <p>Já. Uf, byl to zápach! Já nesnáším lidi, dělá se mi z nich špatně. Bohužel každý Nadčlověk je trochu neurastenik. Ale sehrál jsem to skvěle, co? Ovládl jsem situaci silou svého opovržení.</p>
@@ -6120,7 +6120,7 @@
           <speaker>NOVIC:</speaker>
           <p>Nicméně nejstarší zprávy si odporují.</p>
         </sp>
-        <sp who="#velekněz">
+        <sp who="#veleknez">
           <speaker>VELEKNĚZ:</speaker>
           <p>Všechny zprávy si odporují. Právě proto pravda musí být stanovena a nařízena. Je dáno článkem víry, že oba byli bezvousí a zářili v nadpřirozené kráse, a že právě na tomto místě, kde stvořili svět, vstoupili na nebesa. Byla kdysi sekta, jež učila, že Stvořitelé měli divoký vous. Toto učení, milý synu, bylo zavrženo a zatraceno.</p>
         </sp>
@@ -6128,7 +6128,7 @@
           <speaker>NOVIC:</speaker>
           <p>A vypleněno ohněm a krví.</p>
         </sp>
-        <sp who="#velekněz">
+        <sp who="#veleknez">
           <speaker>VELEKNĚZ:</speaker>
           <p>Právem, synu. Byl to těžký blud a krvavé časy. Byli-li Stvořitelé vůbec, přijměmež s pokorou učení, že byli božských lící.</p>
         </sp>
@@ -6136,7 +6136,7 @@
           <speaker>NOVIC:</speaker>
           <p>Byli-li vůbec?</p>
         </sp>
-        <sp who="#velekněz">
+        <sp who="#veleknez">
           <speaker>VELEKNĚZ:</speaker>
           <p>Ano. Někteří z teologů se domnívají, že jejich zjevení nutno bráti obrazně. Praví se, že vůbec nikdy nebyli a že jen nadpřirozeně přijali pomíjející formu existence.</p>
         </sp>
@@ -6144,7 +6144,7 @@
           <speaker>NOVIC:</speaker>
           <p>Ale my učíme lid, že byli a že se zjevili na tomto místě!</p>
         </sp>
-        <sp who="#velekněz">
+        <sp who="#veleknez">
           <speaker>VELEKNĚZ:</speaker>
           <p>Tak jest. Výklad textů připouští to i ono. Tím přísněji musíme plnit svaté obřady, jimiž jsou uctíváni oba Stvořitelé, Altar i Adamego. Pohleď na tuto stavbu chrámu! Je řečeno, že teprve jeho zbudováním bude dokonáno dílo stvoření. Netažme se, zda bohové byli; podstatné je, že budou mít svůj chrám. Tak bude dovršen božský řád světa. Jak krásný je tento večer!</p>
         </sp>
@@ -6152,7 +6152,7 @@
           <speaker>NOVIC:</speaker>
           <p>Předvečer Svátku Stvořitelů.</p>
         </sp>
-        <sp who="#velekněz">
+        <sp who="#veleknez">
           <speaker>VELEKNĚZ:</speaker>
           <p>Ano. Dnes poprvé zazní zvon ulitý k jejich oslavě. Tady, co stojím, byla vykopána ze země ona kovová roura či hlaveň, ze které byl ulit. Nazvali jsme ji Kánon, což znamená Zákon.</p>
         </sp>
@@ -6160,24 +6160,24 @@
           <speaker>NOVIC:</speaker>
           <p>Je to pravda, že spadl z nebe?</p>
         </sp>
-        <sp who="#velekněz">
+        <sp who="#veleknez">
           <speaker>VELEKNĚZ:</speaker>
           <p>Říká se tak, milý synu. Podle toho, jak byl hluboko zaryt v zemi, musel spadnout z veliké výše. Jeho hlas bude jistě nadzemský. Hej hlídači stavby!</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <stage>(vyjde z lešení a bednění stavby)</stage>
           <p>Brejvečer, vaše velebnosti.</p>
         </sp>
-        <sp who="#velekněz">
+        <sp who="#veleknez">
           <speaker>VELEKNĚZ:</speaker>
           <p>Hlídači, jsou už chladné noci. Dbejte, ať do svaté jeskyně nikdo nevkročí.</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>Bez starosti.</p>
         </sp>
-        <sp who="#velekněz">
+        <sp who="#veleknez">
           <speaker>VELEKNĚZ:</speaker>
           <p>Vím, že sem na zimu chodívali přespávat všelijací starci nebo tuláci. Je mi jich líto, ale nesmí to být. Přičítám jenom jim, že se na místě tak posvátném… Stydím se to říci: že se na místě tak posvátném drží blechy.</p>
         </sp>
@@ -6185,19 +6185,19 @@
           <speaker>NOVIC:</speaker>
           <p>Otče, jsou i blechy dílo Stvořitelů?</p>
         </sp>
-        <sp who="#velekněz">
+        <sp who="#veleknez">
           <speaker>VELEKNĚZ:</speaker>
           <p>Zajisté že jsou dílem jejich nevyzpytatelné moudrosti; ale nesluší se, aby je ti žebráci zavlékali sem. Dbejte toho, hlídači chrámu.</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>Já je poženu, vaše velebnosti.</p>
         </sp>
-        <sp who="#velekněz">
+        <sp who="#veleknez">
           <speaker>VELEKNĚZ:</speaker>
           <p>Tak je dobře. Chrám Stvořitelů není peleší tuláků. Pojďme se modlit, milý synu. <stage>(Zajdou.)</stage></p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <stage>(dívá se za nimi)</stage>
           <p>Jo, chrám. <stage>(Odplivne si.)</stage> Povídali! Žádný stvořitele jakživ nebyli a basta! <stage>(Drbe se.)</stage> Zatracený blechy! <stage>(Přichází Zmetek a s ním Adam i Alter Ego, oba v žalostných cárech svých božských rouch; žebrácké hole a brašny.)</stage></p>
@@ -6206,7 +6206,7 @@
           <speaker>ZMETEK:</speaker>
           <p>Tak zas bysme byli na zimu doma. – Jejej, co to tady stavěj?</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>To seš ty, Zmetku? I s těma tvejma dědkama? A kdes nechal svý fakany?</p>
         </sp>
@@ -6214,7 +6214,7 @@
           <speaker>ZMETEK:</speaker>
           <p>Všude na světě, aby se živili. Pane hlídač, co to tady stavěj?</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>Chrám.</p>
         </sp>
@@ -6222,7 +6222,7 @@
           <speaker>ADAM:</speaker>
           <p>Jaký chrám?</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>Prej chrám Stvořitelům.</p>
         </sp>
@@ -6230,7 +6230,7 @@
           <speaker>ADAM:</speaker>
           <p>Chrám Stvořitelům?</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>Jo. Ale to bych rád věděl, nač potřebujou Stvořitelé nějakej chrám. <stage>(Odplivne si.)</stage> Dyť je to podfuk. A toho zlata a mramoru co na to padne!</p>
         </sp>
@@ -6254,7 +6254,7 @@
           <speaker>ZMETEK:</speaker>
           <p>A co bude s náma, pane hlídač?</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>Jo, vy už sem nesmíte ani páchnout. Kdepak, taková sebranka!</p>
         </sp>
@@ -6262,7 +6262,7 @@
           <speaker>ZMETEK:</speaker>
           <p>Já sem si to hned myslel. Škoda tej díry!</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>Tak se vocaď pakujte! Hybaj!</p>
         </sp>
@@ -6270,7 +6270,7 @@
           <speaker>ADAM:</speaker>
           <p>My? Hlídači, to je omyl! Copak to není chrám Stvořitelů?</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>To je chrám pro jejich sochy a pro jejich pátery. A vy táhněte po svým!</p>
         </sp>
@@ -6286,7 +6286,7 @@
           <speaker>ADAM:</speaker>
           <p>Ustup z cesty! Pojď s námi, Zmetku!</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>Kampak?</p>
         </sp>
@@ -6294,7 +6294,7 @@
           <speaker>ADAM:</speaker>
           <p>Do chrámu, který nám patří!</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>Poslouchej, dědku, mně je vás líto, ale já na vás vemu hůl. Děte se vyspat někam do chlíva. <stage>(Zajde do lešení.)</stage></p>
         </sp>
@@ -6324,7 +6324,7 @@
           <p>Což nejsi ještě na konci utrpení, ještě nejsi na konci bolesti? ADAME, TY TO TAK NECHÁŠ?</p>
         </sp>
         <stage>(Hlídač vyjde s kladivem a červenou lucerničkou.)</stage>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>Abych eště spravoval kramle! Sakramentskej život!</p>
         </sp>
@@ -6332,7 +6332,7 @@
           <speaker>ZMETEK:</speaker>
           <p>Potvorná zima!</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>Zatracená práce!</p>
         </sp>
@@ -6340,7 +6340,7 @@
           <speaker>ALTER EGO:</speaker>
           <p>Adame, pusť! <stage>(Vrhne se na zem a hledá.)</stage></p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>Prokletej svět!</p>
         </sp>
@@ -6348,7 +6348,7 @@
           <speaker>ZMETEK:</speaker>
           <p>Zatrápeny všecko!</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>Hrom aby už do toho!</p>
         </sp>
@@ -6358,7 +6358,7 @@
           <p>Adame, Adame, Kanon negace je pryč!</p>
         </sp>
         <stage>(Zazní velký zvon.)</stage>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>Aha, novej zvon.</p>
         </sp>
@@ -6400,7 +6400,7 @@
           <stage>(tluče lžicí do svého hrnce)</stage>
           <p>Bim! bam! bim! bam!</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <stage>(buší kladivem do svor na kovadlině)</stage>
           <p>Ráz! dva! ráz! dva! <stage>(Rozhlaholí se bezpočet zvonů.)</stage></p>
@@ -6409,7 +6409,7 @@
           <speaker>ZMETEK:</speaker>
           <p>To zvoní můj hrnec!</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <p>To zvoní mý kladivo!</p>
         </sp>
@@ -6418,7 +6418,7 @@
           <p>To zvoní můj zápor!</p>
         </sp>
         <stage>(Rozsvítí se Boží oko.)</stage>
-        <sp who="#bůh">
+        <sp who="#buh">
           <speaker>HLAS BOŽÍ:</speaker>
           <p>To zvoním já všemi zvony světa.</p>
         </sp>
@@ -6442,21 +6442,21 @@
           <speaker>ALTER EGO:</speaker>
           <p>Hej, je to ano, nebo ne?</p>
         </sp>
-        <sp who="#bůh">
+        <sp who="#buh">
           <speaker>HLAS BOŽÍ:</speaker>
           <p>Poslouchej! <stage>(Nesčíslné hlasy mužů i žen. Pokřiky a smích.)</stage> Poslouchej! <stage>(Hlas přechází ve veliký chorál.)</stage></p>
         </sp>
-        <sp who="#chóry-za-scénou">
+        <sp who="#chory-za-scenou">
           <speaker>CHÓRY ZA SCÉNOU:</speaker>
           <p>Sláva buď, sláva! Stvořitelům díky!</p>
         </sp>
-        <sp who="#hlídač">
+        <sp who="#hlidac">
           <speaker>HLÍDAČ:</speaker>
           <stage>(smekne čepici)</stage>
           <p>Lidi maj svátek.</p>
         </sp>
         <stage>(Zvonění a zpěv utichne.)</stage>
-        <sp who="#bůh">
+        <sp who="#buh">
           <speaker>HLAS BOŽÍ:</speaker>
           <p>Adame Stvořiteli!</p>
         </sp>
@@ -6464,7 +6464,7 @@
           <speaker>ADAM:</speaker>
           <p>Zde jsem.</p>
         </sp>
-        <sp who="#bůh">
+        <sp who="#buh">
           <speaker>HLAS BOŽÍ:</speaker>
           <p>Ty to tak necháš?</p>
         </sp>
@@ -6472,7 +6472,7 @@
           <speaker>ADAM:</speaker>
           <p>Ano! ano! ano!</p>
         </sp>
-        <sp who="#bůh">
+        <sp who="#buh">
           <speaker>HLAS BOŽÍ:</speaker>
           <p>Já také.</p>
         </sp>

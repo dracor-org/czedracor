@@ -51,25 +51,25 @@
           <person xml:id="hauk" sex="MALE">
             <persName>HAUK</persName>
           </person>
-          <person xml:id="kolenatý" sex="MALE">
+          <person xml:id="kolenaty" sex="MALE">
             <persName>KOLENATÝ</persName>
           </person>
-          <person xml:id="vítek" sex="MALE">
+          <person xml:id="vitek" sex="MALE">
             <persName>VÍTEK</persName>
           </person>
           <person xml:id="kristina" sex="FEMALE">
             <persName>KRISTINA</persName>
           </person>
-          <person xml:id="komorná" sex="FEMALE">
+          <person xml:id="komorna" sex="FEMALE">
             <persName>KOMORNÁ</persName>
           </person>
-          <person xml:id="lékař" sex="MALE">
+          <person xml:id="lekar" sex="MALE">
             <persName>LÉKAŘ</persName>
           </person>
-          <person xml:id="strojník" sex="MALE">
+          <person xml:id="strojnik" sex="MALE">
             <persName>STROJNÍK</persName>
           </person>
-          <person xml:id="poklízečka" sex="FEMALE">
+          <person xml:id="poklizecka" sex="FEMALE">
             <persName>POKLÍZEČKA</persName>
           </person>
           <listRelation type="personal">
@@ -135,7 +135,7 @@
       <div type="act">
         <head>DĚJSTVÍ PRVNÍ</head>
         <stage>Solicitátorův pokoj u dr. Kolenatého. V pozadí dveře ven, vlevo do kanceláře. Při zadní stěně vysoká registratura s nesčetnými příhradami abecedně značenými; při ní žebříček. Vlevo stůl solicitátorův, uprostřed dvojitý stůl písařský, vpravo několik křesel pro čekající klienty. Na stěnách různé tarify, vyhlášky, kalendář atd. a telefon. Všude plno listin, knih, fasciklů a aktů.</stage>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(uklízí akta do registratury)</stage>
           <p>Ach je! Ach bože! Jedna hodina… Starý už nepřijde. – Causa Gregor-Prus. G, GR, tady. <stage>(Vylézá po žebříčku.)</stage> Causa Gregor. Koukej, takys už dodělala. Ahi! Ach bože! <stage>(Listuje ve fasciklu.)</stage> Osmnáct set dvacet sedm. Osmnáct set dvaatřicet. Dvaatřicet. Osmnáct set čtyřicet. Čtyřicet. Čtyřicet. Čtyřicet sedm. Za pár let jsme mohli mít stoleté jubileum. Škoda tak krásného procesu! <stage>(Zastrkuje fascikl.)</stage> Zde… odpočívá… causa Gregor-Prus. Ahi, nic netrvá věčně. Vanitas… Prach a popel… <stage>(Usedne zamyšleně na nejvyšší příčli žebříčku.)</stage> To se ví, šlechta. Stará šlechta. Jak by ne, baron Prus. A soudí se to sto let, špinavci! – <stage>(Pauza.)</stage> „Citoyen! Občané! Což strpíte nadále, aby tito privilegovaní, tato stará šlechta hýčkaná králi Francie, tento stav, jenž za své výsady neděkuje přírodě ani rozumu, nýbrž tyranii, tento hlouček dvořanů a dědičných hodnostářů, tito držitelé půdy, moci i práv…“ Ahi!</p>
@@ -145,7 +145,7 @@
           <stage>(zůstane stát ve dveřích, sám nepozorován, chvilku poslouchá)</stage>
           <p>Dobrý den, občane Marate!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>To není Marat, to je Danton. Řeč z 23. října 1792. Prosím tisíckrát za odpuštění, pane.</p>
         </sp>
@@ -153,7 +153,7 @@
           <speaker>GREGOR:</speaker>
           <p>Doktor tu není?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(slézá ze žebříčku)</stage>
           <p>Dosud se nevrátil, pane.</p>
@@ -162,7 +162,7 @@
           <speaker>GREGOR:</speaker>
           <p>A rozsudek?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Nevím nic, pane Gregore, ale –</p>
         </sp>
@@ -170,7 +170,7 @@
           <speaker>GREGOR:</speaker>
           <p>Stojí to špatně?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Nemohu sloužit; ale škoda tak krásného procesu, pane.</p>
         </sp>
@@ -178,7 +178,7 @@
           <speaker>GREGOR:</speaker>
           <p>Je ztracen?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Nevím; náš starý je od rána u soudu. Ale já bych –</p>
         </sp>
@@ -187,7 +187,7 @@
           <stage>(vrhne se do klubovky)</stage>
           <p>Zatelefonujte tam. Volejte doktora Kolenatého. Rychle, člověče!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(běží k aparátu)</stage>
           <p>Prosím hned. Haló! – <stage>(Obrací se od aparátu.)</stage> Já bych to, pane, nebyl hnal k Nejvyššímu soudu.</p>
@@ -196,7 +196,7 @@
           <speaker>GREGOR:</speaker>
           <p>Proč?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Protože – Haló, dva dva třicet pět. Tři pět, ano. – <stage>(Obrací se.)</stage> Protože to znamená konec, pane.</p>
         </sp>
@@ -204,7 +204,7 @@
           <speaker>GREGOR:</speaker>
           <p>Jaký konec?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Konec procesu. Konec causy Gregor. To už nebyl proces, pane, to byla historická památka. Když už to trvá přes devadesát – <stage>(Do aparátu:)</stage> Haló, slečno, je u vás ještě advokát Kolenatý? Tady jeho kancelář. Že ho prosím k aparátu. – <stage>(Obrací se.)</stage> Fascikl Gregor, pane, to je kus dějin. Skoro sto let, pane – <stage>(Do aparátu:)</stage> Haló! Už odešel? Tak děkuju. <stage>(Pověsí sluchátko.)</stage> Už odešel. Je asi na cestě sem.</p>
         </sp>
@@ -212,7 +212,7 @@
           <speaker>GREGOR:</speaker>
           <p>A rozsudek?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Nemohu sloužit, pane. Já bych chtěl, aby nebyl žádný. Já – já si nemohu pomoct, pane Gregore; ale když si pomyslím, že dnes je poslední den causy Gregor – Už na ní píšu dvaatřicet let. Tehdy sem chodil váš nebožtík pan otec, dej mu bůh věčnou slávu; ale on a nebožtík doktor Kolenatý, otec tohohle, to byla velká generace, pane.</p>
         </sp>
@@ -220,7 +220,7 @@
           <speaker>GREGOR:</speaker>
           <p>Děkuju.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Náramní právníci, pane. Samá kasace a zmatečnost a takové ty kličky. Třicet let ten proces udrželi, pane. A vy, prásk! hned k Nejvyššímu soudu. Jen aby už byl konec! Škoda tak krásného procesu pro vás. Takhle zabít stoletou causu!</p>
         </sp>
@@ -228,7 +228,7 @@
           <speaker>GREGOR:</speaker>
           <p>Nežvaňte, Vítku. Já to chci konečně vyhrát.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Nebo konečně prohrát, ne?</p>
         </sp>
@@ -236,7 +236,7 @@
           <speaker>GREGOR:</speaker>
           <p>Raději prohrát než… než… Poslyšte, Vítku, vždyť by se z toho člověk zbláznil: mít pořád před nosem sto padesát miliónů… Mít je skoro v hrsti… Odmalička slyšet jen o nich… <stage>(Vstane.)</stage> Vy myslíte, že to prohraju?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Já nevím, pane Gregore. Tuze sporný případ.</p>
         </sp>
@@ -244,7 +244,7 @@
           <speaker>GREGOR:</speaker>
           <p>Nu dobře. Ale prohraju-li to, pak –</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>– pak se zastřelíte, pane. Zrovna tak to říkal nebožtík pan otec.</p>
         </sp>
@@ -252,7 +252,7 @@
           <speaker>GREGOR:</speaker>
           <p>Však se zastřelil.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Ale ne pro naši causu. Pro dluhy. Když se tak žije… na konto dědictví…</p>
         </sp>
@@ -261,7 +261,7 @@
           <stage>(zmučen, usedne)</stage>
           <p>Mlčte, prosím vás!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Ahi, nemáte nervy na velké procesy. Takový krásný materiál! <stage>(Vylézá na žebříček a vyndává fascikl Gregor.)</stage> Podívejte se, pane Gregore, na ta akta. Osmnáct set dvacet sedm, nejstarší číslo v naší kanceláři. Unikát, pane! Zrovna do muzea. A tohle krásné písmo z osmnáct set čtyřicet. Bože ten člověk měl ruku! Jen se koukněte, jaké to je písmo! Povídám, požitek.</p>
         </sp>
@@ -269,7 +269,7 @@
           <speaker>GREGOR:</speaker>
           <p>Vy jste blázen.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(ukládá pobožně fascikl)</stage>
           <p>Ach Jezus, snad to Nejvyšší soud ještě odročí.</p>
@@ -279,7 +279,7 @@
           <stage>(otevře potichu dveře)</stage>
           <p>Tati, nepůjdeš domů?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(slézá)</stage>
           <p>Počkej, hned – hned – Jen co se vrátí šéf.</p>
@@ -289,7 +289,7 @@
           <stage>(vstane)</stage>
           <p>To je slečna dcera?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Ano. Jdi ven, Kristo. Počkej na chodbě.</p>
         </sp>
@@ -301,7 +301,7 @@
           <speaker>KRISTINA:</speaker>
           <p>Ze zkoušky.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Má dcera zpívá v divadle. Tak jdi už! Tady nemáš co dělat.</p>
         </sp>
@@ -325,7 +325,7 @@
           <speaker>KRISTINA:</speaker>
           <p>Vy nic nevíte! To je největší zpěvačka na světě. Dnes večer zpívá – Ráno s námi zkoušela – Tati!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Nu copak?</p>
         </sp>
@@ -333,7 +333,7 @@
           <speaker>KRISTINA:</speaker>
           <p>Tati, já – já – půjdu od divadla! Já tam nebudu! za nic! za nic! <stage>(Vzlyká a obrátí se zády.)</stage></p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(běží k ní)</stage>
           <p>Kristo, co ti udělali?</p>
@@ -342,7 +342,7 @@
           <speaker>KRISTINA:</speaker>
           <p>Protože… nic… neumím! Tati, ta Marty – – – Já… Kdybys ji slyšel… Já už nikdy nechci zpívat!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Tak se podívejte! A má hlásek – Ale jdi, ty hloupá! Prosím tě, dítě!</p>
         </sp>
@@ -358,7 +358,7 @@
           <speaker>GREGOR:</speaker>
           <p>Vaše mládí.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>No právě! Tak vidíš, Kristo. To je pan Gregor, víš? Počkej, až budeš mít její léta… Jak je ta Marty stará?</p>
         </sp>
@@ -366,7 +366,7 @@
           <speaker>KRISTINA:</speaker>
           <p>Nevím. To… nikdo… nepozná. Asi třicet.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>No tak vidíš, třicet! To už je věk, děvče!</p>
         </sp>
@@ -374,7 +374,7 @@
           <speaker>KRISTINA:</speaker>
           <p>A krásná je! Bože ta je krásná!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Prosím tě, v třiceti letech! To je toho! Počkej, až ty –</p>
         </sp>
@@ -390,7 +390,7 @@
           <speaker>GREGOR:</speaker>
           <p>Děkuju. To stačí.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Ahi, ta je hubatá.</p>
         </sp>
@@ -398,7 +398,7 @@
           <speaker>KRISTINA:</speaker>
           <p>Nemá mluvit o Marty, když jí nezná. Každý je po ní blázen! Každý! <stage>(Vejde dr. Kolenatý.)</stage></p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>I koukejme, Kristinka! Pozdrav bůh – Aha, pan klient je tady. Jak se vede?</p>
         </sp>
@@ -406,7 +406,7 @@
           <speaker>GREGOR:</speaker>
           <p>Jak jsme dopadli?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ještě nijak. Nejvyšší soud se právě odebral –</p>
         </sp>
@@ -414,7 +414,7 @@
           <speaker>GREGOR:</speaker>
           <p>– k poradě?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ne, k obědu.</p>
         </sp>
@@ -422,19 +422,19 @@
           <speaker>GREGOR:</speaker>
           <p>A rozsudek?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Až odpoledne, milý pane. Jen strpení. Obědval jste už?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Ach bože bože!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Co je?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Škoda tak krásného procesu.</p>
         </sp>
@@ -448,7 +448,7 @@
           <stage>(k Vítkovi)</stage>
           <p>Tak pojď, tati!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Jak se má, Kristinko? Ale to mám radost, že ji zas jednou vidím!</p>
         </sp>
@@ -456,7 +456,7 @@
           <speaker>GREGOR:</speaker>
           <p>Doktore, docela upřímně: jak si stojíme?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Lala.</p>
         </sp>
@@ -464,7 +464,7 @@
           <speaker>GREGOR:</speaker>
           <p>Špatně?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Poslyšte, přítelíčku, dělal jsem vám někdy nějaké naděje?</p>
         </sp>
@@ -472,7 +472,7 @@
           <speaker>GREGOR:</speaker>
           <p>Proč tedy… proč…</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Proč vám ten proces vedu? Inu protože jsem vás zdědil, kamaráde. Vás, Vítka, a tamhleten stůl. Co chcete? Causa Gregor, to se dědí v rodině jako nemoc. Však vás to nic nestojí.</p>
         </sp>
@@ -480,7 +480,7 @@
           <speaker>GREGOR:</speaker>
           <p>Dostanete palmár, až to vyhraju.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>A to se tuze těším.</p>
         </sp>
@@ -488,7 +488,7 @@
           <speaker>GREGOR:</speaker>
           <p>Vy tedy myslíte –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Když to chcete vědět, ano.</p>
         </sp>
@@ -496,7 +496,7 @@
           <speaker>GREGOR:</speaker>
           <p>– že to prohrajeme?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ale to se rozumí.</p>
         </sp>
@@ -505,7 +505,7 @@
           <stage>(zdrcen)</stage>
           <p>Dobrá.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>No, zastřelit se ještě nemusíte.</p>
         </sp>
@@ -522,11 +522,11 @@
           <speaker>KRISTINA:</speaker>
           <p>Na mne ne. <stage>(Zazvonění.)</stage></p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Kdopak zas – Řeknu, že tu nejste. <stage>(Vychází ven.)</stage> Vyhodit! Vyhodit!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Propánakrále, Kristinko, ona vyrostla! Pomalu z ní bude ženská.</p>
         </sp>
@@ -534,7 +534,7 @@
           <speaker>KRISTINA:</speaker>
           <p>Ne, jen se podívejte!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Copak?</p>
         </sp>
@@ -546,7 +546,7 @@
           <speaker>GREGOR:</speaker>
           <p>Já? Prosím za odpuštění, slečno. Poněkud nachlazen.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(za dveřmi)</stage>
           <p>Tudy prosím. Ano prosím. Jen račte.</p>
@@ -561,7 +561,7 @@
           <stage>(na prahu)</stage>
           <p>Doktor Kolenatý?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Prosím. Mohu sloužit?</p>
         </sp>
@@ -569,7 +569,7 @@
           <speaker>EMILIA:</speaker>
           <p>Já jsem Marty. Jdu k vám ve věci –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(s ohromnou poklonou ukazuje k své kanceláři)</stage>
           <p>Račte prosím!</p>
@@ -586,7 +586,7 @@
           <speaker>EMILIA:</speaker>
           <p>Nejsem vdána.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Slečno Martyová, to je pan Gregor, můj mandant.</p>
         </sp>
@@ -595,7 +595,7 @@
           <stage>(prohlíží si Gregora)</stage>
           <p>Tenhle? Ať tu třeba zůstane. <stage>(Usedne.)</stage></p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(strká Kristinu ze dveří)</stage>
           <p>Pojď, Kristo, pojď! <stage>(Po špičkách odejde, klaně se.)</stage></p>
@@ -604,7 +604,7 @@
           <speaker>EMILIA:</speaker>
           <p>To děvče jsem někde viděla.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(zavírá za nimi dveře)</stage>
           <p>Slečno Martyová, je mi ohromnou ctí –</p>
@@ -613,7 +613,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ó prosím. Tedy vy jste ten advokát –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(usedá proti ní)</stage>
           <p>K službám.</p>
@@ -630,7 +630,7 @@
           <speaker>EMILIA:</speaker>
           <p>– v procesu o dědictví Pepi Prusa?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Totiž barona Josefa Ferdinanda Prusa, zesnulého 1827.</p>
         </sp>
@@ -638,7 +638,7 @@
           <speaker>EMILIA:</speaker>
           <p>Jděte, on už umřel?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Bohužel. Dokonce málem už před sto lety.</p>
         </sp>
@@ -646,7 +646,7 @@
           <speaker>EMILIA:</speaker>
           <p>Á, chudáček. To jsem nevěděla.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ah tak. Mohu vám snad posloužit v něčem jiném?</p>
         </sp>
@@ -655,7 +655,7 @@
           <stage>(vstane)</stage>
           <p>Oh, já vás nechci zdržovat.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(vstane)</stage>
           <p>Pardon, slečno. Myslím, že jste se neobtěžovala bez příčiny.</p>
@@ -664,7 +664,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ne. <stage>(Usedne opět.)</stage> Chtěla jsem vám něco říci.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(usedá)</stage>
           <p>Ve věci Gregorově?</p>
@@ -673,7 +673,7 @@
           <speaker>EMILIA:</speaker>
           <p>Snad.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ale vy jste cizinka, že?</p>
         </sp>
@@ -681,7 +681,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ovšem. Teprve dnes ráno jsem vůbec zvěděla o vašem… o procesu tohohle pána. Docela náhodou.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Hleďme!</p>
         </sp>
@@ -689,7 +689,7 @@
           <speaker>EMILIA:</speaker>
           <p>Jen z novin, víte? Hledám, co tam píšou o mně, a najednou čtu: „Poslední den procesu Gregor contra Prus.“ Náhoda, co?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Inu, bylo to ve všech novinách.</p>
         </sp>
@@ -697,7 +697,7 @@
           <speaker>EMILIA:</speaker>
           <p>A protože… náhodou… protože jsem si na něco vzpomněla… Zkrátka, můžete mi něco říci o tom procesu?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Tažte se, nač chcete. Prosím.</p>
         </sp>
@@ -705,7 +705,7 @@
           <speaker>EMILIA:</speaker>
           <p>Já o tom nic nevím.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Zhola nic? Ani slova?</p>
         </sp>
@@ -713,7 +713,7 @@
           <speaker>EMILIA:</speaker>
           <p>Vždyť o tom slyším poprvé.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ale pak – promiňte – pak nechápu, jaký máte zájem –</p>
         </sp>
@@ -721,7 +721,7 @@
           <speaker>GREGOR:</speaker>
           <p>Jen vypravujte, doktore.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Inu slečno, je to takový shnilý proces.</p>
         </sp>
@@ -729,7 +729,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ale Gregor je v právu, že?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Patrně. Ale s tím to nevyhraje.</p>
         </sp>
@@ -741,7 +741,7 @@
           <speaker>EMILIA:</speaker>
           <p>Aspoň v hlavních rysech.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Nu baví-li vás to… <stage>(Položí se v lenošce a rychle odříkává:)</stage> Tak tedy kolem roku 1820 vládl na baronském panství Prusů, totiž na dvorech Semonice, Loukov, Nová Ves, Königsdorf a tak dále slabomyslný baron Josef Ferdinand Prus –</p>
         </sp>
@@ -749,7 +749,7 @@
           <speaker>EMILIA:</speaker>
           <p>Pepi že byl slabomyslný? Ó ne!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Snad tedy podivínský.</p>
         </sp>
@@ -757,7 +757,7 @@
           <speaker>EMILIA:</speaker>
           <p>Řekněte nešťastný.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Pardon, to snad nemůžete vědět.</p>
         </sp>
@@ -765,7 +765,7 @@
           <speaker>EMILIA:</speaker>
           <p>Vy teprv ne.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Nu bůh suď. Tedy Josef Ferdinand Prus, který zemřel neženat, bezdětek a bez závěti roku 1827.</p>
         </sp>
@@ -773,7 +773,7 @@
           <speaker>EMILIA:</speaker>
           <p>Nač zemřel?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Zápal mozku či co. V dědictví se uvázal jeho cousin, polský baron Emmerich Prus-Zabrze-Pinski. Proti němu vystoupil s žalobou o celé dědictví jistý hrabě Szepházy de Marosvár, synovec matky zesnulého, což se nás jinak netýká; a s nárokem na zboží Loukov jakýsi Ferdinand Karel Gregor, takto praděd mého klienta.</p>
         </sp>
@@ -781,7 +781,7 @@
           <speaker>EMILIA:</speaker>
           <p>Kdy?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Hned roku 1827.</p>
         </sp>
@@ -789,7 +789,7 @@
           <speaker>EMILIA:</speaker>
           <p>Počkejte; tehdy musel být Ferdi ještě chlapec.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Zcela správně. Tehdy chovanec Tereziánské akademie, zastoupený vídeňským advokátem. Jeho nárok na zboží Loukov se opíral o tato fakta: Předně že zesnulý rok před smrtí se dostavil osobně, hochpersönlich, k správci Tereziánské akademie a prohlásil, že odevzdává das obengenannte Gut samt Schloss, Höfen, Meierhöfen und Inventar, tedy celé svrchupsané zboží na vydržování des genannten Minderjährigen, tehdy řečeného nezletilého Gregora, kterýžto řečený má býti, falls und sobald er majorenn wird, čili v termínu plnoletí uveden in Besitz und Eigentum, to jest v plné vlastnictví svrchupsaného zboží. Item o fakt, pro secundo: že řečený nezletilý dostával na rozkaz a za živobytí zesnulého požitky a výkazy svrchupsaného zboží s titulem Besitzer und Eigentümer des Gutes Loukov, čímž tedy je podán důkaz takzvaného naturálního držení.</p>
         </sp>
@@ -797,7 +797,7 @@
           <speaker>EMILIA:</speaker>
           <p>Tedy tím by bylo všecko v pořádku, ne?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Pardon. Proti tomu baron Emmerich Prus namítal, že darování svrchupsaného zboží není provedeno knihovně, totiž zápisem v gruntovní knize, že zesnulý nezanechal psaného testamentu a naopak – hingegen – ve své poslední hodince učinil ústní pořízení ve prospěch osoby jiné –</p>
         </sp>
@@ -805,7 +805,7 @@
           <speaker>EMILIA:</speaker>
           <p>To není možno! Které osoby?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Tady je háček, slečno. Počkejte, hned vám to přečtu. <stage>(Vylézá po žebříčku k registratuře.)</stage> To vám je legrace, uvidíte. Aha, tady je to. <stage>(Vyndá fascikl „Gregor“, usedne na poslední příčli a rychle listuje.)</stage> Zvzvzvzv, aha. „Das während des Ablebens des hochwohlgebornen Majoratsherrn Freiherrn Prus Josef Ferdinand von Semonitz vorgenommene Protokoll usw.“ Teda úmrtní protokol, slečno, který podepsal nějaký páter, doktor a notář u smrtelné postele Josefa Pruse. Tak tedy: … „umírající… ve vysoké horečce… otázán podepsaným notářem, má-li ještě nějaké přání,… prohlásil několikrát – wiederholten Male –, že zboží Loukov – dass das Allodium Loukov… Herrn Mach Gregor zukommen soll…“ <stage>(Zavírá akta.)</stage> Herrn Mach Gregor. <stage>(Zastrkuje fascikl.)</stage> Nějakému panu Machovi, slečno. Nějakému Gregoru Machovi, čili po česku Řehoři Machovi, osobě tehdy nepovědomé a ne zvěstné. <stage>(Zůstane sedět nahoře.)</stage></p>
         </sp>
@@ -813,7 +813,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ale to je omyl! Pepi přec myslel určitě Gregora, Ferdi Gregora!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Patrně, slečno; ale co je psáno, je psáno. Tehdy opravdu řečený Gregor namítal, že slovo „Mach“ se ocitlo v ústní závěti jen nějakým přeslechnutím nebo přepsáním, že „Gregor“ tam má být jménem vlastním a nikoliv křestním et cetera. Ale littera scripta valet – a Emmerich Prus podržel Loukov i celé dědictví.</p>
         </sp>
@@ -821,7 +821,7 @@
           <speaker>EMILIA:</speaker>
           <p>A Gregor?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Gregor nic. Zatím ten cousin Szepházy, podle všeho náramně zajímavý lotr, kdesi vyšťáral nějaké individuum, které se náhodou jmenovalo Řehoř Mach. Tak tenhleten Mach se vám přihlásil u soudu, že prý zesnulý měl k němu tajné závazky – patrně choulostivého rázu –</p>
         </sp>
@@ -829,7 +829,7 @@
           <speaker>EMILIA:</speaker>
           <p>To je lež!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Zajisté. A že se hlásí o loukovské dědictví; načež pan Řehoř Mach zmizel, nechávaje v rukou pana Szepháze notářský postup svých nároků na Loukov, – zač, to historie nepraví. A teď ten kavalír Szepházy procesoval jeho jménem o Loukov, a považte si, že to vyhrál. Nyčko byl Loukov zas jeho.</p>
         </sp>
@@ -837,7 +837,7 @@
           <speaker>EMILIA:</speaker>
           <p>To je nesmysl!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Švanda, co? A tehdy řečený Gregor začal proces proti Szepházovi: že dotyčný Řehoř Mach není de iure dědicem Loukova, že zesnulý činil ústní pořízení ve stavu vysoké horečky a kdesi cosi. Po dlouhém tahání to vyhrál, předešlý rozsudek zrušen, ale Loukov nebyl odevzdán Gregorovi, nýbrž zase Emmerichu Prusovi, rozumíte?</p>
         </sp>
@@ -849,7 +849,7 @@
           <speaker>EMILIA:</speaker>
           <p>A proč to nedostal Gregor?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Inu drahá slečno, z těch a oněch vysoce formálních důvodů, a pak, vzhledem k tomu, že ani Řehoř Mach, ani Ferdinand Karel Gregor nebyl k zesnulému v poměru příbuzenském –</p>
         </sp>
@@ -857,7 +857,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ale počkejte! Vždyť to byl jeho syn!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Kdo? Čí syn?</p>
         </sp>
@@ -870,7 +870,7 @@
           <stage>(vyskočí)</stage>
           <p>Jeho syn? Jak to víte?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(seběhne z žebříčku)</stage>
           <p>Jeho syn? A kdo byla prosím matka?</p>
@@ -891,7 +891,7 @@
           <speaker>GREGOR:</speaker>
           <p>Slyšíte, doktore? Mac Gregor! Mac! Mac! Žádný Mach! Chápete už?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(usedá)</stage>
           <p>Ovšem. A pročpak se, slečno, její syn nejmenoval taky Mac Gregor?</p>
@@ -900,7 +900,7 @@
           <speaker>EMILIA:</speaker>
           <p>Inu, z ohledu k matce – Ferdi totiž vůbec nepoznal svou matku.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ah tak. A máte na to, slečno, nějaké doklady?</p>
         </sp>
@@ -908,7 +908,7 @@
           <speaker>EMILIA:</speaker>
           <p>Nevím. Tak dál.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Tak dál. Nu, od té doby trvá proces o loukovské zboží s nějakými přestávkami až po naše dny, tedy skoro sto let successive mezi několika generacemi Prusů, Szepházů a Gregorů a za výtečné právní pomoci doktorů Kolenatých. Dík této pomoci to prohraje poslední Gregor definitivně, a sice náhodou zrovna dnes odpoledne. Tak, a to je všecko.</p>
         </sp>
@@ -920,7 +920,7 @@
           <speaker>GREGOR:</speaker>
           <p>To si myslím.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Víte, v šedesátých letech byl na loukovské půdě otevřen uhelný důl. Cena se nedá ani přibližně odhadnout. Řekněme sto padesát miliónů.</p>
         </sp>
@@ -932,7 +932,7 @@
           <speaker>GREGOR:</speaker>
           <p>Ne, nic víc. Mně by to stačilo.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Drahá slečno, máte ještě nějaký dotaz?</p>
         </sp>
@@ -940,7 +940,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ano. Co potřebujete, abyste ten proces vyhrál?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Inu, nejmilejší by mně byl pořádný psaný testament.</p>
         </sp>
@@ -948,7 +948,7 @@
           <speaker>EMILIA:</speaker>
           <p>A víte o nějakém?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Žádného není.</p>
         </sp>
@@ -956,7 +956,7 @@
           <speaker>EMILIA:</speaker>
           <p>To je hloupé.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Nepochybně. <stage>(Vstane.)</stage> Ještě nějaký dotaz?</p>
         </sp>
@@ -976,7 +976,7 @@
           <speaker>GREGOR:</speaker>
           <p>Archív.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Registratura.</p>
         </sp>
@@ -984,7 +984,7 @@
           <speaker>EMILIA:</speaker>
           <p>Tak poslyšte, v Prusově domě bývala taková skříň. Každá zásuvka měla letopočet. A tam dával Pepi staré výkazy, účty a jiné krámy, rozumíte?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ano, to se dělává.</p>
         </sp>
@@ -992,7 +992,7 @@
           <speaker>EMILIA:</speaker>
           <p>A na jedné zásuvce byl letopočet 1816. Víte, toho roku se Pepi seznámil s tou Ellian Mac Gregor. Na vídeňském kongresu nebo tak někdy.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Aha!</p>
         </sp>
@@ -1000,7 +1000,7 @@
           <speaker>EMILIA:</speaker>
           <p>A do té zásuvky schoval všechny dopisy, které od Elliany měl.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(usedá)</stage>
           <p>Jak to víte?</p>
@@ -1009,7 +1009,7 @@
           <speaker>EMILIA:</speaker>
           <p>Nemusíte se mne ptát.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Promiňte. Jak je libo.</p>
         </sp>
@@ -1017,7 +1017,7 @@
           <speaker>EMILIA:</speaker>
           <p>Jsou tam také dopisy od správců a takových lidí, víte? Zkrátka hrozně mnoho starých papírů.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ano.</p>
         </sp>
@@ -1025,7 +1025,7 @@
           <speaker>EMILIA:</speaker>
           <p>Myslíte, že to už někdo spálil?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Snad. Dost možná. Ostatně uvidíme.</p>
         </sp>
@@ -1033,7 +1033,7 @@
           <speaker>EMILIA:</speaker>
           <p>Půjdete se tam podívat?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Zajisté. Ovšem dovolí-li pan Prus.</p>
         </sp>
@@ -1041,7 +1041,7 @@
           <speaker>EMILIA:</speaker>
           <p>A když nedovolí?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Což dělat!</p>
         </sp>
@@ -1049,7 +1049,7 @@
           <speaker>EMILIA:</speaker>
           <p>Pak tu zásuvku musíte dostat jinak, rozumíte?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ano, o půlnoci s provazovým žebříkem, paklíči a tak dále. Slečno, slečno, vy máte názory o nás advokátech!</p>
         </sp>
@@ -1057,7 +1057,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ale vy to musíte dostat do rukou!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Nu uvidíme. A dál?</p>
         </sp>
@@ -1065,7 +1065,7 @@
           <speaker>EMILIA:</speaker>
           <p>Jsou-li tam ty dopisy, – – pak je… mezi nimi… taková velká žlutá obálka –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>A v ní –</p>
         </sp>
@@ -1073,7 +1073,7 @@
           <speaker>EMILIA:</speaker>
           <p>Prusův testament. Vlastnoruční a zapečetěný.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(vstane)</stage>
           <p>Pro živého boha!</p>
@@ -1083,7 +1083,7 @@
           <stage>(vyskočí)</stage>
           <p>Víte to jistě?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Prosím, co je v něm? jaký je?</p>
         </sp>
@@ -1091,7 +1091,7 @@
           <speaker>EMILIA:</speaker>
           <p>Nu, v něm Pepi odkazuje… statek Loukov… svému nemanželskému synu Ferdinandovi… narozenému na Loukově… dne toho a toho. Datum jsem zapomněla.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Výslovně?</p>
         </sp>
@@ -1099,7 +1099,7 @@
           <speaker>EMILIA:</speaker>
           <p>Výslovně.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>A obálka je zapečetěna?</p>
         </sp>
@@ -1107,7 +1107,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ano.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Původní pečetí Josefa Pruse?</p>
         </sp>
@@ -1115,7 +1115,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ano.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Tak děkuju. <stage>(Sedne si.)</stage> A pročpak si z nás, slečno, vlastně děláte blázny?</p>
         </sp>
@@ -1123,7 +1123,7 @@
           <speaker>EMILIA:</speaker>
           <p>Já? Ah tak, vy mi nevěříte.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>To se rozumí, že ne. Ani slova.</p>
         </sp>
@@ -1131,7 +1131,7 @@
           <speaker>GREGOR:</speaker>
           <p>Ale já jí věřím! Jak se můžete opovážit –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Mějte rozum. Je-li obálka zapečetěna, jak může někdo vědět, co v ní je? No řekněte!</p>
         </sp>
@@ -1139,7 +1139,7 @@
           <speaker>GREGOR:</speaker>
           <p>Ale –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>V obálce sto let zapečetěné!</p>
         </sp>
@@ -1147,7 +1147,7 @@
           <speaker>GREGOR:</speaker>
           <p>Přesto –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>A v cizím domě! Nebuďte dětina, Gregore.</p>
         </sp>
@@ -1155,7 +1155,7 @@
           <speaker>GREGOR:</speaker>
           <p>Já věřím a dost!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Nu, jak chcete. Drahá slečno Martyová, vy máte zvláštní, zvláštní schopnost povídat… pohádky. Zvláštní slabost, opravdu. Trpíte tím častěji?</p>
         </sp>
@@ -1163,7 +1163,7 @@
           <speaker>GREGOR:</speaker>
           <p>Oh mlčte aspoň!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Toť se ví, jako hrob. Naprostá diskrétnost, slečno.</p>
         </sp>
@@ -1179,7 +1179,7 @@
           <speaker>GREGOR:</speaker>
           <p>– a proto, buď ihned pojedete do Prusova domu a požádáte o papíry z roku 1816 –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>To asi neudělám. Anebo –</p>
         </sp>
@@ -1187,7 +1187,7 @@
           <speaker>GREGOR:</speaker>
           <p>– anebo požádám o tu službu prvního advokáta z telefonního adresáře a svěřím mu causu Gregor.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Pro mne a za mne –</p>
         </sp>
@@ -1195,7 +1195,7 @@
           <speaker>GREGOR:</speaker>
           <p>Dobrá. <stage>(Jde k telefonu a listuje v adresáři.)</stage></p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(jde k němu)</stage>
           <p>Poslyšte, Gregore, nechte těch hloupostí. Vždyť jsme přátelé, ne? Myslím dokonce, že jsem býval vaším poručníkem.</p>
@@ -1204,7 +1204,7 @@
           <speaker>GREGOR:</speaker>
           <p>Dr. Abeles Alfred, dvacet sedm šedesát jeden.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Člověče, aspoň tohohle si neberte! To je má poslední rada. Chcete-li se nadobro ruinovat –</p>
         </sp>
@@ -1217,7 +1217,7 @@
           <speaker>EMILIA:</speaker>
           <p>Dobře, Gregore!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Nedělejte ostudu! Nedáte přece naši dědičnou causu takovému –</p>
         </sp>
@@ -1226,7 +1226,7 @@
           <stage>(do telefonu)</stage>
           <p>Doktor Abeles? Tady Gregor v kanceláři –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(vytrhne mu sluchátko)</stage>
           <p>Počkejte. Pojedu.</p>
@@ -1235,7 +1235,7 @@
           <speaker>GREGOR:</speaker>
           <p>K Prusovi?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Třeba k čertu. Ale teď se mi odtud ani nehněte.</p>
         </sp>
@@ -1243,7 +1243,7 @@
           <speaker>GREGOR:</speaker>
           <p>Doktore, nepřijdete-li za hodinu, zavolám –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>I kušte! – Pardon, slečno. A prosím vás, nepoblázněte mi ho nadobro. <stage>(Běží ven.)</stage></p>
         </sp>
@@ -1691,7 +1691,7 @@
           <p>Zavolej mi auto –</p>
         </sp>
         <stage>(Vejde rychle dr. Kolenatý a za ním Prus.)</stage>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Našli jsme! Našli! <stage>(Vrhá se před Emilií na kolena.)</stage> Milostivá, prosím miliónkrát za odpuštění. Jsem staré hloupé zvíře, a vy jste vševědoucí!</p>
         </sp>
@@ -1712,7 +1712,7 @@
           <speaker>GREGOR:</speaker>
           <p>Cože?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(vstává)</stage>
           <p>Ale to se rozumí, miláčku! Teď provedem restituci naší causy.</p>
@@ -1721,7 +1721,7 @@
           <speaker>EMILIA:</speaker>
           <p>Bylo to tam?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>To se ví: testament, dopisy a ještě něco…</p>
         </sp>
@@ -1729,7 +1729,7 @@
           <speaker>PRUS:</speaker>
           <p>Prosím představte mne.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ah pardon. Slečno Martyová, to je pan Prus, náš úhlavní nepřítel.</p>
         </sp>
@@ -1737,7 +1737,7 @@
           <speaker>EMILIA:</speaker>
           <p>Těší mne. Kde jsou ty dopisy?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Které?</p>
         </sp>
@@ -1829,7 +1829,7 @@
           <speaker>EMILIA:</speaker>
           <p>Dobrá. Doktore, pošlu vám ráno něco takového.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Jakže, vy to vozíte s sebou? Propánaboha!</p>
         </sp>
@@ -1838,7 +1838,7 @@
           <stage>(příkře)</stage>
           <p>Je to tak divné, co?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>I toto, já už se nedivím ničemu. Gregore, zavolejte si třeba dvacet sedm šedesát jeden.</p>
         </sp>
@@ -1846,7 +1846,7 @@
           <speaker>GREGOR:</speaker>
           <p>Doktora Abelesa? Proč?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Protože se mi, holenku, zdá, že – že – No uvidíme.</p>
         </sp>
@@ -1867,36 +1867,36 @@
       <div type="act">
         <head>DĚJSTVÍ DRUHÉ</head>
         <stage>Jeviště velkého divadla, prázdné, jen trochu nepořádku po včerejším představení: nějaké praktikáhly, stočené dekorace, osvětlovací tělesa, celý holý a pustý rub divadla. Vpředu divadelní trůn na pódiu.</stage>
-        <sp who="#poklízečka">
+        <sp who="#poklizecka">
           <speaker>POKLÍZEČKA:</speaker>
           <p>Propána to bylo slávy. Viděl ste ty kytice?</p>
         </sp>
-        <sp who="#strojník">
+        <sp who="#strojnik">
           <speaker>STROJNÍK:</speaker>
           <p>Neviděl.</p>
         </sp>
-        <sp who="#poklízečka">
+        <sp who="#poklizecka">
           <speaker>POKLÍZEČKA:</speaker>
           <p>Jakživa sem neviděla takovou slávu. Lidi řvali; já sem myslela, že to divadlo zbořej. Vona se ta Marty šla nejmíň padesátkrát děkovat, a lidi né a né přestat. Zrouna vám bláznili.</p>
         </sp>
-        <sp who="#strojník">
+        <sp who="#strojnik">
           <speaker>STROJNÍK:</speaker>
           <p>Poslouchejte, taková ženská musí mít peněz!</p>
         </sp>
-        <sp who="#poklízečka">
+        <sp who="#poklizecka">
           <speaker>POKLÍZEČKA:</speaker>
           <p>No Jéžiš! To si myslím, Kudrno. Dyť co se vydá jen za ty kytky. Helejte, támhle jich eště je celá kupa. Ani to šecko nevodvezla.</p>
         </sp>
-        <sp who="#strojník">
+        <sp who="#strojnik">
           <speaker>STROJNÍK:</speaker>
           <p>Šak já sem přišel chvilku poslouchat sem za kulisy; ale vite, v člověku se všechno třese, když vona zpívá.</p>
         </sp>
-        <sp who="#poklízečka">
+        <sp who="#poklizecka">
           <speaker>POKLÍZEČKA:</speaker>
           <p>Já vám to řeknu, Kudrno, já sem dočista brečela. Poslouchám a najednou, co mně to teče po tváři; a já brečím.</p>
         </sp>
         <stage>(Prus vejde.)</stage>
-        <sp who="#poklízečka">
+        <sp who="#poklizecka">
           <speaker>POKLÍZEČKA:</speaker>
           <p>Ráčíte hledat?</p>
         </sp>
@@ -1904,7 +1904,7 @@
           <speaker>PRUS:</speaker>
           <p>Není tu slečna Marty? V hotelu mně řekli, že šla do divadla.</p>
         </sp>
-        <sp who="#poklízečka">
+        <sp who="#poklizecka">
           <speaker>POKLÍZEČKA:</speaker>
           <p>Vona je u pana ředitele. Ale musí sem přijít, vona má něco v šatně.</p>
         </sp>
@@ -1912,31 +1912,31 @@
           <speaker>PRUS:</speaker>
           <p>Dobrá, počkám. <stage>(Postaví se stranou.)</stage></p>
         </sp>
-        <sp who="#poklízečka">
+        <sp who="#poklizecka">
           <speaker>POKLÍZEČKA:</speaker>
           <p>To už je pátej. Čekaj na ni jako na klinice.</p>
         </sp>
-        <sp who="#strojník">
+        <sp who="#strojnik">
           <speaker>STROJNÍK:</speaker>
           <p>To mně nejde do hlavy, jestli taková ženská má taky mužský.</p>
         </sp>
-        <sp who="#poklízečka">
+        <sp who="#poklizecka">
           <speaker>POKLÍZEČKA:</speaker>
           <p>A jo. A to jistě jo, Kudrno.</p>
         </sp>
-        <sp who="#strojník">
+        <sp who="#strojnik">
           <speaker>STROJNÍK:</speaker>
           <p>A sakra!</p>
         </sp>
-        <sp who="#poklízečka">
+        <sp who="#poklizecka">
           <speaker>POKLÍZEČKA:</speaker>
           <p>Copak? Co ste se tak zakoukal?</p>
         </sp>
-        <sp who="#strojník">
+        <sp who="#strojnik">
           <speaker>STROJNÍK:</speaker>
           <p>Mně to ani nejde do hlavy. <stage>(Odejde.)</stage></p>
         </sp>
-        <sp who="#poklízečka">
+        <sp who="#poklizecka">
           <speaker>POKLÍZEČKA:</speaker>
           <p>To víš, to pro tebe není. <stage>(Odejde druhou stranou.)</stage></p>
         </sp>
@@ -2187,7 +2187,7 @@
           <stage>(vezme ji lehce za ruku)</stage>
           <p>Tyhle zlaté ručičky mu to po straně vynahradí.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(vběhne)</stage>
           <p>Kristo! Kristinko! Aha, tady jsi. <stage>(Zarazí se.)</stage> Pan Prus?</p>
@@ -2200,7 +2200,7 @@
           <speaker>KRISTINA:</speaker>
           <p>Co máš, tati?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Jsi v novinách, Kristo! Píšou o tobě v novinách! A dokonce v kritice o Martyové! Považ, vedle Martyové!</p>
         </sp>
@@ -2208,7 +2208,7 @@
           <speaker>KRISTINA:</speaker>
           <p>Ukaž!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(rozevře noviny)</stage>
           <p>Tadyhle: „Úložku tu a tu – zpívala poprvé slečna Vítková.“ – To je dost hezké, viď?</p>
@@ -2217,7 +2217,7 @@
           <speaker>KRISTINA:</speaker>
           <p>A co máš tady?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>To jsou jiné noviny, tam nic není. To víš, jen Marty, Marty, samá Marty. Jako by na světě nebyl nikdo jiný než Marty.</p>
         </sp>
@@ -2226,7 +2226,7 @@
           <stage>(šťastna)</stage>
           <p>Podívejte se, Janku, tady mne jmenují!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Kristo, kdo je to?</p>
         </sp>
@@ -2238,7 +2238,7 @@
           <speaker>JANEK:</speaker>
           <p>Janek.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Odkud ho znáš?</p>
         </sp>
@@ -2246,7 +2246,7 @@
           <speaker>JANEK:</speaker>
           <p>Prosím, slečna byla tak laskava –</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Prosím, to mi poví má dcera sama. Pojď, Kristo!</p>
         </sp>
@@ -2380,7 +2380,7 @@
           <stage>(vytrhne jí peníze)</stage>
           <p>Máte divné rozmary. <stage>(Dá peníze Vítkovi.)</stage> Odevzdejte to v kanceláři. Depot slečny Martyové.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Ano prosím.</p>
         </sp>
@@ -2388,7 +2388,7 @@
           <speaker>EMILIA:</speaker>
           <p>Hej vy! To je pro něj, rozumíte?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Ano prosím.</p>
         </sp>
@@ -2396,7 +2396,7 @@
           <speaker>EMILIA:</speaker>
           <p>Byl jste v divadle? Líbila jsem se vám?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Můj bože, a jak! Hotová Strada!</p>
         </sp>
@@ -2404,7 +2404,7 @@
           <speaker>EMILIA:</speaker>
           <p>Vy jste slyšel zpívat Stradu? Poslyšte, Strada pískala; to nebyl žádný hlas.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Vždyť Strada zemřela už před sto lety!</p>
         </sp>
@@ -2412,7 +2412,7 @@
           <speaker>EMILIA:</speaker>
           <p>Tím hůř! Měl byste ji slyšet. Strada! Prosím vás, co pořád máte s tou Stradou?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Prosím za odpuštění, já – já ji samozřejmě neslyšel. Ale podle historie –</p>
         </sp>
@@ -2420,7 +2420,7 @@
           <speaker>EMILIA:</speaker>
           <p>Poslyšte, historie lže. Já vám něco řeknu: Strada pískala a Corona měla knedlík. Agujari byla husa a Faustina dýchala jako měch. To je ta vaše historie.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Oh prosím… v tom oboru… co se týče hudby…</p>
         </sp>
@@ -2445,7 +2445,7 @@
           <speaker>PRUS:</speaker>
           <p>Nevím. Kdybyste se ho zeptala takhle na občana Marata –</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Oh ne prosím! K čemu to!</p>
         </sp>
@@ -2453,7 +2453,7 @@
           <speaker>EMILIA:</speaker>
           <p>Marat? Nebyl to ten poslanec, co se mu tak potily ruce?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>To není pravda!</p>
         </sp>
@@ -2461,7 +2461,7 @@
           <speaker>EMILIA:</speaker>
           <p>Já už vím. Měl ruce jako ropucha, brr!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Ale ne, to je omyl! To není o něm nikde psáno! Prosím za odpuštění –</p>
         </sp>
@@ -2469,7 +2469,7 @@
           <speaker>EMILIA:</speaker>
           <p>Já to snad vím, ne? A jak se jmenoval ten veliký, ten od neštovic?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Který prosím?</p>
         </sp>
@@ -2477,7 +2477,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ten, co mu usekli hlavu.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Danton?</p>
         </sp>
@@ -2493,7 +2493,7 @@
           <speaker>EMILIA:</speaker>
           <p>Oh, nadobro zkažené zuby. Degutantní člověk.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(rozčilen)</stage>
           <p>Prosím takhle se nesmí mluvit! To není historické! Danton… Danton neměl zkažené zuby. To nemůžete dokázat! A kdyby, tak na tom docela nic nezáleží. Docela nic!</p>
@@ -2502,7 +2502,7 @@
           <speaker>EMILIA:</speaker>
           <p>Jakpak by nezáleželo? Vždyť je to degutantní.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Ne, prosím to nepřipustím! Danton – prosím za odpuštění, ale takhle se nesmí mluvit! Pak by nezbylo nic velkého v dějinách!</p>
         </sp>
@@ -2510,7 +2510,7 @@
           <speaker>EMILIA:</speaker>
           <p>Nebylo nic velkého.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Cože?</p>
         </sp>
@@ -2518,7 +2518,7 @@
           <speaker>EMILIA:</speaker>
           <p>Jakživo nebylo nic velkého. Já to znám.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Ale Danton –</p>
         </sp>
@@ -2551,7 +2551,7 @@
           <stage>(zívá)</stage>
           <p>To je párek, ti dva? Jestlipak už byli v ráji?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Jak prosím?</p>
         </sp>
@@ -2559,7 +2559,7 @@
           <speaker>EMILIA:</speaker>
           <p>Jestli už spolu měli.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Proboha ne!</p>
         </sp>
@@ -2567,7 +2567,7 @@
           <speaker>EMILIA:</speaker>
           <p>Vždyť na tom nic není! Vy byste jim to nepřál?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Kristo, že to není pravda?</p>
         </sp>
@@ -2892,7 +2892,7 @@
           <speaker>EMILIA:</speaker>
           <p>Další. Kdo mi co chce?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Prosím za odpuštění. Kdybyste ráčila podepsat pro mne… pro Kristinku… vaši fotografii.</p>
         </sp>
@@ -2900,7 +2900,7 @@
           <speaker>EMILIA:</speaker>
           <p>Hlouposti. Ale Kristince to udělám. Péro! <stage>(Podpisuje.)</stage> Tak, sbohem.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(uklání se)</stage>
           <p>Tisíceré díky! <stage>(Odchází s Kristinou.)</stage></p>
@@ -3592,7 +3592,7 @@
           <stage>(vztyčí se)</stage>
           <p>Co je? – Ah tak, vy – Slečna usnula. Nebuďte ji. <stage>(Políbí Emilii ruku a odběhne.)</stage></p>
         </sp>
-        <sp who="#poklízečka">
+        <sp who="#poklizecka">
           <speaker>POKLÍZEČKA:</speaker>
           <stage>(přiblíží se k Emilii a mlčky na ni pohlíží)</stage>
           <p>A mně jí je tak nějak líto. <stage>(Odejde.)</stage></p>
@@ -3791,7 +3791,7 @@
           <speaker>EMILIA:</speaker>
           <p>Oh poslužte si. <stage>(Klepání. Jde ke dveřím.)</stage> Kdo je to?</p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <stage>(za scénou)</stage>
           <p>Já, slečno.</p>
@@ -3800,7 +3800,7 @@
           <speaker>EMILIA:</speaker>
           <p>Pojď dál. <stage>(Odemkne.)</stage> Něco jíst!</p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <stage>(vejde v nočním kabátku a spodničce, udýchaná)</stage>
           <p>Prosím, slečno, není tady pan Prus?</p>
@@ -3810,7 +3810,7 @@
           <stage>(otočí se)</stage>
           <p>Co je?</p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <p>Je tu sluha pana Pruse. Že s ním musí mluvit. Že mu něco nese.</p>
         </sp>
@@ -3822,7 +3822,7 @@
           <speaker>EMILIA:</speaker>
           <p>Učešeš mne. <stage>(Usedne před toaletním stolkem.)</stage></p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <stage>(rozpouští jí vlasy)</stage>
           <p>Bože to jsem se lekla! Pro mne přiběh portýr, že tu je ten sluha a že chce k vám. A on vám ten sluha je zrovna bez sebe, ani mluvit nemůže. A do mne jako když střelí. Něco se muselo stát, slečno.</p>
@@ -3831,7 +3831,7 @@
           <speaker>EMILIA:</speaker>
           <p>Pozor, taháš.</p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <p>A bledý je jako stěna, ten sluha. Já se tak lekla –</p>
         </sp>
@@ -3840,7 +3840,7 @@
           <stage>(vyjde spěšně z ložnice v límci a kravatě)</stage>
           <p>Pardon, okamžik. <stage>(Odejde vpravo.)</stage></p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <stage>(kartáčuje vlasy)</stage>
           <p>To je velký pán, že? Já bych hrozně chtěla vědět, co se stalo. Kdybyste viděla, slečno, jak se ten sluha třás…</p>
@@ -3849,7 +3849,7 @@
           <speaker>EMILIA:</speaker>
           <p>Dáš mi pak udělat vajíčka.</p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <p>A měl v ruce nějaké psaní či co. Měla bych jít poslouchat?</p>
         </sp>
@@ -3858,7 +3858,7 @@
           <stage>(zívá)</stage>
           <p>Kolik je hodin?</p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <p>Sedm pryč.</p>
         </sp>
@@ -3866,7 +3866,7 @@
           <speaker>EMILIA:</speaker>
           <p>Zhas to světlo a mlč. <stage>(Pauza.)</stage></p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <p>A pysky měl zrovna modré, ten sluha.</p>
         </sp>
@@ -3874,7 +3874,7 @@
           <speaker>EMILIA:</speaker>
           <p>Vždyť mě vytrháš vlasy, ty pitomá! Ukaž hřeben! Na, koukej, co tu je vyškubaných vlasů!</p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <p>Když se mně třesou ruce! Něco se muselo stát –</p>
         </sp>
@@ -4061,7 +4061,7 @@
           <speaker>EMILIA:</speaker>
           <p>Dále.</p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <stage>(vejde, již ustrojena)</stage>
           <p>Pan Hauk-Šendorf prosí, slečno.</p>
@@ -4152,7 +4152,7 @@
           <speaker>EMILIA:</speaker>
           <p>Sí. Ven aquí, chucho! <stage>(Zaklepání.)</stage> Vstupte!</p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <stage>(vstrčí hlavu)</stage>
           <p>Pan Gregor prosí.</p>
@@ -4224,7 +4224,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ty mne vyslýcháš?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Kdepak, slečno. To je jen přátelská beseda.</p>
         </sp>
@@ -4236,7 +4236,7 @@
           <speaker>EMILIA:</speaker>
           <p>Je.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Výborně. A račte dovolit: poslala jste mi včera tuhle listinu? Je to vlastnoruční prohlášení jakési Elliany Mac Gregorové, že je matkou Ferdinanda Gregora. Datum osmnáct set třicet šest. Je to pravé?</p>
         </sp>
@@ -4264,7 +4264,7 @@
           <speaker>GREGOR:</speaker>
           <p>Bylo to psáno včera, rozumíte? A k tomu touže rukou, která podepsala tuhle fotografii. Náramně zvláštní písmo.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Jakoby řecké, na mou duši. Například tohle alfa –</p>
         </sp>
@@ -4280,7 +4280,7 @@
           <speaker>HAUK:</speaker>
           <p>Ale pánové, pánové, račte dovolit –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Nechat, pane, nechat; to jsou moc zajímavé věci. Slečno, můžete nám aspoň říci, kde jste vzala tohle lejstro?</p>
         </sp>
@@ -4288,7 +4288,7 @@
           <speaker>EMILIA:</speaker>
           <p>Já přísahám, že to psala Ellian Mac Gregor!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Kdy? Včera ráno?</p>
         </sp>
@@ -4296,7 +4296,7 @@
           <speaker>EMILIA:</speaker>
           <p>Na tom nezáleží.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Záleží, drahá slečno. Hrozně moc na tom záleží. Kdy zemřela Ellian Mac Gregor?</p>
         </sp>
@@ -4309,7 +4309,7 @@
           <stage>(vystoupí rychle z ložnice)</stage>
           <p>Prosím, ukažte mi tu listinu.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(vstane)</stage>
           <p>Propána – vy –</p>
@@ -4350,7 +4350,7 @@
           <stage>(odkládá listinu)</stage>
           <p>Ta listina je pravá.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>I safra! Tak tedy to psala Ellian Mac Gregor?</p>
         </sp>
@@ -4358,7 +4358,7 @@
           <speaker>PRUS:</speaker>
           <p>Ne. Psala to Řekyně Elina Makropulos. Je to táž ruka jako na mých dopisech. Nesporně.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ale ty přece psala –</p>
         </sp>
@@ -4366,7 +4366,7 @@
           <speaker>PRUS:</speaker>
           <p>– Elina Makropulos. Žádné Elliany Mac Gregor nebylo, pánové. To je omyl.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>To jsem blázen! A podpis na téhle fotografii?</p>
         </sp>
@@ -4375,7 +4375,7 @@
           <stage>(prohlíží)</stage>
           <p>Nesporně písmo Eliny Makropulos.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Tak vida! A je to vlastnoruční podpis tuhle té slečny. Viděla, Kristinko?</p>
         </sp>
@@ -4388,15 +4388,15 @@
           <stage>(vrací fotografii)</stage>
           <p>Děkuju. Odpusťte, že jsem se vmísil. <stage>(Usedne stranou, hlavu v dlaních. Pauza.)</stage></p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>A teď se v tom, prokristapána, někdo vyznejte!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Snad je to prosím jen náhoda, že – že rukopis slečny Martyové – je tak trochu podobný –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>To se rozumí, Vítku! A slečnin příchod je taky jen náhoda a tenhle padělek je taky jen náhoda, a víte co, Vítku? Dejte se vůbec tou náhodou vycpat.</p>
         </sp>
@@ -4412,7 +4412,7 @@
           <speaker>EMILIA:</speaker>
           <p>Za hranice.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Propána slečno, to nedělejte! Víte co? Zůstaňte po dobrém, abychom se nemuseli obrátit – abychom nemuseli zavolat –</p>
         </sp>
@@ -4424,11 +4424,11 @@
           <speaker>GREGOR:</speaker>
           <p>Zatím ne. Máte ještě možnost – <stage>(Zaklepání.)</stage></p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Dále!</p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <stage>(vstrčí hlavu)</stage>
           <p>Dva páni hledají pana Hauka.</p>
@@ -4437,11 +4437,11 @@
           <speaker>HAUK:</speaker>
           <p>Jak prosím? Mne? Já nepůjdu! Já – proboha vás prosím – račte nějak –</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Já se jich prosím zeptám. <stage>(Jde ven.)</stage></p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(jde ke Kristině)</stage>
           <p>Ale Kristinko, neplakala! Mně je to tak líto –</p>
@@ -4467,7 +4467,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ne.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(vrací se)</stage>
           <p>Prosím na pana Hauka čeká… jeho lékař… a ještě jeden pán. Že ho mají doprovodit domů.</p>
@@ -4476,7 +4476,7 @@
           <speaker>HAUK:</speaker>
           <p>Tak to vidíte, hihi! Už mne mají. Račte je požádat, aby počkali!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Prosím já jim to už řekl.</p>
         </sp>
@@ -4484,7 +4484,7 @@
           <speaker>GREGOR:</speaker>
           <p>Pánové, ježto nám slečna Martyová nehodlá to a ono vysvětlit, budeme tak smělí a prohlédneme si sami její zásuvky a zavazadla.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Oho! Na to nemáme právo, Gregore! Rušení soukromého a tak dále, víme?</p>
         </sp>
@@ -4492,7 +4492,7 @@
           <speaker>GREGOR:</speaker>
           <p>Mám na to zavolat policii?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Myju si ruce.</p>
         </sp>
@@ -4520,7 +4520,7 @@
           <speaker>EMILIA:</speaker>
           <p>Nechat! <stage>(Otvírá zásuvku toaletního stolku.)</stage> Opovaž se!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(skočí k ní)</stage>
           <p>A jejej, slečno! <stage>(Vymkne jí něco z ruky.)</stage></p>
@@ -4530,7 +4530,7 @@
           <stage>(otvírá sekretář, neobraceje se)</stage>
           <p>Co, chtěla střílet? –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Inu je to nabité. Gregore, nechme toho. Já někoho zavolám, ano?</p>
         </sp>
@@ -4552,7 +4552,7 @@
           <stage>(ke Kolenatému)</stage>
           <p>Doktore, vy jste čestný muž –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Hrozně lituji, slečno, že se mýlíte. Já jsem taškář a světový lupič. Já jsem totiž Arsène Lupin.</p>
         </sp>
@@ -4570,7 +4570,7 @@
           <stage>(vzlyká)</stage>
           <p>To je ohavné, co s ní děláte! Nechte ji!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Taky to říkám, Tinkotinko. Je to sprosté, co děláme. Náramně sprosté.</p>
         </sp>
@@ -4579,7 +4579,7 @@
           <stage>(hodí na stůl hromadu papírů)</stage>
           <p>Tak, slečno. Ale vy s sebou vozíte celý archív. <stage>(Jde do ložnice.)</stage></p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>To je něco pro vás, Vítku! Prima lahůdkové papíry. Nechcete je roztřídit?</p>
         </sp>
@@ -4587,7 +4587,7 @@
           <speaker>EMILIA:</speaker>
           <p>Opovažte se to číst!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Drahá slečno, prosím vás snažně, abyste se nehýbala. Jinak bych byl nucen vám nebezpečně vyhrožovat na těle, paragraf 91 trestního zákona.</p>
         </sp>
@@ -4595,11 +4595,11 @@
           <speaker>EMILIA:</speaker>
           <p>To jste advokát?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Vidíte, přišel jsem na chuť zločinectví. Myslím, že jsem měl k němu talent odjakživa. Člověk někdy až k stáru pozná své pravé poslání. <stage>(Pauza.)</stage></p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Račte dovolit, slečno Martyová, kde budete zpívat příště? <stage>(Mlčení.)</stage></p>
         </sp>
@@ -4607,7 +4607,7 @@
           <speaker>HAUK:</speaker>
           <p>Mon dieu, je suis désolé… désolé…</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>A… četla jste o sobě kritiky?</p>
         </sp>
@@ -4615,7 +4615,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ne.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(vyndá z kapsy výstřižky)</stage>
           <p>Jsou velkolepé, slečno. Například tohle: „Hlas úžasné skvělosti a síly, ohromující plnost výšek, suverénní pěvecká jistota…“, a tady dál: „… vynikl nádherný zjev… v bezpříkladné dramatické interpretaci… výkon ojedinělý v dějinách naší opery a snad operního umění vůbec.“ – V dějinách, slečno, považte!</p>
@@ -4629,7 +4629,7 @@
           <stage>(vrací se z ložnice s náručí plnou listin)</stage>
           <p>Tak, doktore. To je zatím všechno. <stage>(Hodí listiny na stůl.)</stage> Dejte se do toho.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>S radostí. <stage>(Čichá k listinám.)</stage> Máte to, slečno, plné prachu. Vítku, ten prach je historický.</p>
         </sp>
@@ -4642,7 +4642,7 @@
           <stage>(vstane)</stage>
           <p>Ukažte!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(u listin)</stage>
           <p>Propána Vítku, tady je letopočet šestnáct set tři!</p>
@@ -4652,7 +4652,7 @@
           <stage>(vrací pečetítko)</stage>
           <p>Je to pečeť Eliny Makropulos. <stage>(Usedne.)</stage></p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(u listin)</stage>
           <p>Tak vida, co se nenajde.</p>
@@ -4686,7 +4686,7 @@
           <speaker>HAUK:</speaker>
           <p>Nu přece jí samotné – Eugenii – Eugenii Montez, račte rozumět.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(vzhlédne od listin)</stage>
           <p>Tady máme něco španělského. Umíte španělsky?</p>
@@ -4695,7 +4695,7 @@
           <speaker>HAUK:</speaker>
           <p>Ale ano, račte ukázat… Hihi, Eugenie, to je z Madridu!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Copak?</p>
         </sp>
@@ -4703,15 +4703,15 @@
           <speaker>HAUK:</speaker>
           <p>Od policie… vyhoštění… pro nezřízený život! Ramera Gitana que se llama Eugenia Montez… hihihi! Já vím, to bylo pro tu rvačku, že?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Pardon. <stage>(Probírá listiny.)</stage> Cestovní pas, Elsa Müller, sedmdesát devět. Úmrtní list… Elliany Mac Gregor, 1836. Koukejme! Všecko páté přes deváté. Počkejte, slečno, my vám to srovnáme podle jmen. Ekaterina Myškin, kdo zas je tohle?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Jekatěrina Myškina byla ruská zpěvačka, ve čtyřicátých letech.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Vy víte všecko, člověče.</p>
         </sp>
@@ -4719,7 +4719,7 @@
           <speaker>GREGOR:</speaker>
           <p>To je zvláštní, vždycky začáteční písmena E. M.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Patrně slečna sbírá jen ty iniciály. Speciální záliba, že? Hopla, „dein Pepi“. To bude váš praprastrýc, Pruse. Mám vám to přečíst? „Meine liebste, liebste Ellian.“</p>
         </sp>
@@ -4727,7 +4727,7 @@
           <speaker>PRUS:</speaker>
           <p>Snad Elina, ne?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Kdepak, Ellian. A na obálce Ellian Mac Gregor, Wien, Hofoper. Počkejte, Gregore, my to ještě vyhrajeme na Ellianu. „Meine liebste, liebste Ellian –“</p>
         </sp>
@@ -4736,7 +4736,7 @@
           <stage>(vstane)</stage>
           <p>Počkejte. Nečtěte dál. Jsou to moje papíry.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Když jsou pro nás tak nesmírně zajímavé!</p>
         </sp>
@@ -4744,7 +4744,7 @@
           <speaker>EMILIA:</speaker>
           <p>Nečtěte. Povím všecko sama. Všecko, nač se budete ptát.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Opravdu?</p>
         </sp>
@@ -4752,7 +4752,7 @@
           <speaker>EMILIA:</speaker>
           <p>Přísahám.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(skládá listiny)</stage>
           <p>Tak tedy vás prosíme, slečno, miliónkrát za odpuštění, že jsme vás k tomu museli takhle donutit.</p>
@@ -4761,7 +4761,7 @@
           <speaker>EMILIA:</speaker>
           <p>Budete mne soudit?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Chraň bůh! Docela přátelský hovor.</p>
         </sp>
@@ -4769,7 +4769,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ale já chci, abyste mne soudili!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ah tak. Vyhovíme v mezích své kompetence. Tak prosím.</p>
         </sp>
@@ -4777,7 +4777,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ne, to musí vypadat jako u soudu! Kříž a takové věci.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Aha. Máte pravdu. Ještě něco?</p>
         </sp>
@@ -4785,7 +4785,7 @@
           <speaker>EMILIA:</speaker>
           <p>A nejdříve mne nechte, abych se najedla a ustrojila. Nebudu před soudem takhle v košili.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Zcela správně. Je třeba náležité a důstojné úpravy.</p>
         </sp>
@@ -4793,7 +4793,7 @@
           <speaker>GREGOR:</speaker>
           <p>Komedie!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ticho, nezlehčujte soudní akt. Obžalovaná, povoluje se vám deset minut – stačí to pro vaši toaletu?</p>
         </sp>
@@ -4801,7 +4801,7 @@
           <speaker>EMILIA:</speaker>
           <p>Máte rozum? Aspoň hodinu.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Tedy půl hodiny k přípravám a k rozjímání, než se objevíte před soudem. Pošleme vám komornou. Jděte!</p>
         </sp>
@@ -4813,7 +4813,7 @@
           <speaker>PRUS:</speaker>
           <p>Jdu… za Jankem.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ale vraťte se za půl hodiny.</p>
         </sp>
@@ -4821,31 +4821,31 @@
           <speaker>GREGOR:</speaker>
           <p>Doktore, nechtěl byste být aspoň teď trochu vážný?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ticho. Já jsem ohromně vážný, Gregore. Vím, co na ni působí. Je to hysterka. Vítku!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Prosím?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Skočte do pohřebního ústavu, aby sem poslali krucifix, svíčky a nějaké černé sukno. Dále bibli a takové krámy. Rychle!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Ano prosím.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>A sežeňte nějakou lebku.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Lidskou?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Lidskou nebo hovězí, to je jedno. Jen když bude představovat smrt.</p>
         </sp>
@@ -4854,11 +4854,11 @@
       <div type="act">
         <head>PROMĚNA</head>
         <stage>Týž pokoj, ale upravený za soudní síň. Stoly, pohovka, židle atd. potaženy černým suknem. Na větším stole vlevo krucifix, bible, hořící svíce a lebka; za stolem Kolenatý jako předseda soudu a Vítek jako zapisovatel, Gregor u menšího stolku ve středu jako veřejný žalobce. Na pohovce Prus, Hauk a Kristina jako votanti. Vpravo prázdná židle.</stage>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Marty by už mohla přijít.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Proboha, snad nevypila… nějaký jed?</p>
         </sp>
@@ -4866,7 +4866,7 @@
           <speaker>GREGOR:</speaker>
           <p>Nesmysl. Ta se má příliš ráda.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Přiveďte obžalovanou.</p>
         </sp>
@@ -4875,7 +4875,7 @@
           <speaker>PRUS:</speaker>
           <p>Nemohli byste mne ušetřit téhle frašky?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ne, musíte být votantem.</p>
         </sp>
@@ -4884,24 +4884,24 @@
           <stage>(vzlyká)</stage>
           <p>Je to… jako… pohřeb!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Neplakala, Tinkotinko. Pokoj mrtvým.</p>
         </sp>
         <stage>(Vítek přivádí Emilii ve velké toaletě, s lahví a sklenicí v ruce.)</stage>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Doveďte žalovanou na její místo.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Prosím žalovaná pila whisky.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Je opilá?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Prosím velmi.</p>
         </sp>
@@ -4910,7 +4910,7 @@
           <stage>(opírá se o stěnu)</stage>
           <p>Nechte mne! To jen… pro kuráž. Já mám žízeň.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Odejměte jí láhev!</p>
         </sp>
@@ -4919,7 +4919,7 @@
           <stage>(tiskne láhev k prsoum)</stage>
           <p>Ne! Nedám! Nebo nebudu mluvit! Hahaha, vy – vy vypadáte jako funebráci! To je švanda! Hahahaha, koukejte, Bertík! Theotokos, já prasknu!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(přísně)</stage>
           <p>Žalovaná, chovejte se slušně!</p>
@@ -4929,7 +4929,7 @@
           <stage>(zaražena)</stage>
           <p>Vy mně chcete nahnat hrůzu, že? Bertíku, viď, to je jenom žert?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Mluvte, až se soud otáže. Vaše místo je tady. Můžete sedět. – Prosím veřejného žalobce, aby přednesl žalobu.</p>
         </sp>
@@ -4938,7 +4938,7 @@
           <stage>(neklidně)</stage>
           <p>Mám přísahat?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Žalovaný nepřísahá.</p>
         </sp>
@@ -4946,7 +4946,7 @@
           <speaker>GREGOR:</speaker>
           <p>Žalovaná, řečená Emilia Marty, zpěvačka; je obviněna před bohem a námi, že se dopustila podvodu a padělání listin za účelem zištným; čím se jinak provinila proti veškeré důvěře a slušnosti, proti životu samotnému, nenáleží řádu lidskému; nechť si to vyřídí před soudem strašnějším.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Má někdo poznámku k žalobě? Nikdo. – Přikročme k výslechu. Vstaňte, žalovaná. Jak se jmenujete?</p>
         </sp>
@@ -4955,7 +4955,7 @@
           <stage>(vstane)</stage>
           <p>Já?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Nu ovšem, vy, vy, vy! Jak se jmenujete?</p>
         </sp>
@@ -4963,7 +4963,7 @@
           <speaker>EMILIA:</speaker>
           <p>Elina Makropulos.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(hvízdne)</stage>
           <p>Jakže?</p>
@@ -4972,7 +4972,7 @@
           <speaker>EMILIA:</speaker>
           <p>Elina Makropulos.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Rozená kde?</p>
         </sp>
@@ -4980,7 +4980,7 @@
           <speaker>EMILIA:</speaker>
           <p>Na Krétě.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Kdy?</p>
         </sp>
@@ -4988,7 +4988,7 @@
           <speaker>EMILIA:</speaker>
           <p>Kdy?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Jak jste stará?</p>
         </sp>
@@ -4996,11 +4996,11 @@
           <speaker>EMILIA:</speaker>
           <p>Nu, kolik byste řekli?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Řekněme třicet, ne?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Prosím přes třicet.</p>
         </sp>
@@ -5013,7 +5013,7 @@
           <stage>(vyplázne na ni jazyk)</stage>
           <p>Žábo!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Chovejte se slušně k soudcům.</p>
         </sp>
@@ -5021,7 +5021,7 @@
           <speaker>EMILIA:</speaker>
           <p>Copak vypadám tak staře?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Bůj uchovej! Tedy rozená kdy?</p>
         </sp>
@@ -5029,7 +5029,7 @@
           <speaker>EMILIA:</speaker>
           <p>Patnáct set osmdesát pět.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(vyskočí)</stage>
           <p>Kdyže?</p>
@@ -5038,7 +5038,7 @@
           <speaker>EMILIA:</speaker>
           <p>Tisíc pět set osmdesát pět.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(usedá)</stage>
           <p>Roku osmdesát pět. Tedy stará třicet sedm let, že ano?</p>
@@ -5047,7 +5047,7 @@
           <speaker>EMILIA:</speaker>
           <p>Tři sta třicet sedm let prosím.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Vyzývám vás důtklivě, abyste mluvila vážně. Jak jste stará?</p>
         </sp>
@@ -5055,7 +5055,7 @@
           <speaker>EMILIA:</speaker>
           <p>Tři sta třicet sedm let.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>To přestává všecko! A kdo byl váš otec?</p>
         </sp>
@@ -5063,7 +5063,7 @@
           <speaker>EMILIA:</speaker>
           <p>Hieronymus Makropulos, osobní lékař císaře Rudolfa II.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Hrom do toho! Lidi, já s ní nemluvím!</p>
         </sp>
@@ -5115,7 +5115,7 @@
           <speaker>EMILIA:</speaker>
           <p>No přece Ferdinand Gregor. Ale on je v matrice jako Ferdinand Makropulos, protože… tam jsem musela říci své pravé jméno. To se musí.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Zajisté. A kdy jste rozena?</p>
         </sp>
@@ -5131,7 +5131,7 @@
           <speaker>EMILIA:</speaker>
           <p>Byla jsem, Maxi, byla; ale tehdy mi bylo teprve dvě stě devadesát let. A já jsem taky byla Jekatěrina Myškina a Elsa Müller a všecko možné. Mezi vámi nemůže člověk zůstat naživu tři sta let.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Zejména zpěvačka ne.</p>
         </sp>
@@ -5139,7 +5139,7 @@
           <speaker>EMILIA:</speaker>
           <p>To si myslím. <stage>(Pauza.)</stage></p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>A vy jste prosím žila taky v osmnáctém století?</p>
         </sp>
@@ -5147,7 +5147,7 @@
           <speaker>EMILIA:</speaker>
           <p>To se rozumí.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Znala jste snad… osobně… Dantona?</p>
         </sp>
@@ -5179,7 +5179,7 @@
           <speaker>EMILIA:</speaker>
           <p>Holenku, já už dávno nejsem dáma.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Prosím měla jste vícero dětí?</p>
         </sp>
@@ -5268,7 +5268,7 @@
           <speaker>EMILIA:</speaker>
           <p>Aby byl člověk tři sta let živ. Aby byl tři sta let mlád. To napsal můj otec pro toho císaře Rudolfa… ale toho vy neznáte, že?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Prosím jen z dějin.</p>
         </sp>
@@ -5284,7 +5284,7 @@
           <speaker>EMILIA:</speaker>
           <p>Nic. Kokain nebo co. O čem jsem mluvila?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>O císaři Rudolfu.</p>
         </sp>
@@ -5292,7 +5292,7 @@
           <speaker>EMILIA:</speaker>
           <p>Aha. Lidi, to byl nemrava! Počkejte, já vím o něm věci –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Prosím neodbočovat.</p>
         </sp>
@@ -5309,7 +5309,7 @@
           <stage>(zachvěje se)</stage>
           <p>To neřeknu! To se nemůže říci! Pak jsem ležela týden či jak dlouho bez sebe a v horečce, ale uzdravila jsem se.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>A co císař?</p>
         </sp>
@@ -5317,7 +5317,7 @@
           <speaker>EMILIA:</speaker>
           <p>Nic, dopálil se. Jakpak se mohl přesvědčit, že budu tři sta let živa? Tak dal mého otce do věže jako podvodníka, a já jsem utekla se vším, co měl napsáno. Do Uher nebo do Turecka, už ani nevím.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Ukázala jste někdy někomu… věc Makropulos?</p>
         </sp>
@@ -5325,7 +5325,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ukázala. Zkusil to jeden tyrolský páter, to bylo roku 1660 nebo tak někdy; snad je ještě živ, ani nevím, ale jeden čas byl papežem a říkal si Alexandr nebo Pius nebo nějak podobně. Pak jeden důstojník, Ital, ale toho zabili. Ugo se jmenoval. Bože to byl krásný člověk! Počkejte, pak ještě Nägeli, to byl Ondřej, a darebák Bombita, a Pepi Prus, který od toho umřel. Pepi byl poslední, u něho to zůstalo ležet – A já už nic nevím. Zeptejte se Bombity. Bombita je živ, ale nevím, jak se teď jmenuje. Víte, on je – jak se tomu říká? Sňatkový podvodník, že?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Pardon. Vám je tedy dvě stě čtyřicet sedm let, že ano?</p>
         </sp>
@@ -5333,7 +5333,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ne, tři sta třicet sedm.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Jste opilá. Od roku 1585 dodnes, to dělá dvě stě čtyřicet sedm let, rozumíte?</p>
         </sp>
@@ -5341,7 +5341,7 @@
           <speaker>EMILIA:</speaker>
           <p>Bože nepleťte mne! Tři sta třicet sedm.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Proč jste padělala rukopis Elliany Mac Gregor?</p>
         </sp>
@@ -5349,7 +5349,7 @@
           <speaker>EMILIA:</speaker>
           <p>Vždyť já sama jsem Ellian Mac Gregor!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Nelžete! Vy jste Emilia Marty, rozumíte?</p>
         </sp>
@@ -5357,7 +5357,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ano, ale teprve dvanáct let.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Tedy vy se přiznáváte, že jste ukradla medailón Eugenie Montez, že ano?</p>
         </sp>
@@ -5365,7 +5365,7 @@
           <speaker>EMILIA:</speaker>
           <p>Svatá panno, to není pravda! Eugenia Montez –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Je to v protokolu. Vy jste se přiznala.</p>
         </sp>
@@ -5373,7 +5373,7 @@
           <speaker>EMILIA:</speaker>
           <p>To není pravda!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Jak se jmenuje váš spoluviník?</p>
         </sp>
@@ -5381,7 +5381,7 @@
           <speaker>EMILIA:</speaker>
           <p>Není žádný!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Nezapírejte! My víme všechno. Kdy jste se narodila?</p>
         </sp>
@@ -5390,7 +5390,7 @@
           <stage>(chvěje se)</stage>
           <p>Patnáct set osmdesát pět.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>A teď vypijte plnou sklenici!</p>
         </sp>
@@ -5398,7 +5398,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ne – nechci! Nechte mne!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Musíte! Plnou sklenici. Rychle!</p>
         </sp>
@@ -5407,7 +5407,7 @@
           <stage>(v úzkosti)</stage>
           <p>Co mně uděláte? Bertíku! <stage>(Pije.)</stage> Mě se… točí… tohle.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(vstane a jde k ní)</stage>
           <p>Jak se jmenujete?</p>
@@ -5416,7 +5416,7 @@
           <speaker>EMILIA:</speaker>
           <p>Mně je zle. <stage>(Kácí se ze židle.)</stage></p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(zachytí ji a klade volně na zem)</stage>
           <p>Jak se jmenujete?</p>
@@ -5425,7 +5425,7 @@
           <speaker>EMILIA:</speaker>
           <p>Elina… Makro…</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Nelžete! Víte, kdo jsem? Já jsem kněz. Vy se mně zpovídáte!</p>
         </sp>
@@ -5433,7 +5433,7 @@
           <speaker>EMILIA:</speaker>
           <p>Patér – hémón – hos – eis – en úranois –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Jak se jmenujete?</p>
         </sp>
@@ -5441,7 +5441,7 @@
           <speaker>EMILIA:</speaker>
           <p>Elina – – pulos.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Lebku! – Bože, přijmi duši své nehodné služebnice Emilie Marty hvhvmmmm in… saeculorum amen… Dokonáno. <stage>(Otočí lebku černým suknem a nastaví ji Emilii).</stage> Vstaň! Kdo jsi?</p>
         </sp>
@@ -5449,7 +5449,7 @@
           <speaker>EMILIA:</speaker>
           <p>Elina. <stage>(Bezvědomí.)</stage></p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(pustí ji na zem, až to bouchne)</stage>
           <p>Proklatě! <stage>(Vstane a odkládá lebku.)</stage></p>
@@ -5458,7 +5458,7 @@
           <speaker>GREGOR:</speaker>
           <p>Co je?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Nelže! Sundejte ty hadry, honem! <stage>(Zvoní.)</stage> Gregore, doktora!</p>
         </sp>
@@ -5466,7 +5466,7 @@
           <speaker>KRISTINA:</speaker>
           <p>Vy jste ji otrávil?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Jen trochu.</p>
         </sp>
@@ -5475,33 +5475,33 @@
           <stage>(dveřmi do předsíně)</stage>
           <p>Prosím je tu lékař?</p>
         </sp>
-        <sp who="#lékař">
+        <sp who="#lekar">
           <speaker>LÉKAŘ:</speaker>
           <stage>(vejde)</stage>
           <p>Pane Hauku, čekáme na vás už hodinu. Račte domů!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Počkat. Nejdřív tohle, doktore.</p>
         </sp>
-        <sp who="#lékař">
+        <sp who="#lekar">
           <speaker>LÉKAŘ:</speaker>
           <stage>(stane nad Emilií)</stage>
           <p>Mdloby?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Otrava.</p>
         </sp>
-        <sp who="#lékař">
+        <sp who="#lekar">
           <speaker>LÉKAŘ:</speaker>
           <p>Čím? <stage>(Klekne k Emilii, čichne jí k ústům.)</stage> Aha. <stage>(Vstane.)</stage> Uložte ji někde.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Gregore, odneste ji do ložnice! Jakožto nejbližší příbuzný –</p>
         </sp>
-        <sp who="#lékař">
+        <sp who="#lekar">
           <speaker>LÉKAŘ:</speaker>
           <p>Je tam teplá voda?</p>
         </sp>
@@ -5509,33 +5509,33 @@
           <speaker>PRUS:</speaker>
           <p>Je.</p>
         </sp>
-        <sp who="#lékař">
+        <sp who="#lekar">
           <speaker>LÉKAŘ:</speaker>
           <p>Pěkné, co? Dovolte. <stage>(Píše recept.)</stage> Černou kávu, ano? A s tímhle do lékárny. <stage>(Jde do ložnice.)</stage></p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Tak tedy, pánové –</p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <stage>(vejde)</stage>
           <p>Slečna zvonila?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>To se rozumí. Chtěla by černou kávu, Lojzičko. Ohromně silnou černou kávu, ví, Lojzi?</p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <p>Hihi, jak pán ví –</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>To se pozná. A s tímhle skočila do lékárny, ano? Tak hopla!</p>
         </sp>
         <stage>(Komorná odejde.)</stage>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(sedne si uprostřed)</stage>
           <p>Ať jsem ztracený. Něco na tom je.</p>
@@ -5548,7 +5548,7 @@
           <speaker>HAUK:</speaker>
           <p>Já – já – neračte se smát; ale já jí docela věřím.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Vy také, Pruse?</p>
         </sp>
@@ -5556,7 +5556,7 @@
           <speaker>PRUS:</speaker>
           <p>Úplně.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Já také. Víte, co to znamená?</p>
         </sp>
@@ -5564,7 +5564,7 @@
           <speaker>PRUS:</speaker>
           <p>Že Gregor dostane Loukov.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Hm, je vám to tuze nemilé?</p>
         </sp>
@@ -5581,7 +5581,7 @@
           <speaker>GREGOR:</speaker>
           <p>Trochu líp. Ale pokousala mne přitom, zvíře! Víte, že já jí věřím?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Bohužel my také. <stage>(Pauza.)</stage></p>
         </sp>
@@ -5589,7 +5589,7 @@
           <speaker>HAUK:</speaker>
           <p>Panebože tři sta let! Tři – sta let!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Pánové, naprostou diskrétnost, víme? Kristinko!</p>
         </sp>
@@ -5599,12 +5599,12 @@
           <p>Tři sta let! To je hrozné!</p>
         </sp>
         <stage>(Komorná vejde s kávou.)</stage>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Kristipisti, vzala to! Donesla to slečně. Dělala milosrdnou sestru, ano?</p>
         </sp>
         <stage>(Kristina s kávou do ložnice, Komorná ven.)</stage>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <stage>(přesvědčí se, jsou-li oboje dveře zavřeny)</stage>
           <p>Tak. A teď, pánové, rozum do hrsti: Co s tím uděláme?</p>
@@ -5613,7 +5613,7 @@
           <speaker>GREGOR:</speaker>
           <p>S čím?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>S věcí Makropulos. Je tu někde recept na třistaletý život. Můžeme jej dostat do rukou.</p>
         </sp>
@@ -5621,7 +5621,7 @@
           <speaker>PRUS:</speaker>
           <p>Má jej za ňadry.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>I odtamtud to můžeme dostat. Pánové, je to věc… nedomyslitelného dosahu. Co s tím uděláme?</p>
         </sp>
@@ -5629,7 +5629,7 @@
           <speaker>GREGOR:</speaker>
           <p>Docela nic. Recept patří mně. Já jsem její dědic.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>I kušte. Dokud je živa, nejste žádný dědic; a může být živa ještě tři sta let, bude-li chtít. Ale my to můžeme dostat, rozumíte?</p>
         </sp>
@@ -5637,7 +5637,7 @@
           <speaker>GREGOR:</speaker>
           <p>Podvodem.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Dejme tomu. Ale je to něco tak důležitého… pro nás i pro veškerenstvo, že – hm. Pánové, vy mně rozumíte. Máme jí to nechat? Copak má z toho mít prospěch jen ona a nanejvýš ještě nějaký takový darebák Bombita? Kdo to dostane?</p>
         </sp>
@@ -5645,7 +5645,7 @@
           <speaker>GREGOR:</speaker>
           <p>Především její potomci.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Holenku, takových by se našlo! S tím se moc neohánějte. Dejme tomu vy, Pruse; kdybyste tu věc měl v rukou vy, půjčil byste mi ji? Víte, abych já byl živ tři sta let.</p>
         </sp>
@@ -5653,44 +5653,44 @@
           <speaker>PRUS:</speaker>
           <p>Ne.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Tak vidíte, pánové. Musíme se nějak dohodnout mezi sebou. Co s tím uděláme?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(vstane)</stage>
           <p>Zveřejníme věc Makropulos!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Nono, to snad ne!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Dáme ji všem! Dáme ji lidstvu! Všichni, všichni mají stejný nárok na život! Ah bože, žijeme tak krátce! Jak je to málo, bože jak je to málo být člověkem!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Co je to platno!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Vždyť je to k pláči, pánové! považte jen – celá ta lidská duše, ta žízeň poznávat, mozek, práce, láska, tvořivost, všecko, všecko – Můj bože, co udělá člověk za těch šedesát let života? Čeho užije? Čemu se naučí? Nedočkáš se ovoce stromu, který jsi zasadil; nedoučíš se všemu, co lidstvo už znalo před tebou; nedokončíš své dílo a nedáš svůj příklad; umíráš, a ani jsi nežil! Ježíši Kriste, žijeme tak maličko!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Propánakrále Vítku –</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>A neměl jsi pokdy pro radost, a neměl jsi pokdy pro myšlenku, a neměl jsi pokdy pro nic, pro nic než pro tu sháňku za kusem chleba! A nic jsi neviděl, nic nepoznal, nic nedokončil, ani sebe ne, ani sebe sama ne, ty zlomku! Proč jsi žil? Stálo to vůbec za to?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Člověče, chcete mne rozplakat?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Umíráme jako zvířata. Kristepane co jiného je posmrtný život, co je nesmrtelnost duše jiného než strašný protest proti krátkosti života? Nikdy a nikdy se lidstvo nesmířilo s tou zvířecí porcí života; nemůže to připustit; je to příliš nespravedlivé. Je děsně nespravedlivé žít tak krátce. Člověk je něco víc než želva nebo havran; člověk potřebuje víc času, aby žil. Šedesát let, to je nevolnictví. To je slabost a zvířectví a nevědomost.</p>
         </sp>
@@ -5698,11 +5698,11 @@
           <speaker>HAUK:</speaker>
           <p>Ach jeje, mně už je sedmdesát šest!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Dejme všem tři sta let života! Bude to největší událost od stvoření člověka; bude to osvobození, bude to nové a definitivní stvoření člověka! Bože co se dá z člověka udělat za tři sta let! Padesát let být dítětem a žákem; padesát let poznávat svět a vidět vše, co je; sto let užitečně pracovat pro všechny; a pak sto let, když vše jsme poznali, žít v moudrosti, vládnout, učit a dávat příklad! Oh jak cenný by byl lidský život, kdyby trval tři sta let! Nebylo by válek. Nebylo by té ohavné sháňky. Nebylo by strachu a sobectví. Vědoucí a důstojný byl by každý člověk, <stage>(spíná ruce)</stage> svrchovaný, dokonalý by byl, pravý syn a ne už potrat boží. Dejte lidem život! Dejte jim plný lidský život!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Inu to je moc krásné. Moc krásné, ale –</p>
         </sp>
@@ -5710,7 +5710,7 @@
           <speaker>GREGOR:</speaker>
           <p>Děkuju pěkně. Tři sta let být oficiálem nebo plést punčochy!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Ale –</p>
         </sp>
@@ -5718,7 +5718,7 @@
           <speaker>GREGOR:</speaker>
           <p>Nebo být svrchovaný a vševědoucí, a přitom – Člověče, většina užitečných lidských povolání je možna jen z nevědomosti!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Nechte si sloužit, Vítku; právnicky a hospodářsky je to absurdní. Náš společenský systém je prostě založen na krátkověkosti. Vemte si například… smlouvy, penze, pojistky, platy, dědické právo a já nevím co všechno. A manželství – holenku, nikdo se nebude ženit na tři sta let. Nikdo neudělá smlouvu na tři sta let. Člověče, vy jste anarchista! Vy chcete rozvrátit celý společenský řád!</p>
         </sp>
@@ -5726,15 +5726,15 @@
           <speaker>HAUK:</speaker>
           <p>A… račte dovolit; pak by se po třech stech letech každý mohl omladit znova…</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>– a žil by fakticky věčně. To prostě nejde.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Prosím to by se mohlo zakázat! Po třech stech letech by už každý musel umřít!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Tak ho vidíte! Ze samé humanity by zakazoval lidem žít!</p>
         </sp>
@@ -5742,7 +5742,7 @@
           <speaker>HAUK:</speaker>
           <p>Račte odpustit, já… já myslím, že by se ten recept dal rozdělit na dávky.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Jak to?</p>
         </sp>
@@ -5750,7 +5750,7 @@
           <speaker>HAUK:</speaker>
           <p>Račte rozumět, na léta. Jedna dávka – deset let života. Tři sta let, to je trochu mnoho, to by někdo… snad ani nechtěl. Ale deset let by si koupil každý člověk, ne?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>A my bychom si založili velkoobchod s léty. Lidi, to je nápad! Já už vidím ty zakázky: „Pošlete nám obratem tisíc dvě stě let života, v lidové úpravě. Kohn a spol.“ „Expres dva milióny let, ff prima A, luxusní balení. Filiálka Vídeň.“ Hauku, to není špatné.</p>
         </sp>
@@ -5758,7 +5758,7 @@
           <speaker>HAUK:</speaker>
           <p>Prosím já… já nejsem obchodník, víte? Ale když už je člověk stár, koupil by si rád… trochu života… Ale tři sta let je příliš moc, že ano?</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Pro poznání ne.</p>
         </sp>
@@ -5766,33 +5766,33 @@
           <speaker>HAUK:</speaker>
           <p>Prosím poznání si nikdo nekoupí. Ale deset let rozkoše, to rád, sss jeje, tuze rád.</p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <stage>(vejde)</stage>
           <p>Prosím tady je to z lékárny.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Děkuju, Lojzičko. Jak dlouho by chtěla být živa?</p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <p>Hihi, ještě třicet let.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Víc ne?</p>
         </sp>
-        <sp who="#komorná">
+        <sp who="#komorna">
           <speaker>KOMORNÁ:</speaker>
           <p>Ne. Co bych s tím dělala?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Tak vidíte, Vítku.</p>
         </sp>
         <stage>(Komorná odejde. Kolenatý klepe u ložnice.)</stage>
-        <sp who="#lékař">
+        <sp who="#lekar">
           <speaker>DOKTOR:</speaker>
           <stage>(ve dveřích)</stage>
           <p>Co je? Aha, dobrá. <stage>(Bere lék.)</stage></p>
@@ -5801,7 +5801,7 @@
           <speaker>HAUK:</speaker>
           <p>Prosím jak je slečně?</p>
         </sp>
-        <sp who="#lékař">
+        <sp who="#lekar">
           <speaker>DOKTOR:</speaker>
           <p>Nanic. <stage>(Odejde do ložnice.)</stage></p>
         </sp>
@@ -5814,7 +5814,7 @@
           <stage>(vstane)</stage>
           <p>Pánové, zvláštní… náhoda nám dala do rukou jisté tajemství. Jde tu patrně o prodloužení života. Řekněme, že je to možné. Nikdo z nás, doufám, toho nemíní zneužít pro sebe.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>To právě říkám! Musíme prodloužit život všech!</p>
         </sp>
@@ -5822,7 +5822,7 @@
           <speaker>PRUS:</speaker>
           <p>Ne. Jenom život silných. Život nejschopnějších. Pro obyčejnou lidskou chamraď je i ten jepičí život příliš dobrý.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Oho, dovolte!</p>
         </sp>
@@ -5830,7 +5830,7 @@
           <speaker>PRUS:</speaker>
           <p>Prosím já se nechci hádat. Dovolte, obyčejný, malý, pitomý člověk vůbec neumírá; malý člověk je věčný i bez vaší pomoci; malost se plemení bez oddechu jako mouchy nebo myši. Jen velikost umírá. Jen síla a schopnost umírá, neboť se nenahradí. Snad je v našich rukou ji udržet. Můžeme založit aristokracii dlouhověkosti.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Aristokracii! Slyšíte to? Privilej na život!</p>
         </sp>
@@ -5838,7 +5838,7 @@
           <speaker>PRUS:</speaker>
           <p>Tak jest. Jen ti nejlepší jsou důležiti pro život. Jen vůdčí, plemenní, výkonní muži. Nemluvím vůbec o ženách. Ale je na světě deset nebo dvacet nebo tisíc mužů, kteří jsou nenahraditelni. Můžeme je udržet. Můžeme je přivést k nadlidskému rozumu a nadpřirozené moci. Můžeme vypěstit deset nebo sto nebo tisíc nadlidských vládců a tvůrců.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Chov magnátů života!</p>
         </sp>
@@ -5846,7 +5846,7 @@
           <speaker>PRUS:</speaker>
           <p>Tak jest. Výběr těch, kteří mají právo na neomezený život.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>A prosím vás, kdo by ty vyvolené jmenoval? Vlády? Plebiscit? Švédská akademie?</p>
         </sp>
@@ -5854,7 +5854,7 @@
           <speaker>PRUS:</speaker>
           <p>Žádné blbé hlasování! Z ruky do ruky by odevzdávali život nejsilnější nejsilnějším. Vládcové hmoty vládcům ducha. Vynálezci vojákům. Podnikatelé despotům. Byla by to dynastie pánů života. Dynastie nezávislá na jakékoliv civilizované luze.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Jen až by si ta luza přišla pro své právo na život!</p>
         </sp>
@@ -5862,7 +5862,7 @@
           <speaker>PRUS:</speaker>
           <p>Ne, ale pro jejich právo na život. Čas od času by jich pár zabila. Co na tom? Revoluce je právo otroků. Ale jediný možný pokrok světa je nahradit malé a slabé despoty silnými a velkými despoty. Privilegovaná dlouhověkost, to je despocie vyvolených. To je… vláda rozumu. Nadlidská autorita vědění a výkonnosti. Vláda nad lidmi. Dlouhověcí se stanou nespornými vladaři lidstva. Máte to v rukou, pánové. Můžete toho zneužít. Řekl jsem vše. <stage>(Usedne.)</stage></p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Hm. Patřím k těm nejlepším vyvoleným dejme tomu já nebo Gregor?</p>
         </sp>
@@ -5882,7 +5882,7 @@
           <speaker>GREGOR:</speaker>
           <p>Pánové, nechme zbytečných řečí. Tajemství dlouhověkosti je majetek rodiny Makropulos. Nechte, aby si s ním rodina Makropulos dělala, co jí libo.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Jak to, prosím?</p>
         </sp>
@@ -5890,7 +5890,7 @@
           <speaker>GREGOR:</speaker>
           <p>Toho receptu užijí jen členové rodiny. Jen ten, kdo je potomek Eliny Makropulos, ať je to kdo je.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>A bude žít navěky jen proto, že se vylíhnul z nějakého pobudy nebo barona a z bláznivé, perverzní, hysterické ženské? Panečku, to stojí za to, tahle rodinná zvláštnost.</p>
         </sp>
@@ -5898,7 +5898,7 @@
           <speaker>GREGOR:</speaker>
           <p>Vše jedno.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Máme čest znát jednoho pána z rodiny. Je to – odpusťte, miláčku, ale čert ho vem; zkrátka degenerovaný subjekt. Čistá familie, co?</p>
         </sp>
@@ -5906,11 +5906,11 @@
           <speaker>GREGOR:</speaker>
           <p>Jak libo. Ať jsou to třeba blázni nebo paviáni. Ať jsou zvrhlí, zatížení nebo mrzáci nebo idioti nebo co chcete. A ať jsou třeba zlo samo! Na ničem nesejde. Bude to jejich.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>A tohle je pěkné!</p>
         </sp>
-        <sp who="#lékař">
+        <sp who="#lekar">
           <speaker>DOKTOR:</speaker>
           <stage>(vejde z ložnice)</stage>
           <p>Je v pořádku. Nechte ji ležet.</p>
@@ -5919,7 +5919,7 @@
           <speaker>HAUK:</speaker>
           <p>Tak tak, ležet. To je dobře.</p>
         </sp>
-        <sp who="#lékař">
+        <sp who="#lekar">
           <speaker>DOKTOR:</speaker>
           <p>Pojďte domů, pane Hauku; dovedu vás.</p>
         </sp>
@@ -5927,7 +5927,7 @@
           <speaker>HAUK:</speaker>
           <p>Ah jej, my tu máme takovou vážnou poradu, že ano? Račte mne ještě nechat! Já – já jistě –</p>
         </sp>
-        <sp who="#lékař">
+        <sp who="#lekar">
           <speaker>DOKTOR:</speaker>
           <p>Nu, někdo na vás tady za dveřmi čeká. Žádné hlouposti, staroušku, nebo –</p>
         </sp>
@@ -5935,11 +5935,11 @@
           <speaker>HAUK:</speaker>
           <p>Ano, ano – já – já – já hned půjdu.</p>
         </sp>
-        <sp who="#lékař">
+        <sp who="#lekar">
           <speaker>DOKTOR:</speaker>
           <p>Služebník, pánové. <stage>(Odejde.)</stage></p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Gregore, mluvil jste vážně?</p>
         </sp>
@@ -5952,7 +5952,7 @@
           <stage>(vyjde z ložnice)</stage>
           <p>Mluvte tiše. Chtěla by spát.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Kristinko, šla sem. Chtěla by být živa tři sta let?</p>
         </sp>
@@ -5960,7 +5960,7 @@
           <speaker>KRISTINA:</speaker>
           <p>Ne.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>A kdyby měla recept na tak dlouhatánský život, co by s ním dělala?</p>
         </sp>
@@ -5968,7 +5968,7 @@
           <speaker>KRISTINA:</speaker>
           <p>Nevím.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Že bys to dala všem lidem?</p>
         </sp>
@@ -5976,7 +5976,7 @@
           <speaker>KRISTINA:</speaker>
           <p>Já nevím. Byli by šťastnější, kdyby tak dlouho žili?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Tinkotinko, co naplat, život je přece jen zatracené štěstí.</p>
         </sp>
@@ -6010,7 +6010,7 @@
           <speaker>KRISTINA:</speaker>
           <p>Vzpomněla? Jako bych vůbec mohla myslet… na něco jiného.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>A my se tu hádáme o věčný život!</p>
         </sp>
@@ -6035,7 +6035,7 @@
           <speaker>EMILIA:</speaker>
           <p>Nepřejde. Nikdy nepřejde. Já už to mám dvě stě let.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Co totiž?</p>
         </sp>
@@ -6051,7 +6051,7 @@
           <speaker>EMILIA:</speaker>
           <p>Nevím. Všecko je tak pitomé, prázdné, zbytečné – Vy jste tu všichni? – Jako byste ani nebyli. Jako byste byli věci nebo stíny… Co mám s vámi dělat?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Máme snad odejít?</p>
         </sp>
@@ -6059,7 +6059,7 @@
           <speaker>EMILIA:</speaker>
           <p>Ne, to je jedno. Umřít nebo odejít za dveře, to je stejné – Vždyť je to jedno, jestli něco je nebo není – A vy se tolik naděláte s každou pitomou smrtí! Vy jste divní – ah!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Co je vám?</p>
         </sp>
@@ -6067,7 +6067,7 @@
           <speaker>EMILIA:</speaker>
           <p>Nemá, nemá, nemá se tak dlouho žít!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Proč?</p>
         </sp>
@@ -6075,7 +6075,7 @@
           <speaker>EMILIA:</speaker>
           <p>Člověk to nesnese. Do sta, do sta třiceti let to vydrží, ale pak… pak to pozná… pozná, že… A pak v něm umře duše.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Co pozná?</p>
         </sp>
@@ -6083,7 +6083,7 @@
           <speaker>EMILIA:</speaker>
           <p>Bože, na to nejsou slova. A pak už člověk nemůže na nic věřit. Na nic. A z toho je ta nuda. Víš, Bertíku, tys povídal, že zpívám, jako by mne při tom záblo. Vidíš, umění má smysl, pokud to člověk neumí. Teprve když to umí, když to dokonale umí, vidí, že je to zbytečné. Je to stejně marné, Kristinko, stejně marné jako chrápat. Zpívat je to samé jako mlčet. Všecko je stejné. V ničem není žádný rozdíl.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>To není pravda! Když vy zpíváte,… tak jsou lidé o něco lepší a větší.</p>
         </sp>
@@ -6091,7 +6091,7 @@
           <speaker>EMILIA:</speaker>
           <p>Lidé nejsou nikdy lepší. Nic se nemůže nikdy změnit. Nic, nic, nic se neděje. Kdyby se teď střílelo, kdyby bylo zemětřesení, kdyby byl konec světa či co, nic se neděje. Ani já se neděju. Vy jste tady, a já jsem nesmírně daleko – ode všeho – tři sta let – Ah bože, kdybyste věděli, jak vám se lehko žije!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Proč?</p>
         </sp>
@@ -6099,7 +6099,7 @@
           <speaker>EMILIA:</speaker>
           <p>Vy jste tak blízko všeho! Pro vás má všecko smysl! Pro vás má všecko nějakou cenu, protože za těch pár let toho ani dost neužijete… Oh můj bože, kdybych jen jednou ještě – <stage>(Lomí rukama.)</stage> Hlupáci, vy jste tak šťastni! Je to až protivné, jak jste šťastni! A všecko jen pro tu pitomou náhodu, že brzo umřete! Všecko vás zajímá jako opice! Ve všecko věříte, věříte v lásku, v sebe, ve ctnost, v pokrok, v lidstvo, já nevím v co, já nevím v co! Ty věříš v rozkoš, Maxi, ty Kristinko, věříš v lásku a věrnost. Ty věříš v sílu. Ty věříš v samé hlouposti, Vítku. Každý, každý, každý v něco věří! Vám se to žije, vy… blázni!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(rozčilen)</stage>
           <p>Ale dovolte, vždyť přece jsou… vyšší hodnoty… ideály… úkoly…</p>
@@ -6180,7 +6180,7 @@
           <speaker>EMILIA:</speaker>
           <p>Doktore, vy jste chytrý muž. Vy uvážíte,… k čemu se to hodí nebo ne. Chcete to?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Jste velmi laskava. Já s tím nechci mít co dělat.</p>
         </sp>
@@ -6188,7 +6188,7 @@
           <speaker>EMILIA:</speaker>
           <p>Vy jste takový směšný, Vítku. Já vám to dám. Kdož ví? Třeba s tím obšťastníte celé lidstvo.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(couvá)</stage>
           <p>Ne prosím. Já myslím, že – že – raději ne.</p>
@@ -6210,7 +6210,7 @@
           <stage>(vezme listinu)</stage>
           <p>Děkuju.</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Co s tím uděláš, Kristo?</p>
         </sp>
@@ -6223,11 +6223,11 @@
           <speaker>GREGOR:</speaker>
           <p>Vy to zkusíte?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Propána, ona se nebojí? Dala to zpátky!</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Vrať jí to!</p>
         </sp>
@@ -6236,11 +6236,11 @@
           <p>Nechte ji! <stage>(Pauza.)</stage></p>
         </sp>
         <stage>(Kristina mlčky dá listinu nad hořící svíčku.)</stage>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Nepal to! Je to památka!</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Pozor! Nechala!</p>
         </sp>
@@ -6265,7 +6265,7 @@
           <speaker>GREGOR:</speaker>
           <p>Je to pergamen.</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Jak pomalu to uhelnatí. Kristinečko, nespálila se!</p>
         </sp>
@@ -6273,11 +6273,11 @@
           <speaker>HAUK:</speaker>
           <p>Račte mi nechat aspoň kousíček! Aspoň kousíček! <stage>(Mlčení.)</stage></p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <p>Prodloužení života! Věčně to bude lidstvo hledat, a tady, tady to snad bylo…</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>A my jsme mohli žít věčně. Pěkně děkuju!</p>
         </sp>
@@ -6285,7 +6285,7 @@
           <speaker>PRUS:</speaker>
           <p>Prodloužení života… Máte děti?</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Mám.</p>
         </sp>
@@ -6297,7 +6297,7 @@
           <speaker>GREGOR:</speaker>
           <p>Dohořívá. Byla to přece jen… divoká myšlenka, věčně žít. Bože, je mně i teskno, i jaksi lehčeji, že už to není možno…</p>
         </sp>
-        <sp who="#kolenatý">
+        <sp who="#kolenaty">
           <speaker>KOLENATÝ:</speaker>
           <p>Nejsme už mladí. Jen mládí může tak nádherně spálit… náš strach před smrtí. Dobře to provedla, Tinkotinko.</p>
         </sp>
@@ -6305,7 +6305,7 @@
           <speaker>HAUK:</speaker>
           <p>Račte dovolit… tady to… tak divně páchne –</p>
         </sp>
-        <sp who="#vítek">
+        <sp who="#vitek">
           <speaker>VÍTEK:</speaker>
           <stage>(otvírá okno)</stage>
           <p>– spáleninou.</p>

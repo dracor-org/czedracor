@@ -42,10 +42,10 @@
           <person xml:id="otec" sex="MALE">
             <persName>OTEC</persName>
           </person>
-          <person xml:id="ondřej" sex="MALE">
+          <person xml:id="ondrej" sex="MALE">
             <persName>ONDRA</persName>
           </person>
-          <person xml:id="jiří" sex="MALE">
+          <person xml:id="jiri" sex="MALE">
             <persName>JIŘÍ</persName>
           </person>
           <person xml:id="kornel" sex="MALE">
@@ -57,16 +57,16 @@
           <person xml:id="toni" sex="MALE">
             <persName>TONI</persName>
           </person>
-          <person xml:id="starý-pán" sex="MALE">
+          <person xml:id="stary-pan" sex="MALE">
             <persName>STARÝ PÁN</persName>
           </person>
-          <person xml:id="hlas-v-ampliónu" sex="UNKNOWN">
+          <person xml:id="hlas-v-amplionu" sex="UNKNOWN">
             <persName>HLAS V AMPLIÓNU</persName>
           </person>
-          <person xml:id="mužský-hlas-v-ampliónu" sex="MALE">
+          <person xml:id="muzsky-hlas-v-amplionu" sex="MALE">
             <persName>MUŽSKÝ HLAS V AMPLIÓNU</persName>
           </person>
-          <person xml:id="ženský-hlas-v-ampliónu" sex="FEMALE">
+          <person xml:id="zensky-hlas-v-amplionu" sex="FEMALE">
             <persName>ŽENSKÝ HLAS V AMPLIÓNU</persName>
           </person>
           <listRelation type="personal">
@@ -1195,7 +1195,7 @@
           <p>To je jedno, ale tahals ho sem, do svého pokoje. Tys měl na něho vliv, můj milý. Tady se Ondra vždycky učil, tady ležel v knihách, tady přecházel po celé hodiny a kouřil – A tady mi z ničeho nic ohlásil, mami, já pojedu na rovník, abych viděl kousek světa. Že tam jede bojovat se žlutou zimnicí, to… zapomněl říci. Vždycky přede mnou schováváte, co máte za lubem. Mně řeknete, mami, to je jen takový výlet, a pak tam zůstanete. Jako zloděj ujel!</p>
         </sp>
         <stage>(Z temného kouta se blíží Ondra v bílém lékařském plášti.)</stage>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Ale mamino, to už jsem ti přece tolikrát vysvětloval – Nechtěl jsem, aby sis dělala starosti. Proto jsem ti nic neřekl. To je to celé.</p>
         </sp>
@@ -1203,7 +1203,7 @@
           <speaker>MATKA:</speaker>
           <p>Tomu ty říkáš vysvětlení? Na to tys myslel, já vím; ale na to, že se tam můžeš nakazit nebo co, na to ne. Na to bych zase já byla myslela, Ondro. Tak je to.</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Nu a co by ti to bylo platno, maminko! Stejně bych byl jel –</p>
         </sp>
@@ -1219,7 +1219,7 @@
           <speaker>MATKA:</speaker>
           <p>Co sis to vzal do hlavy s tou žlutou zimnicí! Mohl jsi být doma a léčit – nebo pomáhat na svět dětem –</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Podívej se, mami: na žlutou zimnici umíralo ročně tolik set tisíc lidí – To by přece byla hanba, kdyby se proti ní něco nenašlo. To je… prostě povinnost, ne?</p>
         </sp>
@@ -1227,7 +1227,7 @@
           <speaker>MATKA:</speaker>
           <p>Tvá povinnost?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Povinnost vědy. Víš, maminko, byla to moc zlá nemoc; a ti lidé tam dole – kdybys je viděla umírat, sama bys řekla: Ondro, nemůžeš je tak nechat! To je těžká věc, mami. Někdo tam musel jít.</p>
         </sp>
@@ -1255,7 +1255,7 @@
           <speaker>OTEC:</speaker>
           <p>Tak vidíš, maminko: jako hrdina. To přece stálo za to, ne?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>To ne, tati. Vidíš, na tom by mně záleželo nejmíň. Mně šlo jen o to… poznat příčiny zimnice. To není žádné hrdinství. Když člověk dělá vědu,… tak musí hledat příčiny, víš? A na jiném mu čerta záleží. Jaképak hrdinství nebo čest – to je dětinství, tati. Ale kousek poznání – to stojí za to.</p>
         </sp>
@@ -1263,7 +1263,7 @@
           <speaker>MATKA:</speaker>
           <p>A poznals něco?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Já ne, maminko, ale druzí. Jeden Švéd a jeden Američan.</p>
         </sp>
@@ -1275,7 +1275,7 @@
           <speaker>MATKA:</speaker>
           <p>Tak vidíš, Ondro, nebylo to nadarmo? Nebylo to zbytečné?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Nebylo, maminko. Tomu ty nerozumíš.</p>
         </sp>
@@ -1283,7 +1283,7 @@
           <speaker>MATKA:</speaker>
           <p>Ne, nerozumím. Já jsem vám asi nikdy nerozuměla. To slyším pořád… od Jirky i od dvojčat: mami, tomu ty nerozumíš – Nerozumím! Nerozumím! Kriste Ježíši, já už přestávám rozumět sama sobě! Vždyť vy jste kusy mého těla – I ty, Richarde; vešel jsi do mne a jsi mé celé tělo, jsi má celá duše. A já vám nerozumím, že? Co vy to máte jiného, co vy to máte tak hrozně svého, že vám už nerozumím?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <stage>(jde blíž k ní)</stage>
           <p>Ale maminko, nesmíš se rozčilovat. Máš slabé srdce, škodí ti to.</p>
@@ -1300,7 +1300,7 @@
           <speaker>MATKA:</speaker>
           <p>Ale já jsem měla vždycky jenom jejich zájmy, rozumíš? Vy všichni, vy jdete za svými věcmi, za svou ctí, za svým posláním, já nevím za čím velikým, já tomu ani nerozumím. Ale já, já jsem šla jenom za vámi. Já jsem neměla žádné jiné poslání než vás. Já vím, nebylo to nic velikého: jen starat se a milovat – Ale když jsem vám, pěti dětem, nesla na stůl mísu jídla, bylo to pro mne jako bohoslužba. Ondro, Ondro, ty nevíš, jak je tam po tobě prázdno!</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Je mi líto, maminko.</p>
         </sp>
@@ -1308,7 +1308,7 @@
           <speaker>MATKA:</speaker>
           <p>Máte pravdu, já tomu asi nerozumím. Například tvůj tatínek padnul, protože bylo nutno pobíjet nějaké divochy. A ty, Ondro, tys umřel na to, žes jim chtěl zachraňovat životy. Vidíš, na to jsem asi hloupá. Každý děláte něco obráceného, a pak mi řeknete, to jsou veliké úkoly, maminko, tomu ty ani nemůžeš rozumět. Jeden z vás bude něco stavět, a druhý to bude bourat; a mně řeknete, to jsou ohromné věci, mami, to my musíme dělat, i kdyby nás to mělo život stát! Život! Vám se to mluví! Sám zemřít, to by každý uměl; ale ztratit muže nebo syna, to byste teprve viděli, co to je, – to byste viděli –</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>V tomhle… snad máš pravdu, mami.</p>
         </sp>
@@ -1316,7 +1316,7 @@
           <speaker>MATKA:</speaker>
           <p>A i kdybych neměla… Já nechci mít pravdu, já chci mít vás, já chci mít své děti! Tys neměl umřít, Ondřeji; byl jsi tak hodný a vážný chlapec – A měl jsi nevěstu, můj hochu, měl jsi se ženit – Tomu snad rozumím, ne, Ondro?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>– – Ano, maminko.</p>
         </sp>
@@ -1342,7 +1342,7 @@
           <speaker>MATKA:</speaker>
           <p>Náš Toni nebude střílet, Richarde. Nemá na to povahu. Ondra taky nerad střílel, že, Ondro! Tys taky byl samé knížky jako Toni –</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Jenže u Toniho to je jako hašiš, maminko. Snít s očima dokořán, víš? To je chyba.</p>
         </sp>
@@ -1350,7 +1350,7 @@
           <speaker>MATKA:</speaker>
           <p>Prosím tě, vždyť je to ještě dítě!</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>To ty si budeš o něm vždycky myslet.</p>
         </sp>
@@ -1382,7 +1382,7 @@
           <speaker>MATKA:</speaker>
           <p>Já ho chci mít pro sebe. Ty na něho nemáš žádné právo, Richarde! Toni je pohrobek! Toni je můj, jenom můj, rozumíš? Ten sem už nesmí!</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Maminka nás asi považuje za špatnou společnost.</p>
         </sp>
@@ -1391,7 +1391,7 @@
           <p>– – Ano. Protože jste mrtví.</p>
         </sp>
         <stage>(Výstřely na zahradě.)</stage>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Mami, ty se nás bojíš?</p>
         </sp>
@@ -1399,7 +1399,7 @@
           <speaker>MATKA:</speaker>
           <p>Jak bych já se vás mohla bát, můj hochu! Pojď sem blíž, Ondro, ukaž se mi! Kdybys věděl, jak ti sluší ten bílý plášť! Vždycky jsem si myslela, že budeš jednou u mne, až… až se budu loučit s dětmi –</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Ale jdi, maminko, ty tu budeš ještě moc dlouho! Ty tu budeš pořád, víš?</p>
         </sp>
@@ -1433,7 +1433,7 @@
           <p>Jiné řešení? To bych rád věděl – – Asi je teď jiná šachová škola. Ledaže by se šlo dopředu piónem – Zajímavé! Koukám, že má Petr trochu pravdu.</p>
         </sp>
         <stage>(Dveřmi vejde docela tiše Jiří v leteckém overalu.)</stage>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Dobrý večer, maminko. Nazdar, tati. Tě bůh, Ondro!</p>
         </sp>
@@ -1442,7 +1442,7 @@
           <stage>(obrátí se)</stage>
           <p>Á vida, Jirka!</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Nazdar.</p>
         </sp>
@@ -1450,7 +1450,7 @@
           <speaker>MATKA:</speaker>
           <p>Cože tak brzo, Jiříčku – Lítal jsi dnes?</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Lítal, mami. Dnes se ti ohromně lítalo.</p>
         </sp>
@@ -1458,7 +1458,7 @@
           <speaker>MATKA:</speaker>
           <p>Dobře, že už jsi doma. Já to nevidím ráda, když lítáš; já mám takový strach – Ještě že jsi tak brzo přišel.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>To víš, mami, že má první cesta… je za tebou.</p>
         </sp>
@@ -1471,7 +1471,7 @@
           <stage>(s hrůzou vstává)</stage>
           <p>Počkej – Jiří, ty vidíš… tatínka… a Ondru?</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Vidím, maminko. Jak bych je neviděl?</p>
         </sp>
@@ -1479,7 +1479,7 @@
           <speaker>MATKA:</speaker>
           <p>Ale vždyť oni… oni jsou mrtvi, Jirko! Jak ty je můžeš vidět… jak ty s nimi můžeš mluvit – Jiří!</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>No víš, mami – Ale nebudeš se na mne zlobit? Mně se totiž něco porouchalo na letadle, víš? To je to celé.</p>
         </sp>
@@ -1487,7 +1487,7 @@
           <speaker>MATKA:</speaker>
           <p>Jirko, tobě se něco stalo?</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Nic, mami. Opravdu, ani to vůbec nebolelo. Víš, mně se u letadla ulomilo křídlo – a tak, víš?</p>
         </sp>
@@ -1495,7 +1495,7 @@
           <speaker>MATKA:</speaker>
           <p>Jiří, ty přede mnou něco tajíš!</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Nesmíš se zlobit, maminko, ale já jsem se zabil.</p>
         </sp>
@@ -1503,7 +1503,7 @@
           <speaker>MATKA:</speaker>
           <p>Ty… ty…</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Prosím tě, mami, nerozčiluj se!</p>
         </sp>
@@ -1511,7 +1511,7 @@
           <speaker>MATKA:</speaker>
           <p>… ty jsi tedy mrtev, Jiříčku?</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Ano, mami. Já jsem… to, čemu se říká mrtev.</p>
         </sp>
@@ -1520,7 +1520,7 @@
           <stage>(kvílí)</stage>
           <p>Ježíši Kriste, Jiří! Jiříčku!</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Tiše, tiše, mamino. Musíš být klidná.</p>
         </sp>
@@ -1537,7 +1537,7 @@
           <stage>(jako zkamenělá)</stage>
           <p>Krásná smrt. – Tak tady to máš, Richarde! Tady to máš!</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Mami, za to opravdu nikdo nemůže. Víš, já jsem totiž něco zkoušel – a selhal mi motor. Já vlastně sám nevím, jak se to stalo.</p>
         </sp>
@@ -1545,7 +1545,7 @@
           <speaker>MATKA:</speaker>
           <p>Můj Jirka – <stage>(Usedne do křesla a rozpláče se.)</stage></p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Nech maminku. Uleví jí to. <stage>(Zůstane nad ní stát.)</stage></p>
         </sp>
@@ -1554,7 +1554,7 @@
           <stage>(odvede Jiřího stranou)</stage>
           <p>Cos to zkoušel, Jiříku?</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Výškový rekord, tati. Se zatížením. Patnáct set kilogramů.</p>
         </sp>
@@ -1562,7 +1562,7 @@
           <speaker>OTEC:</speaker>
           <p>A – má to nějaký význam, takový rekord?</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Má, tati. Například ve válce – přeletět co nejvýš s největším nákladem pum, víš?</p>
         </sp>
@@ -1570,7 +1570,7 @@
           <speaker>OTEC:</speaker>
           <p>Pravda. Na tom něco je.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Nebo při letecké dopravě – Tam nahoře už nemáš bouře a mraky, víš? To by mohlo mít ohromný význam.</p>
         </sp>
@@ -1578,7 +1578,7 @@
           <speaker>OTEC:</speaker>
           <p>Nu a jak jsi byl vysoko?</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Něco přes dvanáct tisíc metrů; ale najednou mi začal vysazovat motor –</p>
         </sp>
@@ -1586,7 +1586,7 @@
           <speaker>OTEC:</speaker>
           <p>Je to rekord?</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Je, tatínku. V té kategorii je to světový rekord.</p>
         </sp>
@@ -1594,7 +1594,7 @@
           <speaker>OTEC:</speaker>
           <p>Tak to je dobře. Mám radost, chlapče.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Jenže… když jsem spadl, to ti byla hrozná paseka, tati. Já myslím, že se výškoměr rozbil. Škoda.</p>
         </sp>
@@ -1602,7 +1602,7 @@
           <speaker>OTEC:</speaker>
           <p>Proč?</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Teď se nemůže ani zaznamenat, že jsem byl tak vysoko.</p>
         </sp>
@@ -1610,7 +1610,7 @@
           <speaker>OTEC:</speaker>
           <p>To je jedno, Jirko. Jen když se té výšky dosáhlo!</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Když o tom nikdo nebude vědět!</p>
         </sp>
@@ -1623,7 +1623,7 @@
           <stage>(sténá)</stage>
           <p>Jiří – Jiříčku –</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Buď klidná, mamino.</p>
         </sp>
@@ -1631,7 +1631,7 @@
           <speaker>OTEC:</speaker>
           <p>Neplač, dušinko. Stálo to za to. Tak už neplač. Koukej, budou teď starosti s pohřbem –</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Maminko, nesmíš se na mne dívat, až mě přinesou, víš? To, co přinesou, už nejsem já. Já jsem tady… tak, jak jsem byl… a nikdy mě nebudeš vidět jinačího, viď?</p>
         </sp>
@@ -1639,7 +1639,7 @@
           <speaker>MATKA:</speaker>
           <p>Proč jsi mi neřekl, že chceš tak vysoko letět! Já bych tě nebyla pustila –</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>To nešlo, mami. Já jsem musel.</p>
         </sp>
@@ -1647,7 +1647,7 @@
           <speaker>MATKA:</speaker>
           <p>Co tě to napadlo, Jiříčku, co sis to vzal do hlavy! Proč jsi chtěl dělat ten rekord!</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Když má člověk tak dobrý stroj – To se musí, maminko, tomu ty nerozumíš. Víš, to člověka samo táhne – ten stroj si o to řekne sám –</p>
         </sp>
@@ -1661,13 +1661,13 @@
           <speaker>MATKA:</speaker>
           <p>Můj Jirka! Takový statný hoch! Proč – proč –</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <stage>(stále tišeji)</stage>
           <p>Tomu ty nerozumíš, maminko, tomu ty nemůžeš rozumět –</p>
         </sp>
         <stage>(Zaklepání.)</stage>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <stage>(šeptem)</stage>
           <p>Musíš být klidná, mami. Musíš být silná.</p>
@@ -1710,7 +1710,7 @@
         <head>II.</head>
         <stage>Týž pokoj, ale přibyla rozhlasová skřínka.</stage>
         <stage>(Toni klečí u rozhlasové skřínky a točí knoflíkem. Ozve se vojenský pochod. Toni s grimasou nechuti točí dál. Ozve se Hlasatel.)</stage>
-        <sp who="#hlas-v-ampliónu">
+        <sp who="#hlas-v-amplionu">
           <speaker>HLAS V AMPLIÓNU:</speaker>
           <p>Pozor, pozor, pozor!</p>
         </sp>
@@ -1718,7 +1718,7 @@
           <speaker>TONI:</speaker>
           <p>Ty máš hlas jako náš Kornel.</p>
         </sp>
-        <sp who="#hlas-v-ampliónu">
+        <sp who="#hlas-v-amplionu">
           <speaker>HLAS V AMPLIÓNU:</speaker>
           <p>Vyzýváme všechny občany, aby zachovali klid a pořádek. Varujeme je důtklivě, aby se nehromadili na ulicích; jinak zakročí policejní i vojenské orgány s největší přísností…</p>
         </sp>
@@ -2262,7 +2262,7 @@
           <p>Ale mami! Bože co já – Pojďte mi někdo pomoci! Ondro!</p>
         </sp>
         <stage>(Ze tmy vyběhne Ondra v bílém plášti.)</stage>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Co se stalo?</p>
         </sp>
@@ -2270,7 +2270,7 @@
           <speaker>PETR:</speaker>
           <p>Podívej se, maminka –</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <stage>(kleká k ní a sahá jí na puls)</stage>
           <p>Nu ukaž, mamino –</p>
@@ -2289,11 +2289,11 @@
           <p>Proč nedáš pozor! <stage>(Kleká k Matce.)</stage> Dušinko, co ti je?</p>
         </sp>
         <stage>(Ze tmy se vynoří Jiří v leteckém overalu.)</stage>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Nazdar, Petře. Mamince není dobře? <stage>(Rozsvítí lampu na psacím stole.)</stage></p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <stage>(klečí u ní)</stage>
           <p>Srdce. Kdybyste věděli, jak jí vysazuje tep – Chudák mami!</p>
@@ -2302,7 +2302,7 @@
           <speaker>OTEC:</speaker>
           <p>Kdybychom mohli někoho přivolat!</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Nač? Vždyť jsme tady my. Teď nebude chvíli o sobě vědět. Nervový otřes, víš? Nejlíp nechat ji v klidu. – Dejte sem nějaké polštáře!</p>
         </sp>
@@ -2311,12 +2311,12 @@
           <stage>(shání polštáře)</stage>
           <p>Tady jsou.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <stage>(nese plnou náruč polštářů)</stage>
           <p>Tumáš.</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Nadzvedni jí hlavu, tati. <stage>(Podkládá ji polštáři.)</stage> Tak, a teď hezky tiše lež, mami. <stage>(Vstane.)</stage> Jděte od ní, ať má pokoj.</p>
         </sp>
@@ -2325,7 +2325,7 @@
           <stage>(vstává)</stage>
           <p>Cos ji tak poděsil, Petře? A prosím tě, kde ty se tu vůbec bereš?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Okamžik, tati. <stage>(Obrátí Petra k světlu a dívá se mu na čelo.)</stage> A jej! Jedna a druhá. <stage>(Rozhalí mu na prsou košili a ťuká prstem.)</stage> Jedna, dvě, tři. Tahle ti šla rovnou srdcem, člověče.</p>
         </sp>
@@ -2389,7 +2389,7 @@
           <speaker>OTEC:</speaker>
           <p>Nelži, Petře. Za to by tě vojáci nezastřelili. My jsme popravovali jenom špióny nebo zrádce.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Dnes jsou jiné časy, tatínku.</p>
         </sp>
@@ -2397,7 +2397,7 @@
           <speaker>OTEC:</speaker>
           <p>Zdá se. Máte asi nějaká nová pravidla hry, hoši. <stage>(Obrací se k Matce.)</stage> Nu, jak je jí?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <stage>(sedí, skloněn nad ní)</stage>
           <p>Nic, je v bezvědomí; člověk by řekl, že spí.</p>
@@ -2406,7 +2406,7 @@
           <speaker>OTEC:</speaker>
           <p>To je dobře. Ona jediná nás může slyšet –</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>– a s námi mluvit. Jen maminka nás ještě může vidět. Ta s námi kontakt neztratila.</p>
         </sp>
@@ -2415,7 +2415,7 @@
           <stage>(roztáčí bezcílně glóbus na psacím stole)</stage>
           <p>Mládenci, to byla tak trapná chvíle, když jsem jí to musel říci –</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>To já znám, kamaráde. Člověk má při tom hrozně hloupý pocit, jako by se přiznával k nějakému uličnictví. <stage>(Otvírá u psacího stolu zásuvku a přehrabává se v ní.)</stage> Kluci, víte, že maminka má schované i naše dýmky? To je dobrák, ta mami! Zaživa říkala: Jdeš s tím ven! <stage>(Dává si do úst prázdnou lulku s automatickými pohyby kuřáka.)</stage> M. Mm. Člověk se tu přece jen cítí jako doma.</p>
         </sp>
@@ -2430,7 +2430,7 @@
           <stage>(bezcílně přenáší popelníčky a těžítka)</stage>
           <p>To jsou naši. To střílejí naši.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>A mé sešity tu jsou taky! Ne, co ta mami všechno schovává! <stage>(Listuje v sešitě.)</stage> Aha, tady jsem si kreslil – To je legrace! Tuhle jsem zkoušel nový profil křídel.</p>
         </sp>
@@ -2439,7 +2439,7 @@
           <stage>(staví na psací stůl černošskou sošku, která byla na skříni)</stage>
           <p>Dovol!</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Proč to sem nosíš?</p>
         </sp>
@@ -2461,7 +2461,7 @@
           <speaker>OTEC:</speaker>
           <p>Tak je dobře. Nesmíš nám dělat hanbu, víš?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <stage>(sedí u Matky)</stage>
           <p>– – Musí to být… zatraceně nepříjemný pocit, taková vlastní poprava.</p>
@@ -2486,7 +2486,7 @@
           <speaker>PETR:</speaker>
           <p>Takový mrňavý, pisklavý lajtnant, tati. Děsně se naparoval, aby nebylo vidět, že mu je z toho špatně. Ještě si přede mnou nabíjel revolver… jako že mě dorazí, kdyby snad ti vojáci špatně trefili.</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Sakra!</p>
         </sp>
@@ -2506,7 +2506,7 @@
           <speaker>PETR:</speaker>
           <p>Tati, něčím si člověk musí dodat kuráže. To ti je tak všivá situace – Vojáci se smáli, a já taky. Nějak nám to všem ulevilo, víš? Tak on zrudnul, vytasil šavli a vřísknul: Pozor! K líci zbraň! – Já vám řeknu, mládenci –</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Co?</p>
         </sp>
@@ -2514,7 +2514,7 @@
           <speaker>PETR:</speaker>
           <p>– já měl co dělat, abych nepadl na kolena nebo co. To vám je najednou takový ohavný pocit slabosti v nohách… a v žaludku… brr! Jako hadr jsem si připadal. Zvláštní, ani se nepamatuju, že ten nácek zařval Palte. Jenom jsem cítil, jak mi do vlasů vane chladný vítr.</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>To byl strach.</p>
         </sp>
@@ -2522,7 +2522,7 @@
           <speaker>PETR:</speaker>
           <p>Možná. <stage>(Znovu neklidně přemisťuje věci.)</stage> Ale řeknu vám… je to hrozný pocit. Hrozný.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <stage>(vzhlédne od svého sešitu)</stage>
           <p>Mně nemusíš povídat.</p>
@@ -2531,7 +2531,7 @@
           <speaker>PETR:</speaker>
           <p>Ne, to ty si nemůžeš představit, Jirko. A nikdo.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Já to znám, holenku. Víš, když jsem padal se svým letadlem.</p>
         </sp>
@@ -2539,15 +2539,15 @@
           <speaker>PETR:</speaker>
           <p>Copak, to byl jen okamžik.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Si nemysli. Z dvanácti tisíc metrů to nějakou chvíli trvá. To člověk vůbec nemůže odhadnout, jak dlouho padá. Připadá mu to… jako věčnost. A pořád, pořád se mu zdá, že se proti němu řítí celá země.</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Co sis při tom myslel?</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Nic vlastně. To byl jen takový děsný klid. Tak to je konec, nebo tak něco. Docela klidně, jasně a hloupě si to člověk myslí a přitom kouká, kde se asi rozmázne. Tamhle bych nechtěl, tam jsou stromy; ale tady na tom poli by to snad bylo lepší –</p>
         </sp>
@@ -2555,15 +2555,15 @@
           <speaker>PETR:</speaker>
           <p>Tak tos měl ještě dobré, Jirko.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Nemysli si. Ta lhostejnost, to ti je horší a… odpornější než nevímjaká bolest. Jako by v tobě něco zaživa tuhlo, a ty se už nemůžeš hnout – Brr!</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>To nebyla lhostejnost, Jirko. Spíš hrůza.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Já nevím; ale podruhé bych nechtěl – Hu! Příšerný pocit!</p>
         </sp>
@@ -2572,7 +2572,7 @@
           <speaker>PETR:</speaker>
           <p>A… jak to bylo u tebe, Ondro?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Já měl dost času, člověče. U mne to trvalo… pár dní a nocí.</p>
         </sp>
@@ -2580,7 +2580,7 @@
           <speaker>PETR:</speaker>
           <p>To umírání?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Ano. Tři dny jsem věděl,… že musím natáhnout. To se člověk něco namyslí… a navzpomíná, o jej! A přitom… přitom jsem se pořád pozoroval: tak teď jsem u těch a těch příznaků. Játra jsou pryč, Ondroušku. Tak to jsme tak a tak daleko –</p>
         </sp>
@@ -2588,7 +2588,7 @@
           <speaker>OTEC:</speaker>
           <p>– – Prosím tě, Ondro, jaks tu žlutou zimnici chytil?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>To byl pokus, tati. My jsme chtěli zkusit, přenáší-li ji ten mizerný komár, ta Stegomyia, taky z nemocných, kteří překonali první stadium nákazy. Víš, to se s jistotou nevědělo. Tak jsem se nechal poštípat od pokusných komárů –</p>
         </sp>
@@ -2596,7 +2596,7 @@
           <speaker>OTEC:</speaker>
           <p>– a dostals ji.</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Dostal, a pořádnou. Ale bylo to vlastně proti předpokladu.</p>
         </sp>
@@ -2604,16 +2604,16 @@
           <speaker>OTEC:</speaker>
           <p>Ty, má takový pokus nějakou cenu?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <stage>(krčí rameny)</stage>
           <p>Má, aspoň vědeckou. My jsme chtěli poznat, jak se ten bacil v komárovi vyvíjí. To je dost důležité, tati.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>A umírá se na tu zimnici těžko?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Těžko, chlapče; ležíš jako Lazar, horečky a žloutenka a – nu ledacos ještě. Všivá nemoc, kamaráde. Brr! Já bych ji nikomu nepřál.</p>
         </sp>
@@ -2641,7 +2641,7 @@
           <speaker>OTEC:</speaker>
           <p>– že jsem padl při posledním výpadu, já vím. To bylo kvůli mamince, děti. Jí se přece nemohlo říci, jak to bylo.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Jak jsi tedy –</p>
         </sp>
@@ -2649,7 +2649,7 @@
           <speaker>OTEC:</speaker>
           <p>Já jsem nepadl, kdepak. Jenom jsem tam zůstal ležet, hoši.</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Raněn?</p>
         </sp>
@@ -2665,7 +2665,7 @@
           <speaker>OTEC:</speaker>
           <p>Nu, pak mě umučili. <stage>(Mávne rukou.)</stage> A dost o tom, ne? – Ondro, jak je mamince?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Puls je lepší.</p>
         </sp>
@@ -2674,12 +2674,12 @@
           <p>Děti, rozumí se, maminka to nikdy nesmí vědět –</p>
         </sp>
         <stage>(Pauza.)</stage>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <stage>(nad svým sešitem)</stage>
           <p>Víte, ono se řekne… umřít za něco velkého: za vědu, za vlast, za víru, za spásu lidstva nebo co; ale když je člověk v tom –</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>– tak to vypadá jinak, já vím. Kdyby si lidé dovedli představit, jak při tom člověku je, tak by se… snad… míň oháněli tím, jak je krásné… za něco umřít. Krásné! Já jsem moc krásného na své smrti nenašel.</p>
         </sp>
@@ -2701,12 +2701,12 @@
           <speaker>OTEC:</speaker>
           <p>Aha. A já za krále, vlast a za čest praporu. Nebo proto, že jeden plukovník dal pitomý rozkaz, ale to už je jedno. Samé krásné a veliké věci, jenomže… víte, já jsem z vás nejdéle mrtev a řeknu vám – nebylo by k zahození ještě trochu žít. Já byl moc rád na světě, děti. Hrozně rád. A když se dívám na vás, myslím si, třeba by někdo z těch kluků opravdu dokázal něco kloudného… nebo i velikého. A zatím jsme samý hrdina. Je to bída, mládenci. Mohli jsme být naživu.</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <stage>(vstává a protahuje se)</stage>
           <p>Je to otrava, viď? Jenom přikukovat, co dělají jiní – My mrtví se jen tak vezeme s sebou. <stage>(Přechází ke knihovně.)</stage> Lidi, kdybych teď byl živ, já bych pracoval jako divý. Spavá nemoc, to by mne bavilo!</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <stage>(nad svým sešitem)</stage>
           <p>To jsem blázen!</p>
@@ -2715,11 +2715,11 @@
           <speaker>OTEC:</speaker>
           <p>Co máš?</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Ale tady ten konstruktivní nápad. Docela možná věc, tati. Sakra, že jsem to nedodělal dřív! Počkat, to by muselo být takhle – <stage>(Kreslí, sedě u psacího stolu.)</stage> To by šlo.</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <stage>(otvírá knihovnu)</stage>
           <p>Ne, ta naše mami je ohromná!</p>
@@ -2729,7 +2729,7 @@
           <stage>(nad šachovnicí)</stage>
           <p>Proč?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Pořád ještě odebírá mé medicínské časopisy! Tady je nový sešit Bulletinu pro tropické nemoci – Do toho jsem taky psával.</p>
         </sp>
@@ -2737,7 +2737,7 @@
           <speaker>PETR:</speaker>
           <p>On tam byl kdysi o tobě pěkný nekrolog, víš?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <stage>(vytahuje jeden sešit)</stage>
           <p>Vlastně bych se měl na něco podívat. <stage>(Uvelebí se na pohovce a prohlíží nerozřezaný sešit.)</stage></p>
@@ -2752,7 +2752,7 @@
           <stage>(nad šachovnicí)</stage>
           <p>Ne, to nepůjde. Kruci, to je těžké!</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <stage>(nad výkresem)</stage>
           <p>Šlo by to, ale těžiště by se muselo dostat doleji.</p>
@@ -2763,13 +2763,13 @@
           <p>Ten gramofon jsem vozil s sebou, děti. I na vojnu. <stage>(Mechanicky jej natáčí.)</stage> Tohle byla má nejmilejší deska. Chudák maminka ji tam nechává na památku – <stage>(Spustí gramofon.)</stage></p>
         </sp>
         <stage>(Gramofon tiše hraje. Otec poslouchá. Ostatní zabráni ve své.)</stage>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <stage>(nad svým sešitem)</stage>
           <p>Tak vida, už našli něco proti lepře. To se mi zas líbí.</p>
         </sp>
         <stage>(Venku střelba.)</stage>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <stage>(nad svým výkresem)</stage>
           <p>A pořád se tam střílí.</p>
@@ -2788,7 +2788,7 @@
           <speaker>PETR:</speaker>
           <p>Tak to je začátek! <stage>(Vyskočí.)</stage> Škoda, chtěl bych být při tom. Tak teď se, kamarádi, držte!</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <stage>(vstává a odhazuje sešit)</stage>
           <p>To zas bude hrdinů, co? – Lidi, tohle já nerad slyším!</p>
@@ -2802,7 +2802,7 @@
           <speaker>OTEC:</speaker>
           <p>Tohle je rychlopalné dělo. Pam – pam – pam – pam. Vzdálenost tři kilometry, směr – tam.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <stage>(vstává)</stage>
           <p>Střed města, tati.</p>
@@ -2816,7 +2816,7 @@
           <speaker>OTEC:</speaker>
           <p>Aby to nepoděsilo maminku.</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Ta o ničem neví. <stage>(Mechanicky svíjí a rozvíjí v rukou kus obvazového fáče, který vyňal z kapsy.)</stage> Blázni, v ulicích střílet! To bude masakr!</p>
         </sp>
@@ -2836,7 +2836,7 @@
           <speaker>OTEC:</speaker>
           <p>Já nevím, Petře. Vy teď máte jiná pravidla.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <stage>(u rozhlasové skřínky)</stage>
           <p>A kdo má v rukou vysílačku?</p>
@@ -2845,11 +2845,11 @@
           <speaker>PETR:</speaker>
           <p>Samozřejmě naši. Zkus to, Jirko, ať je slyšíme –</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Dobrá. <stage>(Otočí knoflíkem rádia.)</stage> Tak pozor.</p>
         </sp>
-        <sp who="#hlas-v-ampliónu">
+        <sp who="#hlas-v-amplionu">
           <speaker>HLAS Z AMPLIÓNU:</speaker>
           <stage>(připomínající hlas Kornelův)</stage>
           <p>Halo, zde velitelství bílých.</p>
@@ -2859,7 +2859,7 @@
           <stage>(ustrne)</stage>
           <p>To není možné!</p>
         </sp>
-        <sp who="#hlas-v-ampliónu">
+        <sp who="#hlas-v-amplionu">
           <speaker>HLAS Z AMPLIÓNU:</speaker>
           <p>Halo halo! Velitel armády bílých vyzývá naposledy černé bandy, aby zastavily řež ve městských ulicích. Složte zbraně! Nestane-li se tak do pěti minut, dá velitel rozkaz, aby jeho dělostřelectvo pálilo na město.</p>
         </sp>
@@ -2868,7 +2868,7 @@
           <stage>(křičí)</stage>
           <p>To přece nemohou udělat! Tati, Ondro, že to nemohou udělat? Ti chlapi se zbláznili!</p>
         </sp>
-        <sp who="#hlas-v-ampliónu">
+        <sp who="#hlas-v-amplionu">
           <speaker>HLAS Z AMPLIÓNU:</speaker>
           <p>Halo halo! Velitel armády bílých nařizuje občanům, aby se ihned uchýlili do sklepů. Neopustí-li černí své pozice, bude do čtyř minut zahájena palba z děl na střed města. Podle potřeby budou nasazeny i síly letecké.</p>
         </sp>
@@ -2876,7 +2876,7 @@
           <speaker>PETR:</speaker>
           <p>Barbaři! Barbaři! To přece neuděláte! Vy byste nám chtěli nahnat strachu, vy bílé bestie –</p>
         </sp>
-        <sp who="#hlas-v-ampliónu">
+        <sp who="#hlas-v-amplionu">
           <speaker>HLAS Z AMPLIÓNU:</speaker>
           <p>Halo halo! Odpovědnost za zničení města a lidské životy padne na vedení černých. Varovali jsme včas. Vyjednávali jsme do poslední chvíle, zatímco černí začali zákeřně vraždit naše rukojmí, naše důstojníky a občany –</p>
         </sp>
@@ -2884,7 +2884,7 @@
           <speaker>PETR:</speaker>
           <p>To je lež! To vy jste začali, vy psi, vy krvaví psi! <stage>(Rozhaluje si prsa.)</stage> Co bylo tohle?</p>
         </sp>
-        <sp who="#hlas-v-ampliónu">
+        <sp who="#hlas-v-amplionu">
           <speaker>HLAS Z AMPLIÓNU:</speaker>
           <p>Odmítáme další vyjednávání. Kdo bude přistižen se zbraní v ruce, bude na místě zastřelen. Kdokoli stál na straně černých, bude postaven před válečný soud. Halo halo! Za dvě minuty bude zahájena palba z děl na střed města. Vyzýváme naposledy černé, aby se vzdali. Jen tak můžete uchránit naše město před nedozírnou pohromou.</p>
         </sp>
@@ -2892,7 +2892,7 @@
           <speaker>PETR:</speaker>
           <p>Ne, ne, ne, neposlouchejte to! Kamarádi venku, nesmíte se vzdát! Ať si tedy rozbijí město! Ať se děje co chce!</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Ať je zač umírat, viď? Zavři to, Jiří!</p>
         </sp>
@@ -2906,7 +2906,7 @@
           <speaker>OTEC:</speaker>
           <p>Tak to jsou děla. Patnáctky. Vidíte, drželi slovo.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Víte, lidi, teď jsem skoro rád –</p>
         </sp>
@@ -2918,11 +2918,11 @@
           <speaker>PETR:</speaker>
           <p>Vrazi! Mizerní vrazi!</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Počkejte – Tiše. Maminka přichází k sobě.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Chudák mami, zrovna teď –</p>
         </sp>
@@ -2931,7 +2931,7 @@
           <p>Zhaste!</p>
         </sp>
         <stage>(Tma. Dunění děl a rachot pušek.)</stage>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>HLAS ONDRŮV:</speaker>
           <p>Tak sbohem, mamino.</p>
         </sp>
@@ -2939,7 +2939,7 @@
           <speaker>HLAS OTCŮV:</speaker>
           <p>Neboj se, miláčku. My jsme pořád s tebou.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>HLAS JIŘÍHO:</speaker>
           <p>To je jen bouřka, mami, to přejde.</p>
         </sp>
@@ -3009,7 +3009,7 @@
           <stage>(snímá ze stěny poslední pár pistolí a zamyká je do zásuvky. Klíč bere k sobě)</stage>
           <p>Tak. Já nechci, aby měl Toni na očích samé zbraně. <stage>(Rozhlíží se.)</stage> Já to nechci. <stage>(Jde k oknu a zavírá okenice.)</stage> A ven se taky dívat nebude. <stage>(Rozsvítí vypinačem u dveří.)</stage> Není tu už nic? – <stage>(Jde k rozhlasové skřínce.)</stage> A ty, ty už taky přestaneš mluvit. Toni nemusí vědět, co se děje venku. <stage>(Váhá u rozhlasové skřínky.)</stage> A já – já to nepotřebuju vědět. Já už nechci nic slyšet. Mně už po ničem nic není. <stage>(Váhá.)</stage> Nu vidíš, musíš mlčet. A chtěla bys mluvit, viď? Zase bys chtěla plést Tonimu hlavu, že? Nene, ty už nám tu křičet nebudeš. Hlásej si, co chceš, – ale tady ne. Tady ne. Tady jsem já. Už nebudeš mému Tonimu nic namlouvat – Nu, co tomu říkáš? <stage>(Otočí knoflíkem rádia.)</stage> Tak co, ty –?</p>
         </sp>
-        <sp who="#hlas-v-ampliónu">
+        <sp who="#hlas-v-amplionu">
           <speaker>HLAS Z AMPLIÓNU:</speaker>
           <stage>(ženský, vášnivý, naléhavý)</stage>
           <p>Je to zločin. Byl spáchán zločin proti všemu právu, jsou pošlapány všechny smlouvy, stalo se nejbrutálnější násilí. Slyšte, slyšte, slyšte: bez opovědění války, bez důvodu, beze slova jednání překročila cizí armáda hranice naší země. Bez jediného slova výstrahy, bez důvodu, bez opovědění války počala cizí děla a letadla bombardovat naše města. Nepřítel využil chvíle, kdy se náš národ sám smrtelně oslabil nešťastnou občanskou válkou, a přepadl naše území pod záminkou, že přichází obnovit pořádek. Kdo mu dal k tomu právo? Jaký má důvod k intervenci? Není důvodu, není práva. Voláme z ampliónu celý svět: slyšte, stal se zločin, stal se nevýslovný zločin! We call the world: hear, hear, it is an outrage, it is an awful crime! Nous appelons toute l’humanité: voyez, quel crime! Wir rufen die ganze Welt: es wurde ein schreckliches Verbrechen begangen! Náš národ, náš nešťastný a vysílený národ je dobíjen jako zvíře!</p>
@@ -3019,7 +3019,7 @@
           <stage>(zavírá knoflík rádia)</stage>
           <p>Co na mne křičíš? Já tě nechci slyšet! Zločin! Zločin! To nebyl zločin, když zastřelili mého Petra? A to nebyl zločin, že musel padnout můj Kornel? Můj Kornel! Můj Petr! Mně budeš mluvit o zločinech! Já, já je znám, já matka; na mně se jich spáchalo nejvíc. Já vím, tys neznala mé hochy; kdybys je byla viděla, jak jich tu bývalo plno – Jen si křič do světa; já jsem taky křičela, a myslíš, že mi někdo odpověděl? <stage>(Otočí knoflíkem.)</stage></p>
         </sp>
-        <sp who="#hlas-v-ampliónu">
+        <sp who="#hlas-v-amplionu">
           <speaker>HLAS Z AMPLIÓNU:</speaker>
           <p>– My sami, my sami si musíme pomoci. Budeme se bránit do posledního dechu. Nastavíme hradbu těl a srdcí. Naše pluky vržené proti nepříteli bojují se zoufalou statečností; ale nemohou se udržet, nedostanou-li posil. Voláme všechny muže: musíte je vystřídat. Slyšte, voláme všechny muže do posledního. Voláme vás, muži této země: hlaste se, hlaste se, hlaste se do zbraně! Voláme vás, ženy této země: nastoupíte do práce za své muže a syny, které pošlete k praporům –</p>
         </sp>
@@ -3028,7 +3028,7 @@
           <stage>(otočí knoflíkem)</stage>
           <p>Ne, ne. To máš marné. Já ti nikoho nemohu poslat, já už nikoho nemám. Toni nemůže, Toni je ještě dítě. Takový rozkaz není, aby musely děti na vojnu. To je nesmysl. Co ty máš co posílat něčí muže a syny k praporům? Nejsou tvoji, tak nemluv! Máš ty nějakého syna? To kdybys mně řekla! <stage>(Otočí knoflíkem.)</stage></p>
         </sp>
-        <sp who="#hlas-v-ampliónu">
+        <sp who="#hlas-v-amplionu">
           <speaker>HLAS Z AMPLIÓNU:</speaker>
           <p>– Už ne lidský hlas, ale vlast sama vás volá. Já vlast volám všechny muže. Já matka vlast prosím své syny: braňte mne, braňte mé děti –</p>
         </sp>
@@ -3301,7 +3301,7 @@
           <p>Tak vidíš. Já jsem věděla, co od tebe mohu čekat. Jsi rozumný… a statečný hoch. Tatínek by měl z tebe radost. Pojď, Toni, musíme se připravit… na tu válku. <stage>(Opírá se mu o rameno a vede ho ven. U dveří zhasí vypinačem. Tma.)</stage></p>
         </sp>
         <stage>(Je slyšet, jak zvenčí zamyká pokoj a vytahuje klíč.)</stage>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>HLAS ONDRŮV:</speaker>
           <stage>(potmě)</stage>
           <p>Chudák mamina!</p>
@@ -3319,7 +3319,7 @@
           <speaker>HLAS PETRŮV:</speaker>
           <p>Slyšíte? Vojáci.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>HLAS JIŘÍHO:</speaker>
           <p>Jdou na frontu.</p>
         </sp>
@@ -3336,11 +3336,11 @@
           <speaker>HLAS OTCŮV:</speaker>
           <p>Jiří, snad bys mohl chytit nějaké zprávy z rozhlasu… Měli bychom vědět, co se děje.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>HLAS JIŘÍHO:</speaker>
           <p>Ano, tati. <stage>(Cvakne knoflík radioaparátu.)</stage></p>
         </sp>
-        <sp who="#mužský-hlas-v-ampliónu">
+        <sp who="#muzsky-hlas-v-amplionu">
           <speaker>MUŽSKÝ HLAS Z AMPLIÓNU:</speaker>
           <stage>(tlumený)</stage>
           <p>… naše východní armáda ustupuje dál za těžkých bojů; na pravém křídle se zastavila, opřena o horský hřeben, a klade nepříteli houževnatý odpor.</p>
@@ -3349,15 +3349,15 @@
           <speaker>HLAS OTCŮV:</speaker>
           <p>Jen aby nás neobešli!</p>
         </sp>
-        <sp who="#mužský-hlas-v-ampliónu">
+        <sp who="#muzsky-hlas-v-amplionu">
           <speaker>MUŽSKÝ HLAS Z AMPLIÓNU:</speaker>
           <p>Při leteckých bojích bylo sestřeleno sedmnáct nepřátelských letadel. Devět z našich letců se nevrátilo.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>HLAS JIŘÍHO:</speaker>
           <p>Devět k sedmnácti, to není zlé.</p>
         </sp>
-        <sp who="#mužský-hlas-v-ampliónu">
+        <sp who="#muzsky-hlas-v-amplionu">
           <speaker>MUŽSKÝ HLAS Z AMPLIÓNU:</speaker>
           <p>Bombardování našich otevřených měst pokračuje. Počet zabitých civilních osob se odhaduje na osm tisíc. O osudu města Villamedie, napadené nepřátelským letectvem, nemáme dosud bližších zpráv –</p>
         </sp>
@@ -3393,7 +3393,7 @@
           <speaker>OTEC:</speaker>
           <p>Miláčku, ty sis ani nevšimla – Taky dědeček nám přišel.</p>
         </sp>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <stage>(sedí na křesle v staromódních černých šatech, s řády na prsou)</stage>
           <p>Dobrý večer, holčičko.</p>
@@ -3402,7 +3402,7 @@
           <speaker>MATKA:</speaker>
           <p>Dědeček je tu taky? Tatínku, tebe jsem už tak dlouho neviděla!</p>
         </sp>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <p>Nu vidíš, děvenko. Ani jsem se moc nezměnil, viď?</p>
         </sp>
@@ -3410,7 +3410,7 @@
           <speaker>MATKA:</speaker>
           <p>Nezměnil. A proč, prosím tě – <stage>(Dívá se z jednoho na druhého.)</stage> Proč jste se tu tak sešli? To má být rodinná rada?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Ale ne, maminko. My jsme jen chtěli být při tobě, když jsou tak těžké dny.</p>
         </sp>
@@ -3418,7 +3418,7 @@
           <speaker>MATKA:</speaker>
           <p>Nelžeš, Ondro? Já nevím, že byste někdy byli tak moc při mně. – O čem jste tady mluvili?</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>O ničem, mami. Jenom jsme poslouchali zprávy.</p>
         </sp>
@@ -3511,7 +3511,7 @@
           <speaker>MATKA:</speaker>
           <p>Děti, děti, vy jste se ještě nepřestali hádat? Že se nestydíte, vy dvojčata: oba jste na to padli, a ještě toho nemáte dost? Co si o vás pomyslí dědeček?</p>
         </sp>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <p>Já tomu nerozumím, děvenko; to víš, mladá krev!</p>
         </sp>
@@ -3519,7 +3519,7 @@
           <speaker>PETR:</speaker>
           <p>Odpusť, mami; ale dokud trvají myšlenky – pokud není rozhodnuto, oč jsme bojovali – To nedá člověku ani po smrti.</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>My všichni, maminko, vedeme dál svůj boj. Za pravdu, za národ, za lidstvo – jak kdo. Ještě chceme, aby naše věc zvítězila. A ještě můžeme všechno prohrát – i po smrti.</p>
         </sp>
@@ -3548,7 +3548,7 @@
           <speaker>MATKA:</speaker>
           <p>Vy tam budete něco platni!</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Víc, než si myslíš, maminko. Národ musí mít s sebou své mrtvé.</p>
         </sp>
@@ -3568,7 +3568,7 @@
           <speaker>MATKA:</speaker>
           <p>Richarde, děti, vy… vy chcete opravdu jít –?</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Musíme, maminko, to je služba. Vždyť víš, že nás volají. Tatínek půjde se svým starým plukem –</p>
         </sp>
@@ -3576,7 +3576,7 @@
           <speaker>PETR:</speaker>
           <p>Já bych šel s dobrovolníky.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>A já – nu, já asi zůstanu při svém letectví.</p>
         </sp>
@@ -3600,11 +3600,11 @@
           <speaker>OTEC:</speaker>
           <p>To by byla veliká škoda, matko. To by mně toho chlapce bylo hrozně líto.</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Musíš to chápat, maminko. Toniho by děsně pokořovalo, kdyby musel zůstat doma. Toni je tak citlivý – Pro něho je to věc svědomí.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Je přece… synem majora. Jeho tatínek padl na bojišti… jako hrdina. Jak by to, prosím tě, vypadalo, kdyby se náš kluk nehlásil! To je otázka cti, víš?</p>
         </sp>
@@ -3629,7 +3629,7 @@
           <speaker>MATKA:</speaker>
           <p>Je! Vida, co jste toho na mne vytáhli! Čest! svědomí! přesvědčení! povinnost! A to má být všecko? Víc už nevíte?</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Co tím myslíš, mami?</p>
         </sp>
@@ -3645,7 +3645,7 @@
           <speaker>MATKA:</speaker>
           <p>Tak vidíte. A já jsem z ní udělala… svou ženskou záležitost. Svou mateřskou záležitost. My si asi… nebudeme rozumět, Richarde. A vy děti,… s vámi se taky už nedomluvím. Myslím, že bychom o tom… nemuseli dál mluvit.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Ale maminko –</p>
         </sp>
@@ -3654,7 +3654,7 @@
           <p>Nechte mne! A jděte mi odtud! Já… já už vás nechci vidět. <stage>(Odvrátí se.)</stage></p>
         </sp>
         <stage>(Pauza. Mrtví se na sebe bezradně dívají.)</stage>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Nám maminka nevěří –</p>
         </sp>
@@ -3662,16 +3662,16 @@
           <speaker>MATKA:</speaker>
           <p>Já mám proč, Ondro.</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>My jsme pro Toniho… špatný příklad, viď? Ale kdyby ti to řekl dědeček –</p>
         </sp>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <p>Co, já?</p>
         </sp>
         <stage>(Všichni se obracejí k Starému pánovi.)</stage>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <p>Bože to je tak těžká věc, děti. Já přece nejsem žádný voják nebo hrdina – Já ani žádnou válku nepamatuju.</p>
         </sp>
@@ -3679,7 +3679,7 @@
           <speaker>MATKA:</speaker>
           <p>Tatínku, poslal bys posledního syna do války?</p>
         </sp>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <p>Holčičko, my jsme byli takový starý svět – Vy jste jiní. Vy už jste si na války a takové věci zvykli. Jeden mrtvý, tisíc, sto tisíc mrtvých, co to pro vás je? Ale my, kdepak! Válka, to pro nás bylo – jako báje, víš? Jako něco, co snad u nás ani nemůže doopravdy být.</p>
         </sp>
@@ -3687,7 +3687,7 @@
           <speaker>MATKA:</speaker>
           <p>Ale kdyby byla, tatínku, kdyby byla –?</p>
         </sp>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <p>Ale počkej, my jsme nevyřizovali věci tak hr hr. Víš, my jsme o válkách spíš jenom četli; a učili jsme se, že je čestné zemřít pro vlast. My staří jsme tomu věřili, holčičko; pravda, ono se tehdy nepadalo tolik jako teď – bylo to vzácnější, víš? Nu, já už asi jiný nebudu. Zemřít za vlast – já bych tam šel, děvenko. Řeknu ti, šel bych.</p>
         </sp>
@@ -3695,7 +3695,7 @@
           <speaker>MATKA:</speaker>
           <p>Já ti to věřím, tatínku. Ale poslal bys do války své děti?</p>
         </sp>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <p>Počkej, to je jiná otázka, to mi sem nepleť. Já jenom říkám, kdybych byl jako Toni, že bych šel. Já jsem starý člověk, děti, a – nu, moc hrdinství jsem v životě nenadělal. A taky jsem to někam dotáhl, ne? Myslel jsem si, krásná kariéra: takový vysoký úřad a řády a tituly – Počkej, co jsem to chtěl říci?</p>
         </sp>
@@ -3703,7 +3703,7 @@
           <speaker>MATKA:</speaker>
           <p>Tatínku, poslal bys své děti na smrt?</p>
         </sp>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <p>Aha, už vím. Koukej, já jsem svá léta dožil do poslední tečky; naplnil jsem všechno… a nechal jsem po sobě dobrou památku. Byl to šťastný život. A přece si někdy myslím, – to bylo všecko? – Nu vidíš, holčičko, tak je to.</p>
         </sp>
@@ -3711,7 +3711,7 @@
           <speaker>MATKA:</speaker>
           <p>Co tím chceš říci? Co to má co dělat s Tonim?</p>
         </sp>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <p>Nic, dceruško, nic; já jen, abys věděla, co je život. Víš, když ty ses měla narodit,… tak to tvou maminku mohlo stát život. Já jsem klečel u ní a… nu, hrozně jsem se styděl, víš? Říkal jsem si… tak tady má žena dává všechno v sázku, aby se narodilo dítě, – a co já? – Tak vidíš, v tom je cena života: že se za něj platí… třeba i životem. To je taky… ženská záležitost, holčičko. A to máš tak se vším, rozumíš? Kdyby se za vlast neplatilo životem… kdyby se za čest, za pravdu, za svobodu neplatilo životem, neměly by tu ohromnou, tu strašnou cenu, víš? Jen ho nech jít, toho svého synka. Je to tak… v pořádku.</p>
         </sp>
@@ -3719,7 +3719,7 @@
           <speaker>MATKA:</speaker>
           <p>Tatínku, nic víc mi neřekneš?</p>
         </sp>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <p>Já ani nevím, dceruško. Já bych chtěl, víš, abych mohl být v té válce taky něco platen. Kdybych mohl aspoň jednoho vnuka poslat… aspoň jednoho, abych nebyl tak docela mrtev, tak docela k ničemu! To víš, takový starý, mrtvý člověk jako já už nemůže mnoho dát –</p>
         </sp>
@@ -3727,7 +3727,7 @@
           <speaker>MATKA:</speaker>
           <p>Tatínku, tys Toniho nikdy ani neviděl! Jak můžeš tak mluvit?</p>
         </sp>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <p>Pravda, neviděl, ale je to můj rod. Šel by tam za nás. Takový starý, dobrý rod –</p>
         </sp>
@@ -3735,7 +3735,7 @@
           <speaker>MATKA:</speaker>
           <p>Tatínku, Toni nepůjde!</p>
         </sp>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <p>Jak myslíš, holčičko. Je to škoda. Takový dobrý rod jsme byli –</p>
         </sp>
@@ -3774,7 +3774,7 @@
           <speaker>MATKA:</speaker>
           <p>Tak ať se trápí! Když je takový… když je to pro něho taková oběť, zůstat u matky… Ani ten Toni mne už nemá rád!</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Má, maminko. Nesmírně tě má rád. My všichni tě máme rádi, víš?</p>
         </sp>
@@ -3782,7 +3782,7 @@
           <speaker>MATKA:</speaker>
           <p>Neříkej, Ondro, to mně neříkejte! Vy vůbec nevíte, co to je, mít rád! Vy jste vždycky měli ještě něco jiného, ještě něco bůhvíjak většího, než je láska; ale já ne. Já nemám nic většího, Richarde. Já si neumím nic většího představit. Kdybyste věděli, co to je takové dítě – Richarde, kdybys viděl Toniho, když se narodil! Byl tak bezmocný a sladký – Kdybys viděl ty jeho směšné vlásky – Jak si, lidi, můžete myslet, že by Toni mohl jít na vojnu!</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Mami, Toni je už veliký.</p>
         </sp>
@@ -3814,7 +3814,7 @@
           <speaker>MATKA:</speaker>
           <p>Co s tím? Vidíš, tomu vy právě nerozumíte. Vidíte, každá ta maličkost mně i teď připadá tisíckrát důležitější než všechny vaše výpravy a války. A víš proč? Protože já máma jsem z vás měla jen ty maličkosti. Já jsem vám mohla sloužit jen v těch maličkostech. To byl můj svět. Jak jste si vzali do hlavy něco velikého, už jste se mi nějak vysmekli z rukou – Ani jste se mi nemohli do očí podívat, jako byste měli špatné svědomí. Tomu ty nerozumíš, maminko! Teď máte zas takové vyhýbavé oči, vy všichni. Já vím, vy máte zas něco za lubem, něco vašeho, něco velikého –</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Nesmíš se zlobit, maminko, ale tentokrát jde opravdu o něco tak vážného –</p>
         </sp>
@@ -3830,7 +3830,7 @@
           <speaker>MATKA:</speaker>
           <p>Ano, svou službu. Já měla taky svou slávu, a to jste byli vy. Já měla svůj domov, a to jste byli vy. Já měla svou službu, a to jste byli vy, vy, vy – Tak mně vyložte, proč zrovna já, proč jsem to vždycky já, proč po celé dějiny světa jsem jenom já, já máma, já ženská, kdo musí tak hrozně platit za vaše veliké věci!</p>
         </sp>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <p>Nesmíš se na ně tak zlobit, děvečko.</p>
         </sp>
@@ -3838,7 +3838,7 @@
           <speaker>MATKA:</speaker>
           <p>Já se na ně nezlobím, tati. Já se zlobím na svět. Pořád posílají mé děti na smrt za něco velkého, za nějakou slávu nebo spásu nebo co – A řekni, tatínku, je tím ten svět o něco lepší? Bylo to vůbec něco platno?</p>
         </sp>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <p>Bylo, holčičko, bylo. Víš, velká minulost, to taky musí být.</p>
         </sp>
@@ -3859,11 +3859,11 @@
           <p>Ale za vás, člověče! Za vás a za nic jiného! Za svého muže, za svou rodinu, za děti – Co mně ženské kdy bylo po něčem jiném! Ne, ne, ne, já vám Toniho nedám!</p>
         </sp>
         <stage>(Pauza.)</stage>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Víš, tati, ona má trochu pravdu. Toni je skutečně… fyzicky slaboučký. Takový chabý, nevyvinutý hoch –</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Spíš povahově slabý, Ondro. Exaltovaný a přitom hrozně bázlivý. Já jsem ještě neviděl kluka, který by měl tak málo životní odvahy.</p>
         </sp>
@@ -3888,7 +3888,7 @@
           <p>… Protože nechci být sama. Třeba je to ode mne sobecké, ––– ale já už mám jen Toniho, Richarde! Prosím vás, děti, prosím tě, tatínku, nechte mi ho! Vždyť bych už neměla proč být živa, neměla bych komu sloužit, neměla bych nic – Copak nemám žádné právo na život, který jsem zrodila? Copak jsem si za ty tisíce let nic nevysloužila? Prosím vás, děti, udělejte to kvůli mně, kvůli své pošetilé, utahané mámě, a řekněte sami, že Toniho nemusím dát – tak to řekněte, copak neslyšíte?</p>
         </sp>
         <stage>(Pauza.)</stage>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <p>Bože bože! To jsou těžké věci. Nesmíš se tak rozčilovat, děvečko. Třeba už na toho hocha ani nedojde. Třeba už je pozdě a jsme poraženi –</p>
         </sp>
@@ -3922,7 +3922,7 @@
           <speaker>KORNEL:</speaker>
           <p>Škoda. Ta jedna kulovnice by potřebovala namazat.</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <stage>(otvírá zásuvku u psacího stolu a vytahuje svůj starý sešit, listuje v něm)</stage>
           <p>Škoda že jsem nemohl dodělat tu svou konstrukci. Dobrá by byla. <stage>(Usedne se sešitem.)</stage></p>
@@ -3945,7 +3945,7 @@
           <p>Děkuju. <stage>(Vytáhne kulovnici a prohlíží ji.)</stage> Dobrá by byla. <stage>(Začne ji čistit na stole koudelí a olejem.)</stage></p>
         </sp>
         <stage>(Pauza.)</stage>
-        <sp who="#starý-pán">
+        <sp who="#stary-pan">
           <speaker>STARÝ PÁN:</speaker>
           <p>Tak vidíš, holčičko, už máš skoro celou rodinu pohromadě.</p>
         </sp>
@@ -3953,7 +3953,7 @@
           <speaker>PETR:</speaker>
           <p>– – Slyšíte?</p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <p>Co?</p>
         </sp>
@@ -3961,7 +3961,7 @@
           <speaker>PETR:</speaker>
           <p>To ticho.</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Jako by někdo chtěl něco říci.</p>
         </sp>
@@ -3974,7 +3974,7 @@
           <stage>(zvedá hlavu)</stage>
           <p>Co je? <stage>(Obrací se k rozhlasu.)</stage></p>
         </sp>
-        <sp who="#jiří">
+        <sp who="#jiri">
           <speaker>JIŘÍ:</speaker>
           <stage>(zvedá hlavu)</stage>
           <p>Co máte? <stage>(Dívá se napjatě k ampliónu.)</stage></p>
@@ -3988,11 +3988,11 @@
           <speaker>KORNEL:</speaker>
           <p>Když je válka, mami, tak se dělá válka.</p>
         </sp>
-        <sp who="#mužský-hlas-v-ampliónu">
+        <sp who="#muzsky-hlas-v-amplionu">
           <speaker>MUŽSKÝ HLAS V AMPLIÓNU:</speaker>
           <p>– – předvoj se blíží k řece. Dobrovolné čety vyhodily mosty do povětří a jsou připraveny hájit předmostí do posledního muže. Nepřítel musí být zdržen stůj co stůj. Dobrovolníci vám vzkazují: Padneme, ale neustoupíme.</p>
         </sp>
-        <sp who="#ženský-hlas-v-ampliónu">
+        <sp who="#zensky-hlas-v-amplionu">
           <speaker>ŽENSKÝ HLAS V AMPLIÓNU:</speaker>
           <p>Slyšte, slyšte, slyšte! Voláme všechny muže do zbraně. Voláme všechny muže. Na nás už nezáleží. Už nebojujeme za sebe, ale za zem svých otců a dětí. Ve jménu mrtvých i budoucích voláme do zbraně celý národ!</p>
         </sp>
@@ -4000,11 +4000,11 @@
           <speaker>MATKA:</speaker>
           <p>Ne. Toni nepůjde. Já ti ho nedám!</p>
         </sp>
-        <sp who="#mužský-hlas-v-ampliónu">
+        <sp who="#muzsky-hlas-v-amplionu">
           <speaker>MUŽSKÝ HLAS V AMPLIÓNU:</speaker>
           <p>Halo halo! Velitelství severní armády hlásí další ústupové boje. Bojuje se o každou píď půdy, o každou mez, o každý domek. Lidé ze vsí odmítli opustit své domovy a hájí je se zbraní v ruce. Nepřítel je nucen každou vesnici i samotu srovnat se zemí. Ztráty na životech jsou neobyčejně těžké.</p>
         </sp>
-        <sp who="#ondřej">
+        <sp who="#ondrej">
           <speaker>ONDRA:</speaker>
           <p>Chudáci, ti lidé tam –</p>
         </sp>
@@ -4012,7 +4012,7 @@
           <speaker>OTEC:</speaker>
           <p>Nech být, dobré je to. Přece jen to zpomalí postup nepřítele.</p>
         </sp>
-        <sp who="#ženský-hlas-v-ampliónu">
+        <sp who="#zensky-hlas-v-amplionu">
           <speaker>ŽENSKÝ HLAS V AMPLIÓNU:</speaker>
           <p>Slyšte, slyšte, právě zachycujeme jiskrovou zprávu z lodi Gorgony. – Sečkejte u ampliónů, nemohu to přečíst. Naše loď Gorgona… Ach bože! <stage>(Hlas se zlomí:)</stage> Odpusťte mi, já tam mám syna! <stage>(Pomlka.)</stage> – Slyšte, slyšte, slyšte! Naše cvičná loď Gorgona… se čtyřmi sty námořními kadety na palubě… se pokusila prorazit nepřátelskou blokádu, aby se vrátila do svého přístavu. V pět hodin sedm minut… byla zasažena nepřátelským torpédem. Loď… se potápí. <stage>(Vzdech.)</stage> Kadeti na palubě Gorgony vzkazují… poslední pozdrav domů. Prosí, aby jim byla… naposledy… zahrána… naše hymna. – Můj synu! Můj chlapečku!</p>
         </sp>
@@ -4020,7 +4020,7 @@
           <speaker>MATKA:</speaker>
           <p>Cože? Tak ty přece máš syna? Ty taky máš dítě?</p>
         </sp>
-        <sp who="#mužský-hlas-v-ampliónu">
+        <sp who="#muzsky-hlas-v-amplionu">
           <speaker>MUŽSKÝ HLAS V AMPLIÓNU:</speaker>
           <p>Halo halo, přerušujeme vysílání zpráv. Halo halo halo! Voláme cvičnou loď Gorgonu! Voláme Gorgonu! – Halo! – Halo, slyšíte nás? Kadeti na Gorgoně, pozor! Kadeti na palubě Gorgony, vlast vám posílá poslední pozdrav.</p>
         </sp>
@@ -4035,7 +4035,7 @@
           <p>Prosím tě, mami, teď nemluv!</p>
         </sp>
         <stage>(Všichni stojí jako zkamenělí. Hymna doznívá.)</stage>
-        <sp who="#mužský-hlas-v-ampliónu">
+        <sp who="#muzsky-hlas-v-amplionu">
           <speaker>MUŽSKÝ HLAS V AMPLIÓNU:</speaker>
           <p>Halo halo halo! Cvičná loď Gorgona se už nehlásí.</p>
         </sp>
@@ -4043,7 +4043,7 @@
           <speaker>KORNEL:</speaker>
           <p>Sbohem, kadeti! <stage>(Pověsí pušku na stěnu.)</stage></p>
         </sp>
-        <sp who="#ženský-hlas-v-ampliónu">
+        <sp who="#zensky-hlas-v-amplionu">
           <speaker>ŽENSKÝ HLAS V AMPLIÓNU:</speaker>
           <p>Slyšte, slyšte, slyšte! Voláme všechny muže. Voláme národ do boje. Vlast volá své děti. Do zbraně! Do zbraně!</p>
         </sp>
@@ -4051,7 +4051,7 @@
           <speaker>MATKA:</speaker>
           <p>Co, ty ještě křičíš! Ještě nemáš dost, ty matko? Ještě tam posíláš jiné?</p>
         </sp>
-        <sp who="#mužský-hlas-v-ampliónu">
+        <sp who="#muzsky-hlas-v-amplionu">
           <speaker>MUŽSKÝ HLAS V AMPLIÓNU:</speaker>
           <p>Halo halo! Velitelství západního úseku hlásí: Bojujeme na celé frontě proti přesile. Boj na obou stranách nabývá nebývalé zuřivosti. Naši letci hlásí nástup nových nepřátelských divizí –</p>
         </sp>
@@ -4109,7 +4109,7 @@
           <speaker>TONI:</speaker>
           <p>A nač tu máš ty mapy?</p>
         </sp>
-        <sp who="#mužský-hlas-v-ampliónu">
+        <sp who="#muzsky-hlas-v-amplionu">
           <speaker>MUŽSKÝ HLAS V AMPLIÓNU:</speaker>
           <p>Halo halo! Hlavní stan hlásí: Při ranním náletu nepřátel bylo zničeno město Villamedia. O život přišlo přes osm set civilních osob, z toho většina žen a dětí. Náš starý hrad, pokladnice našich dějin, lehl popelem.</p>
         </sp>
@@ -4117,7 +4117,7 @@
           <speaker>TONI:</speaker>
           <p>Slyšíš, mami?</p>
         </sp>
-        <sp who="#mužský-hlas-v-ampliónu">
+        <sp who="#muzsky-hlas-v-amplionu">
           <speaker>MUŽSKÝ HLAS V AMPLIÓNU:</speaker>
           <p>Letecká puma zasáhla nemocnici, kde zahynulo šedesát nemocných. Město Villamedia hoří.</p>
         </sp>
@@ -4125,7 +4125,7 @@
           <speaker>TONI:</speaker>
           <p>Maminko, prosím tě –</p>
         </sp>
-        <sp who="#ženský-hlas-v-ampliónu">
+        <sp who="#zensky-hlas-v-amplionu">
           <speaker>ŽENSKÝ HLAS V AMPLIÓNU:</speaker>
           <p>Slyšte, slyšte, slyšte! Voláme k ampliónu celý svět! Voláme lidi! Nepřátelská letadla napadla dnes ráno vesnici Borgo a svrhla pumy na obecnou školu. Do prchajících dětí střílela ze strojních pušek. Osmdesát dětí bylo raněno. Devatenáct dětí postříleno. Třicet pět dětí bylo výbuchem… roztrháno.</p>
         </sp>

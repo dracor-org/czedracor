@@ -64,7 +64,7 @@
           <person xml:id="helena" sex="FEMALE">
             <persName>HELENA</persName>
           </person>
-          <person xml:id="nána" sex="FEMALE">
+          <person xml:id="nana" sex="FEMALE">
             <persName>NÁNA</persName>
           </person>
           <person xml:id="marius" sex="MALE">
@@ -97,7 +97,7 @@
           <person xml:id="sluha" sex="MALE">
             <persName>SLUHA</persName>
           </person>
-          <person xml:id="jiný-robot" sex="UNKNOWN">
+          <person xml:id="jiny-robot" sex="UNKNOWN">
             <persName>JINÝ ROBOT</persName>
           </person>
           <personGrp xml:id="dva-roboti" sex="MALE"> <!--PP note: Two robots acting as one character.-->
@@ -1921,7 +1921,7 @@
           <p>Pryč odtud! <stage>(Všichni po špičkách odejdou tapetovými dveřmi.)</stage></p>
         </sp>
         <stage>(Hlavními dveřmi zleva vchází Nána.)</stage>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <stage>(uklízí)</stage>
           <p>Neřádi šeredný! Pohani! Bože mě netrestej, ale já bych je —</p>
@@ -1931,7 +1931,7 @@
           <stage>(pozpátku ve dveřích)</stage>
           <p>Náno, pojď mne zapnout!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>No hned, no hned. <stage>(Zapíná Heleně šaty.)</stage> Bože na nebi, to je zvěř!</p>
         </sp>
@@ -1939,7 +1939,7 @@
           <speaker>HELENA:</speaker>
           <p>Roboti?</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Fi, ani je menovat nechci.</p>
         </sp>
@@ -1947,7 +1947,7 @@
           <speaker>HELENA:</speaker>
           <p>Co se stalo?</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Zas to jednoho u nás chytlo. Začne třískat do soch a vobrazu, skřípá zubama, pěnu u huby — Načisto pominutej, brr. Dyť to je horší než zvíře.</p>
         </sp>
@@ -1955,7 +1955,7 @@
           <speaker>HELENA:</speaker>
           <p>Kterého to chytlo?</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Toho — toho — Šak to ani křesťanský meno nemá! Toho z knihovny.</p>
         </sp>
@@ -1963,7 +1963,7 @@
           <speaker>HELENA:</speaker>
           <p>Radia?</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Zrouna toho. Šmarjájozef, já si to vošklivím! Ani pavouka si tak nevošklivím jako ty pohany.</p>
         </sp>
@@ -1971,7 +1971,7 @@
           <speaker>HELENA:</speaker>
           <p>Ale Náno, že ti jich není líto!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Šak vy si je taky vošklivíte. Pročpak ste si mě přivezla sem? Pročpak žádnej z nich nesmí na vás ani šáhnout?</p>
         </sp>
@@ -1979,7 +1979,7 @@
           <speaker>HELENA:</speaker>
           <p>Neošklivím, na mou duši, Náno. Je mi jich tak líto!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Vošklivíte. Každej člověk si je musí vošklivět. Dyť i ten pes si je voškliví, ani sousto masa vod nich nechce; stáhne vocas a vyje, dyž cejtí ty nelidy, fuj.</p>
         </sp>
@@ -1987,7 +1987,7 @@
           <speaker>HELENA:</speaker>
           <p>Pes nemá rozum.</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Je lepší než voni, Heleno. Von dobře ví, že je něco víc a že je vod Pánaboha. Dyť i ten kuň se plaší, dyž potká pohana. Dyť ani mladý to nemá, a i pes má mladý a každej má mladý —</p>
         </sp>
@@ -1995,7 +1995,7 @@
           <speaker>HELENA:</speaker>
           <p>Prosím tě, Náno, zapínej!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>No hned. Já řikám, to je proti Pánubohu, to je ďáblovo vňuknuti, dělat ty maškary mašinou. Rouháni je to proti Stvořiteli, <stage>(zvedne ruku)</stage> je to urážka Pána, kterej nás stvořil k vobrazu Svýmu, Heleno. A vy ste zneuctili vobraz boží. Za tohle přijde strašnej trest z nebe, to si pamatujte, strašnej trest!</p>
         </sp>
@@ -2003,7 +2003,7 @@
           <speaker>HELENA:</speaker>
           <p>Co to tu voní?</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Kytky. Pán je sem dal.</p>
         </sp>
@@ -2011,7 +2011,7 @@
           <speaker>HELENA:</speaker>
           <p>Ne, ty jsou krásné! Náno, podívej se! Co je dnes?</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Nevim. Ale měl by bejt konec světa.</p>
         </sp>
@@ -2049,7 +2049,7 @@
           <speaker>HELENA:</speaker>
           <p>Už deset let? Právě dnes? — Náno, prosím tě —</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Dyť už du! <stage>(Odejde vpravo.)</stage></p>
         </sp>
@@ -2379,7 +2379,7 @@
           <stage>(sama)</stage>
           <p>Ó bože, co se děje? Náno! Náno, honem!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <stage>(vyjde zprava)</stage>
           <p>No co zas?</p>
@@ -2388,7 +2388,7 @@
           <speaker>HELENA:</speaker>
           <p>Náno, najdi poslední noviny! Rychle! V pánově ložnici!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>No hned. <stage>(Odejde vlevo.)</stage></p>
         </sp>
@@ -2396,7 +2396,7 @@
           <speaker>HELENA:</speaker>
           <p>Co se jen proboha děje? Nic, nic mně neřekne! <stage>(Dívá se triedrem k přístavu.)</stage> Je to válečná loď! Bože, proč válečná? Něco na ni nakládají — a v takovém spěchu! Co se přihodilo? Je na ní jméno — Ul-ti-mus. Co je to Ultimus?</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <stage>(vrací se s novinami)</stage>
           <p>Po zemi je nechá válet! Takhle je rozmačkat!</p>
@@ -2411,7 +2411,7 @@
           <speaker>HELENA:</speaker>
           <p>Něco se děje, Náno! Mně je tak úzko! Jako by všechno bylo mrtvé, i vzduch —</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <stage>(slabikuje)</stage>
           <p>„Vál-ka na Bal-ká-ně.“ Ach Jezus, zase trest boží! Šak ta vojna přijde taky sem! Je to daleko vodtud?</p>
@@ -2420,7 +2420,7 @@
           <speaker>HELENA:</speaker>
           <p>Daleko. Oh nečti to! Je to pořád stejné, pořád ty války —</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Jakpak by nebyly! Copak neprodáváte pořád tisíce tísícu těch pohanu za vojáky? — Oh Kriste Pane, to je dopuštěni!</p>
         </sp>
@@ -2428,7 +2428,7 @@
           <speaker>HELENA:</speaker>
           <p>Ne, nečti! Nechci nic vědět!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <stage>(slabikuje)</stage>
           <p>„Ro-bot-ští vojáci ni-ko-ho ne-še-tří v do-by-tém ú-ze-mí. Vy-vraž — Vyvraždili přes sedum set tisíc ob-čan-ských lidí —“ Lidí, Heleno!</p>
@@ -2437,7 +2437,7 @@
           <speaker>HELENA:</speaker>
           <p>To není možno! Ukaž — <stage>(Nakloní se k novinám, čte.)</stage> „Vyvraždili přes sedm set tisíc občanských lidí patrně na rozkaz velitele. Tento čin, příčící se —“ Tak vidíš, Náno, to jim poručili lidé!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Tudle je něco nejtlustějc vytištěnýho. „Po-sled-ní zprá-vy. V Ha-vru se u-sta-vi-la prv-ní ra-so-vá or-or-or-ga-ni-zace Robotů.“ — To nic není. Tomu nerozumím. A tudle, panebože, zas nějaká vražda! Prokristapána!</p>
         </sp>
@@ -2445,7 +2445,7 @@
           <speaker>HELENA:</speaker>
           <p>Jdi, Náno, odnes ty noviny!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Počkat, tadyhle je něco velkýho. „Po-pu-la-ce.“ Co to je?</p>
         </sp>
@@ -2453,7 +2453,7 @@
           <speaker>HELENA:</speaker>
           <p>Ukaž, to já vždycky čtu. <stage>(Vezme noviny.)</stage> Ne, jen si považ! <stage>(Čte.)</stage> „Za poslední týden nebylo opět hlášeno ani jediné narození.“ <stage>(Pustí noviny.)</stage></p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Co to má bejt?</p>
         </sp>
@@ -2461,7 +2461,7 @@
           <speaker>HELENA:</speaker>
           <p>Náno, lidé se přestávají rodit.</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <stage>(skládá brýle)</stage>
           <p>Tak to je konec. To je s náma konec.</p>
@@ -2470,7 +2470,7 @@
           <speaker>HELENA:</speaker>
           <p>Prosím tě, nemluv tak!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Už se lidi neroděj. To je trest, to je trest! Hospodin poranil ženský neplodností.</p>
         </sp>
@@ -2479,7 +2479,7 @@
           <stage>(vyskočí)</stage>
           <p>Náno!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <stage>(vstává)</stage>
           <p>To je konec světa. Z ďábelský pejchy ste se vopovážili tvořit jako Pámbu. Bezbožnost je to a rouhání, jako bohové chcete bejt. A jako Bůh vyhnal člověka z ráje, tak ho vyžene ze světa celýho!</p>
@@ -2488,7 +2488,7 @@
           <speaker>HELENA:</speaker>
           <p>Mlč, Náno, prrosím tě! Udělala jsem ti něco? Udělala jsem něco tomu tvému zlému Pánubohu?</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <stage>(s velikým gestem)</stage>
           <p>Nerouhat se! — Von dobře ví, proč vám nedal dítě! <stage>(Odejde vlevo.)</stage></p>
@@ -2777,7 +2777,7 @@
           <stage>(sama)</stage>
           <p>Oh hluchý květ! To je to slovo! <stage>(Zastaví se u Hallemeierových květů.)</stage> Ach, květy, jsou mezi vámi také hluché? Ne, ne! Nač byste potom kvetly? <stage>(Volá.)</stage> Náno! Náno, pojď sem!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <stage>(vejde zleva)</stage>
           <p>No co zas?</p>
@@ -2786,7 +2786,7 @@
           <speaker>HELENA:</speaker>
           <p>Sedni si tady, Náno! Mně ti je tak úzko!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Nemám kdy.</p>
         </sp>
@@ -2794,7 +2794,7 @@
           <speaker>HELENA:</speaker>
           <p>Je tu ještě ten Radius?</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Ten pominutej? Eště ho nevodvezli.</p>
         </sp>
@@ -2802,7 +2802,7 @@
           <speaker>HELENA:</speaker>
           <p>Hu, ještě je tu? A zuří?</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Je svázanej.</p>
         </sp>
@@ -2810,7 +2810,7 @@
           <speaker>HELENA:</speaker>
           <p>Prosím tě, Náno, přiveď mi ho.</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Bodejť! Spíš zteklýho psa.</p>
         </sp>
@@ -2818,7 +2818,7 @@
           <speaker>HELENA:</speaker>
           <p>Už jdi! <stage>(Nána odejde. Helena vezme domácí telefon a mluví.)</stage> Haló — prosím doktora Galla. — Dobrý den, doktore. — Prosím vás — —Prosím vás, pojďte honem ke mně. — Ano, hned teď. Přijdete? <stage>(Pověsí telefon.)</stage></p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <stage>(otevřenými dveřmi)</stage>
           <p>Už de. Už je tichej. <stage>(Odejde.)</stage></p>
@@ -3171,7 +3171,7 @@
           <stage>(sama)</stage>
           <p>Hluchý květ… hluchý květ… <stage>(Náhle rozhodnuta.)</stage> Náno! <stage>(Otevře dveře vlevo.)</stage> Náno, pojď sem! Rozdělej tady v krbu oheň! Rrrychle!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>HLAS NÁNY:</speaker>
           <p>No hned! No hnedle!</p>
         </sp>
@@ -3181,7 +3181,7 @@
           <p>Ledaže by už bylo na návrat pozdě… Ne! Ledaže by… Ne, to je hrozné! Bože co mám dělat? — — <stage>(Zastaví se u květin.)</stage> Hluché květy, mám? <stage>(Otrhává lístky a šeptá.)</stage> — Ach můj bože, tedy ano! <stage>(Běží vlevo.)</stage></p>
         </sp>
         <stage>(Pauza.)</stage>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <stage>(vyjde z tapetových dveří s náručím polínek)</stage>
           <p>Najednou topit! Teď v letě! — Už je zas pryč, to třeštidlo? <stage>(Klekne ke krbu a rozdělává oheň.)</stage> V letě topit! Ta má nápady! Jako by už nebyla deset let vdaná! — — Nu tak hoř, hoř! <stage>(Dívá se do ohně.)</stage> — Dyť vona je jako malý dítě! <stage>(Pauza.)</stage> Kouska rozumu nemá! Teď v letě topit. <stage>(Přikládá.)</stage> Jako malý dítě! <stage>(Pauza.)</stage></p>
@@ -3191,7 +3191,7 @@
           <stage>(vrací se zleva s náručí plnou zežloutlých popsaných papírů)</stage>
           <p>Hoří to, Náno? Pusť, já musím — tohle všechno spálit. — <stage>(Klekne ke krbu.)</stage></p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <stage>(vstane)</stage>
           <p>Co je to?</p>
@@ -3200,7 +3200,7 @@
           <speaker>HELENA:</speaker>
           <p>Staré papíry, hrrozně staré. Náno, mám to spálit?</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Není to k ničemu?</p>
         </sp>
@@ -3208,7 +3208,7 @@
           <speaker>HELENA:</speaker>
           <p>K ničemu dobrému.</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Tak to spalte.</p>
         </sp>
@@ -3217,7 +3217,7 @@
           <stage>(hodí první list do ohně)</stage>
           <p>Co bys říkala, Náno,… kdyby to byly peníze. Ohrromné peníze.</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Řekla bych: Spalte to. Moc velký peníze sou špatný peníze.</p>
         </sp>
@@ -3226,7 +3226,7 @@
           <stage>(pálí další list)</stage>
           <p>A kdyby to byl nějaký vynález, ten největší vynález na světě —</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Řekla bych: Spalte to! Všecky vymyšlenosti sou proti Pánu Bohu. To je samý rouháni, chtít po něm zlepšovat svět.</p>
         </sp>
@@ -3235,7 +3235,7 @@
           <stage>(ustavičně pálí)</stage>
           <p>A pověz, Náno, kdybych spálila —</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Jezus, nespalte se!</p>
         </sp>
@@ -3243,7 +3243,7 @@
           <speaker>HELENA:</speaker>
           <p>Podívej se, jak se ty listy kroutí! Jako by živé byly. Jako by oživly. Oh Náno, to je hrrozné!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Puste, já to spálim.</p>
         </sp>
@@ -3251,7 +3251,7 @@
           <speaker>HELENA:</speaker>
           <p>Ne, ne, já musím sama. <stage>(Vrhá poslední list do ohně.)</stage> Všechno musí shořet! — Podívej se, ty plameny! Jsou jako ruce, jako jazyky, jako postavy — <stage>(Tluče pohrabáčem do ohně.)</stage> Oh lehněte! Lehněte!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Už je po tom.</p>
         </sp>
@@ -3260,7 +3260,7 @@
           <stage>(vstane ustrnulá)</stage>
           <p>Náno!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Ježíši Kriste, co ste to spálila!</p>
         </sp>
@@ -3268,7 +3268,7 @@
           <speaker>HELENA:</speaker>
           <p>Co jsem provedla!</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Bože na nebi! Co to bylo?</p>
         </sp>
@@ -3277,7 +3277,7 @@
           <speaker>HELENA:</speaker>
           <p>Jdi, jdi, nech mne! Slyšíš? Páni jdou.</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Pro živýho boha, Heleno! <stage>(Odchází tapetovými dveřmi.)</stage></p>
         </sp>
@@ -5494,7 +5494,7 @@
           <p>Padla elektrárna. Teď my.</p>
         </sp>
         <stage>(Zleva se otevrou dveře, v nich stojí Nána.)</stage>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Na kolena! Přišla hodina soudu!</p>
         </sp>
@@ -5502,7 +5502,7 @@
           <speaker>HALLEMEIER:</speaker>
           <p>Hrome, tys ještě živa?</p>
         </sp>
-        <sp who="#nána">
+        <sp who="#nana">
           <speaker>NÁNA:</speaker>
           <p>Dělejte pokání, nevěřící! Je konec světa! Modlete se! <stage>(Běží pryč.)</stage> Hodina soudu —</p>
         </sp>
@@ -5617,7 +5617,7 @@
           <speaker>RADIUS:</speaker>
           <p>Hotovi?</p>
         </sp>
-        <sp who="#jiný-robot">
+        <sp who="#jiny-robot">
           <speaker>JINÝ ROBOT:</speaker>
           <p>Hotovi.</p>
         </sp>
@@ -5626,7 +5626,7 @@
           <speaker>RADIUS:</speaker>
           <p>Hotovi?</p>
         </sp>
-        <sp who="#jiný-robot">
+        <sp who="#jiny-robot">
           <speaker>JINÝ ROBOT:</speaker>
           <p>Ano.</p>
         </sp>

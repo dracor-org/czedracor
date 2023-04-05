@@ -44,7 +44,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="tulák" sex="MALE">
+          <person xml:id="tulak" sex="MALE">
             <persName>TULÁK</persName>
           </person>
           <person xml:id="pedant" sex="MALE">
@@ -68,64 +68,64 @@
           <person xml:id="kukla" sex="FEMALE">
             <persName>KUKLA</persName>
           </person>
-          <person xml:id="chrobák" sex="MALE">
+          <person xml:id="chrobak" sex="MALE">
             <persName>CHROBÁK</persName>
           </person>
-          <person xml:id="chrobačka" sex="FEMALE">
+          <person xml:id="chrobacka" sex="FEMALE">
             <persName>CHROBAČKA</persName>
           </person>
-          <person xml:id="jiný-chrobák" sex="MALE"> <!--PP: ID according to the original castlist (see below).-->
+          <person xml:id="jiny-chrobak" sex="MALE"> <!--PP: ID according to the original castlist (see below).-->
             <persName>CIZÍ CHROBÁK</persName>
           </person>
           <person xml:id="lumek" sex="MALE">
             <persName>LUMEK</persName>
           </person>
-          <person xml:id="larvička_lumkova" sex="FEMALE">
+          <person xml:id="larvicka_lumkova" sex="FEMALE">
             <persName>LARVIČKA</persName>
           </person>
-          <person xml:id="cvrček" sex="MALE">
+          <person xml:id="cvrcek" sex="MALE">
             <persName>CVRČEK</persName>
           </person>
-          <person xml:id="cvrčková" sex="FEMALE">
+          <person xml:id="cvrckova" sex="FEMALE">
             <persName>CVRČKOVÁ</persName>
           </person>
           <person xml:id="parazit" sex="MALE">
             <persName>PARAZIT</persName>
           </person>
-          <person xml:id="inženýr-1_diktátor" sex="MALE">
+          <person xml:id="inzenyr-1_diktator" sex="MALE">
             <persName>PRVNÍ INŽENÝR – DIKTÁTOR</persName>
           </person>
-          <person xml:id="inženýr-2_náčelník" sex="MALE">
+          <person xml:id="inzenyr-2_nacelnik" sex="MALE">
             <persName>DRUHÝ INŽENÝR – NÁČELNÍK</persName>
           </person>
-          <person xml:id="slepý-mravenec" sex="MALE"> <!--PP: ID according to the original castlist (see below).-->
+          <person xml:id="slepy-mravenec" sex="MALE"> <!--PP: ID according to the original castlist (see below).-->
             <persName>SLEPEC</persName>
           </person>
-          <person xml:id="vynálezce" sex="MALE">
+          <person xml:id="vynalezce" sex="MALE">
             <persName>VYNÁLEZCE</persName>
           </person>
           <person xml:id="posel" sex="MALE">
             <persName>POSEL</persName>
           </person>
-          <person xml:id="nový-posel" sex="MALE">
+          <person xml:id="novy-posel" sex="MALE">
             <persName>NOVÝ POSEL</persName>
           </person>
           <person xml:id="ubytovatel" sex="MALE">
             <persName>UBYTOVATEL</persName>
           </person>
-          <person xml:id="novinář" sex="MALE">
+          <person xml:id="novinar" sex="MALE">
             <persName>NOVINÁŘ</persName>
           </person>
-          <person xml:id="dobroděj" sex="MALE">
+          <person xml:id="dobrodej" sex="MALE">
             <persName>DOBRODĚJ</persName>
           </person>
           <person xml:id="telegrafista" sex="MALE">
             <persName>TELEGRAFISTA</persName>
           </person>
-          <person xml:id="vojevůdce-žlutých" sex="MALE"> <!--PP: ID according to the original castlist (see below).-->
+          <person xml:id="vojevudce-zlutych" sex="MALE"> <!--PP: ID according to the original castlist (see below).-->
             <persName>ŽLUTÝ VŮDCE</persName>
           </person>          
-          <personGrp xml:id="vojsko-žlutých" sex="MALE"> <!--PP: Grp = troops. ID according to the original castlist (see below).-->
+          <personGrp xml:id="vojsko-zlutych" sex="MALE"> <!--PP: Grp = troops. ID according to the original castlist (see below).-->
             <persName>ŽLUTÍ</persName>
           </personGrp>
           <person xml:id="jepice-1" sex="FEMALE">
@@ -137,19 +137,19 @@
           <person xml:id="jepice-3" sex="FEMALE">
             <persName>TŘETÍ JEPICE</persName>
           </person>
-          <personGrp xml:id="chór-jepic" sex="FEMALE"> <!--PP: Sbor jepic – tanečnic (Choir of jepices/mayflies - dancers). Cf. castlist below.-->
+          <personGrp xml:id="chor-jepic" sex="FEMALE"> <!--PP: Sbor jepic – tanečnic (Choir of jepices/mayflies - dancers). Cf. castlist below.-->
             <persName>CHÓR JEPIC</persName>
           </personGrp>
-          <personGrp xml:id="několik-posledních-jepic" sex="FEMALE"> <!--PP: Cf. listRelation below.-->
+          <personGrp xml:id="nekolik-poslednich-jepic" sex="FEMALE"> <!--PP: Cf. listRelation below.-->
             <persName>NĚKOLIK POSLEDNÍCH JEPIC</persName>
           </personGrp>
-          <person xml:id="slimák-2" sex="MALE">
+          <person xml:id="slimak-2" sex="MALE">
             <persName>DRUHÝ SLIMÁK</persName>
           </person>
-          <person xml:id="slimák-1" sex="MALE">
+          <person xml:id="slimak-1" sex="MALE">
             <persName>PRVNÍ SLIMÁK</persName>
           </person>
-          <person xml:id="poutník" sex="MALE">
+          <person xml:id="poutnik" sex="MALE">
             <persName>POUTNÍK</persName>
           </person>
           <person xml:id="mravenec-1" sex="MALE">
@@ -161,64 +161,64 @@
           <person xml:id="mravenec-3" sex="MALE"> 
             <persName>TŘETÍ MRAVENEC</persName>
           </person>
-          <person xml:id="raněný" sex="MALE">
+          <person xml:id="raneny" sex="MALE">
             <persName>RANĚNÝ</persName>
           </person>
-          <person xml:id="jiný-raněný" sex="MALE">
+          <person xml:id="jiny-raneny" sex="MALE">
             <persName>JINÝ RANĚNÝ</persName>
           </person>
-          <personGrp xml:id="vojáci" sex="MALE"> <!--PP: Many soldiers acting as one character. Cf. listRelation below.-->
+          <personGrp xml:id="vojaci" sex="MALE"> <!--PP: Many soldiers acting as one character. Cf. listRelation below.-->
             <persName>VOJÁCI</persName>
           </personGrp>
-          <personGrp xml:id="dva-vojáci" sex="MALE"> <!--PP: Two soldiers acting as one character. Cf. listRelation below.-->
+          <personGrp xml:id="dva-vojaci" sex="MALE"> <!--PP: Two soldiers acting as one character. Cf. listRelation below.-->
             <persName>DVA VOJÁCI</persName>
           </personGrp>
-          <person xml:id="voják" sex="MALE"> <!--PP: Cf. listRelation below.-->
+          <person xml:id="vojak" sex="MALE"> <!--PP: Cf. listRelation below.-->
             <persName>VOJÁK</persName>
           </person>
-          <person xml:id="jeden-voják" sex="MALE"> <!--PP: Cf. listRelation below.-->
+          <person xml:id="jeden-vojak" sex="MALE"> <!--PP: Cf. listRelation below.-->
             <persName>JEDEN VOJÁK</persName>
           </person>
-          <person xml:id="drvoštěp-1" sex="MALE">
+          <person xml:id="drvostep-1" sex="MALE">
             <persName>PRVNÍ DRVOŠTĚP</persName>
           </person>
-          <person xml:id="drvoštěp-2" sex="MALE">
+          <person xml:id="drvostep-2" sex="MALE">
             <persName>DRUHÝ DRVOŠTĚP</persName>
           </person>
-          <person xml:id="hlas" sex="UNKNOWN"> <!--PP: It´s not clear who it is, but two more characters are assigned to the voice (label "HLAS:") in the text: #cvrček #vynálezce.-->
+          <person xml:id="hlas" sex="UNKNOWN"> <!--PP: Its not clear who it is, but two more characters are assigned to the voice (label "HLAS:") in the text: #cvrček #vynálezce.-->
             <persName>HLAS</persName>
           </person>
           <personGrp xml:id="hlasy" sex="UNKNOWN"> <!--PP: Grp hlasy = more voices. To be solved: it means about two different characters I think according to the context, but I´m not sure now, who it is specifically.-->
             <persName>HLASY</persName>
           </personGrp>
-          <person xml:id="mroucí-hlas" sex="UNKNOWN">
+          <person xml:id="mrouci-hlas" sex="UNKNOWN">
             <persName>MROUCÍ HLAS</persName>
           </person>
-          <person xml:id="tenký-hlas" sex="UNKNOWN">
+          <person xml:id="tenky-hlas" sex="UNKNOWN">
             <persName>TENKÝ HLAS</persName>
           </person>
-          <person xml:id="jiný-hlas" sex="UNKNOWN">
+          <person xml:id="jiny-hlas" sex="UNKNOWN">
             <persName>JINÝ HLAS</persName>
           </person>
-          <personGrp xml:id="skupina-zprava" sex="UNKNOWN"> <!--PP: Grp "skupina-zprava" = group from the right. This ID also denotes "figure" "příval zprava" (a rush of people), which means the same group of individuals - ant-soldiers.--> 
+          <personGrp xml:id="skupina-zprava" sex="UNKNOWN"> <!--PP: Grp "skupina-zprava" = group from the right. This ID also denotes "figure" "prival zprava" (a rush of people), which means the same group of individuals - ant-soldiers.--> 
             <persName>HLOUČEK ZPRAVA</persName>
           </personGrp>
-          <person xml:id="skupina-zleva" sex="UNKNOWN"> <!--PP: Grp "skupina-zprava" = group from the left. This ID also denotes "figure" "příval zleva" (a rush of people), which means the same group of individuals - ant-soldiers.-->
+          <person xml:id="skupina-zleva" sex="UNKNOWN"> <!--PP: Grp "skupina-zprava" = group from the left. This ID also denotes "figure" "prival zleva" (a rush of people), which means the same group of individuals - ant-soldiers.-->
             <persName>HLOUČEK ZLEVA</persName>
           </person>
-          <person xml:id="křik" sex="UNKNOWN">
+          <person xml:id="krik" sex="UNKNOWN">
             <persName>KŘIK</persName>
           </person>
-          <personGrp xml:id="křik-žen" sex="FEMALE"> <!--PP: Grp - more women.-->
+          <personGrp xml:id="krik-zen" sex="FEMALE"> <!--PP: Grp - more women.-->
             <persName>KŘIK ŽEN</persName>
           </personGrp>
-          <personGrp xml:id="křik-ubíjených-mužů" sex="MALE"> <!--PP: Grp - more men.-->
+          <personGrp xml:id="krik-ubijenych-muzu" sex="MALE"> <!--PP: Grp - more men.-->
             <persName>KŘIK UBÍJENÝCH MUŽŮ</persName>
           </personGrp>
-          <person xml:id="pronikavý-výkřik" sex="UNKNOWN">
+          <person xml:id="pronikavy-vykrik" sex="UNKNOWN">
             <persName>PRONIKAVÝ VÝKŘIK</persName>
           </person>
-          <personGrp xml:id="celý-svět" sex="UNKNOWN"> <!--PP: Grp "celý svět" = the whole world. It´s the last line of the play within "back" element, an alternative text version of Epilogue.-->.-->
+          <personGrp xml:id="cely-svet" sex="UNKNOWN"> <!--PP: Grp "cely svet" = the whole world. Its the last line of the play within "back" element, an alternative text version of Epilogue.-->.-->
             <persName>CELÝ SVĚT</persName>
           </personGrp>  
           <listRelation type="personal">
@@ -326,7 +326,7 @@
       <div type="prologue">
         <head>PŘEDEHRA</head>
         <stage>Zelená lesní mýtina.</stage>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(vymotá se z kulis, klopýtaje, a padne)</stage>
           <p>Haha, haha, hahaha, to je švanda, že? To nic nedělá. Nemusíte se smát; já jsem si totiž neublížil.</p>
@@ -340,7 +340,7 @@
           <stage>(vběhne se síťkou na scénu)</stage>
           <p>Haha, oho, hoho, ha, haha, ach ty krásné exempláře! Apatura Iris! Apatura Clythia! Barvoměnka duhová a batolec modrolesklý! Haha, ty nádherné kusy! Oho, oh, ehe, počkej, už tě mám! Oho, ha, už jsou zase pryč! – Haha, jen opatrně, pozor, pst, pozor, tiše, tiše, ech, ech, pomalu, pomalu, – aha, oho, ho, pozor, pozor, heč! – Oho, oh, hoho –</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Hej, načpak ty motýly chytáte? Má úcta, vašnosti.</p>
         </sp>
@@ -348,7 +348,7 @@
           <speaker>PEDANT:</speaker>
           <p>Tiše, tiše, pozor! Nehýbejte se! Sedají na vás! Motýli. Batolci. Nymphalidae. Pozor, nehýbat se! Sedají na všechno, co páchne. Na bláto. Na výkaly. Na mršiny. Pozor, sedají na vás. Oh, oho, ohoho, ech!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Nechte je, hrajou si.</p>
         </sp>
@@ -356,7 +356,7 @@
           <speaker>PEDANT:</speaker>
           <p>Co, cože, hra? Hra je jen úvod k páření. Haha, je doba páření; sameček stíhá samičku, snoubenka prchá, voní, láká, pronásledovatel ji lechtá tykadly, klesá unaven, samička letí dál, přijde nový, silnější, statnější, samička prchá, dráždí a voní, milenec za ní, aha, aha! Chápete už? To je řád přírody; věčný zápas lásky; věčné snoubení; věčné, věčné, věčné pohlaví! Pst, pst, tiše!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>A co s nimi děláte, když je chytíte?</p>
         </sp>
@@ -364,7 +364,7 @@
           <speaker>PEDANT:</speaker>
           <p>Cože? Motýl musí být určen, datován a vřazen do sbírky; ale nesetři pelu! Síťka budiž z jemného tkaniva! Motýl buď pozorně usmrcen stisknutím hrudi! A napíchnut na špendlík! A napnut papírovými proužky! Do sbírky uložen řádně vyschlý! Budiž chráněn před prachem a moly! Vlož do skřínky hubku s kyanidem!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>A proč to všechno?</p>
         </sp>
@@ -372,7 +372,7 @@
           <speaker>PEDANT:</speaker>
           <p>Z lásky k přírodě. Člověče, vy nemáte lásky k přírodě! – Aha, tu zas je máme. Haha, pozor, pozor, tiše, ech, ech! Mně už neutečete, hehe, oh, hoho, ech, ech, ech – <stage>(odbíhá).</stage></p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Snoubení věčné, věčný zápas lásky,</l>
@@ -416,7 +416,7 @@
       <div type="act">
         <head>DĚJSTVÍ PRVNÍ: Motýlové</head>
         <stage>Azurový, zářící prostor, vystlaný květy a batikovými polštáři; zrcadla, stolek, na němž jsou připraveny pestré sklenice s chlazenými nápoji a stébélky k pití. Vysoká barová sedátka.</stage>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(mne si oči a rozhlíží se)</stage>
           <p>Hele, ta krásoucí krása! Vždyť je to jako – jako v ráji! Ani malíř by to líp nevymaloval! A jak to tu voní!</p>
@@ -428,7 +428,7 @@
           <p>Miluji vás, Clythie!</p>
         </sp>
         <stage>(Clythie běží se smíchem pryč. Otakar za ní.)</stage>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Motýli. Aha, motýli. Hrajou si. Já bych se na to koukal, kdybych nebyl tak – <stage>(čistí si šaty).</stage> A co, ať mne vyženou; já si tu lehnu. <stage>(Sbírá polštáře.)</stage> Lehnu. Namouduši že lehnu. <stage>(Ustele si v proscéniu.)</stage> A když se nám to nebude líbit, zavřeme očička a hezky se vydadáme. <stage>(Ulehne.)</stage> Tak.</p>
         </sp>
@@ -1599,7 +1599,7 @@
           <p>Clythie, buď má!</p>
         </sp>
         <stage>(Odběhnou.)</stage>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(vstává)</stage>
           <lg>
@@ -1616,7 +1616,7 @@
           <stage>(přiletí z druhé strany, líčí se a pudruje u zrcadla)</stage>
           <p>Uf! Utekla jsem mu. Haha!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Haha, ta společnost salonní, hahaha poezie,</l>
@@ -1631,7 +1631,7 @@
           <stage>(přiletí k němu)</stage>
           <p>Vy jste motýl?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(čepicí po ní)</stage>
           <p>Kššš!</p>
@@ -1641,7 +1641,7 @@
           <stage>(odletí)</stage>
           <p>Vy nejste motýl?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Já jsem člověk.</p>
         </sp>
@@ -1649,7 +1649,7 @@
           <speaker>CLYTHIE:</speaker>
           <p>Co je to? Je to živé?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Je.</p>
         </sp>
@@ -1658,7 +1658,7 @@
           <stage>(přiletí)</stage>
           <p>Miluje to?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Miluje. Je to motýl.</p>
         </sp>
@@ -1666,7 +1666,7 @@
           <speaker>CLYTHIE:</speaker>
           <p>Jak jste zajímavý! Proč nosíte černý pel?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>To je špína.</p>
         </sp>
@@ -1674,7 +1674,7 @@
           <speaker>CLYTHIE:</speaker>
           <p>Ach, čím tak krásně voníte?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Potem a nečistotou.</p>
         </sp>
@@ -1682,7 +1682,7 @@
           <speaker>CLYTHIE:</speaker>
           <p>Tvá vůně mne opíjí. Je tak nová!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(čepicí po ní)</stage>
           <p>Kšš, nestydo!</p>
@@ -1692,7 +1692,7 @@
           <stage>(odletí)</stage>
           <p>Chytej! Chytej!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Neřesti hravá, ničemná pelešnice –</p>
         </sp>
@@ -1701,7 +1701,7 @@
           <stage>(blíž k němu)</stage>
           <p>Jen přivonět! Jen okusit! Jste tak originální!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Podobnou tobě jsem jednu už potkal, frejířko! Proč jsem ji vlastně měl rád. <stage>(Chytí Clythii.)</stage> Takhle za ručičky hmyzí jsem tenkrát ji držel a prosil, do očí se mi smála, a já jsem ji tehdy pustil. Oh, zabít raději! <stage>(Pustí ji.)</stage> Leť si, ty můro, nechci tě vidět!</p>
         </sp>
@@ -1710,7 +1710,7 @@
           <stage>(odletí)</stage>
           <p>Hu, vy jste divný! <stage>(Pudruje se před zrcadlem.)</stage></p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Necudo navoněná, fifleno, vychrtlá kozo, hlade –</p>
         </sp>
@@ -1719,7 +1719,7 @@
           <stage>(blíž k němu)</stage>
           <p>Ještě! Ještě! Je to tak krásné, tak surové, tak silné!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Co, dotěro, to ti je málo? Mám ti nasolit na zadek, ty bledničko nestydatá?</p>
         </sp>
@@ -1727,7 +1727,7 @@
           <speaker>CLYTHIE:</speaker>
           <p>Miluju tě! Ach, zbožňuju tě!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(couvá před ní)</stage>
           <p>Jdi, jdi, jdi! Jsi hnusná!</p>
@@ -1894,7 +1894,7 @@
           <stage>(za ní)</stage>
           <p>Ale počkejte! Teď teprve přijde láska!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Hlupáku!</p>
         </sp>
@@ -1906,7 +1906,7 @@
             <l>ty velký světe, co to znamená…“</l>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(čepicí po něm)</stage>
           <p>Kššš!</p>
@@ -1919,7 +1919,7 @@
             <l>že se dnes ruměním do krve?“</l>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(honí ho)</stage>
           <p>Vššš!</p>
@@ -1934,7 +1934,7 @@
             <stage>(Odletí pryč.)</stage>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(rozpřáhne ruce do hlediště)</stage>
           <p>Hahaha, motýlové!</p>
@@ -1953,7 +1953,7 @@
           <speaker>KUKLA:</speaker>
           <p>Celá zem praská! Já se rodím!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(zvedne hlavu)</stage>
           <p>Co je?</p>
@@ -1963,122 +1963,122 @@
           <speaker>KUKLA:</speaker>
           <p>Chystá se něco velikého!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>To je dobře. <stage>(Položí hlavu.)</stage></p>
         </sp>
         <stage>(Pauza.)</stage>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>MUŽSKÝ HLAS:</speaker>
           <stage>(za scénou)</stage>
           <p>Jak to valíš?</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>ŽENSKÝ HLAS:</speaker>
           <p>Já?</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>PRVNÍ HLAS:</speaker>
           <p>Ty!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>DRUHÝ HLAS:</speaker>
           <p>Já??</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>PRVNÍ HLAS:</speaker>
           <p>Ty!!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>DRUHÝ HLAS:</speaker>
           <p>Já???</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>PRVNÍ HLAS:</speaker>
           <p>Ty!!! Ty trdlo!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>DRUHÝ HLAS:</speaker>
           <p>Hrubiáne!</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>PRVNÍ HLAS:</speaker>
           <p>Nemehlo!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>DRUHÝ HLAS:</speaker>
           <p>Mamlase!</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>PRVNÍ HLAS:</speaker>
           <p>Cumplochu! Trajdo!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>DRUHÝ HLAS:</speaker>
           <p>Hovnivále!</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>PRVNÍ HLAS:</speaker>
           <p>Pozor na kuličku! Dej pozor!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>DRUHÝ HLAS:</speaker>
           <p>Pomalu!</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>PRVNÍ HLAS:</speaker>
           <p>Po-po-pozor!!</p>
         </sp>
         <stage>(Na scénu se vyvalí velká koule hnoje, strkaná párkem Chrobáků.)</stage>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Nestalo se jí nic?</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>I toto! Jejej, kdepak! Achich, to leknutí! Viď kuličko, že nic? Tytyty – ty naše drahá kuličko!</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Haha, náš kapitálku! Naše mrvičko! Naše zlato! Naše všecko!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Ty krásný trůsku, ty poklade, ty skvostná kuličko, ty naše zlaté jměníčko!</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Ty naše lásko a jediná radosti! Co jsme se našetřili a nasháněli, mrvičky nanosili a smradlavých drobečků nastřádali, od huby si utrhovali –</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>– a nohy si ubrousili a hromádek rozryli, co jsme se nahrabali, než jsme si tě tak hezky uhnětli a založili –</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>– a zakulatili a doplnili, ty naše velké sluníčko!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Náš skvoste!</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Náš živote!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Ty naše celé dílo!</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Jen si přivoň, stará! Ta krása krásoucí! Jen potěžkej! Co toho máme!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Toho božího daru!</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Toho požehnání!</p>
         </sp>
@@ -2091,135 +2091,135 @@
           </lg>
         </sp>
         <stage>(Tulák zvedne hlavu.)</stage>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Chrobáčku.</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Copak?</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Hahahaha.</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Haha, haha! Ženo!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Copak?</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Hahaha, je to krásné něco mít. Svůj majeteček. Svůj životní sen.</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Svou kuličku.</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Ovoce své práce.</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Hahaha!</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Já se zblázním radostí. Já… já… já se zblázním samou starostí. Na mou duši, já se zblázním.</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Proč?</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Starostí. Teď, když máme svou kuličku! Tak jsem se na ni těšil, a teď, když ji máme, musíme dělat novou. Ta dřina!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>A proč novou?</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Pitomá! Abychom měli dvě.</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Aha, dvě. To je pravda.</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Haha, jen si to představ: dvě kuličky! Nejmíň dvě. Řekněme spíš tři. Víš, každý, kdo už má kuličku, musí dělat novou.</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Aby měl dvě.</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Nebo spíš tři.</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Ty, Chrobáčku!</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>No copak?</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Já mám ouzkost. Aby nám ji pak někdo neukradnul.</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Co? Koho?</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Naši kuličku. Naše potěšení. Naše všechno.</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Naši ku-kuličku? Proboha nestraš!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Když… když… když ji nemůžem s sebou valit, až budeme dělat tu druhou.</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Uložíme ji, víš? U-lo-žíme. Schováme. Pěkně zahrabeme. Počkej, někam do důlku, do důlečku, do bezpečí, víš? Ukládat se musí.</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Jen aby ji někdo nenašel!</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Nene, tototo! Nemluv! Kdepak, ukrást nám ji! Naši kuličku! Naše zlato! Náš malý kulatý kapitálek!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Naše skvostné hovínko! Náš život! Naše celé pomyšlení!</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Počkej, zůstaň tady a hlídej – hlídej ji – pozor dávej – <stage>(Odbíhá.)</stage></p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Kam zas letíš?</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Důlek hledat… dolíček… hluboký důl… zahrabat kuličku… miláčka… naše zlato… do bezpečí… <stage>(Zajde.)</stage> Po-zor…</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Chrobáku! Ale Chrobáčku, pojď sem! Počkej! Tamhle je… Ale Chrobáku! Už neslyší. A tamhle je takový dobry důlek! Chrobáku! Už je pryč. A tamhle je tak skvostný důleček! Ten vrták! Trulant! Pitomec! Kdybych se tam aspoň mohla podívat! Ne, já nejdu nikam, kuličko. Kdybych… jen mrknout… Kuličko, milounká kuličko, jen chvilku počkej, já hned, hned přijdu, jen mrknout, a budu tady… <stage>(Běží do pozadí, obrátí se.)</stage> Kuličko, hezky čekat, být hodná. Já hned, hnedličko – <stage>(Sestupuje do Lumkovy díry.)</stage></p>
         </sp>
@@ -2228,111 +2228,111 @@
           <p>Zrodit se! Zrodit! Nový svět!</p>
         </sp>
         <stage>(Tulák vstává.)</stage>
-        <sp who="#jiný-chrobák">
+        <sp who="#jiny-chrobak">
           <speaker>CIZÍ CHROBÁK:</speaker>
           <stage>(vyběhne z kulis, kde číhal)</stage>
           <p>Pryč jsou. Můj okamžik. <stage>(Valí kouli dál.)</stage></p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Nono, neporazte mě.</p>
         </sp>
-        <sp who="#jiný-chrobák">
+        <sp who="#jiny-chrobak">
           <speaker>CIZÍ CHROBÁK:</speaker>
           <p>Z cesty, občane!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Co si to valíte?</p>
         </sp>
-        <sp who="#jiný-chrobák">
+        <sp who="#jiny-chrobak">
           <speaker>CIZÍ CHROBÁK:</speaker>
           <p>Hahaha, kuličku, kapitál, zlato.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(couvá)</stage>
           <p>Smrdí to vaše zlato.</p>
         </sp>
-        <sp who="#jiný-chrobák">
+        <sp who="#jiny-chrobak">
           <speaker>CIZÍ CHROBÁK:</speaker>
           <p>Zlato nesmrdí. Hybaj, kuličko, val se! Toč se, majetku! Obíhej! Kdo má, ten má. Hahaha, panečku!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Copak?</p>
         </sp>
-        <sp who="#jiný-chrobák">
+        <sp who="#jiny-chrobak">
           <speaker>CIZÍ CHROBÁK:</speaker>
           <p>Inu, je to pěkné něco mít. <stage>(Valí kouli vlevo.)</stage> Ty můj poklade! Ty krásné jměníčko! Můj klenote! Mé všechno! <stage>(Zachází.)</stage> Jen mít! Uložit majeteček! Pěkně zahrabat! Po-po-pozor! <stage>(Zajde.)</stage></p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Něco mít? Proč ne? Každý chce mít svou kuličku.</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <stage>(vrací se z Lumkovy díry)</stage>
           <p>Ó jej, jejej, tady někdo bydlí. Lumek. Larvička. Kdepak, kuličko, sem tě nedáme! Kde je kulička? Kde, kde, kde je má kulička? Kde je naše drahá kulička?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Ale zrovna teď…</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <stage>(vrhne se k němu)</stage>
           <p>Zloději! Zloději! Kam jsi dal mou kuličku?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Říkám, teď zrovna…</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Ty vrahu, dej ji sem! Vrať mně ji!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Zrovna teď nějaký pán ji tady valil.</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Jaký pán? Kdo?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Břicháč, vyžraný, odulý…</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Můj muž!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Chrapoun s křivýma nohama, nadutý sprosťák…</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>To je můj muž!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>A říkal, že je to krásné něco mít a něco zahrabat.</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Je to on! Jistě našel nějaký důlek! <stage>(Volá.)</stage> Chrobáčku! Miláčku! – Kde je ten hlupák?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Tady si to valil ven.</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Ten moula! Nemohl mě zavolat? <stage>(Běží vlevo.)</stage> Chrobáčku! Mužíčku, počkej! Ku-li-čko! <stage>(Zajde.)</stage> Ku-ku-ku-ku-kuličko!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Tohle je jiná, to se hnedle vidí.</l>
@@ -2369,7 +2369,7 @@
             <l>Něco ohromného se chystá!</l>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(otočí se k ní)</stage>
           <p>Copak?</p>
@@ -2378,7 +2378,7 @@
           <speaker>KUKLA:</speaker>
           <p>Já se zrodím!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Máš dobře. A co vlastně budeš?</p>
         </sp>
@@ -2386,7 +2386,7 @@
           <speaker>KUKLA:</speaker>
           <p>Nevím! Nevím! Něco velikého!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Aha. <stage>(Zvedne ji a opře o stéblo.)</stage></p>
         </sp>
@@ -2394,7 +2394,7 @@
           <speaker>KUKLA:</speaker>
           <p>Udělám něco úžasného!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Copak?</p>
         </sp>
@@ -2402,7 +2402,7 @@
           <speaker>KUKLA:</speaker>
           <p>Zrodím se.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Tohle ti, kuklo, chválím. V horečném puzení</l>
@@ -2419,7 +2419,7 @@
             <l>kdy já… kdy já…</l>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Co?</p>
         </sp>
@@ -2427,7 +2427,7 @@
           <speaker>KUKLA:</speaker>
           <p>Nic. Já ještě nevím. Chci udělat něco velikého!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Velkého? Něco velkého? Dobrá, jen se tím opij;</l>
@@ -2439,7 +2439,7 @@
           <speaker>KUKLA:</speaker>
           <p>Něco nesmírného!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>A přec se mně tohle, kuklo, na tobě jaksi líbí.</l>
@@ -2451,7 +2451,7 @@
           <speaker>KUKLA:</speaker>
           <p>Celý svět užasne, až já se zrodím.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Jen dělej. Já počkám. <stage>(Usedne.)</stage></p>
         </sp>
@@ -2469,7 +2469,7 @@
             <l>aby mne vydal.</l>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Zroď se!</p>
         </sp>
@@ -2481,7 +2481,7 @@
             <l>až přijdu na svět.</l>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Zroď se.</p>
         </sp>
@@ -2490,7 +2490,7 @@
           <stage>(vrací se pozpátku ze své díry)</stage>
           <p>Ne, ne, dceruško, jen papej; nesmíš ven, Larvičko, i toto, ani zanic! Nono, dítě, hned tu bude tatínek a přinese ti hamham, ano? Co bys chtěla, ty mlsná?</p>
         </sp>
-        <sp who="#larvička_lumkova">
+        <sp who="#larvicka_lumkova">
           <speaker>LARVIČKA:</speaker>
           <stage>(před otvorem)</stage>
           <p>Tati, já se tu nudím.</p>
@@ -2499,7 +2499,7 @@
           <speaker>LUMEK:</speaker>
           <p>Haha, ta je rozkošná, co? Nech se políbit, Larvičko! Papínek ti přinese něco křehoučkého… Co, ty bys chtěla zase cvrčka? Haha, ty nemáš špatné nápady.</p>
         </sp>
-        <sp who="#larvička_lumkova">
+        <sp who="#larvicka_lumkova">
           <speaker>LARVIČKA:</speaker>
           <p>Já bych chtěla… já nevím.</p>
         </sp>
@@ -2512,7 +2512,7 @@
           <stage>(dlouhými kroky k Tulákovi)</stage>
           <p>Kdo jste?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(vyskočí a couvá)</stage>
           <p>Já.</p>
@@ -2521,7 +2521,7 @@
           <speaker>LUMEK:</speaker>
           <p>Jste jedlý?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Ne – myslím, že nejsem.</p>
         </sp>
@@ -2530,7 +2530,7 @@
           <stage>(čichá k němu)</stage>
           <p>Nejste dost čerstvý. Kdo jste?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Pobuda.</p>
         </sp>
@@ -2539,7 +2539,7 @@
           <stage>(lehce se ukloní)</stage>
           <p>Lumek. Máte děti?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Ne. Myslím že ne.</p>
         </sp>
@@ -2547,7 +2547,7 @@
           <speaker>LUMEK:</speaker>
           <p>Ach! Viděl jste ji?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Koho?</p>
         </sp>
@@ -2555,7 +2555,7 @@
           <speaker>LUMEK:</speaker>
           <p>Mou Larvičku. Je rozkošná, že? Chytré dítě. A jak roste! Jak jí chutná, haha! Děti jsou veliká radost, co?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Všude to říkají.</p>
         </sp>
@@ -2563,7 +2563,7 @@
           <speaker>LUMEK:</speaker>
           <p>Že ano? Aspoň pak našinec ví, pro koho pracuje. Máš dítě, starej se, pracuj, bojuj! To je reálný život, co? Dítě chce růst, chce papat, mlsat, pohrát si, ne? Nemám pravdu?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Dítě chce mnoho.</p>
         </sp>
@@ -2571,7 +2571,7 @@
           <speaker>LUMEK:</speaker>
           <p>Věřil byste, že jí nosím dva tři cvrčky denně?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Komu?</p>
         </sp>
@@ -2579,7 +2579,7 @@
           <speaker>LUMEK:</speaker>
           <p>Svému děťátku. Rozkošná, že? A tak chytrá! Myslíte, že je spapá celé? Toto, jen nejměkčí kousky, ještě zaživa, haha! Skvělé dítě, co?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>To je.</p>
         </sp>
@@ -2587,7 +2587,7 @@
           <speaker>LUMEK:</speaker>
           <p>Jsem na ni pyšný. Skutečně pyšný. Celý táta, co? Má krev, pane! Haha, a já tu tlachám, místo abych se přičinil. Té sháňky! Toho běhání! Ale což, jen když máme pro koho, nemám pravdu?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Říká se tak!</p>
         </sp>
@@ -2612,7 +2612,7 @@
           <speaker>LUMEK:</speaker>
           <p>Ba, je to starost vychovávat děti. Veliká starost, že? Vážný úkol, pane. Živit rodinu, považte. Nakrmit ty ubohé drobečky. Vypiplat je, zajistit jim budoucnost, no ne? Žádná maličkost, což? Musím už běžet. Má úcta, nazdar. Služebník, pane. <stage>(Běží pryč.)</stage> Papa, dceruško, hned tu budu! <stage>(Zajde.)</stage></p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Vypiplat. Zajistit. Živit. Krmit ty hladové krčky.</l>
@@ -2622,44 +2622,44 @@
             <l>Tohle mně nejde do hlavy.</l>
           </lg>
         </sp>
-        <sp who="#larvička_lumkova">
+        <sp who="#larvicka_lumkova">
           <speaker>LARVIČKA:</speaker>
           <stage>(vylézá z chodby)</stage>
           <p>Tati! Tati!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Tedy ty jsi ta Larvička? Koukejme.</p>
         </sp>
-        <sp who="#larvička_lumkova">
+        <sp who="#larvicka_lumkova">
           <speaker>LARVIČKA:</speaker>
           <p>Jak jste protivný!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Proč?</p>
         </sp>
-        <sp who="#larvička_lumkova">
+        <sp who="#larvicka_lumkova">
           <speaker>LARVIČKA:</speaker>
           <p>Nevím. Oh, jak se nudím. Chtěla bych… chtěla bych…</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Co ještě?</p>
         </sp>
-        <sp who="#larvička_lumkova">
+        <sp who="#larvicka_lumkova">
           <speaker>LARVIČKA:</speaker>
           <p>Nevím. Něco roztrhnout, něco živého… Ach, já bych se svíjela!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Co je ti?</p>
         </sp>
-        <sp who="#larvička_lumkova">
+        <sp who="#larvicka_lumkova">
           <speaker>LARVIČKA:</speaker>
           <p>Protivný, protivný, protivný! <stage>(Zaleze.)</stage></p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Rodinu takhle živit. Tohle mně nejde z hlavy.</l>
@@ -2667,83 +2667,83 @@
           </lg>
         </sp>
         <stage>(Přichází Chrobák.)</stage>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Hybaj, stará, už mám důlek! Kdepak jsi? Kde je má kulička? Kde je má žena?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Vaše paní? Není to taková stará důra? Taková tučná, šeredná, hubatá –</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>To je ona! Kde je má kulička?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>– vzteklá, špinavá plundra?</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Je to, je to, je to ona! Měla mou kuličku! Kam dala mou drahou kuličku?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Tak tedy vaše polovička vás šla hledat.</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>A kde je má kulička?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Ta velká smradlavá koule?</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Ano, ano, mé zlato! Můj majeteček! Mé všechno! Kde je má krásná koule? Vždyť jsem u ní nechal svou ženu!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>On si ji tadyhletudy odvalil jeden pán. Dělal, jako by byla jeho.</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Ať si dělal co chtěl s mou ženou! Ale kde je má kulička?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Vždyť říkám: odvalil si ji jeden pán. Vaše paní tu zrovna nebyla.</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Kde byla? Kde je?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Šla za ním. Myslela, že jste to vy. Křičela po vás.</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Má kulička?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Ne, vaše paní.</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Na tu se neptám! Kde je má kulička, co?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Ten pán si ji odvalil.</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>CHROBÁK:</speaker>
           <p>Cože, odvalil? Mou kuličku? Bože na nebi! Chyťte ho! Chyťte ho! Zloději! Vrahové! <stage>(Vrhne se na zem.)</stage> Můj poctivý majeteček! Zabili mne! Spíš život dám než kuličku zlaté mrvy! <stage>(Vyskočí.)</stage> Pomóc! Chyťte hó! Vra-ho-vé! <stage>(Řítí se vlevo.)</stage></p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Hahaha, vražda, zločin! Zbořte se, oblaka,</l>
@@ -2753,211 +2753,211 @@
           </lg>
         </sp>
         <stage>(Usedne stranou.)</stage>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>HLAS:</speaker>
           <stage>(za scénou)</stage>
           <p>Pozor, ženuško, pozor, ať neklopýtneš. Už je to tu, už je to tu: náš byteček, náš nový domeček! Ach pozor! Neublížila sis?</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>ŽENSKÝ HLAS:</speaker>
           <p>Ne, Cvrčku, ty jsi směšný.</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>MUŽSKÝ HLAS:</speaker>
           <p>Ale miláčku, musíš být opatrná. Když čekáš rodinku…</p>
         </sp>
         <stage>(Vyjde Cvrček a Cvrčková v požehnaném stavu.)</stage>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>A teď otvírat kukadla. Tak… tady! Jak se ti tu líbí?</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Ach, Cvrčku, jak jsem unavena!</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Sedni si, sedni, dušičko, sedni si. Počkej, hezky pomaloučku, tak.</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <stage>(usedá)</stage>
           <p>Ta dálka! A to stěhování! Ne, Cvrčku, ty nemáš rozum.</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Hihihi, maminko, kukuč! Mámo! Mamuško! Maminečko!</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Ale nezlob, ty ošklivý!</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Hihi, vždyť já už mlčím, já jen tak. Paní Cvrčková nebude chovat, i kdepak! Fuj, co si o ní myslíte!</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <stage>(slzavě)</stage>
           <p>Ty zlý, tobě se o tom žertuje!</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Ale milánku, když mám takovou radost! Považ těch cvrčičátek, toho křiku, toho cvrkání, hihihi! Ženuško, já se zblázním radostí.</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Ty… ty… hlupáčku! Kuk, táto, hihi!</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Hihihi! A jak se ti tu líbí?</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Pěkně. Tohle je náš nový dům?</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Naše hnízdečko, naše vila, náš krámek, naše, hihihi, rezidence.</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Bude tu sucho? Kdo to stavěl?</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Panečku, tady bydlel jiný cvrček.</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Ale? A proč se odstěhoval?</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Hihihi, jo, ten se odstěhoval! Ten se odstěhoval! Že nevíš kam? Hádej hádej hádači!</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Nevím. Ach bože, to trvá, než ty něco řekneš! Honem, Cvrčku!</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Tak tedy – včera si ho napíchl ťuhýk na trn. Namouduši drahoušku, skrz naskrz. Jen si to považ! Takhle tam třepe nožičkama, vidíš? Hihi, ještě je živý. A já hned: No tohle bude něco pro nás! To se postěhujeme do jeho bytečku! Jemine, to je štístko! Hihi, co tomu říkáš?</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>A ještě je živý? Hu, to je hrůza!</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Viď? Ó, my máme nějaké štěstí! Tralala, tra tra, tralala, tralala tra. Počkej, hned si sem pověsíme tabulku. <stage>(Vyndá z rance štít s nápisem CVRČEK, HUDEBNINY.)</stage> Kam ji mám pověsit? Asi tak? Víc napravo? Víc nalevo?</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Trochu výš. A říkáš, že ještě třepe nožičkama?</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <stage>(zatlouká a ukazuje)</stage>
           <p>Říkám ti: takhle.</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Brr. Kde to je?</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Chtěla bys to vidět?</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Chtěla. Ne, nechtěla. Je to strašné?</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Hihihi, to se ví. Dobře visí?</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Dobře. Cvrčku, mně je tak divně –</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <stage>(běží k ní)</stage>
           <p>Jemináčku, snad už… tvá hodinka…</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Jdi ty! Úhuhu, já se toho bojím!</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Ale maminečko, kdo by se bál? Hihihi, vždyť to dovede každá panička!</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Jak můžeš tak mluvit! <stage>(Rozpláče se.)</stage> Cvrčku, budeš mne mít vždycky rád?</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>To se rozumí, dušičko! Jejej, jen neplakat! Ale mamko!</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <stage>(vzlyká)</stage>
           <p>Ukaž, jak škubá nožičkama?</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Takhle.</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Hihi, to musí být k smíchu.</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Nonono, tak vidíš, už je po pláči. <stage>(Usedne k ní.)</stage> Počkej, jak si to tady pěkně zařídíme; a jak se trochu vzmůžeme, dáme si sem…</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>… záclonky!</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Záclonky taky. Hihihi, to se rozumí že záclonky! Ne, jaká ty jsi moudrá! Dej mně hubičku!</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Ale pusť! Jdi, ty nemáš rozum!</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Se ví, že ne! <stage>(Vyskočí.)</stage> Hádej, co jsem koupil?</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Záclonky!</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Ne, něco menšího. <stage>(Hledá po kapsách.)</stage> Kampak jsem to…</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Honem, ukaž, ukaž!</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <stage>(vytáhne z každé kapsy dětskou řehtačku a zvoní oběma rukama)</stage>
           <p>Cvrky, cvrky, cvrk.</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Ne, to je roztomilé! Cvrčku, dej to sem!</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <stage>(zvoní a zpívá)</stage>
           <lg>
@@ -2971,71 +2971,71 @@
             <l>cvrkali, cvrkali, cvrkali. Hihihi.</l>
           </lg>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Půjč mně je, honem! Ach taťko, já se už těším!</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Tak poslyš, staroušku…</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <stage>(zvoní a zpívá)</stage>
           <p>„Cvrčiček, Cvrčiček, Cvrčiček…“</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Musím to teď trochu oběhnout, víš? Ohlásit se, zaťukat tady, zaťukat tam…</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <stage>(zvoní a zpívá)</stage>
           <p>„Cvrkali, cvrkali, cvrkali…“</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Trošku se uvést, navázat, omrknout se… Dej mně jednu řehtačku, budu si cestou cvrkat.</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Ach, a co zatím já? <stage>(Slzavě.)</stage> Ty mne tu necháš?</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Cvrkej za mnou. No… a třeba přijde nějaký soused, víš? Můžeš se s ním drobátko zapovídat, zeptej se ho na dětičky nebo tak něco, víš? A – a s tím tentononc ještě počkáme, viď? Až budu doma.</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Ty zlý!</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Hihihi! Pa, dušinko, buď opatrná. Hned tu budu, hnedlinko. <stage>(Odběhne.)</stage></p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <stage>(cvrká na řehtačku, Cvrček v dáli odpovídá)</stage>
           <p>„Narodil se malý… Cvrčiček…“ Já mám strach!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(vstává)</stage>
           <p>Žádné strachy. Malost se rodí lehce.</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Kdo je tu? Nu, brouk. Nekoušeš?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Ne.</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>A jak se daří dětičkám?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Nemám. Nemám. Já jsem pod manželskou peřinou</l>
@@ -3044,11 +3044,11 @@
             <l>ba ani tu teplou radost z cizího neúspěchu.</l>
           </lg>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Jejej, ty nemáš dětičky? To je škoda. <stage>(Zvoní.)</stage> Cvrčku! Cvrčku! Ach, už neodpovídá. A proč jsi se, brouku, neoženil?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Sobectví, paničko, sobectví. Měl bych se za to stydět.</l>
@@ -3057,7 +3057,7 @@
             <l>A tolik nepřát jiným ten jejich kousek místa.</l>
           </lg>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Ano, ano, ti muži! <stage>(Zvoní.)</stage> „Cvrciček, Cvrčiček, Cvrčiček…“</p>
         </sp>
@@ -3066,7 +3066,7 @@
           <stage>(křičí)</stage>
           <p>Já nesu budoucnost. Já… já…</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(jde k ní)</stage>
           <p>Zroď se!</p>
@@ -3075,92 +3075,92 @@
           <speaker>KUKLA:</speaker>
           <p>Já udělám něco slavného!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <stage>(vběhne)</stage>
           <p>Není tady můj muž? Kde je ten hlupák? Kde je naše kulička?</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Jejej, paní, vy si hrajete s kuličkami? Ukažte?</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>To není kulička k hraní, to je naše budoucnost, náš majeteček, naše všechno! Můj muž, ten trulant, se s ní ztratil.</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Ach bože, snad vám neutekl!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>A kde vy máte svého?</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Šel za obchodem. <stage>(Zvoní.)</stage> Cvrčku! Cvrčku!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Že vás nechá tak samotnou! Vždyť vy se, chudinko, čekáte!</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Úhuhu!</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Taková mladá! A copak vy si neděláte kuličky?</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>K čemu?</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Kulička, to je rodina. To je budoucnost. To je celý život.</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Ó ne. Život, to je mít svůj domeček, své hnízdečko, svůj krámek. A záclonky. A děti. A mít svého Cvrčka. Svou domácnost. A to je všecko.</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Jak jen můžete být živi bez kuličky?</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Co bychom dělali s kuličkou?</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Všude ji s sebou valili. Říkám vám, milá paní, ničím víc muže nepřipoutáte než kuličkou.</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Ó ne, domečkem.</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Kuličkou.</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Domečkem.</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Bože, jak bych si s vámi ráda pohovořila! Vy jste taková milá…</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>A co vaše dětičky?</p>
         </sp>
-        <sp who="#chrobačka">
+        <sp who="#chrobacka">
           <speaker>CHROBAČKA:</speaker>
           <p>Jen kdybych měla svou kuličku! <stage>(Odchází.)</stage> Ku-ku-kuličko! Ku-ku-ku –</p>
         </sp>
-        <sp who="#cvrčková">
+        <sp who="#cvrckova">
           <speaker>CVRČKOVÁ:</speaker>
           <p>Hu, to je coura! A muž jí utek, hihi! <stage>(Zvoní.)</stage> „Cvrkali, cvrkali, cvrkali – –“ Mně – mně je tak divně… <stage>(Poklízí u vrátek.)</stage> Hihihi, jak ten napíchnutý tam třepe nožičkama!</p>
         </sp>
@@ -3169,7 +3169,7 @@
           <stage>(vyběhne z kulis)</stage>
           <p>Aha! <stage>(Dlouhými tichými kroky k ní, vyndá ze šosu dýku, velkým rozmachem Cvrčkovou probodne a táhne ji k své díře):</stage> Z cesty!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(couvá)</stage>
           <p>Ó… ó! Vražda!</p>
@@ -3179,7 +3179,7 @@
           <stage>(v otvoru své díry)</stage>
           <p>Kukuč, dceruško! Pojď se honem podívat, co ti zas tatínek nese!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Zabil ji! A já… já tu stál jako sloup! Ó bože, ani nehlesla! A nikdo nekřikl hrůzou! Nikdo jí neskočil na pomoc!</p>
         </sp>
@@ -3188,7 +3188,7 @@
           <stage>(vystupuje z pozadí)</stage>
           <p>Bravo kamaráde; docela mé mínění.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Tak bezbranně zahynout!</p>
         </sp>
@@ -3196,7 +3196,7 @@
           <speaker>PARAZIT:</speaker>
           <p>Taky to říkám. Už se na to chvíli koukám, ale tohle bych neudělal. Ne, tohle já bych nemoh. Každý chce být živ, nemám pravdu?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Kdo jste?</p>
         </sp>
@@ -3204,7 +3204,7 @@
           <speaker>PARAZIT:</speaker>
           <p>Já? Nic vlastně. Chudák jsem. Siroteček. Parazit mně říkají.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Copak se smí takhle zabíjet?</p>
         </sp>
@@ -3212,7 +3212,7 @@
           <speaker>PARAZIT:</speaker>
           <p>Docela má řeč. Myslíte, že on, ten Lumek, to potřebuje? Myslíte, že má hlad jako já? Kdepak! Do zásoby zabíjí. Hromadí. Skandál, nemám pravdu? Je tohle nějaká spravedlnost? Proč on má mít zásoby, a jiný hlad? Protože on má dýku, a já jen tyhle holé ruce? Nemám pravdu?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Řekl bych.</p>
         </sp>
@@ -3220,7 +3220,7 @@
           <speaker>PARAZIT:</speaker>
           <p>Taky to říkám. Není žádná rovnost. Například já nezabíjím nikoho. Já mám na to příliš měkká kusadla. Chci říci, já mám příliš měkké svědomí. Nemám prozo-, provazo-, provozovací prostředky. Mám jenom hlad. Copak je to v pořádku?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Ne – ne – nemá se zabíjet.</p>
         </sp>
@@ -3228,7 +3228,7 @@
           <speaker>PARAZIT:</speaker>
           <p>Moje slova, kamaráde. Nebo aspoň se nemá hromadit. Nažereš se, a máš dost. Hromadit, to je lup na těch, co hromadit nedovedou. Nažrat se, a konec! Pak by bylo všeho dost pro všechny, no nemám pravdu?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Já nevím.</p>
         </sp>
@@ -3266,7 +3266,7 @@
           <stage>(k Tulákovi)</stage>
           <p>Servus. Co, viděl jste to?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Viděl.</p>
         </sp>
@@ -3311,7 +3311,7 @@
           <speaker>PARAZIT:</speaker>
           <p>Ten starý vrah! Věřte, měl jsem se co držet, abych mu neskočil na krk. Panečku já bych taky pracoval, kdyby to muselo být. Ale proč já bych měl pracovat, když jiný má víc, než sežere? Já mám taky iniciativu, haha, ale tadyhle. <stage>(Tluče se do břicha.)</stage> Hlad mám, hlad, rozumíte? To jsou nějaké poměry?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Všecko jen pro kus masa!</p>
         </sp>
@@ -3319,7 +3319,7 @@
           <speaker>PARAZIT:</speaker>
           <p>Docela má řeč. Všecko jen pro kus masa, a chudák aby neměl nic. To je proti přírodě. Každý co sežere, nemám pravdu?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(zvedne řehtačku a zvoní)</stage>
           <p>Ubohá, ubohá, ubohá!</p>
@@ -3329,7 +3329,7 @@
           <p>Taky to říkám. Každý chce být živ.</p>
         </sp>
         <stage>(Za scénou odpovídá cvrkání.)</stage>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <stage>(vběhne a cvrká řehtačkou)</stage>
           <p>Tu jsem, ženuško, tu tu tu! Kdepak jsi, miláčku? Hádej, co tvůj mužíček našel?</p>
@@ -3339,7 +3339,7 @@
           <stage>(objeví se za ním)</stage>
           <p>Aha!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Pozor! Dejte pozor!</p>
         </sp>
@@ -3348,7 +3348,7 @@
           <stage>(zadrží ho)</stage>
           <p>Nechat, občane! Nepleťte se do toho! Co musí být, to musí být.</p>
         </sp>
-        <sp who="#cvrček">
+        <sp who="#cvrcek">
           <speaker>CVRČEK:</speaker>
           <p>Ale maminečko?</p>
         </sp>
@@ -3357,7 +3357,7 @@
           <stage>(velkým rozmachem ho probodne a odnáší)</stage>
           <p>Dceruško! Larvičko, copak ti zas nese tvůj hodný tatíček? <stage>(Sestoupí do otvoru.)</stage></p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(zvedá pěsti)</stage>
           <p>Ó Stvořiteli! Ty se na to můžeš dívat?</p>
@@ -3375,7 +3375,7 @@
           <speaker>PARAZIT:</speaker>
           <p>Ve mně se už všechno vaří. Ten starý lotr! <stage>(Blíží se k otvoru.)</stage> To je nespravedlivost! To je hanebnost! Já, já mu ukážu! Jen počkej! Už je pryč? No, já se tam musím podívat. <stage>(Sestoupí do otvoru.)</stage></p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Vražda a zase vražda! Srdce, přestaň tak tlouci,</l>
@@ -3414,7 +3414,7 @@
           <stage>(zmítá sebou)</stage>
           <p>Cítím něco velikého! Něco velikého!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Co je veliké?</p>
         </sp>
@@ -3422,7 +3422,7 @@
           <speaker>KUKLA:</speaker>
           <p>Zrodit se! Žít!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Kuklo, kuklo, tebe se nespustím!</p>
         </sp>
@@ -3431,7 +3431,7 @@
           <stage>(vyvalí se z otvoru, nesmírně tlustý, a škytá)</stage>
           <p>Hahaha, hahaha, hup, hahahahahaha! Hup, to je – hahaha, hup, ten starý lakomec, ten tu svou bled- – hup, bledničkovou holku zásobil! Hup, hahahaha, hahaha, hup! Až mně je špat- – hup! Já prasknu! <stage>(Krká.)</stage> Ale to je, hup, hup! Zatracená škytavka! Panečku, já jsem ta- taky někdo: to by každý nemoh, no nemám, hup! Tolik toho sežrat, no ne?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>A co Larvička?</p>
         </sp>
@@ -3444,7 +3444,7 @@
       <div type="act">
         <head>DĚJSTVÍ TŘETÍ: Mravenci</head>
         <stage>Scéna: Zelený les.</stage>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(sedí zamyšlen)</stage>
           <lg>
@@ -3470,7 +3470,7 @@
             <l>Jaká ohromná myšlenka!</l>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Ta věčná rvačka o své malé já,</l>
@@ -3499,7 +3499,7 @@
             <l>po velkém činu!</l>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(vyskočí)</stage>
           <lg>
@@ -3522,7 +3522,7 @@
             <l>můj příchod hlásí.</l>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Velký je člověk velkou povinností,</l>
@@ -3540,506 +3540,506 @@
             <l>Jaká nesmírná křídla!</l>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Kdybych jen věděl, kudy do nejbližší obce! Co mne to kouše? To jsi ty, mravenečku? A tady druhý! A třetí! Propána, vždyť jsem si sedl do mraveniště! <stage>(Vstává.)</stage> Blázni, co jste do mne nalezli? Tuhle po mně běží, koukejme: jeden, dva, tři, čtyři. A tady taky jeden, dva, tři…</p>
         </sp>
         <stage>(Zatím jde zadní opona vzhůru a zjeví se vchod do mraveniště, mnohopatrové rudé budovy; u vchodu sedí Slepý mravenec a ustavičně počítá. Mravenci s ranci, trámy, lopatami atd. vcházejí a přebíhají v patrech budovy podle tempa, jež udává Slepec.)</stage>
-        <sp who="#slepý-mravenec">
+        <sp who="#slepy-mravenec">
           <speaker>SLEPEC:</speaker>
           <stage>(ustavičně)</stage>
           <p>Jeden dva tři čtyři, jeden dva tři čtyři…</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Co to tady je? Strejdo, co to počítáte?</p>
         </sp>
-        <sp who="#slepý-mravenec">
+        <sp who="#slepy-mravenec">
           <speaker>SLEPEC:</speaker>
           <p>Jeden dva tři čtyři…</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Co je to? Nějaké skladiště nebo továrna, že? Hej, nač je ta továrna?</p>
         </sp>
-        <sp who="#slepý-mravenec">
+        <sp who="#slepy-mravenec">
           <speaker>SLEPEC:</speaker>
           <p>Jeden dva tři čtyři…</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Jářku, nač je ta továrna? Proč ten slepý počítá? Aha, udává tempo. Všichni se hýbají, jak on počítá. Jeden dva tři čtyři. Jako stroje. Fuj, až se mně hlava točí.</p>
         </sp>
-        <sp who="#slepý-mravenec">
+        <sp who="#slepy-mravenec">
           <speaker>SLEPEC:</speaker>
           <p>Jeden dva tři čtyři…</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <stage>(vběhne na scénu)</stage>
           <p>Rrychleji! Rrychleji! Jeden dva tři čtyři!</p>
         </sp>
-        <sp who="#slepý-mravenec">
+        <sp who="#slepy-mravenec">
           <speaker>SLEPEC:</speaker>
           <stage>(rychleji)</stage>
           <p>Jeden dva tři čtyři! Jeden dva tři čtyři!</p>
         </sp>
         <stage>(Všichni se pohybují rychleji.)</stage>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Co je to? Povídám, pane, nač je ta továrna?</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>INŽENÝR:</speaker>
           <p>Kdo tu?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Já.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>INŽENÝR:</speaker>
           <p>Z kterých mravenců?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Z lidí.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>INŽENÝR:</speaker>
           <p>Zde Mravenika. Co tu chcete?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Koukám.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>INŽENÝR:</speaker>
           <p>Práci hledat?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Taky třeba.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <stage>(vběhne)</stage>
           <p>Vynález! Vynález!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Co je?</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Nové zrychlení. Nepočítat jeden dva tři čtyři. Počítat rráz dva tři čtyři! Ráz dva tři čtyři! To je kratší. Ússpora času. Ráz dva tři čtyři! Sslepý, haló!</p>
         </sp>
-        <sp who="#slepý-mravenec">
+        <sp who="#slepy-mravenec">
           <speaker>SLEPEC:</speaker>
           <p>Jeden dva tři čtyři…</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Špatně! Ráz dva tři čtyři!</p>
         </sp>
-        <sp who="#slepý-mravenec">
+        <sp who="#slepy-mravenec">
           <speaker>SLEPEC:</speaker>
           <p>Ráz dva tři čtyři! Ráz dva tři čtyři!</p>
         </sp>
         <stage>(Všichni se pohybují rychleji.)</stage>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Ne tak rychle! Mně už jde hlava kolem!</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Kdo tu?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Cizinec.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Odkud?</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Z lidí. Kde je mraveniště lidí?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Cože?</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Kde je mraveniště lidí?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>A tak. Tamhle. A tam taky. Všude.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <stage>(štěká)</stage>
           <p>Ha! Ha! Všude! Blázen!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Je mnoho lidí?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Mnoho. Říká se jim páni světa.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Haha! Páni ssvěta!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>My jsme páni světa.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Mravenika.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Největší mravenčí stát.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Ssvětová moc.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Největší demokracie.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Jak to?</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Všichni musejí poslouchat.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Všichni pracovat. Všichni pro Něj.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Jen On poroučí.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Kdo?</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Celek. Stát. Národ.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Koukejme, to je jako u nás. My například máme poslance. Poslanec, to je demokracie. Máte taky poslance?</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Ne. My máme Celek.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>A kdo mluví za celek?</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Haha! Nezná nic!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Ten, kdo poroučí. Celek mluví jen rozkazy.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Bydlí v zákonech. Není nikde jinde.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>A kdo vám vládne?</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Rozum.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Zákon.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Zájem státu.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Tak, tak, tak je to!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>To se mi líbí. Jářku, všechno pro Celek.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Pro jeho velikost.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>A proti nepřátelům.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Cože? Proti komu?</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Proti všem.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Jssme obklopeni nepřáteli.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>My jsme porazili Černé mravence.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>A vyhladili Zrzavé.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>A podrobili Šedé. Zbývají jen Žlutí. Musíme vyhladit Žluté.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Musíme vyhladit všechno.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Proč?</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>V zájmu Celku.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Celek má vyšší zájmy.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Zájmy rasové.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Průmysslové.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Koloniální.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Ssvětové.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Celkové.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Tak, tak, tak je to!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Celek má samé zájmy.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Nikdo nemůže mít tolik zájmů jako Celek.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Zájmy udržují Celek.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>A války jej živí.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Aha! Vy – vy jste bojovní mravenci!</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Sss, neví nic.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Mravenčané jsou nejmírnější mravenci.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Národ míru.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Stát práce.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Chtějí jen ssvětovládu –</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>– protože chtějí světový mír.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>V zájmu ssvé pokojné práce.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>A v zájmu pokroku.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>V zájmu svých zájmů. Až ovládnem ssvětový prosstor –</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>– budeme dobývat času. My chceme vládnout času.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Čemuže?</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Času. Čas je větší než prostor.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Čass nemá dossud pána.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Pán času bude pánem všeho.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Pomalu, proboha pomalu! Nechte mne myslet! Ovládnout čas? Pán času? Jenom věčnost je pán času.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Rychlost je pán času.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Zkrrocení času.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Kdo poroučí rychlosti, vládne časem.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Rráz dva tři čtyři! Rráz dva tři čtyři!</p>
         </sp>
-        <sp who="#slepý-mravenec">
+        <sp who="#slepy-mravenec">
           <speaker>SLEPEC:</speaker>
           <stage>(rychleji)</stage>
           <p>Ráz dva tři čtyři. Ráz dva…</p>
         </sp>
         <stage>(Všechno se pohybuje rychleji.)</stage>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Musí se zrychlit tempo.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Tempo výroby.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Tempo života.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Musí se zrychlit každý pohyb.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Zkrátit.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Vypočítat.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Na sekundu.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Na ssetinu ssekundy.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Aby se šetřilo časem.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Aby se zvýšila výroba.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Pracovalo se příliš pomalu. Příliš těžkopádně. Mravenci hynuli únavou.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Neússporné.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Nehumánní. Teď hynou jen rychlostí.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>A k čemu tak spěchat?</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Zájem Celku.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Otázka výroby. Otázka moci.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Je mír. Mír je soutěž.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Vedeme bitvu míru.</p>
         </sp>
-        <sp who="#slepý-mravenec">
+        <sp who="#slepy-mravenec">
           <speaker>SLEPEC:</speaker>
           <p>Ráz dva tři čtyři.</p>
         </sp>
         <stage>(K oběma inženýrům přistoupí Mravenec-úředník a něco jim hlásí.)</stage>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Ráz dva tři čtyři! Ještě rychleji! Ráz!</l>
@@ -4050,11 +4050,11 @@
             <l>ať je to aspoň rychleji! Ty slepý, počítej: ráz! –</l>
           </lg>
         </sp>
-        <sp who="#slepý-mravenec">
+        <sp who="#slepy-mravenec">
           <speaker>SLEPEC:</speaker>
           <p>– dva tři čtyři…</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Rychleji! Rychleji!</p>
         </sp>
@@ -4063,7 +4063,7 @@
           <stage>(padá pod břemenem)</stage>
           <p>Uf!</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Sss! Co je to? Vsstát!</p>
         </sp>
@@ -4072,183 +4072,183 @@
           <stage>(skloní se k padlému)</stage>
           <p>Mrtev.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Prvý druhý odnést! Rychle!</p>
         </sp>
         <stage>(Dva mravenci zvedají mrtvého.)</stage>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Jaká česst! Padl na poli rychlossti!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Jak to zvedáte? Příliš pomalu! Mrháte časem! Pustit!</p>
         </sp>
         <stage>(Oba mravenci pustí mrtvolu.)</stage>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Za hlavu za nohy zároveň. Ráz dva tři! Špatně! Pustit! <stage>(Oba mravenci pustí mrtvolu.)</stage> Za hlavu za nohy, rráz dva tři čtyři! Odnést, marš! Ráz dva, ráz dva, ráz –</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>– dva tři čtyři! Rrychleji!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Aspoň že dost rychle umřel!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Do práce! Do práce! Kdo víc má, musí víc pracovat.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Víc potřebuje.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Má víc co hájit.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>A víc co dobývat.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Jsme národ míru. Mír znamená práci.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>A práce ssílu.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>A síla válku.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Tak, tak!</p>
         </sp>
-        <sp who="#vynálezce">
+        <sp who="#vynalezce">
           <speaker>HLAS:</speaker>
           <p>Pozor, ach pozor! Ustupte!</p>
         </sp>
         <stage>(Vejde Vynálezce, tápaje rukama.)</stage>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Haló, náš Vynálezce!</p>
         </sp>
-        <sp who="#vynálezce">
+        <sp who="#vynalezce">
           <speaker>VYNÁLEZCE:</speaker>
           <p>Pozor, pozor! Nenarazte do mé hlavy! Je ohromná, je ze skla, je křehká – Je větší než já – Uhněte, praskla by, roztříštila by se – Břink! Pozor, já nesu hlavu! Nenarazte! – Ustupte!</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Haló, xevede?</p>
         </sp>
-        <sp who="#vynálezce">
+        <sp who="#vynalezce">
           <speaker>VYNÁLEZCE:</speaker>
           <p>Bolí, puká – Narazí o stěny, břink! Ne – ne – neobsáhnu jí oběma rukama! Ne – ne – nemohu jí už unést! Pozor, slyšíte? Fu, fu, fu!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Co je?</p>
         </sp>
-        <sp who="#vynálezce">
+        <sp who="#vynalezce">
           <speaker>VYNÁLEZCE:</speaker>
           <p>Stroj, nový stroj. V mé hlavě. Slyšíte, jak pracuje? Rozbije mi hlavu! Oh – oh – ohohoh… oh… ohromný stroj! Z cesty! Z cesty! Já nesu stroj!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Jaký stroj?</p>
         </sp>
-        <sp who="#vynálezce">
+        <sp who="#vynalezce">
           <speaker>VYNÁLEZCE:</speaker>
           <p>Válečný – Nesmírný, nejrychlejší, nejúčinnější drtič životů! Největší pokrok! Vrchol vědy! Fu, fu, fu, slyšíte jej? Deset tisíc, sto tisíc mrtvých! Fu, fu! Pořád pracuje! Dvě stě tisíc mrtvých! Fu, fu, fu, fu!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Génius, co?</p>
         </sp>
-        <sp who="#vynálezce">
+        <sp who="#vynalezce">
           <speaker>VYNÁLEZCE:</speaker>
           <p>Ohohoh, ta bolest! Praská mně hlava! Uhněte se, uhněte! Pozor, ať nenarazím! <stage>(Zachází.)</stage> Fu, fu, fu –</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Veliký duch. Největší učenec.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Nic tak nesslouží sstátu jako věda.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Věda je velká věc. Bude válka.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Proč válka?</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Protože budeme mít nový válečný stroj.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Protože nám ještě sschází koussek ssvěta.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Kousek světa od břízy k borovici.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>A cessta mezi dvěma sstébly trávy.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Jediná volná cesta na jih.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Otázka presstiže.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>A obchodu.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Největší národní myšlenka.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Buď my, nebo Žlutí.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Nikdy nebylo války česstnější a nutnější –</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>– než ta, kterou musíme chystat.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Jssme připraveni.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Jen mít příčinu!</p>
         </sp>
-        <sp who="#slepý-mravenec">
+        <sp who="#slepy-mravenec">
           <speaker>SLEPEC:</speaker>
           <p>Ráz dva tři čtyři.</p>
         </sp>
         <stage>(Gong.)</stage>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Co je?</p>
         </sp>
@@ -4261,7 +4261,7 @@
           <stage>(vběhne)</stage>
           <p>Hlásím se: Hlídka jižní armády.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Dobře.</p>
         </sp>
@@ -4269,7 +4269,7 @@
           <speaker>POSEL:</speaker>
           <p>Podle rozkazu jsme přešli hranice Žlutých.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Dál.</p>
         </sp>
@@ -4277,7 +4277,7 @@
           <speaker>POSEL:</speaker>
           <p>Žlutí mne zajali a dovedli k veliteli.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Dál.</p>
         </sp>
@@ -4285,61 +4285,61 @@
           <speaker>POSEL:</speaker>
           <p>Dopis velitele.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Ukaž! <stage>(Vezme listinu a čte):</stage> „Vláda Žlutých mravenců žádá Mraveniku, aby do tří minut stáhla zpět své vojsko ležící mezi břízou a borovicí na cestě mezi dvěma stébly trávy.“</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Sslyšte! Sslyšte!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>„Toto území je historickým, životním, průmyslovým, svatým a vojenským zájmem našeho státu, takže dle práva má mu náležeti.“</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Urážka! Nesstrpíme!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>„Současně nařizujeme svým plukům, aby zahájily postup.“ <stage>(Pustí listinu.)</stage> Válka! Konečně válka!</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Konečně válka nám vnucená!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <p>Do zbraně!</p>
         </sp>
-        <sp who="#nový-posel">
+        <sp who="#novy-posel">
           <speaker>NOVÝ POSEL:</speaker>
           <stage>(vběhne)</stage>
           <p>Žlutí táhnou přes naše hranice.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <stage>(běží do mraveniště)</stage>
           <p>Do zbraně! Do zbraně!</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <stage>(do jiné chodby)</stage>
           <p>Mobilizace! Do zbraně!</p>
         </sp>
-        <sp who="#posel #nový-posel"> <!--PP: Two individuals acting as one character.-->
+        <sp who="#posel #novy-posel"> <!--PP: Two individuals acting as one character.-->
           <speaker>OBA POSLOVÉ:</speaker>
           <stage>(jinými chodbami)</stage>
           <p>Do zbraně! Do zbraně!</p>
         </sp>
         <stage>(Poplašné sirény. Mravenci ze všech stran se hrnou do mraveniště.)</stage>
-        <sp who="#slepý-mravenec">
+        <sp who="#slepy-mravenec">
           <speaker>SLEPEC:</speaker>
           <p>Ráz dva tři čtyři. Ráz dva tři čtyři.</p>
         </sp>
         <stage>(Rostoucí lomoz uvnitř.)</stage>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Do zbraně! Do zbraně! Vždyť cesta mezi stébly</l>
@@ -4372,7 +4372,7 @@
           </lg>
         </sp>
         <stage>(Za víření bubnů vycházejí čety Mravenců s puškami, bodáky a kulomety, s kovovými přílbami na hlavách, a staví se do fronty. Vystupuje První inženýr s odznakem vojevůdce, jeho štáb, Druhý inženýr jako náčelník generálního štábu a svita důstojníků.)</stage>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(jde podle fronty)</stage>
           <lg>
@@ -4382,73 +4382,73 @@
             <l>se dívají na vás.</l>
           </lg>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR:</speaker>
           <stage>(na výstupku)</stage>
           <p>Vojáci! Vidíme se nuceni vás povolat pod vaše prapory. Sveřepý nepřítel nás zrádně přepadl, aby předběhl naše mírumilovné přípravy. V této vážné chvíli se jmenuji diktátorem.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Ssláva diktátoru! Chlapi, volejte, nebo…</p>
         </sp>
-        <sp who="#vojáci">
+        <sp who="#vojaci">
           <speaker>VOJÁCI:</speaker>
           <p>Sláva diktátoru!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>PRVNÍ INŽENÝR – DIKTÁTOR:</speaker>
           <stage>(salutuje)</stage>
           <p>Díky. Pochopili jste příkaz doby. Vojáci, bojujeme za svobodu a právo –</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>– a za velikost sstátu…</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>– a za velikost státu. Budeme se bít za civilizaci a vojenskou čest. Vojáci, jsem s vámi do poslední kapky krve.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR:</speaker>
           <p>Náš milovaný vojevůdce, ať žije!</p>
         </sp>
-        <sp who="#vojáci">
+        <sp who="#vojaci">
           <speaker>VOJÁCI:</speaker>
           <p>Ať žije!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <stage>(salutuje)</stage>
           <p>Znám své vojáky. Budeme bojovat do konečného vítězství. Ať žije náš čacký materiál, hurá!</p>
         </sp>
-        <sp who="#vojáci">
+        <sp who="#vojaci">
           <speaker>VOJÁCI:</speaker>
           <p>Hurá! Hurá!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <stage>(k inženýru náčelníkovi)</stage>
           <p>První, druhá divize útočí. Čtvrtá divize obejde borovici a vrazí do mraveniště Žlutých. Pobije ženy i zárodky. Třetí divize v záloze. Nikoho neživit.</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR – NÁČELNÍK GENERÁLNÍHO ŠTÁBU:</speaker>
           <stage>(salutuje)</stage>
           <p>Podle rozkazu!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>K tomu nám dopomáhej bůh. Vojáci, vpravo bok, marš! <stage>(Zavíří bubny.)</stage></p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>NÁČELNÍK GENERÁLNÍHO ŠTÁBU:</speaker>
           <p>Vpravo bok, marš! Ráz dva, rráz dva, rrráz dva! <stage>(V čele mravenců táhne vlevo.)</stage></p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Rráz dva! Válka nám vnucená! Ráz dva, ráz dva! Ve jménu práva! Nikoho neživte! Za rodné krby! Ráz dva! Ráz dva! My se jen bráníme! Válka o svět! Za větší vlast! Ráz dva! Odvěký nepřítel! Národní vůle! Do boje, bijte! Dějinné nároky! Skvělý duch vojska! Ráz dva! Ráz dva!</p>
         </sp>
         <stage>(Nové a nové čety táhnou za víření bubínků.)</stage>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Nazdar, vojáci! Přijdu pak za vámi! Pátý pluk, sláva! Vítěz u šišky! Veliká doba! Jdete do vítězství! Dobývat světa! Nádherný elán! Ráz dva! Ráz dva! Sedmý pluk, hurá! Bijte je, vojáci! Žlutí jsou skety! Palte a sekejte, hrdinové!</p>
         </sp>
@@ -4457,16 +4457,16 @@
           <stage>(přiběhne)</stage>
           <p>Žlutí vtrhli na planinu mezi kořenem borovice a kamenem.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Vše podle plánu. Rychleji, vojáci. Ráz dva! Válka nám vnucená za čest a slávu potřeba státu nikoho nešetřit idea práva držte se vojáci výhra je naše největší okamžik světových dějin marš marš marš!</p>
         </sp>
         <stage>(V dáli temné rány: bzum, bzum.)</stage>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Bitva se začíná. Druhá výzva! <stage>(Dívá se nůžkovým dalekohledem k bojišti.)</stage></p>
         </sp>
-        <sp who="#slepý-mravenec">
+        <sp who="#slepy-mravenec">
           <speaker>SLEPEC:</speaker>
           <p>Ráz dva tři čtyři, ráz dva…</p>
         </sp>
@@ -4480,7 +4480,7 @@
             <l>pracují v bolesti k mému zrození!</l>
           </lg>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Druhá výzva! Třetí výzva! Do zbraně! Do zbraně! <stage>(Ke Generálnímu ubytovateli.)</stage> Vydat zprávu!</p>
         </sp>
@@ -4490,7 +4490,7 @@
           <p>Za krásného počasí strhla se konečně bitva. Náš hrdinný materiál bojuje za skvělé nálady.</p>
         </sp>
         <stage>(Nové čety vycházejí za víření bubnů z mraveniště.)</stage>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Vpravo bok, marš! Ráz dva! Ráz dva! Rychleji, chlapi!</p>
         </sp>
@@ -4499,12 +4499,12 @@
           <stage>(přiběhne)</stage>
           <p>Naše pravé křídlo couvá. Pátý pluk úplně zničen.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Podle plánu. Šestý na jeho místo.</p>
         </sp>
         <stage>(Posel odběhne.)</stage>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Haha, dle plánu! Tak je to v pořádku,</l>
@@ -4521,7 +4521,7 @@
           </lg>
         </sp>
         <stage>(Přibíhají nosítkáři s raněnými.)</stage>
-        <sp who="#raněný">
+        <sp who="#raneny">
           <speaker>RANĚNÝ:</speaker>
           <stage>(řve)</stage>
           <p>Pátý pluk! Náš pluk! Všichni jsme pobiti! Přestaňte už! <stage>(Klape telegraf.)</stage></p>
@@ -4531,7 +4531,7 @@
           <stage>(čte depeši)</stage>
           <p>Pátý pluk zničen. Čekáme rozkaz.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Šestý na jeho místo. <stage>(K Ubytovateli.)</stage> Vydejte zprávu.</p>
         </sp>
@@ -4540,7 +4540,7 @@
           <stage>(vyvolává)</stage>
           <p>Bitva se úspěšně rozvíjí. Pátý pluk se zvláště vyznamenal, odraziv hrdinně všechny útoky, načež byl vystřídán šestým.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Bravo. Udílím vám velký řád Virtuti.</p>
         </sp>
@@ -4548,68 +4548,68 @@
           <speaker>UBYTOVATEL:</speaker>
           <p>Díky. Konám jen svou povinnost.</p>
         </sp>
-        <sp who="#novinář">
+        <sp who="#novinar">
           <speaker>KULHAVÝ NOVINÁŘ:</speaker>
           <stage>(přiblíží se s notýskem)</stage>
           <p>Novinář prosím. Mamama-máme hlásit vivivi-vítězství?</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Ano. Úspěšné operace. Dík plánům dávno připraveným. Podivuhodný duch našeho materiálu. Nezadržitelný postup. Nepřítel demoralizován.</p>
         </sp>
-        <sp who="#novinář">
+        <sp who="#novinar">
           <speaker>KULHAVÝ NOVINÁŘ:</speaker>
           <p>Vyvyvy… vy vy… vyvyvy… vy vy –</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Pravíte?</p>
         </sp>
-        <sp who="#novinář">
+        <sp who="#novinar">
           <speaker>KULHAVÝ NOVINÁŘ:</speaker>
           <p>– vytiskneme všechno.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Dobře. Spoléháme na součinnost tisku. Nezapomeňte na podivuhodný duch.</p>
         </sp>
-        <sp who="#novinář">
+        <sp who="#novinar">
           <speaker>KULHAVÝ NOVINÁŘ:</speaker>
           <p>Tisk vyvyvy – vykoná svou popopo-povinnost. <stage>(Odběhne.)</stage></p>
         </sp>
-        <sp who="#dobroděj">
+        <sp who="#dobrodej">
           <speaker>DOBRODĚJ:</speaker>
           <stage>(s kasičkou)</stage>
           <p>Pomoc pro raněné! Všechno pro raněné! Milodary pro raněné! Dávejte raněným! Pomoc pro mrzáky! Všechno pro mrzáky! Pomozte raněným!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <stage>(k důstojníkovi)</stage>
           <p>Druhá divize útok! Musí prorazit! Za všech obětí!</p>
         </sp>
-        <sp who="#dobroděj">
+        <sp who="#dobrodej">
           <speaker>DOBRODĚJ:</speaker>
           <p>Pro naše hrdiny! Pomozte bratřím! Pomoc pro raněné!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Všechno pro raněné! Válku pro raněné! Všechno pro jejich rány!</p>
         </sp>
-        <sp who="#dobroděj">
+        <sp who="#dobrodej">
           <speaker>DOBRODĚJ:</speaker>
           <p>Pomoc pro mrzáky! Dávejte raněným!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(utrhne si knoflík a dává jej do kasy)</stage>
           <p>Všechno pro raněné! Poslední knoflík pro válku!</p>
         </sp>
-        <sp who="#jiný-raněný">
+        <sp who="#jiny-raneny">
           <speaker>JINÝ RANĚNÝ:</speaker>
           <stage>(sténá v nosítkách)</stage>
           <p>Ou ou ou, dorazte mne! Ou ou ou!</p>
         </sp>
-        <sp who="#dobroděj">
+        <sp who="#dobrodej">
           <speaker>DOBRODĚJ:</speaker>
           <stage>(zachází)</stage>
           <p>Pomozte raněným…</p>
@@ -4619,7 +4619,7 @@
           <speaker>TELEGRAFISTA:</speaker>
           <p>Pravé křídlo Žlutých couvá.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Pronásledovat! Dobíjet! Nezdržovat se se zajatými!</p>
         </sp>
@@ -4628,7 +4628,7 @@
           <stage>(vyvolává)</stage>
           <p>Nepřítel na zmateném útěku. Naše pluky jej ženou v nádherném rozmachu, pohrdajíce smrtí.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Čtvrtá výzva!</p>
         </sp>
@@ -4637,11 +4637,11 @@
           <speaker>TELEGRAFISTA:</speaker>
           <p>Šestý pluk zničen do posledního muže.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Podle plánu. Devátý na jeho místo. Čtvrtá výzva! <stage>(Vystupují nové čety ozbrojenců.)</stage></p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Poklus! <stage>(Mravenci běží poklusem k bojišti.)</stage></p>
         </sp>
@@ -4649,7 +4649,7 @@
           <speaker>TELEGRAFISTA:</speaker>
           <p>Čtvrtá divize obešla borovici a vpadla zadem do mraveniště Žlutých. Posádka pobita.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Srovnat se zemí! Vybít ženy a zárodky!</p>
         </sp>
@@ -4657,24 +4657,24 @@
           <speaker>TELEGRAFISTA:</speaker>
           <p>Střed nepřátel otřesen. Vyklidili úpatí přesličky.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Naše vítězství! <stage>(Klesá na kolena a snímá přílbu.)</stage> Veliký bože mravenců, dal jsi zvítězit právu! Jmenuji tě plukovníkem. <stage>(Vyskočí.)</stage> Třetí divize na nepřítele! Všechny zálohy za ním! Nikoho neživit! Žádní zajatci! Kupředu! <stage>(Vrhá se na kolena.)</stage> Spravedlivý bože síly, ty víš, že naše svatá věc – <stage>(Vyskočí.)</stage> Jen na ně! Na ně! Útočit! Hnát je! Všechno pobít! Vláda nad světem rozhodnuta! <stage>(Pokleká.)</stage> Bože mravenců, v této veliké chvíli… <stage>(Tiše se modlí.)</stage></p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(skloněn nad ním, tiše)</stage>
           <p>Vláda nad světem? Ubohý mravenče, ty jmenuješ světem ten kousek hlíny a trávy, co znáš? Tu mizernou, špinavou píď země? Zašlápnout celé tvé mraveniště i s tebou, a ani koruna stromu nad vámi nezašumí, ty blázne!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Kdo jsi?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Teď jenom hlas; včera snad voják v jiném mraveništi. Jak je ti, dobyvateli světa? Cítíš se dost veliký? Nezdá se ti příliš malá ta hromádka mrtvol, na které stojí tvá sláva, chudáku?</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <stage>(vstane)</stage>
           <p>Vše jedno. Prohlásím se císařem.</p>
@@ -4684,7 +4684,7 @@
           <speaker>TELEGRAFISTA:</speaker>
           <p>Druhá divize žádá o posily. Náš materiál se cítí vyčerpán.</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Cože? Vydržet! Bičem na ně!</p>
         </sp>
@@ -4697,44 +4697,44 @@
           <stage>(utíká přes scénu)</stage>
           <p>Běžíme!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Pátá výzva! Všichni do zbraně!</p>
         </sp>
-        <sp who="#křik">
+        <sp who="#krik">
           <speaker>KŘIK:</speaker>
           <stage>(za scénou)</stage>
           <p>Zastavte! Ne, ne! Zpátky!</p>
         </sp>
-        <sp who="#pronikavý-výkřik">
+        <sp who="#pronikavy-vykrik">
           <speaker>PRONIKAVÝ VÝKŘIK:</speaker>
           <p>Spaste se!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <p>Pátá výzva! Marodi do pole! Všichni do pole!</p>
         </sp>
-        <sp who="#voják">
+        <sp who="#vojak">
           <speaker>VOJÁK:</speaker>
           <stage>(prchá zleva)</stage>
           <p>Bijí nás! Běžte!</p>
         </sp>
-        <sp who="#dva-vojáci">
+        <sp who="#dva-vojaci">
           <speaker>DVA VOJÁCI:</speaker>
           <stage>(běží zprava)</stage>
           <p>Obešli nás! Utečte!</p>
         </sp>
-        <sp who="#voják">
+        <sp who="#vojak">
           <speaker>VOJÁK:</speaker>
           <stage>(zleva)</stage>
           <p>Na západ! Utíkejte k západu!</p>
         </sp>
-        <sp who="#vojáci">
+        <sp who="#vojaci">
           <speaker>VOJÁCI:</speaker>
           <stage>(zprava)</stage>
           <p>Obešli nás od západu. Běžte na východ!</p>
         </sp>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <stage>(řve)</stage>
           <p>Zpátky! Na svá místa! Do pole!</p>
@@ -4757,78 +4757,78 @@
           <p>Na západ! Z cesty! Jsou tady.</p>
         </sp>
         <stage>(Oba proudy se začnou v panice rvát a pobíjet.)</stage>
-        <sp who="#inženýr-1_diktátor">
+        <sp who="#inzenyr-1_diktator">
           <speaker>DIKTÁTOR:</speaker>
           <stage>(skočí na ně a bije do nich)</stage>
           <p>Zpátky! Skety! Dobytku, já jsem váš císař!</p>
         </sp>
-        <sp who="#jeden-voják">
+        <sp who="#jeden-vojak">
           <speaker>JEDEN VOJÁK:</speaker>
           <p>Kuš! <stage>(Skolí ho.)</stage> Prchejte!</p>
         </sp>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>DRUHÝ INŽENÝR – NÁČELNÍK:</speaker>
           <stage>(vběhne poraněn a skočí na výstupek)</stage>
           <p>Mají město! Zhasit světla!</p>
         </sp>
-        <sp who="#vojsko-žlutých">
+        <sp who="#vojsko-zlutych">
           <speaker>ŽLUTÍ:</speaker>
           <stage>(vnikají z obou stran)</stage>
           <p>Hurá! Hurá! Mraveniště je naše!</p>
         </sp>
         <stage>(Světla zhasnou. Tma, vřava, zmatek.)</stage>
-        <sp who="#inženýr-2_náčelník">
+        <sp who="#inzenyr-2_nacelnik">
           <speaker>HLAS DRUHÉHO INŽENÝRA:</speaker>
           <p>Do boje. Á-á!</p>
         </sp>
-        <sp who="#vojevůdce-žlutých">
+        <sp who="#vojevudce-zlutych">
           <speaker>HLAS ŽLUTÉHO VŮDCE:</speaker>
           <p>Do chodeb za nimi! Nikoho neživit! Pobijte všechny muže!</p>
         </sp>
-        <sp who="#křik-ubíjených-mužů">
+        <sp who="#krik-ubijenych-muzu">
           <speaker>KŘIK UBÍJENÝCH MUŽŮ:</speaker>
           <p>Ááááá!</p>
         </sp>
-        <sp who="#slepý-mravenec">
+        <sp who="#slepy-mravenec">
           <speaker>SLEPEC:</speaker>
           <p>Ráz dva! Ráz dva! Ráz dva!</p>
         </sp>
-        <sp who="#vojevůdce-žlutých">
+        <sp who="#vojevudce-zlutych">
           <speaker>ŽLUTÝ VŮDCE:</speaker>
           <p>Pobijte ženy a zárodky!</p>
         </sp>
-        <sp who="#křik-žen">
+        <sp who="#krik-zen">
           <speaker>KŘIK ŽEN:</speaker>
           <p>Íííííííí!</p>
         </sp>
-        <sp who="#slepý-mravenec">
+        <sp who="#slepy-mravenec">
           <speaker>SLEPEC:</speaker>
           <p>Ráz dva! Ráz dva!</p>
         </sp>
-        <sp who="#vojevůdce-žlutých">
+        <sp who="#vojevudce-zlutych">
           <speaker>ŽLUTÝ VŮDCE:</speaker>
           <p>Za nimi! Vraždit! Všechno vyvraždit!</p>
         </sp>
         <stage>(Vzdalující se ryk.)</stage>
-        <sp who="#slepý-mravenec">
+        <sp who="#slepy-mravenec">
           <speaker>SLEPEC:</speaker>
           <p>Ráz dva! Ráz dva! Ráz aaáh!</p>
         </sp>
-        <sp who="#vojevůdce-žlutých">
+        <sp who="#vojevudce-zlutych">
           <speaker>ŽLUTÝ VŮDCE:</speaker>
           <p>Světlo!</p>
         </sp>
         <stage>(Rozsvětlí se. Přední scéna je prázdná. Žlutí pronikají do chodeb a vrhají Mravenčany z hořejších pater dolů. Všude hromady mrtvol.)</stage>
-        <sp who="#vojevůdce-žlutých">
+        <sp who="#vojevudce-zlutych">
           <speaker>ŽLUTÝ VŮDCE:</speaker>
           <p>Výborně, Žlutí! Všechno pobít!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(potácí se mezi hromadami mrtvých)</stage>
           <p>Generále, dost už!</p>
         </sp>
-        <sp who="#vojevůdce-žlutých">
+        <sp who="#vojevudce-zlutych">
           <speaker>ŽLUTÝ VŮDCE:</speaker>
           <p>Vítězství Žlutých! Vítězství práva a pokroku! Naše je cesta mezi dvěma stébly! Nám Žlutým patří svět! Prohlašuji se za vladaře vesmíru!</p>
         </sp>
@@ -4838,12 +4838,12 @@
           <stage>(zmítá sebou)</stage>
           <p>Já… já… já!</p>
         </sp>
-        <sp who="#vojevůdce-žlutých">
+        <sp who="#vojevudce-zlutych">
           <speaker>ŽLUTÝ VŮDCE:</speaker>
           <stage>(klesá na kolena a snímá přilbu)</stage>
           <p>Nejspravedlivější bože, ty víš, že bojujem jenom za právo. Naše dějiny, naše národní čest, naše obchodní zájmy…</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(vyrazí a povalí ho kopnutím, rozšlapává a roztírá botou)</stage>
           <p>Ach ty hmyze! Ty pitomý hmyze!</p>
@@ -4853,7 +4853,7 @@
       <div type="epilogue">
         <head>EPILOG: Život a smrt</head>
         <stage>Vnitřek lesa. Černočerná noc. V popředí spí Tulák.</stage>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(ze sna)</stage>
           <p>Dost, generále! <stage>(Probouzí se.)</stage> Co, já jsem spal? Kde to jsem? Ta hrozná tma! Já ne – ne – já nevidím – Nevidím vlastní prst před očima – Kuklo! Kuklo! <stage>(Vstává.)</stage> Co že je taková tma? Nevidím na krok – Kdo to mluví? Kdo je tu? <stage>(Křičí.)</stage> Kdo je tu? Ne, to je jenom můj hlas. Ale co že nic nevidím? <stage>(Hmatá kolem sebe.)</stage> Nic… nic… nic… <stage>(Křičí.)</stage> Je něco? Je vůbec něco? Propast, všude ta strašná propast! Na kterou stranu začnu padat? Kdybych se měl čeho podržet! Není nic! Není nic! Ó bože, já mám strach! – Kam se podělo nebe? Kdyby aspoň nebe zůstalo! Nebo jediná bludička! Jediná lidská sirka! Kdyby – aspoň – nějaký směr zůstal! Kde to jsem? <stage>(Kleká.)</stage> Já mám strach! Světlo! Kdyby jen světlo bylo!</p>
@@ -4863,33 +4863,33 @@
           <stage>(ze tmy)</stage>
           <p>Vždyť je světlo. Světla dost –</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(leze po zemi)</stage>
           <p>Jediné lidské světélko! Jen jeden paprsek!</p>
         </sp>
-        <sp who="#jiný-hlas">
+        <sp who="#jiny-hlas">
           <speaker>JINÝ HLAS:</speaker>
           <p>Ten hlad! Ta žízeň!</p>
         </sp>
-        <sp who="#jiný-hlas">
+        <sp who="#jiny-hlas">
           <speaker>JINÝ HLAS:</speaker>
           <p>Volám tě! Pojď! Hledám tě, volám: Pojď!</p>
         </sp>
-        <sp who="#tenký-hlas">
+        <sp who="#tenky-hlas">
           <speaker>TENKÝ HLAS:</speaker>
           <p>Píti píti pít –</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Proboha jen jiskřičku světla! Co je to? Kde jsem?</p>
         </sp>
-        <sp who="#chrobák">
+        <sp who="#chrobak">
           <speaker>HLAS CHROBÁKA:</speaker>
           <stage>(v dáli)</stage>
           <p>Má kulička! Kde je má kulička?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Světlo!</p>
         </sp>
@@ -4897,19 +4897,19 @@
           <speaker>HLAS:</speaker>
           <p>Ta žízeň! Ten hlad!</p>
         </sp>
-        <sp who="#mroucí-hlas">
+        <sp who="#mrouci-hlas">
           <speaker>MROUCÍ HLAS:</speaker>
           <p>Dorazte mne! Dorazte!</p>
         </sp>
-        <sp who="#jiný-hlas">
+        <sp who="#jiny-hlas">
           <speaker>JINÝ HLAS:</speaker>
           <p>Buď má!</p>
         </sp>
-        <sp who="#jiný-hlas">
+        <sp who="#jiny-hlas">
           <speaker>JINÝ HLAS:</speaker>
           <p>Ahou, ahahou! Mám ho!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Světlo! Co je to tady? Aha, kamení.</p>
         </sp>
@@ -4917,15 +4917,15 @@
           <speaker>HLAS:</speaker>
           <p>Ta žízeň! Ta žízeň!</p>
         </sp>
-        <sp who="#jiný-hlas">
+        <sp who="#jiny-hlas">
           <speaker>JINÝ HLAS:</speaker>
           <p>Milost!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Aspoň jiskřičku vykřesat! <stage>(Tluče kamenem o kámen.)</stage> Jedinou jiskru světla! Poslední jiskřičku! <stage>(Z kamene vytrysknou jiskry. Vnitřek lesa se rozžíhá přízračným jasem.)</stage></p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(vstává)</stage>
           <p>Světlo!</p>
@@ -4935,7 +4935,7 @@
           <stage>(prchající)</stage>
           <p>Utečte, světlo! Prchejte!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Aach, ta krása!</p>
         </sp>
@@ -4948,7 +4948,7 @@
           <speaker>KUKLA:</speaker>
           <p>Kdo mne volá?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Chválabohu světlo!</p>
         </sp>
@@ -4977,7 +4977,7 @@
           </lg>
         </sp>
         <stage>(Do zářícího středu vletí rej JEPIC a tančí.)</stage>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Kde jste se vzaly, průsvitné mušky?</p>
         </sp>
@@ -4994,7 +4994,7 @@
             <stage>(Víří.)</stage>
           </lg>
         </sp>
-        <sp who="#chór-jepic">
+        <sp who="#chor-jepic">
           <speaker>CHÓR JEPIC:</speaker>
           <lg>
             <l>Kroužíme život!</l>
@@ -5023,7 +5023,7 @@
             <l>Ó – ó – ó! Věčný, věčný je život.</l>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(motá se k ní)</stage>
           <p>Jak… jakže, tedy je věčný?</p>
@@ -5042,20 +5042,20 @@
             <stage>(Víří.)</stage>
           </lg>
         </sp>
-        <sp who="#chór-jepic">
+        <sp who="#chor-jepic">
           <speaker>CHÓR JEPIC:</speaker>
           <lg>
             <l>Věčný, věčný je život!</l>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(mezi nimi)</stage>
           <lg>
             <l>Ó, jaké poslání a jaká tvůrčí radost –</l>
           </lg>
         </sp>
-        <sp who="#chór-jepic">
+        <sp who="#chor-jepic">
           <speaker>CHÓR JEPIC:</speaker>
           <lg>
             <l>– kolotat! Sestry, do kola!</l>
@@ -5074,7 +5074,7 @@
             <stage>(Padá mrtva.)</stage>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Hleďte, je mrtva!</p>
         </sp>
@@ -5095,43 +5095,43 @@
             <stage>(Padá mrtva.)</stage>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(zvedne ruce a točí se)</stage>
           <p>Ó – ó – ó –</p>
         </sp>
-        <sp who="#chór-jepic">
+        <sp who="#chor-jepic">
           <speaker>CHÓR JEPIC:</speaker>
           <lg>
             <l>Buď požehnán, buď požehnán!</l>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Živote, živote, ty jsi nás uhranul! Vždyť i já, stará zmořená muška, kroužím a křičím, živote…</p>
         </sp>
-        <sp who="#chór-jepic">
+        <sp who="#chor-jepic">
           <speaker>CHÓR JEPIC:</speaker>
           <lg>
             <l>Buď požehnán, buď požehnán!</l>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Nech nás žít, nás všechny! Hleď, každý chce žít! Každý se tolik brání, a každý bojuje na svou pěst! Vidíš, kdybychom tak jednou to zkusili dohromady! Kdybys ty sám nás vedl proti – proti zániku! Proti smrti!</p>
         </sp>
-        <sp who="#chór-jepic">
+        <sp who="#chor-jepic">
           <speaker>CHÓR JEPIC:</speaker>
           <lg>
             <l>Buď požehnán! Buď veleben!</l>
           </lg>
         </sp>
         <stage>(Jepice po jepici padá mrtva.)</stage>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Všichni bychom šli za tebou! Všechny mušky a všichni lidé, a myšlenky, a díla, a havěť vodní, a mravenci, a tráva, všechno se spojí s tebou! Ale dřív se musíme spojit my, my všichni, kdo žijeme, do jednoho regimentu; a ty nás povedeš, živote všemohoucí –</p>
         </sp>
-        <sp who="#chór-jepic">
+        <sp who="#chor-jepic">
           <speaker>CHÓR JEPIC:</speaker>
           <lg>
             <l>Buď život požehnán!</l>
@@ -5142,7 +5142,7 @@
           <stage>(pronikavě vykřikne)</stage>
           <p>Místo! <stage>(Roztrhne svůj obal a vyskočí jako Jepice.)</stage> Tu jsem!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(vrávorá k ní)</stage>
           <p>Ty, kuklo? Ty? Ukaž se! Ty jsi se konečně zrodila?</p>
@@ -5152,7 +5152,7 @@
           <stage>(vyběhne a počne vířit)</stage>
           <p>Ó – ó – ó!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(za ní)</stage>
           <p>Cože, nic většího?</p>
@@ -5171,7 +5171,7 @@
             <l> Ó – ó – ó!</l>
           </lg>
         </sp>
-        <sp who="#několik-posledních-jepic">
+        <sp who="#nekolik-poslednich-jepic">
           <speaker>NĚKOLIK POSLEDNÍCH JEPIC:</speaker>
           <p>Věčný, věčný je život!</p>
         </sp>
@@ -5188,146 +5188,146 @@
             <stage>(Padá mrtva.)</stage>
           </lg>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(kleká k ní)</stage>
           <p>Vstaň, muško! Proč jsi padla? <stage>(Zvedá ji.)</stage> Mrtva! Je mrtva! Ach líbezné líčko, ach oči jasné a čisťounké! Mrtva! Slyšíš, kuklo? Co jsi chtěla říci? Mluv ještě! <stage>(Nese ji v náručí.)</stage> Mrtva! Jak je lehýnká, ó bože, jak je krásná! Proč musela umřít? K čemu ten hrozný nesmysl! Muško! <stage>(Klade ji na zem.)</stage> Mrtva! <stage>(Leze po zemi a prohlíží mrtvé jepice, zvedaje jim hlavy.)</stage> I ty jsi mrtva, tanečnice? I ty, která jsi zpívala! I ty, mladičká! Ach tyhle rty se už neozvou! Mrtva! Slyšíš, zelená muško? Kdybys jen oči otevřela! Hleď, je tak dobře žít! Probuď se, žij přece! Buď – život – požehnán! <stage>(Plazí se na kolenou dopředu.)</stage> Buď požehnán! Hu! Kdo na mne sáhl? Jdi pryč! <stage>(Záře zhasne, jen ostrý paprsek dopadá na Tuláka.)</stage> Kdo je tu? Huhu, pusť, vždyť mne mra-, mrazí! Kdo jsi? <stage>(Šermuje rukama do prázdna.)</stage> Pryč tu studenou ruku! Já nechci… <stage>(Vstane.)</stage> Nesahat! Kdo jsi? <stage>(Brání se.)</stage> Ale tak pusť, co mne škrtíš? Haha, ty jsi, počkej, já tě znám, ty jsi… ty jsi Smrt! Tolikrát jsem tě dnes viděl! Ale já ne – nechci – Pusť, kostroune! Bezoká! Hnusná! Já ještě ne… <stage>(Zápasí do prázdna.)</stage> Přestaň!</p>
         </sp>
         <stage>(Zprava se plazí dva slimáci.)</stage>
-        <sp who="#slimák-1">
+        <sp who="#slimak-1">
           <speaker>PRVNÍ SLIMÁK:</speaker>
           <p>Štůj. Něčo tu šuští!</p>
         </sp>
-        <sp who="#slimák-2">
+        <sp who="#slimak-2">
           <speaker>DRUHÝ SLIMÁK:</speaker>
           <p>Ty vošle, tak čouvni!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(zápasí)</stage>
           <p>Tumáš, zubatá! Hahaha, dostalas! <stage>(Sražen na kolena.)</stage> Nech mne! Nedus tolik! Povol! Já chci jen žít; copak i to je mnoho? <stage>(Zvedá se a rozhání se rukama.)</stage> Nedám ti život, smrťáku, nedám! Tumáš! <stage>(Padá.)</stage> Ó, i nohu nastavuješ!</p>
         </sp>
-        <sp who="#slimák-1">
+        <sp who="#slimak-1">
           <speaker>PRVNÍ SLIMÁK:</speaker>
           <p>Ty, šlimáku.</p>
         </sp>
-        <sp who="#slimák-2">
+        <sp who="#slimak-2">
           <speaker>DRUHÝ SLIMÁK:</speaker>
           <p>Čo?</p>
         </sp>
-        <sp who="#slimák-1">
+        <sp who="#slimak-1">
           <speaker>PRVNÍ SLIMÁK:</speaker>
           <p>Von žápaší še šmrtí.</p>
         </sp>
-        <sp who="#slimák-2">
+        <sp who="#slimak-2">
           <speaker>DRUHÝ SLIMÁK:</speaker>
           <p>Budem še koukat, jo?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(pozvedá se)</stage>
           <p>Nech mne žít! Co ti to udělá? Jen protentokrát! Aspoň do zítřka! Nech… jen… vydechnout! <stage>(Zápasí.)</stage> Pusť, neškrť! Já nechci umřít! Tak málo jsem užil! <stage>(Výkřik.)</stage> Aách! <stage>(Padne na tvář.)</stage></p>
         </sp>
-        <sp who="#slimák-1">
+        <sp who="#slimak-1">
           <speaker>PRVNÍ SLIMÁK:</speaker>
           <p>To je švanda, viď?</p>
         </sp>
-        <sp who="#slimák-2">
+        <sp who="#slimak-2">
           <speaker>DRUHÝ SLIMÁK:</speaker>
           <p>Ty, šnečku.</p>
         </sp>
-        <sp who="#slimák-1">
+        <sp who="#slimak-1">
           <speaker>PRVNÍ SLIMÁK:</speaker>
           <p>Čo?</p>
         </sp>
-        <sp who="#slimák-2">
+        <sp who="#slimak-2">
           <speaker>DRUHÝ SLIMÁK:</speaker>
           <p>Von už sčípnul.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(vzchopí se na kolena)</stage>
           <p>Ty i padlého škrtíš, zbabělá? Pusť už, ať povím – všem – Já chci – ještě chvilku – <stage>(Vstane a vrávorá.)</stage> Nech – žít! Jenom žít! <stage>(Křičí.)</stage> Ne! Jdi pryč! Mám ještě tolik co říci! <stage>(Klesá na kolena.)</stage> Vím – teď – jak žít. <stage>(Padne naznak.)</stage></p>
         </sp>
-        <sp who="#slimák-1">
+        <sp who="#slimak-1">
           <speaker>PRVNÍ SLIMÁK:</speaker>
           <stage>(leze pomalu vpřed)</stage>
           <p>No, už je po ňom.</p>
         </sp>
-        <sp who="#slimák-2">
+        <sp who="#slimak-2">
           <speaker>DRUHÝ SLIMÁK:</speaker>
           <p>Ježuš, ježuš, to je rána. Ach jejej. Takový neštěští! Proč jši náš vopuštil?</p>
         </sp>
-        <sp who="#slimák-1">
+        <sp who="#slimak-1">
           <speaker>PRVNÍ SLIMÁK:</speaker>
           <p>Čo tak lamentuješ? To še náš netejká.</p>
         </sp>
-        <sp who="#slimák-2">
+        <sp who="#slimak-2">
           <speaker>DRUHÝ SLIMÁK:</speaker>
           <p>Ale to víš, to še jen tak říká, když někdo umře.</p>
         </sp>
-        <sp who="#slimák-1">
+        <sp who="#slimak-1">
           <speaker>PRVNÍ SLIMÁK:</speaker>
           <p>Jojo. Tak ležeme.</p>
         </sp>
-        <sp who="#slimák-2">
+        <sp who="#slimak-2">
           <speaker>DRUHÝ SLIMÁK:</speaker>
           <p>Jojo. To už tak na švětě chodí.</p>
         </sp>
-        <sp who="#slimák-1">
+        <sp who="#slimak-1">
           <speaker>PRVNÍ SLIMÁK:</speaker>
           <p>Jen aby bylo málo šlimáků a hodně kapušty.</p>
         </sp>
-        <sp who="#slimák-2">
+        <sp who="#slimak-2">
           <speaker>DRUHÝ SLIMÁK:</speaker>
           <p>Jej šnečku, koukej.</p>
         </sp>
-        <sp who="#slimák-1">
+        <sp who="#slimak-1">
           <speaker>PRVNÍ SLIMÁK:</speaker>
           <p>Čo?</p>
         </sp>
-        <sp who="#slimák-2">
+        <sp who="#slimak-2">
           <speaker>DRUHÝ SLIMÁK:</speaker>
           <p>Čo tu je mrtvejch jepič.</p>
         </sp>
-        <sp who="#slimák-1">
+        <sp who="#slimak-1">
           <speaker>PRVNÍ SLIMÁK:</speaker>
           <p>Kdyby to ašpoň k žrádlu bylo.</p>
         </sp>
-        <sp who="#slimák-2">
+        <sp who="#slimak-2">
           <speaker>DRUHÝ SLIMÁK:</speaker>
           <p>Jojo. Tak ležeme, viď?</p>
         </sp>
-        <sp who="#slimák-1">
+        <sp who="#slimak-1">
           <speaker>PRVNÍ SLIMÁK:</speaker>
           <p>Jenom když my jšme živi.</p>
         </sp>
-        <sp who="#slimák-2">
+        <sp who="#slimak-2">
           <speaker>DRUHÝ SLIMÁK:</speaker>
           <p>To ši myšlím. Povídám, šlimáku…</p>
         </sp>
-        <sp who="#slimák-1">
+        <sp who="#slimak-1">
           <speaker>PRVNÍ SLIMÁK:</speaker>
           <p>Čo?</p>
         </sp>
-        <sp who="#slimák-2">
+        <sp who="#slimak-2">
           <speaker>DRUHÝ SLIMÁK:</speaker>
           <p>Šladko je žíti.</p>
         </sp>
-        <sp who="#slimák-1">
+        <sp who="#slimak-1">
           <speaker>PRVNÍ SLIMÁK:</speaker>
           <p>Ba jo! Ať žije život, víš.</p>
         </sp>
-        <sp who="#slimák-2">
+        <sp who="#slimak-2">
           <speaker>DRUHÝ SLIMÁK:</speaker>
           <p>Tak ležeme.</p>
         </sp>
         <stage>(Zacházejí do kulis.)</stage>
-        <sp who="#slimák-1">
+        <sp who="#slimak-1">
           <speaker>PRVNÍ SLIMÁK:</speaker>
           <p>To byla legrače, viď?</p>
         </sp>
-        <sp who="#slimák-2">
+        <sp who="#slimak-2">
           <speaker>DRUHÝ SLIMÁK:</speaker>
           <p>No ba. Jenom – když – my jšme živi. <stage>(Zajdou.)</stage></p>
         </sp>
@@ -5337,7 +5337,7 @@
         <!-- In the epilogue, the Pilgrim is identical to the Tramp. If the director feels the need for a peaceful ending, use this variant (since the departure of the Slugs) -->
         <note>V epilogu Poutník je totožný s Tulákem. Cítí-li režisér potřebu smírného konce, užij této varianty (od odchodu Slimáků):</note>
         <stage>(Pauza. Svítá. Ptáci se probouzejí. Rány sekyrou.)</stage> 
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <stage>(probouzí se)</stage>
           <p>Rány! – Rány! – Rány boží! <stage>(Usedne.)</stage> Co je? –</p>
@@ -5345,15 +5345,15 @@
           <p>Ach, těžký sen jsem měl!</p>
         </sp>
         <stage>(Rány sekyrou.)</stage>
-        <sp who="#drvoštěp-1">
+        <sp who="#drvostep-1">
           <speaker>PRVNÍ HLAS:</speaker>
           <p>Ach bože!</p>
         </sp>
-        <sp who="#drvoštěp-2">
+        <sp who="#drvostep-2">
           <speaker>DRUHÝ HLAS:</speaker>
           <p>Ale copak, jenom když je člověk živ.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Jen když je živ… Tak tedy neumřel?</l>
@@ -5372,15 +5372,15 @@
           </lg>
         </sp>
         <stage>(Pauza.)</stage>
-        <sp who="#drvoštěp-1">
+        <sp who="#drvostep-1">
           <speaker>PRVNÍ HLAS:</speaker>
           <p>Ba, je to dřina.</p>
         </sp>
-        <sp who="#drvoštěp-2">
+        <sp who="#drvostep-2">
           <speaker>DRUHÝ HLAS:</speaker>
           <p>Ale mlč, jenom když má člověk pořád co dělat.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Pořád co dělat! Tak je to, ano,</l>
@@ -5393,23 +5393,23 @@
           </lg>
         </sp>
         <stage>(Vystoupí dva drvoštěpové.)</stage>
-        <sp who="#drvoštěp-1">
+        <sp who="#drvostep-1">
           <speaker>PRVNÍ DRVOŠTĚP:</speaker>
           <p>Dobrytro, strejče.</p>
         </sp>
-        <sp who="#drvoštěp-2">
+        <sp who="#drvostep-2">
           <speaker>DRUHÝ DRVOŠTĚP:</speaker>
           <p>Hledáte práci?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Cože?</p>
         </sp>
-        <sp who="#drvoštěp-1">
+        <sp who="#drvostep-1">
           <speaker>PRVNÍ DRVOŠTĚP:</speaker>
           <p>No hledáte-li práci?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Lidi, já pořád hledám, já hledám odjakživa,</l>
@@ -5424,27 +5424,27 @@
             <l>něčeho lepšího. Možná že hledám i práci.</l>
           </lg>
         </sp>
-        <sp who="#drvoštěp-1">
+        <sp who="#drvostep-1">
           <speaker>PRVNÍ DRVOŠTĚP:</speaker>
           <p>Nechtěl byste nám pomáhat?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Cože?</p>
         </sp>
-        <sp who="#drvoštěp-2">
+        <sp who="#drvostep-2">
           <speaker>DRUHÝ DRVOŠTĚP:</speaker>
           <p>No abyste nám pomohl kácet dříví.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Pomáhat?</p>
         </sp>
-        <sp who="#drvoštěp-1">
+        <sp who="#drvostep-1">
           <speaker>PRVNÍ DRVOŠTĚP:</speaker>
           <p>No ba, kdyby si lidi neměli pomáhat –</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <lg>
             <l>Vy jste to řekli, ano! Musí se pomáhat!</l>
@@ -5455,48 +5455,48 @@
             <l>není proč ho soudit!</l>
           </lg>
         </sp>
-        <sp who="#drvoštěp-2">
+        <sp who="#drvostep-2">
           <speaker>DRUHÝ DRVOŠTĚP:</speaker>
           <p>Tak co, šel byste?</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Já jdu s vámi.</p>
         </sp>
         <stage>(Vyjde Poutník.)</stage>
-        <sp who="#poutník">
+        <sp who="#poutnik">
           <speaker>POUTNÍK:</speaker>
           <p>Dobrytro. Do práce? Do práce?</p>
         </sp>
-        <sp who="#drvoštěp-1">
+        <sp who="#drvostep-1">
           <speaker>PRVNÍ DRVOŠTĚP:</speaker>
           <p>No ba, do práce.</p>
         </sp>
-        <sp who="#drvoštěp-2">
+        <sp who="#drvostep-2">
           <speaker>DRUHÝ DRVOŠTĚP:</speaker>
           <p>Jako každý den.</p>
         </sp>
-        <sp who="#poutník">
+        <sp who="#poutnik">
           <speaker>POUTNÍK:</speaker>
           <p>A krásně je.</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Ba, krásný den se nám dělá.</p>
         </sp>
-        <sp who="#poutník">
+        <sp who="#poutnik">
           <speaker>POUTNÍK:</speaker>
           <p>Tak dobrý den!</p>
         </sp>
-        <sp who="#drvoštěp-1">
+        <sp who="#drvostep-1">
           <speaker>PRVNÍ DRVOŠTĚP:</speaker>
           <p>Dobrý den!</p>
         </sp>
-        <sp who="#tulák">
+        <sp who="#tulak">
           <speaker>TULÁK:</speaker>
           <p>Šťastný dobrý den!</p>
         </sp>
-        <sp who="#celý-svět">
+        <sp who="#cely-svet">
           <speaker>CELÝ SVĚT:</speaker>
           <p>Šťastný dobrý den! Šťastný – dobrý – den!</p>
         </sp>
