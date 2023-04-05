@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="cze000011" xml:lang="cze" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">GASSIROVA LOUTNA</title>
+        <author>
+          <persName>
+            <forename>Josef</forename>
+            <surname>Čapek</surname>
+          </persName>
+          <idno type="wikidata">Q454568</idno>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>From the printed edition</name>
+          <availability>
+            <licence>
+              <ab>CC-BY-3.0</ab>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
+                >Licence</ref>
+            </licence>
+          </availability>
+          <bibl type="originalSource">
+            <title>Josef Čapek: Beletrie 1: Živý plamen, Tři prózy, Podzim 1914, Lelio, Lakomec, Moc pověry, Gassirova loutna, Země mnoha jmen, Pro delfína, Stín kapradiny. Edice: Delfín, sv. 116; 1. svazek Spisů Josefa Čapka. Editor: Daniel Vojtěch. Praha: Triáda, 2011.</title>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="gassire" sex="MALE">
+            <persName>GASSIRE</persName>
+          </person>
+          <person xml:id="nganamba" sex="MALE">
+            <persName>NGANAMBA</persName>
+          </person>
+          <person xml:id="diarre" sex="MALE">
+            <persName>DIARRE</persName>
+          </person>
+          <person xml:id="první-žena-gassirova" sex="FEMALE">
+            <persName>PRVNÍ ŽENA GASSIROVA</persName>
+          </person>
+          <person xml:id="druhá-žena-gassirova" sex="FEMALE">
+            <persName>DRUHÁ ŽENA GASSIROVA</persName>
+          </person>
+          <person xml:id="třetí-žena-gassirova" sex="FEMALE">
+            <persName>TŘETÍ ŽENA GASSIROVA</persName>
+          </person>
+          <person xml:id="nejmladší-syn-gassirův" sex="MALE">
+            <persName>NEJMLADŠÍ SYN GASSIRŮV</persName>
+          </person>
+          <person xml:id="posel" sex="MALE">
+            <persName>POSEL</persName>
+          </person>
+          <person xml:id="otrok-1" sex="MALE">
+            <persName>1. OTROK</persName>
+          </person>
+          <person xml:id="otrok-2" sex="MALE">
+            <persName>2. OTROK</persName>
+          </person>
+          <person xml:id="muž-z-vagadu-1" sex="MALE">
+            <persName>1. MUŽ Z VAGADU</persName>
+          </person>
+          <person xml:id="muž-z-vagadu-2" sex="MALE">
+            <persName>2. MUŽ Z VAGADU</persName>
+          </person>
+          <person xml:id="hlas-uvnitř" sex="UNKNOWN">
+            <persName>HLAS UVNITŘ</persName>
+          </person>
+          <person xml:id="hlas-zvenčí" sex="UNKNOWN">
+            <persName>HLAS ZVENČÍ</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2022-12-12">Petr Porizka (PP): First encoding: source text processing, conversion to XML</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1987">
+        <desc/>
+      </event>
+      <event type="written" when="1923">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="cze000011" name="wikidata" passive="Q115624995"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <front>
+      <argument>
+        <head>I.</head>
+        <p>Diarre a chlapec</p>
+        <p>Ženy Gassirovy</p>
+        <p>2 otroci</p>
+        <p>Král</p>
+        <p>Posel s kopími</p>
+        <p>Vítání Gassirovo</p>
+        <p>Odchod k hodům</p>
+        <p>Gassire zůstane</p>
+        <p>Samomluva</p>
+        <p>Hlasy</p>
+        <head>II./1</head>
+        <p>Cesta ke Kiekorrovi</p>
+        <head>II./2</head>
+        <p>Zpěv křepelčin</p>
+        <head>II./3</head>
+        <p>Kovář</p>
+        <head>III.</head>
+        <p>Gassire jde se syny do boje</p>
+        <head>x</head>
+        <p>Otroci</p>
+        <p>Ženy a král</p>
+        <p>Gassire přichází s mrtvolou synovou</p>
+        <p>Gassire sám s loutnou, loutna nezní</p>
+        <p>Ženy přicházejí od krvavé urny</p>
+        <p>Loutna nezní</p>
+        <p>Gassire vyzývá druhé syny</p>
+        <head>IV.</head>
+        <p>Otroci</p>
+        <p>Nářek nad šesti hroby</p>
+        <p>Diarre s chlapcem se dívá na boj</p>
+        <p>Sedmý syn padl</p>
+        <p>Rozhovor mužů</p>
+        <p>Gassire vrací se s mrtvolou</p>
+        <p>Loutna nezní</p>
+        <p>Chce syna nejmladšího</p>
+        <p>Scéna s ženou třetí</p>
+        <p>Mužové z Vagadu vyhánějí Gassira</p>
+        <p>Gassire pláče</p>
+        <p>Loutna zní</p>
+        <p>Gassire zpívá</p>
+        <p>Opona</p>
+      </argument>
+    </front>
+    <body>
+      <div type="act">
+        <head>I. dějství</head>
+        <stage>(Diarre a nejmladší syn Gassirův.)</stage>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <stage>(zpívá)</stage>
+          <lg>
+            <l>Snědl králík želvě</l>
+            <l>její večeři –</l>
+          </lg>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Tu ne!</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <lg>
+            <l>– sněd jí maso</l>
+            <l>sněd jí kaši</l>
+            <l>vypil všechno pivo –</l>
+          </lg>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Tu ne! Tu nechci!</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <lg>
+            <l>– rozbil nádobí.</l>
+          </lg>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Ne, ne, tu nechci! Nechci písničku pro děti!</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Jakou tedy?</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Chci písničku pro muže. Válečnou!</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <stage>(zpívá)</stage>
+          <lg>
+            <l>Bylo veliké město</l>
+            <l>v zemi sahelské</l>
+            <l>Vagadu. Hoj Vagadu! Město staré!</l>
+            <l>Vzhůru, junáci, vzhůru</l>
+            <l>v zemi sahelské</l>
+            <l>Vagadu. Hoj Vagadu! Město slavné!</l>
+          </lg>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Dost! Počkej! Půjč mně svůj meč!</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Už nemám meče. Teď už mám jen svou loutnu. Jsem jenom starý zpěvák, Diarre.</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Jsi starší než můj otec Gassire?</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Jsem starší, ještě mnohem starší než tvůj otec Gassire.</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Starý jako můj děd Nganamba král?</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Jsem velmi starý, ale nejsem tak starý jako Nganamba král, otec Gassirův, tvůj děd.</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Diarre, viděl jsi někdy mého otce v boji?</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Stokrát jsem viděl vítězit Gassira! Dodnes bojuje Gassire s lítými Burdamy a zbabělými Boromy. Vagadu stojí od věků, a od těch dob už, co stojí svět, usilují Burdama a Boromo zničiti Vagadu. Od nepaměti válčili hrdinové vagadští s Boromy a Burdamy. Právě v tuto hodinu zahání je slavný Gassire od bran města. Ale Diarre je už slabý a bezzubý a není s ním. Je stár, velmi velmi stár i král Nganamba, tvůj děd. Ó Nganambo, ó Gassire! Napájel jsem jeho koně a nesl domů ukořistěná kopí, když bojoval Nganamba, syn králův a sám král. A byl jsem po boku Gassirovi, synu krále a hrdinovi, když bojoval a vítězil. Hooh! Gassire rubal a bil koně i jezdce a za ním šel Diarre, jeho věrný pes. Hooh! Gassire porážel a Diarre dobíjel! – A večer u ohně jsem zpíval o činech Gassirových.</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Můj otec je ze všech nejstatečnější, viď, Diarre?</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Gassire je kopím všech kopí, mečem všech mečů, je hrdinou všech hrdinů vagadských.</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Můj otec se nebojí nikoho, viď, Diarre?</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Hooh! Nikdo nemůže říci, že by se Gassire byl kdy něčeho bál. Gassire může se báti jen Gassira, ale Gassire je ještě silnější než Gassire. Nikdy se Gassire ničeho neulekl. Kdysi udeřil Gassire žertem do stromu, strom se zachvěl a zapraskal, Gassirovi spadl na ramena veliký had. Ale Gassire se ani nepohnul.</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Vypravuj ještě!</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Ve městě Burdamů byl trh. Gassire přišel až na náměstí a rozbil jim tam všechno nádobí. Burdama křičeli hanbou a vztekem a zavřeli městské brány, aby jim Gassire nemohl uniknout. Ale Gassire se neulekl. Šel a vytrhnul na královském paláci žerď. Roztrhal prapor, žerď vzal a přeskočil hradby.</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Rozbil jim nádobí, prapor roztrhal a vzal žerď! Vypravuj ještě!</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Kdysi přišel Gassire zase do města Burdamů a zabil jim svatého býka. Burdamové ho zajali a přikovali za nohu ještě k jednomu vězni. V noci však uprchnul Gassire i s druhým vězněm. Byla strašlivá bouře. Stáli na kraji vysoké hradby. Hrom duněl, blesky se stíhaly a bouřný příval udeřil do hradeb. Ten druhý se poděsil, spadl a strhnul Gassira s sebou dolů. Spadli do jámy. V jámě byla hladová lvice s mláďaty. V černém šeru bouře slyšel Gassire, jak lvice hryže a drtí jeho druhovi nohu. Když zasvítil blesk, spatřila lvice Gassira a obrátila k němu svou krvavou tlamu. Gassire lvici udeřil pěstí do čenicha. Tma se zavřela a opět slyšel Gassire, jak v černé tmě požírá lvice jeho druha. Zablesklo, zase se lvice obrací na Gassira a znovu ji Gassire udeřil do nosu. A tak to šlo znovu a znovu až do svítání; na Gassirových nohou byl řetěz, ale Gassire nebyl již přikován k svému druhovi; jeho soudruha tu už nebylo. Naposledy udeřil lvici do čenicha, až padla. Vzal její mláďata a odešel. Takový jest Gassire!</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Nikdo není tak statečný jako můj otec!</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Nikdo. Sám Gassire pravil, když všichni prohlásili, že je nejstatečnějším ze všech mužů: Tři muži mohli by dokázati více než já.</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Kteří?</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Gassire řekl: Předčil by mne ten muž, který by se nevyplivnul, když mu přijde do úst vlas. – A druhý by mne předčil, kdo by měl na prstě natržený nehet a dovedl by jím škrábat po zdi. – A za třetí předčil by mne ten, kdo by si v noci nabral vody a vypil ji nepodívaje se, co v ní je. Hahá!</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>A dovede to někdo?</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Leda otrok chtěl by v této věci soutěžiti s Gassirem. – A dnes už od časného rána bojuje Gassire s Burdamy. Ale Diarre, jeho věrný pes, už ho neprovází. Diarre je už starý a bezzubý. <stage>(Zvedá se.)</stage> Musím se pozeptat.</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Nyní jsi u mne.</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Byl jsem Diarre, zpěvák tvého otce, syna králova, i jeho otce, krále. Směl jsem si vzíti jídlo, které zbývalo v jeho misce.</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Teď jsi můj, Diarre.</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Ano, teď jsem tvou chůvou a mohu zpívat o tvých slavných činech. Jak jsi chytil cvrčka, jak jsi zabil kobylku a bál se stonožky –</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Ne, nechci.</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Hola, hola, jak stojí boj?</p>
+        </sp>
+        <sp who="#hlas-zvenčí">
+          <speaker>HLAS ZVENČÍ:</speaker>
+          <p>Dobře. Boj se končí. Gassire zvítězil!</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <stage>(vrací se)</stage>
+          <p>Dalo se čekati. Gassire zvítězil.</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Můj otec vždycky zvítězí. Diarre, nechám tě také snísti, co zbude v mé misce. Půjč mně svou loutnu a nauč mě zpívat!</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Ne, hochu, ne, to nesmím!</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Proč nesmíš?</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Nesmíš.</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Proč nesmím?</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Jsi Horro, svobodný a syn hrdinův. Hrdina jest první a pán, ale Diarre jest druhý a nevolník. Hrdina bojuje a nevolník Diarre o jeho činech zpívá. Hrdina má své činy, Diarre svou loutnu. Nesluší se na hrdinu a muže svobodného, aby hrál na loutnu a zpíval. To je úlohou zpěváka, který je druhý a nižší.</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Mužové z Vagadu by se mně smáli?</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <p>Mužové z Vagadu by byli pohoršeni, že svobodný Horro, byť by to byl i chlapec, si počíná jako zpěvák. Horro má být bojovníkem a hrdinou –</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Tak mne vezmi na záda. Pojedu do boje a ty budeš můj kůň. A musíš zpívat.</p>
+        </sp>
+        <sp who="#diarre">
+          <speaker>DIARRE:</speaker>
+          <stage>(leze po zemi s chlapcem na zádech a zpívá)</stage>
+          <lg>
+            <l>Horami dolinami</l>
+            <l>knížecí syn jede,</l>
+            <l>jeho meč zvoní,</l>
+            <l>jeho kůň se vzpíná –</l>
+          </lg>
+        </sp>
+        <stage>(Přicházejí tři ženy Gassirovy.)</stage>
+        <sp who="#třetí-žena-gassirova">
+          <speaker>TŘETÍ ŽENA GASSIROVA:</speaker>
+          <p>Ach, ty můj hošíčku! Hoj hoj: Jak směle on jede! Jako skutečný hrdina.</p>
+        </sp>
+        <sp who="#nejmladší-syn-gassirův">
+          <speaker>NEJMLADŠÍ SYN GASSIRŮV:</speaker>
+          <p>Jedu poraziti Burdamy.</p>
+        </sp>
+        <sp who="#třetí-žena-gassirova">
+          <speaker>TŘETÍ ŽENA GASSIROVA:</speaker>
+          <p>Jako jeho otec. Pozor, Diarre, ať nespadne. Jak je hezký! Pravý Horro, pravý syn Gassirův. Má zcela jeho oči, takové temné a přitom jiskrné, jako Gassire sám. A ta ústa –</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Je hezký, pravda, velmi hezký, ale tak podobný jako můj syn mu není. Ty oči, řekla bych, má spíše po matce, ale můj syn, Gassirův syn nejstarší, to je celý Gassire. Ten výraz, ta tvář a ten mocný hrudník, to je Gassire. Má jeho nohy, jeho ruce, celou jeho postavu a chůzi. A což jeho hlas? Když promluví, zachvěju se ve svém srdci, že to ke mně promluvil Gassire sám. Má jeho krásu. A má i jeho statečnost. Všichni uznávají, že v boji se ukazuje být hodným Gassira.</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Dala jsem Gassirovi synů šest a z nich jeden každý je hoden svého velkého otce. Všichni smělí a všichni krásní, všichni z jednoho kovu a z jednoho kadlubu. Šest jich je a všichni jsou radostí a pýchou Gassirovou.</p>
+        </sp>
+        <sp who="#třetí-žena-gassirova">
+          <speaker>TŘETÍ ŽENA GASSIROVA:</speaker>
+          <p>Ale s mým hezounkým hošíčkem mazlí se nejraději. <stage>(Laská chlapce.)</stage> A mohu Gassirovi dáti také šest synů a všechny tak krásné a statné, jako je on.</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Nejmladšího bere na svá kolena, ale nejstaršího vedle svého meče a boku. Nejstarší je jeho prvním druhem v boji a jeho paží, jako Gassire je paží starého Nganamby, svého otce a krále – a jeho nástupcem –</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Však ještě ani Gassire není králem na trůně, který chrání.</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Král Nganamba je již velmi stár.</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Předlouhý věk byl přán králi Nganambovi. I Gassire bude ještě velmi stár –</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>A uchrání trůn Vagadu s pomocí syna nejstaršího. I ten se dočká velikého věku.</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Nepadnou-li mužové z Vagadu v boji, dočkají se velikého věku. Já mám Gassirových synů šest.</p>
+        </sp>
+        <sp who="#třetí-žena-gassirova">
+          <speaker>TŘETÍ ŽENA GASSIROVA:</speaker>
+          <stage>(zpěvavě)</stage>
+          <p>Ale já toho nejhezčího, nejmladšího, nejmilejšího!</p>
+        </sp>
+        <stage>(Bubny.)</stage>
+        <sp who="#první-žena-gassirova #druhá-žena-gassirova">
+          <speaker>PRVNÍ A DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Gassire přichází z boje!</p>
+        </sp>
+        <sp who="#třetí-žena-gassirova">
+          <speaker>TŘETÍ ŽENA GASSIROVA:</speaker>
+          <p>Pojďte se přistrojit. Můj Gassire! Jak jsem ráda!</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Náš Gassire! A zchystat mu k uvítání vodu.</p>
+        </sp>
+        <stage>(Všichni odcházejí.)</stage>
+        <stage>PRVNÍ ŽENA GASSIROVA: (zatleská rukama).</stage>
+        <stage>(Dva otroci.)</stage>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Připravte síň.</p>
+        </sp>
+        <stage>(Otroci rozvinují a kladou rohože.)</stage>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p></p>
+        </sp>
+        <stage>(bručí).</stage>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Ano. Tuze slavný návrat. Zabili beranů a volů, že se to ani spočítat nedá. Nepřátel padlo prý na padesát tisíc. A toho piva!</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Mhm –</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Ano, ano, hostina bude veliká. Ještě větší než posledně – však jak je tomu dávno – několik dní, a to přec bylo nějaké vítězství. A dnes toho navařili, myslím, jistě dvakrát tolik.</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Mhm.</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Co? – Ovšem. Gassire prý bojoval jako ještě nikdy. Burdamů byla přesila a jejich útok byl prý jako bouře. Ale Gassire je zahnal hluboko do pouště. To bude nějaká kořist! Zajatci, dobytek a zase spousta zbraní. A co prý jich pobil! Však toho navařili –</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Mhm.</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Jak povídáš. Ano, Gassire vrací se vykoupán v krvi, sám nezraněn, vítězný a slavný jako bůh. Vagadu jest slavné a veliké, prohlásili mužové, ale Gassire je ještě větší než Vagadu.</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Aby ti zuby zahnily! Co mně je do Vagadu? Co mně je do Gassira?</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Ano, říkali tak. Gassire je veliký, pravili, ale dnes, dnes byl Gassire ještě větší než Gassire.</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Gassire a zase Gassire, a ještě jednou Gassire, a pak znovu zas Gassire a zase Gassire a ještě Gassire! Je Gassire a zase Gassire a nic není jiného než Gassire. Nic není, ne, nic, je Gassire, ne, nic není, je jen Gassirova statečnost, ne, nic není, je jen jeho síla, nic, nic, je jen jeho sláva a pak zase nic a zas jen Gassire a jeho hrdinství a pak zas Gassire. I takový prašivý otrok, taková žlutá slina na hnojišti, jako jsi ty, má plnou hubu Gassira!</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Jak povídáš. Celé Vagadu slaví hrdinství Gassirovo. Hody budou veliké –</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Ó bych si mohl na zříceninách Vagadu vyčesávat vši! Ó bych viděl v prachu Vagadu krváceti hlavu Gassirovu! Bych ho viděl, jak si napuchlýma rukama chrání pošlapaný týl!</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>He! Ale před ním, před Gassirem, bys tak nemluvil.</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Co mně je do Gassira? Čím mně je Gassire? Nechci vědět o Gassirovi, neznám Gassira, já ho neuznávám a nepřijímám a nechci já Gassira! Gassire je ve své pýše, já ve svém ponížení, je mocný, já v porobě. Jakou je jeho zásluhou, že je vysoko a silný, jakou je mojí vinou, že jsem v nízkosti, jakou je mojí vinou, že je skvělý, ale já temný, jakou jeho zásluhou, že je krásný, jakou mou vinou, že já ošklivý, jakou jeho zásluhou, že je šťastný, jakou zásluhou, že hrdina, a jakou vinou, já že jsem bídný? Ó! Jak je to protivné!</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Je to Gassire.</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Je to Gassire. – Čím je mi Gassire? Proč, proč, k čemu jest Gassire? Že jest, já trpím. Kdo nedal mně, že jemu je dáno? Je to Gassire. Já hryžu se v krušnosti, ale on, jemu? Gassirovi je lehko a snadno být ve své strašné pýše. Nechci věděti o Gassirovi. Ó, jak ho nenávidím.</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <stage>(rozhrnuje záclonu)</stage>
+          <p>Trůn.</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Nebýti Gassira, dávno už padlo Vagadu a mrtvolu starého Nganamby žrali by šakalové.</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Trůn. Stojí tu – tak pevně – jako hrdě a pevně dívají se kupředu oči Gassirovy.</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Ó Gassire! Ke mně, duchové mého rodu, ke mně, démoni mé bídy, pojďte, pojďte už na pomoc mé nenávisti!</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Co chceš?</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Chtěl bych vidět, jak po Gassirově pýše přeběhla černá puklina. Zle. Chtěl bych se dívat, jak se Gassire trápí. Ó, jak mě pálí oči! Zle! Chtěl bych se dívat, k nenasycení dívat na Gassirovo upadání a pít, pít svýma očima zkázu Gassirovu!</p>
+        </sp>
+        <stage>(Trubky.)</stage>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Pryč, přichází král!</p>
+        </sp>
+        <stage>(Trubky, vchází král Nganamba podpírán dvěma muži vagadskými; pak tři ženy Gassirovy.)</stage>
+        <sp who="#muž-z-vagadu-1">
+          <speaker>1. MUŽ Z VAGADU:</speaker>
+          <p>Králi, tvůj trůn.</p>
+        </sp>
+        <sp who="#muž-z-vagadu-2">
+          <speaker>2. MUŽ Z VAGADU:</speaker>
+          <p>Stojí pevně. Pevně jako samo Vagadu. Od věků stojí tu Vagadu a do věků bude stát. Pokud ve Vagadu je mužná síla, pokud meče ve statečných rukou a pokud myšlenka na Vagadu neusne v srdcích mužů, bude Vagadu státi ve své síle a slávě, nepomíjivé a stálé, jako skály saharské.</p>
+        </sp>
+        <sp who="#muž-z-vagadu-1">
+          <speaker>1. MUŽ Z VAGADU:</speaker>
+          <p>Pokud mužové budou vidět svůj příklad v Gassirovi, pokud neusne vzpomínka na hrdinství Gassirovo, Vagadu bude skvělé a mocné až do věků.</p>
+        </sp>
+        <sp who="#muž-z-vagadu-2">
+          <speaker>2. MUŽ Z VAGADU:</speaker>
+          <p>Silná je tvá paže, Nganambo, přesilná tvá paže je hrdinský tvůj syn Gassire. A předlouhé bude tvé panování, neboť máš Gassira.</p>
+        </sp>
+        <sp who="#nganamba">
+          <speaker>NGANAMBA:</speaker>
+          <p>Naši předkové bojovali za Vagadu den jak den. Den jak den bojovali za Vagadu s Burdamy a Boromy. Burdamové jsou lítí a zavilí, ale Boromové jsou zlodějští a zbabělí. Poráželi jsme Burdamy i Boromy. Burdamy poráželi jsme mečem, Boromy tloukli jsme řemeny svých sedel. Dal jsem pobíjet všechny zajatce. Je tomu už dávno.</p>
+        </sp>
+        <sp who="#muž-z-vagadu-1">
+          <speaker>1. MUŽ Z VAGADU:</speaker>
+          <p>Ó králi, naše mládí pamatuje tvá hrdinství, a naše stáří nepřetrvá tvého panování. My zemřeme, naši synové odejdou za námi a už i naši vnukové budou bojovati za slávu Vagadu a ještě tu bude panovati Nganamba král.</p>
+        </sp>
+        <sp who="#nganamba">
+          <speaker>NGANAMBA:</speaker>
+          <p>Teď však už jsem velmi stár. Vždyť i Gassirovi synové budou už brzo tak velcí a staří, jako je Gassire.</p>
+        </sp>
+        <sp who="#muž-z-vagadu-2">
+          <speaker>2. MUŽ Z VAGADU:</speaker>
+          <p>Nechť se stanou válečníky hodnými jména svého otce. Gassire jest největším hrdinou Vagadu. Ty však, Nganambo, jsi ve Vagadu králem.</p>
+        </sp>
+        <stage>(Píšťaly.)</stage>
+        <stage>(Píšťaly. Vběhne Posel.)</stage>
+        <sp who="#posel">
+          <speaker>POSEL:</speaker>
+          <p>Šťastné Vagadu, mocný Nganambo králi! Gassire skládá k tvým nohám svou kořist. Nepřítel je poražen. Gassire zvítězil. Dnes byl Gassire ještě větší než Gassire. Gassire byl více než hrdina, byl jako div. Vrhnul se do středu nepřátel, jako by slunce se řítilo na zem. Nepřátelé vykřikli v úděsu. Obrátili koně a odhazovali v útěku svá kopí. Zahnal je do pouště a zavolal pak na naše vojska. Posbírejte kopí, poručil hrdinům vagadským. Posbírali kopí. Zde jsou. Pohleď, prosím: Gassire je skládá pod tvůj trůn. Gassire přichází.</p>
+        </sp>
+        <sp who="#nganamba">
+          <speaker>NGANAMBA:</speaker>
+          <p>Vidím kopí.</p>
+        </sp>
+        <sp who="#muž-z-vagadu-1">
+          <speaker>1. MUŽ Z VAGADU:</speaker>
+          <p>Tolik kopí jako dnes nebylo ještě nikdy hrdiny z Vagadu ukořistěno.</p>
+        </sp>
+        <sp who="#nganamba">
+          <speaker>NGANAMBA:</speaker>
+          <p>Vidím kopí, ale nevidím Gassira.</p>
+        </sp>
+        <sp who="#posel">
+          <speaker>POSEL:</speaker>
+          <p>Gassire přichází.</p>
+        </sp>
+        <sp who="#muž-z-vagadu-2">
+          <speaker>2. MUŽ Z VAGADU:</speaker>
+          <p>Hrdinný Gassire! Třesk jeho meče nikdy nedozní v zemi sahelské.</p>
+        </sp>
+        <stage>(Bubny.)</stage>
+        <sp who="#posel">
+          <speaker>POSEL:</speaker>
+          <p>Gassire přichází!</p>
+        </sp>
+        <stage>(Volání: Hooh Gassire!)</stage>
+        <sp who="#nganamba">
+          <speaker>NGANAMBA:</speaker>
+          <p>Můj syn Gassire!</p>
+        </sp>
+        <sp who="#muž-z-vagadu-1">
+          <speaker>1. MUŽ Z VAGADU:</speaker>
+          <p>Králi, tvůj meč –</p>
+        </sp>
+        <sp who="#muž-z-vagadu-2">
+          <speaker>2. MUŽ Z VAGADU:</speaker>
+          <p>– a štít.</p>
+        </sp>
+        <sp who="#posel">
+          <speaker>POSEL:</speaker>
+          <p>Jest zde!</p>
+        </sp>
+        <stage>(Volání: Gassire!)</stage>
+        <stage>GASSIRE: (vkročí před trůn).</stage>
+        <sp who="#nganamba">
+          <speaker>NGANAMBA:</speaker>
+          <p>Gassire, můj meči!</p>
+        </sp>
+        <sp who="#muž-z-vagadu-1">
+          <speaker>1. MUŽ Z VAGADU:</speaker>
+          <p>Vítězi, hrdino, buď doma vítán.</p>
+        </sp>
+        <sp who="#muž-z-vagadu-2">
+          <speaker>2. MUŽ Z VAGADU:</speaker>
+          <p>Buď vítán. Vagadu může klidně spát, neboť má Gassira.</p>
+        </sp>
+        <sp who="#nganamba">
+          <speaker>NGANAMBA:</speaker>
+          <p>Gassire, jsi štítem Vagadu.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <stage>(přikročí k trůnu, položí ruku na králův štít a políbí jeho meč)</stage>
+          <p>Králi.</p>
+        </sp>
+        <sp who="#nganamba">
+          <speaker>NGANAMBA:</speaker>
+          <p>Můj synu Gassire, jsi zdráv?</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Otče.</p>
+        </sp>
+        <sp who="#nganamba">
+          <speaker>NGANAMBA:</speaker>
+          <p>Jsi pýchou všech.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Králi.</p>
+        </sp>
+        <sp who="#nganamba">
+          <speaker>NGANAMBA:</speaker>
+          <stage>(ke Gassirovým ženám)</stage>
+          <p>Uvítejte svého pána. Podejte velikému Gassirovi vody.</p>
+        </sp>
+        <stage>(Gassire pije a omývá si hruď.)</stage>
+        <sp who="#nganamba">
+          <speaker>NGANAMBA:</speaker>
+          <p>Gassire, boj byl těžký?</p>
+        </sp>
+        <stage>GASSIRE: (ukáže na posla).</stage>
+        <sp who="#posel">
+          <speaker>POSEL:</speaker>
+          <p>Boj byl těžký a slavný. Co stojí Vagadu, nikdy tak slavného boje nebylo. Nepřátel byla přesila. Ale Gassire vrhnul se vlevo a porazil Burdamy po levé straně. A Gassire vrhnul se vpravo a porazil Burdamy po pravé straně. A vrhnul se kupředu a jeho meč byl jako srp v trávě. Zanechal všechny hrdiny za sebou. Bylo Burdamů jako hustý a temný mrak. Ale Burdama se obrátili na útěk před Gassirem a křičeli hrůzou: To není Gassire, to je smrt sama!</p>
+        </sp>
+        <stage>(Volání: Hooh Gassire!)</stage>
+        <sp who="#posel">
+          <speaker>POSEL:</speaker>
+          <p>Zděšeni skrývali si Burdama ve svých loktech oči, aby neviděli rozlíceného Gassira. Gassire rozprášil jejich vojska jako divá smršť. Vagadu jest v bezpečí. Vagadu jest nepřemožitelné a Gassire je ze všech mužů největší a nejstatečnější. Požehnáno buď tvé panování, o králi! Pojď, prosím, přehlédnout kořist.</p>
+        </sp>
+        <sp who="#nganamba">
+          <speaker>NGANAMBA:</speaker>
+          <p>A potom k slavným hodům. Bojovníci jsou hladovi; nechť jsou syti. Chtějí vypravovat o činech slavného dne; nechť jsou veselí. Ať ničeho neschází. A pěvci ať pějí hrdinské písně. Zapalte ohně. Gassire, můj synu, tvou paži; podepři starého otce, můj veliký Gassire!</p>
+        </sp>
+        <stage>(Hudba.)</stage>
+        <stage>Opona.</stage>
+      </div>
+      <div type="act">
+        <head>II. dějství</head>
+        <stage>(Trůnní síň v šeru. Z dáli zpěv: Hooh, Gassire! Gassire jest jediný a největší. Hooh!)</stage>
+        <stage>(Přichází 1. a 2. otrok.)</stage>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Zle.</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Hooh! Zpívají, jako by hrom burácel.</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Zle, zle! Bolí mne tělo.</p>
+        </sp>
+        <stage>(Zpěv Hooh! Gassire!)</stage>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Hooh! Té slávy, co má dnes Gassire! Kázal, aby mu bylo zchystáno lože. Všichni se zrovna sesedli u ohně a je tak brzo –</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Zle! Pálí mne oči.</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Sesedli se u ohně, vypravují a zpěváci zpívají o boji a o Gassirovi. Jsou syti, napiti a veselí. Ale Gassire mlčí.</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Gassire se chvástá svým mlčením.</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Je ještě tak časně a už chce jít spat. Ani skoro nepojedl. Já ale jsem se najed, to mohu říci –</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Co? Viděls? Tys viděl! Řekni to ještě jednou!</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Ano, ano. Rozhodně jsem se najed pořádně. A jak jsem povídal. Všichni jsou veselí, ale Gassire mlčí a chce jít spat.</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Tys viděl! Řekni mi to ještě znovu! Mlčí a chce na lože. A řekni ještě, jak jsi to říkal?</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>A jak jsem to říkal? Ano. Ostatní jedli, ale on skoro nepojed. A chce jíti spat.</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Tys viděl. Ach, bolí mne v těle. Řekni ještě, no řekni –</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Co?</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Řekni: Gassire není zdráv.</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Gassire není zdráv.</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Ne, ne, není, Gassire není zdráv. A řekni: Gassire je nešťastný.</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Gassire je nešťastný.</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Je! Pravíš. Tys viděl. A ještě: Gassire není dnes jako Gassire.</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Gassire není dnes jako Gassire.</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Není? Ne, není, on není. Tak jest: Gassire není dnes Gassirem!</p>
+        </sp>
+        <sp who="#otrok-2">
+          <speaker>2. OTROK:</speaker>
+          <p>Ty blázníš!</p>
+        </sp>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Zle, zle. Bolí mne tělo a pálí mne oči –</p>
+        </sp>
+        <stage>(Zpěv Hooh! Gassire!)</stage>
+        <sp who="#otrok-1">
+          <speaker>1. OTROK:</speaker>
+          <p>Tak mne pálí oči –</p>
+        </sp>
+        <stage>(Vchází se světlem 1. a 2. žena Gassirova.)</stage>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Je lože zchystáno? Odejděte. – Tak brzo odchází ze shromáždění mužů, od ohně a zpěvu –</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Přinesla jsem mu podušku, aby se mu měkce spalo.</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Přál si mít ustláno právě zde, v podnoží trůnu, který chrání svým hrdinstvím.</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>I ve spánku chce být sluhou trůnu a nejde spáti k nám.</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Co jsme mu udělaly? Jsem mu ženou věrnou, pečlivou, starostlivou, nejsem hádavá ani žárlivá. Jsem přece poslušná a poddaná, a ani nevím, kam bych až šla se svou láskou ke Gassirovi. A jeho nejstarší syn? Je poslušný a statečný. Všichni dnes říkali, jak udatně vedle otce bojoval.</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Snad je jen trochu unaven.</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Jeho paže je stejně silna, ale jeho čelo stává se den ze dne mračnější. Leží v něm něco těžkého. Nějaká myšlenka – Znala jsem jiného Gassira.</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Gassire bude zas jasný, až se vyspí. Uvidíš. Až ráno vstane –</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Jeho oči se již nedívají ven. Jeho oči se teď dívají dovnitř.</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Ne, má nás rád. Uvidíš. Gassire ráno vstane a ty mu přineseš jíst. Zeptá se, co jsi dělala, a pochválí tvého syna.</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Vždyť je to jeho syn nejstarší. První syn manželky první –</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Uvidíš. Gassire bude zas jako dřív. Zavolá na své syny: Pojďte sem, hoši, ke mně! Nejstaršího syna pošle k mužům. A nejmladšího dá zase mamince do klína. Pojďte, hoši, zavolá na svých šest hochů. A mých šest hochů: Otče, pojď si zas s námi hrát! Uvidíš. Bude to zas křiku, smíchu a výskání! Jaká radost! Otče, teď mně hoď míč, ne, mně, teď mně, ne, mně, mně hoď míč, táto! A potom: Otče, pojď házet do terče, ne, pojďte udělat závody v běhu, pojďte zápasit, ne, ať rozhodne táta, nekřičte tak, ať řekne a půjdeme závodit na koni anebo plovat!</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Ne tak, Gassire zavolá svého syna nejstaršího. Dost už si nahrál s tvými chlapci. Vezme ho s sebou na lov a bude k němu mluvit jako otec k synovi dospělému. Můj Gassire!</p>
+        </sp>
+        <stage>(Přichází Gassire.)</stage>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Náš Gassire!</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Můj Gassire!</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Přinesla jsem ti podušku.</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Kdybych ti mohla ustlat na svých loktech, ráda bych udělala.</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Náš pane. Je ti ještě něčeho potřeba?</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Ó Gassire, prosím tě, promluv. Jsme tvému srdci blízké?</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Děkuji vám.</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Čekala jsem na tebe s úzkostí a s láskou.   Ó, Gassire, řekni: chceš něco?</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Chceš, Gassire? Přivedu ti našich šest synů. Byli tak hodní. Čekají, že je pohladíš po vlasech. Přivedu je, aby ti řekli dobrou noc.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Dobrou noc.</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Zavolám je. Ty chceš?</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Až zítra.</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>A půjdeš zítra s nejstarším synem na lov. Ó Gassire, ještě jsi se mnou nemluvil. Ještě jsi mi ani syna nepochválil. Ještě jsi ani na mne nepohleděl. Řekni: Držel se dobře mezi hrdiny Vagadu?</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Bojoval dobře.</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Je to tvůj první syn, Gassire. Je stvořen k tomu, aby byl hrdinou, jako jsi ty. Je stvořen, aby bojoval po tvém boku. Viď, Gassire, aby bojoval za tebe, jako ty, Gassire, bojuješ za svého otce, za starého Nganambu krále.</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Ráno, ještě než se probudíš, budou čekat hoši u tvého prahu. Viď, Gassire: půjdeš s nimi k hrám. Byli hodní. Jak tě ti chlapci, Gassire, zbožňují. Uvidíš, jak rostou, jak jsou čilí, odvážní a obratní. Všech šest, všech šest tvých synů, Gassire. Ach, jak tě mám ráda!</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Řekl jsi, že bojoval dobře. Náš syn, Gassire, bude hrdinou, jako jsi ty. Pohleď, je už ve věku, jako jsi byl ty, když jsi mně dal svou lásku. Musíš mu dáti ženu, která by jemu dala prvního syna. Ty chceš! Tolik jsem na to myslela a ještě jsi se mnou nepromluvil. Vždyť je to tvůj první a náš jediný. Ty chceš. Mám ti toho tolik co říci!</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Až zítra. Dobrou noc.</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Ó Gassire, nezaháněj nás ještě, prosím. Když jsi vytáhl do boje, přiběhli ke mně chlapci a ptali se –</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Nemohu. Nechte mne spát.</p>
+        </sp>
+        <sp who="#první-žena-gassirova">
+          <speaker>PRVNÍ ŽENA GASSIROVA:</speaker>
+          <p>Jen ještě něco, Gassire! Ještě něco vím. Napadlo mně –</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Odejděte. Chci býti sám.</p>
+        </sp>
+        <sp who="#druhá-žena-gassirova">
+          <speaker>DRUHÁ ŽENA GASSIROVA:</speaker>
+          <p>Ó Gassire, máš nás ještě rád? Chlapci ti chtěli dát dobrou noc.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Mám vás rád. Všechny. Ale – odejděte.</p>
+        </sp>
+        <stage>(První a druhá Gassirova žena odcházejí.)</stage>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <stage>(usedá na lože)</stage>
+          <p>Chci býti sám. Gassire může býti jen s Gassirem. Ne ne, chci spát.</p>
+        </sp>
+        <stage>(Z dáli zpěv.)</stage>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Všichni ještě bdí. Gassire, proč jsi odešel?</p>
+        </sp>
+        <stage>(Z dálky zpěv: Gassire.)</stage>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Gassire. Ó, kdo je to Gassire?</p>
+        </sp>
+        <stage>(Z dáli zpěv: Gassire je největší všech hrdinů vagadských.)</stage>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Ó Gassire! Jak? Ty se k sobě nehlásíš? Jsi největším hrdinou Vagadu. Jak, ty mlčíš? Ty nejsi, co jsi? Ne ne, jsem, co nejsem a dvakrát nejsem.– ne, Gassire je méně než Gassire.</p>
+        </sp>
+        <stage>(Z dáli zpěv: Dnes byl Gassire větší než Gassire!)</stage>
+        <stage>(Z dáli zpěv.)</stage>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Ó, by bylo ticho! Haha, Gassire odchází krást si na noci ticho, jako noční zloděj odchází krásti do polí.</p>
+        </sp>
+        <sp who="#třetí-žena-gassirova">
+          <speaker>HLAS TŘETÍ ŽENY GASSIROVY:</speaker>
+          <p>Můj Gassire, spíš?</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Nech mne spát.</p>
+        </sp>
+        <sp who="#třetí-žena-gassirova">
+          <speaker>HLAS TŘETÍ ŽENY GASSIROVY:</speaker>
+          <p>Gassire, škrabu na tvé dveře.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Není tu dnes dveří.</p>
+        </sp>
+        <sp who="#třetí-žena-gassirova">
+          <speaker>HLAS TŘETÍ ŽENY GASSIROVY:</speaker>
+          <p>Gassire, ťukám, škrabu na tvé dveře. Vpusť mne k sobě.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Není tu dnes Gassira.</p>
+        </sp>
+        <sp who="#třetí-žena-gassirova">
+          <speaker>HLAS TŘETÍ ŽENY GASSIROVY:</speaker>
+          <p>Přivedu ti našeho hošíčka. Chceš? Pohoupáš ho na kolenou.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Nemám žádných kolen.</p>
+        </sp>
+        <sp who="#třetí-žena-gassirova">
+          <speaker>HLAS TŘETÍ ŽENY GASSIROVY:</speaker>
+          <p>Gassire, ó můj Gassire, vpusť mne na své srdce.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Gassire nemá dnes žádného srdce.</p>
+        </sp>
+        <sp who="#třetí-žena-gassirova">
+          <speaker>HLAS TŘETÍ ŽENY GASSIROVY:</speaker>
+          <p>Gassire, bojím se plakat, ale já pláču. Ukaž mně svou tvář.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Jsem ve tmě.</p>
+        </sp>
+        <sp who="#třetí-žena-gassirova">
+          <speaker>HLAS TŘETÍ ŽENY GASSIROVY:</speaker>
+          <p>Gassire, říkal jsi, že mne máš rád, že jsem tvá žena nejkrásnější. Chválil jsi mé oči a vlasy, hladils má ramena. Gassire, chválil jsi moje tělo. – Milovaný, chceš-li, já ti dám také šest synů.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Milovaná.</p>
+        </sp>
+        <sp who="#třetí-žena-gassirova">
+          <speaker>HLAS TŘETÍ ŽENY GASSIROVY:</speaker>
+          <p>Milý, polož zase svou ruku na mou hruď. Polož svou ruku na mou šíji. Jsem tvá pokorná kráva.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Milá.</p>
+        </sp>
+        <sp who="#třetí-žena-gassirova">
+          <speaker>HLAS TŘETÍ ŽENY GASSIROVY:</speaker>
+          <p>Gassire, slyšíš, jak mně buší srdce a jak šumí má krev?</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Zadrž, Gassire dnes naslouchá hlasu jinému.</p>
+        </sp>
+        <sp who="#třetí-žena-gassirova">
+          <speaker>HLAS TŘETÍ ŽENY GASSIROVY:</speaker>
+          <p>Buším na tvé dveře.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Není dnes žádných dveří ke Gassirovi. Chci býti sám. Odejdi, milá, odejdi!</p>
+        </sp>
+        <sp who="#třetí-žena-gassirova">
+          <speaker>HLAS TŘETÍ ŽENY GASSIROVY:</speaker>
+          <p>Dobrou noc, Gassire – dobrou noc – a na nás nezapomeň –</p>
+        </sp>
+        <stage>(Pauza.)</stage>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Chci býti sám. – Sám – což je Gassire sám, je Gassire vůbec sám? – Je ticho, všichni šli spát. Ale Gassire nespí. Gassire není sám. V jeho nitru hryže šakal. V Gassirovi sedí šakal a žere jeho duši. Všichni usnuli, ale Gassire nemůže spát. Spí žena, ruce složeny pod hlavou a na jejích rtech se usmívá jméno milencovo. Spí muži, dlaně sevřené a v jejich hrudích chroptí hrdinská myšlenka na Vagadu. A spí dítě a v jeho srdci vesele skáče míč. A spí starý král Nganamba: Jeho ruce spí, složeny na prsou, a spí jeho víčka, propadlá do hlubokých jam. Jeho čelist ve spánku poklesá a volně proudí dech ze starých prsou Nganambových. Nganamba dýchá: v jeho nitru je meč a štít a trůn Vagadu.Jeho štít. Nganambův meč. Trůn Vagadu. Krásná věc. Ne ne, věc hrozná! Gassire chce spát a nic už nevědět. Zhasněme světlo.V jeskyni mého nitra je černo a černý šakal sežírá moji duši. Nikdo nevidí –Vše zesnulo pod tíhou spánku. Jen Gassire naslouchá. Gassire nespí a naslouchá. Ve břiše temnoty bobtná ticho. Beznohé a bezruké rozlévá se po prastarém a němě se přikrývá nocí. Ticho. Kdyby tudy kráčela zsinalá smrt, bylo by slyšet její zlodějský krok. Ale tudy smrt nechodí. Ticho, Gassire naslouchá. – Óóó, Nganamba dýchá! Jak dlouho bude ještě dýchati starý Nganamba král?Mou duši hryže šakal a v nitru mně hýbe se nezrozené: věc hrozná. Kdy, ó kdy přestane Nganamba dýchat? Jak dlouho ještě bude žít starý Nganamba král?Jeho štít, jeho meč, jeho trůn! Jak dlouho bude ještě Gassire naslouchat, zda Nganamba ještě dýchá? Ticho, Gassire, naslouchej: Nganamba nedýchá! Ticho: starého dechu starého Nganamby teď neslyšeti – Nganamba zemřel – ne ne, slyším: Nganamba dýchá. Víčka má zapadlá do hlubokých jam a jeho čelist se pozachvívá a poklesá. V jeho hrudi zatřepetal se dech –Ne ne ne, Gassire otcovrahem nebude!Nganamba dýchá. Spí a v jeho srdci je trůn a meč Vagadu –Ne ne, Gassire nebude otcovrahem! Volně proudí dech ze starých prsou Nganambových –</p>
+        </sp>
+        <stage>(Rozhrnuje záclonu před trůnem.)</stage>
+        <stage>(Zháší světlo.)</stage>
+        <sp who="#hlas-zvenčí">
+          <speaker>HLAS ZVENČÍ:</speaker>
+          <p>Volněji, Gassire, ó ještě volněji by proudila krev –</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Kdo je tam?</p>
+        </sp>
+        <sp who="#hlas-zvenčí">
+          <speaker>HLAS ZVENČÍ:</speaker>
+          <p>Vpusť mne dovnitř, Gassire.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Kdo je?</p>
+        </sp>
+        <sp who="#hlas-zvenčí">
+          <speaker>HLAS ZVENČÍ:</speaker>
+          <p>Jen já. Otevři mně.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <stage>(otevírá vchod)</stage>
+          <p>Kdo jsi? Odejdi.</p>
+        </sp>
+        <ab>— — — — — — — — — — — — — — — — — — — — — — —</ab>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <stage>(stojí ve vchodu)</stage>
+          <p>Není tu nikoho. Kde jsi?</p>
+        </sp>
+        <ab>— — — — — — — — — — — — — — — — — — — — — — —</ab>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Kde jsi? Mluv!</p>
+        </sp>
+        <ab>— — — — — — — — — — — — — — — — — — — — — — —</ab>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Nevidím nikoho. Kdo jsi? Nikdo tu. Mluv, nebo zemřeš.</p>
+        </sp>
+        <ab>— — — — — — — — — — — — — — — — — — — — — — —</ab>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Nikdo zde. A přece ten hlas znám –</p>
+        </sp>
+        <sp who="#hlas-uvnitř">
+          <speaker>HLAS UVNITŘ:</speaker>
+          <p>Neznáš mne, ale můj hlas znáš.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Kdo je tu?</p>
+        </sp>
+        <sp who="#hlas-uvnitř">
+          <speaker>HLAS UVNITŘ:</speaker>
+          <p>Nikdo, Gassire, jen ty sám –</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Kde jsi?</p>
+        </sp>
+        <sp who="#hlas-uvnitř">
+          <speaker>HLAS UVNITŘ:</speaker>
+          <stage>(z jiné strany)</stage>
+          <p>Zde, jsem, Gassire, u tebe.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Kde? Nikdo tu není. Kde jsi, co jsi?</p>
+        </sp>
+        <sp who="#hlas-uvnitř">
+          <speaker>HLAS UVNITŘ:</speaker>
+          <stage>(z jiné strany)</stage>
+          <p>Nikde, Gassire, nikdo tu není, je tu ticho, slyš, jak starý král Nganamba dýchá, ještě dýchá –</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Ne ne, Gassire otcovrahem nebude!</p>
+        </sp>
+        <sp who="#hlas-uvnitř">
+          <speaker>HLAS UVNITŘ:</speaker>
+          <p>Ne ne, Gassire nechce být otcovrahem. Gassire je jen největším hrdinou Vagadu, ale nechce být ve Vagadu prvním. Hahaha, to je pro Gassira dost –</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Proč ještě dýchá Nganamba král?</p>
+        </sp>
+        <sp who="#hlas-uvnitř">
+          <speaker>HLAS UVNITŘ:</speaker>
+          <p>Proč ty, Gassire, nejsi již dávno králem? Proč ty nejsi prvním mužem Vagadu? Jak je to možno?</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Nganamba ještě nezemřel.</p>
+        </sp>
+        <sp who="#hlas-uvnitř">
+          <speaker>HLAS UVNITŘ:</speaker>
+          <p>Jak? Takový starý a vetchý? Takový zbytečný. Jak, on ještě nezemřel? Kupodivu, vždyť je tu přece Gassire, nejpřednější z Vagadských! Jak to může být?</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Nemohu toho snésti.</p>
+        </sp>
+        <sp who="#hlas-uvnitř">
+          <speaker>HLAS UVNITŘ:</speaker>
+          <p>Nechť Nganamba zemře.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Ne ne, mlč, Gassire nikdy otcovrahem nebude.</p>
+        </sp>
+        <sp who="#hlas-uvnitř">
+          <speaker>HLAS UVNITŘ:</speaker>
+          <p>Ne ne, co myslíš? Haha, co myslíš? Gassire nikdy nebude králem, Gassire prvním nebude. Haha, jemu to postačí –</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Kdo jsi? Kdy, ó kdy zemře Nganamba král?</p>
+        </sp>
+        <sp who="#hlas-uvnitř">
+          <speaker>HLAS UVNITŘ:</speaker>
+          <p>Nevím. Proč neví Gassire?</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Kde jsi? Kdo je to?</p>
+        </sp>
+        <sp who="#hlas-uvnitř">
+          <speaker>HLAS UVNITŘ:</speaker>
+          <p>Nikdo tu není. Jsem venku.</p>
+        </sp>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <stage>(řítí se ven)</stage>
+          <p>Kdo je? Co je to?</p>
+        </sp>
+        <ab>— — — — — — — — — — — — — — — — — — — — — — —</ab>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <stage>(venku)</stage>
+          <p>Odpověz!</p>
+        </sp>
+        <ab>— — — — — — — — — — — — — — — — — — — — — — —</ab>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Odpověz! Stůj!</p>
+        </sp>
+      </div>
+      <div type="act">
+        <head>III. dějství</head>
+        <stage>(Noc, planina, kameny.)</stage>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Kde jsi?</p>
+        </sp>
+        <ab>— — — — — — — — — — — — — — — — — — — — — — —</ab>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Odpověz!</p>
+        </sp>
+        <ab>— — — — — — — — — — — — — — — — — — — — — — —</ab>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Jaká muka! Doma viděl jsem těla, ale hlasu jsem neslyšel. Hlasu jsem neslyšel, neboť ve Vagadu nikdo nemluví k uším Gassirovým o dechu Nganambově. Gassire mluví jen k sobě sám. Kde jsi?</p>
+        </sp>
+        <ab>— — — — — — — — — — — — — — — — — — — — — — —</ab>
+        <sp who="#gassire">
+          <speaker>GASSIRE:</speaker>
+          <p>Odpověz! – Honil jsem stín a chytil jsem noc, širou věc a veliké nic bez těla a hlasu. Jen Nganamba dýchá –Půjdu ke Kiekorrovi.Ke Kiekorrovi, jehož nikdo nikdy neviděl. Který jest jen hlas, jenž všechno ví. Stál jsem dnes před branou spánku a nevkročil jsem. Stál jsem dnes před branou smrti a nevešel jsem. Stíhal jsem stín a nevstoupil jsem mezi stíny. Jsem, a šakal v mém nitru žere mou duši. Uchopil jsem noc a nerozplynul jsem se v ní. Gassire nevstoupil do bran a zůstal venku. Kde je Kiekorra? Gassire zabloudil sám o sobě a neví, kam jde. Ó hlase, ó stíne! Není Gassirovi těžko vidět, jak tryská krev. Bledá smrt je služkou jeho paže. Není mu těžko vidět usýchat černý hrozen krve na ztuhlém pni mrtvého těla. Těžko mně z Nganamby. Kde jsi, ó Kiekorro!</p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>
