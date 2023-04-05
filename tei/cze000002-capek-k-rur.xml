@@ -3,9 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>RUR</title>
-        <subtitle>ROSSUM’S UNIVERSAL ROBOTS</subtitle>
-        <subtitle>KOLEKTIVNÍ DRAMA O VSTUPNÍ KOMEDII A TŘECH DĚJSTVÍCH</subtitle>
+        <title type="main">RUR</title>
+        <title type="sub">ROSSUM’S UNIVERSAL ROBOTS</subtitle>
+        <title type="sub">KOLEKTIVNÍ DRAMA O VSTUPNÍ KOMEDII A TŘECH DĚJSTVÍCH</subtitle>
         <author>
           <persName>
             <forename>Karel</forename>
@@ -35,7 +35,7 @@
             </licence>
           </availability>
           <bibl type="originalSource">
-            <title>Karel Čapek: Tři hry. Loupežník, RUR, Bílá nemoc. Edice: Česká knižnice, svazek 75. Editor: Jiří Holý. Brno: Host, 2014.</title>
+            <title type="main">Karel Čapek: Tři hry. Loupežník, RUR, Bílá nemoc. Edice: Česká knižnice, svazek 75. Editor: Jiří Holý. Brno: Host, 2014.</title>
           </bibl>
         </bibl>
       </sourceDesc>

@@ -3,8 +3,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>VĚC MAKROPULOS</title>
-        <subtitle>KOMEDIE  O TŘECH DĚJSTVÍCH S PŘEMĚNOU</subtitle>
+        <title type="main">VĚC MAKROPULOS</title>
+        <title type="sub">KOMEDIE  O TŘECH DĚJSTVÍCH S PŘEMĚNOU</subtitle>
         <author>
           <persName>
             <forename>Karel</forename>

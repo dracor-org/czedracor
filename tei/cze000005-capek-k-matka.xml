@@ -3,8 +3,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>MATKA</title>
-        <subtitle>HRA O TŘECH DĚJSTVÍCH</subtitle>
+        <title type="main">MATKA</title>
+        <title type="sub">HRA O TŘECH DĚJSTVÍCH</subtitle>
         <author>
           <persName>
             <forename>Karel</forename>

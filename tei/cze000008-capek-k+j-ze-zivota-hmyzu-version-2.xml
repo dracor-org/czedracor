@@ -4,8 +4,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>ZE ŽIVOTA HMYZU</title>
-        <subtitle>KOMEDIE O TŘECH AKTECH S PŘEDEHROU A EPILOGEM</subtitle>
+        <title type="main">ZE ŽIVOTA HMYZU</title>
+        <title type="sub">KOMEDIE O TŘECH AKTECH S PŘEDEHROU A EPILOGEM</subtitle>
         <author>
           <persName>
             <forename>Karel</forename>

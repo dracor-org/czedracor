@@ -3,8 +3,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>BÍLÁ NEMOC</title>
-        <subtitle>DRAMA O TŘECH AKTECH VE 14 OBRAZECH</subtitle>
+        <title type="main">BÍLÁ NEMOC</title>
+        <title type="sub">DRAMA O TŘECH AKTECH VE 14 OBRAZECH</subtitle>
         <author>
           <persName>
             <forename>Karel</forename>
@@ -34,7 +34,7 @@
             </licence>
           </availability>
           <bibl type="originalSource">
-            <title>Karel Čapek: Tři hry. Loupežník, RUR, Bílá nemoc. Edice: Česká knižnice, svazek 75. Editor: Jiří Holý. Brno: Host, 2014.</title>
+            <title type="main">Karel Čapek: Tři hry. Loupežník, RUR, Bílá nemoc. Edice: Česká knižnice, svazek 75. Editor: Jiří Holý. Brno: Host, 2014.</title>
           </bibl>
         </bibl>
       </sourceDesc>

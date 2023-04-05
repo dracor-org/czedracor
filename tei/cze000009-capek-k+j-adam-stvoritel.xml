@@ -3,8 +3,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>ADAM STVOŘITEL</title>
-        <subtitle>KOMEDIE O SEDMI OBRAZECH</subtitle>
+        <title type="main">ADAM STVOŘITEL</title>
+        <title type="sub">KOMEDIE O SEDMI OBRAZECH</subtitle>
         <author>
           <persName>
             <forename>Karel</forename>
