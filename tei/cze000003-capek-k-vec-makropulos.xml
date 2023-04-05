@@ -117,14 +117,18 @@
         <head>OSOBY</head>
         <castItem>EMILIA MARTY</castItem>
         <castItem>JAROSLAV PRUS</castItem>
-        <castItem>JANEK</castItem>
+        <castItem>
+          <role>JANEK</role>
           <roleDesc>jeho syn</roleDesc>
+        </castItem>
         <castItem>ALBERT GREGOR</castItem>
         <castItem>HAUK-ŠENDORF</castItem>
         <castItem>Advokát dr. KOLENATÝ</castItem>
         <castItem>Solicitátor VÍTEK</castItem>
-        <castItem>KRISTINA</castItem>
+        <castItem>
+          <role>KRISTINA</role>
           <roleDesc>jeho dcera</roleDesc>
+        </castItem>
         <castItem>KOMORNÁ</castItem>
         <castItem>LÉKAŘ</castItem>
         <castItem>STROJNÍK</castItem>

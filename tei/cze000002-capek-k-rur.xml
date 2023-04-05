@@ -135,36 +135,58 @@
     <front>
       <castList>
       <head>Osoby</head>
-        <castItem>HARRY DOMIN</castItem>
+        <castItem>
+          <role>HARRY DOMIN</role>
           <roleDesc>centrální ředitel Rossumových Univerzálních Robotů</roleDesc>
+        </castItem>
           <roleDesc>Domin, v předehře asi osmatřicetiletý, vysoký, oholený</roleDesc>
-        <castItem>INŽ. FABRY</castItem>
+        <castItem>
+          <role>INŽ. FABRY</role>
           <roleDesc>generální technický ředitel RUR</roleDesc>
+        </castItem>
           <roleDesc>Fabry, rovněž oholený, plavý, vážné a jemné tváře</roleDesc>
-        <castItem>DR. GALL</castItem>
+        <castItem>
+          <role>DR. GALL</role>
           <roleDesc>přednosta fyziologického a výzkumného oddělení RUR</roleDesc>
+        </castItem>
           <roleDesc>Dr. Gall, drobný, živý, snědý, s černým knírem</roleDesc>
-        <castItem>DR. HALLEMEIER</castItem>
+        <castItem>
+          <role>DR. HALLEMEIER</role>
           <roleDesc>přednosta Ústavu pro psychologii a výchovu Robotů</roleDesc>
+        </castItem>
           <roleDesc>Hallemeier, ohromný, hřmotný, se zrzavým anglickým knírem a zrzavým kartáčem vlasů</roleDesc>
-        <castItem>KONZUL BUSMAN</castItem>
+        <castItem>
+          <role>KONZUL BUSMAN</role>
           <roleDesc>generální komerční ředitel RUR</roleDesc>
+        </castItem>
           <roleDesc>Busman, tlustý, plešatý, krátkozraký Žid</roleDesc>
-        <castItem>STAVITEL ALQUIST</castItem>
+        <castItem>
+          <role>STAVITEL ALQUIST</role>
           <roleDesc>šéf staveb RUR</roleDesc>
+        </castItem>
           <roleDesc>Alquist, starší než ostatní, nedbale oblečený, dlouhých, prošedivělých vlasů a vousů</roleDesc>
-        <castItem>HELENA GLORYOVÁ</castItem>
+        <castItem>
+          <role>HELENA GLORYOVÁ</role>
           <roleDesc>Helena, velmi elegantní</roleDesc>
-        <castItem>NÁNA</castItem>
+        </castItem>
+        <castItem>
+          <role>NÁNA</role>
           <roleDesc>její chůva</roleDesc>
+        </castItem>
         <castItem>MARIUS, Robot</castItem>
           <roleDesc></roleDesc>
-        <castItem>SULLA</castItem>
+        <castItem>
+          <role>SULLA</role>
           <roleDesc>Robotka</roleDesc>
-        <castItem>RADIUS</castItem>
+        </castItem>
+        <castItem>
+          <role>RADIUS</role>
           <roleDesc>Robot</roleDesc>
-        <castItem>DAMON</castItem>
+        </castItem>
+        <castItem>
+          <role>DAMON</role>
           <roleDesc>Robot</roleDesc>
+        </castItem>
         <castGroup>
           <castItem>1. ROBOT</castItem>
           <castItem>2. ROBOT</castItem>

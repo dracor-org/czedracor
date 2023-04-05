@@ -108,8 +108,10 @@
         <castItem>SCARAMOUCHE</castItem>
         <castItem>BRIGHELLA, zvaný FICHETTO, FINOCHETTO nebo ZANE</castItem>
         <castItem>ISABELLA</castItem>
-        <castItem>ZERBINE</castItem>
+        <castItem>
+          <role>ZERBINE</role>
           <roleDesc>její teta</roleDesc>
+        </castItem>
       </castList>
       <set>
         <p>Doba současná.</p>

@@ -321,8 +321,10 @@
             <castItem>2. klepna</castItem>
             <castItem>3. klepna</castItem>
           </castGroup>
-          <castItem>Pieris</castItem>
+          <castItem>
+            <role>Pieris</role>
             <roleDesc>básník starší školy</roleDesc>
+          </castItem>
           <castItem>Milenec</castItem>
           <castItem>Milenka</castItem>
           <castItem>Horlitel</castItem>

@@ -186,40 +186,74 @@
       </div>
       <castList>
         <head>Osoby</head>
-        <castItem>PROFESOR</castItem>
+        <castItem>
+          <role>PROFESOR</role>
           <roleDesc>starý, asi šedesátiletý pán drobné postavy, bílých ježatých vlasů a vousů, se zlatými brejličkami</roleDesc>
-        <castItem>PANÍ</castItem>
+        </castItem>
+        <castItem>
+          <role>PANÍ</role>
           <roleDesc>jeho žena, asi padesátiletá matrona ušlechtilé a mírné tváře</roleDesc>
-        <castItem>MIMI</castItem>
+        </castItem>
+        <castItem>
+          <role>MIMI</role>
           <roleDesc>jejich dcera, děvče dvacetileté, světlého a teplého zjevu</roleDesc>
-        <castItem>LOUPEŽNÍK</castItem>
+        </castItem>
+        <castItem>
+          <role>LOUPEŽNÍK</role>
           <roleDesc>mladý muž patrně pod třicet, veliký a oholený, dosti elegantní, střihu trochu amerického; volný a jasný člověk bez pózy a nadsázky</roleDesc>
-        <castItem>FANKA</castItem>
+        </castItem>
+        <castItem>
+          <role>FANKA</role>
           <roleDesc>služka u profesorů, dlouhá a hubená jako tyčka, bosonohá, trochu mužská</roleDesc>
-        <castItem>ZAHALENÁ ŽENA</castItem>
+        </castItem>
+        <castItem>
+          <role>ZAHALENÁ ŽENA</role>
           <roleDesc>v šatech žebračky</roleDesc>
-        <castItem>CIKÁNKA</castItem>
+        </castItem>
+        <castItem>
+          <role>CIKÁNKA</role>
           <roleDesc>stará a tlustá, v pestře potištěných hadrech</roleDesc>
-        <castItem>MYSLIVEC</castItem>
+        </castItem>
+        <castItem>
+          <role>MYSLIVEC</role>
           <roleDesc>v zeleném panském dresu, černý a žlučovitý mladý muž</roleDesc>
-        <castItem>ŠEFL</castItem>
+        </castItem>
+        <castItem>
+          <role>ŠEFL</role>
           <roleDesc>drobný usmolený děda neurčitého zaměstnání</roleDesc>
-        <castItem>STAROSTA</castItem>
+        </castItem>
+        <castItem>
+          <role>STAROSTA</role>
           <roleDesc>velký hlučný sedlák kulaté tváře, v holinkách</roleDesc>
-        <castItem>SOUSED</castItem>
+        </castItem>
+        <castItem>
+          <role>SOUSED</role>
           <roleDesc>hubený chalupník v podvlíkáči a širokých gatích, bos</roleDesc>
-        <castItem>UČITEL</castItem>
+        </castItem>
+        <castItem>
+          <role>UČITEL</role>
           <roleDesc>světle ryšavé vousy, skřipec, světle šedé šaty</roleDesc>
-        <castItem>KOVÁŘ</castItem>
+        </castItem>
+        <castItem>
+          <role>KOVÁŘ</role>
           <roleDesc>lomozný, černý, huňatý a umazaný</roleDesc>
-        <castItem>HAVÍŘ</castItem>
+        </castItem>
+        <castItem>
+          <role>HAVÍŘ</role>
           <roleDesc>učerněný, tesklivý, s bledými visutými kníry a Davyho kahancem</roleDesc>
-        <castItem>KAPRÁL</castItem>
+        </castItem>
+        <castItem>
+          <role>KAPRÁL</role>
           <roleDesc>mladý hoch, voják</roleDesc>
-        <castItem>FRANTA</castItem>
+        </castItem>
+        <castItem>
+          <role>FRANTA</role>
           <roleDesc>mladý hoch, voják</roleDesc>
-        <castItem>PROLOG</castItem>
+        </castItem>
+        <castItem>
+          <role>PROLOG</role>
           <roleDesc>tlustý statkář</roleDesc>
+        </castItem>
         <castGroup>
           <castItem>1. PTÁK</castItem>
           <castItem>2. PTÁK</castItem>
