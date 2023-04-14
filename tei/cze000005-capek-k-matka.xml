@@ -1,0 +1,4156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="cze000005" xml:lang="cze" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">MATKA</title>
+        <title type="sub">HRA O TŘECH DĚJSTVÍCH</title>
+        <author>
+          <persName>
+            <forename>Karel</forename>
+            <surname>Čapek</surname>
+          </persName>
+          <idno type="wikidata">Q155855</idno>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Městská knihovna v Praze</name>
+          <idno type="URL">https://search.mlp.cz/cz/titul/matka/4345521/</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="matka" sex="FEMALE">
+            <persName>MATKA</persName>
+          </person>
+          <person xml:id="otec" sex="MALE">
+            <persName>OTEC</persName>
+          </person>
+          <person xml:id="ondrej" sex="MALE">
+            <persName>ONDRA</persName>
+          </person>
+          <person xml:id="jiri" sex="MALE">
+            <persName>JIŘÍ</persName>
+          </person>
+          <person xml:id="kornel" sex="MALE">
+            <persName>KORNEL</persName>
+          </person>
+          <person xml:id="petr" sex="MALE">
+            <persName>PETR</persName>
+          </person>
+          <person xml:id="toni" sex="MALE">
+            <persName>TONI</persName>
+          </person>
+          <person xml:id="stary-pan" sex="MALE">
+            <persName>STARÝ PÁN</persName>
+          </person>
+          <person xml:id="hlas-v-amplionu" sex="UNKNOWN">
+            <persName>HLAS V AMPLIÓNU</persName>
+          </person>
+          <person xml:id="muzsky-hlas-v-amplionu" sex="MALE">
+            <persName>MUŽSKÝ HLAS V AMPLIÓNU</persName>
+          </person>
+          <person xml:id="zensky-hlas-v-amplionu" sex="FEMALE">
+            <persName>ŽENSKÝ HLAS V AMPLIÓNU</persName>
+          </person>
+          <listRelation type="personal">
+            <relation name="parent_of" active="#otec #matka" passive="#toni #kornel #petr #jiří #ondřej"/>
+            <relation name="siblings" active="#toni #kornel #petr #jiří #ondřej" passive="#otec #matka"/>
+          </listRelation>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">Tragedy</term>
+        </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2022-12-12">Petr Porizka (PP): First encoding: source text processing, conversion to XML</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1938">
+        <desc/>
+      </event>
+      <event type="premiere" when="1938">
+        <desc/>
+      </event>
+      <event type="written" when="1938">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="cze000005" name="wikidata" passive="Q7752417"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <front>
+      <div type="preface">
+        <p>Tato hra, k níž autorovi dala myšlenku jeho žena, látku doba, kterou prožíváme, a podnět obrázek vdovy klečící na jednom ze soudobých bojišť, se snad obejde bez úvodu, který by ji blíže vysvětloval. Jen pro jevištní realizaci prosí autor, aby mrtví, kteří se v jeho hře kupí kolem Matky, nebyli pojati jako strašidla, nýbrž jako živí, milí a důvěrní lidé, pohybující se docela přirozeně ve svém starém domově, v okruhu rodinné lampy. Jsou takoví, jako když žili, neboť žijí dál v představách své matky; jsou mrtvi jen tím, že už je ona nemůže vzít do rukou – a že nadělají o něco míň hluku než my živí.</p>
+      </div>
+      <castList>
+        <head>OSOBY</head>
+        <castItem>MATKA</castItem>
+        <castItem>OTEC</castItem>
+        <castItem>ONDŘEJ</castItem>
+        <castItem>JIŘÍ</castItem>
+        <castItem>KORNEL</castItem>
+        <castItem>PETR</castItem>
+        <castItem>TONI</castItem>
+        <castItem>STARÝ PÁN</castItem>
+        <castItem>MUŽSKÝ HLAS V AMPLIÓNU</castItem>
+        <castItem>ŽENSKÝ HLAS V AMPLIÓNU</castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head>I.</head>
+        <stage>Otcův pokoj s okny dokořán. V průčelí otcova podobizna v důstojnické uniformě; dále zavěšené šavle, kordy, bambitky a pušky, čibuky, památky z koloniálních výprav, jako oštěpy a štíty, luky, šípy a jatagany, paroží, lebky antilop a jiné lovecké trofeje. Další stěny zabírají knihovny a vyřezávané skříně, stojan s řadou vyleštěných pušek, orientální textilie, mapy a zvířecí kůže. Vůbec pokoj je přeplněn mužským haraburdím: těžký psací stůl a na něm slovníky, glóbus, dýmky, těžítka ze šrapnelů, džbánky na tabák a podobné krámy; pohovka s tureckými polštáři, odřená křesla a taburety, arabský stolek se šachovnicí, stolek s cestovním gramofonem, na skříních vojenské čepice a přílby, a všude ještě nějaká exotická plastika, černošské masky a co se tak před dvaceti třiceti lety přinášelo z cest a z kolonií jako souvenirs. Všechno je však už na první pohled hodně zvetšelé a nečasové; vypadá to spíš jak rodinné muzeum než jako obývaný pokoj.</stage>
+        <stage>Na pohovce s koleny pod bradou sedí Toni; má na kolenou opřenu velkou knihu jako podložku a píše něco na list papíru. Pak si to šeptem čte a taktuje si k tomu rukou; zavrtí hlavou, seškrtá něco a skanduje si potichu dál.</stage>
+        <stage>(Vejde Petr a hvízdá.)</stage>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Á, Toni. Co děláš? <stage>(Jde trochu bezcílně k psacímu stolu a roztočí glóbus, hvízdaje si malou písničku.)</stage></p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Co?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Děláš verše?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Ale kdepak! <stage>(Schovává papír do knihy.)</stage> Co ti na tom záleží?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Nic. <stage>(Dívá se na Toniho s rukama v kapsách a píská si.)</stage> Tak ukaž!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(dělá, jako by četl)</stage>
+          <p>Ale ne. To nic není.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>M! <stage>(Zakráká Toniho za vlasy.)</stage> Tak si to nech, ty – <stage>(Loudá se k psacímu stolu a nacpe si z jednoho džbánku lulku.)</stage> Nevíš, co lepšího dělat, viď? <stage>(Otvírá zásuvku.)</stage></p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>A co děláš ty?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Zahálím, Toni. <stage>(Vyndá ze zásuvky zvetšelou knížku a listuje v ní.)</stage> Přímo horečně zahálím. Má doba ještě nepřišla, víš? <stage>(Jde ke stolku se šachovnicí.)</stage> Koukám, tuhle šachovou úlohu tatínek jednou začal luštit a – Už ji ani nedohrál. Měl bych ji jednou zkusit. <stage>(Rozestavuje na šachovnici hrst černých a bílých figurek a porovnává jejich pozice s knížkou, tiše si hvízdaje.)</stage></p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(váhavě)</stage>
+          <p>Ty Petře, nevíš něco –</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(roztržitě)</stage>
+          <p>Nu?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>– o našem Jirkovi.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Co mám vědět?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Nedělá on dnes… nějaký rekord?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Proč myslíš?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Povídal mi večer: Toni, drž mi zítra palec, já se chci o něco pokusit. Kolem třetí, řekl.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Kolem třetí? <stage>(Dívá se na hodinky.)</stage> To už hnedle bude. Nám o tom nic neřekl. <stage>(Rozestavuje dál figurky a tiše si hvízdá.)</stage> Asi nechtěl, aby to maminka věděla. Mami se vždycky tak bojí, když Jirka lítá – Před ní o tom nemluv, víš? <stage>(Dívá se do knížky a na šachovnici.)</stage> D5. D5. Tatínek si tady poznamenal jako první tah d5; ale to se mi nezdá – Tak si myslím, Toni, jak se musel tatínek někdy v těch koloniích nudit. Proto řešil ty šachové úlohy.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Ty se taky nudíš?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Děsně. Takové hloupé století tu ještě nebylo. – <stage>(Obrátí se.)</stage> Tak nedělej okolky, Toni, a ukaž mi ty verše!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Kdepak! Já to ještě nemám hotové!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(jde k němu)</stage>
+          <p>No tak!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(vyndává popsaný list)</stage>
+          <p>Když se mi to nepovedlo! Ty by ses mi smál!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(bere mu papír z ruky)</stage>
+          <p>Já se jen podívám, nemáš-li tam pravopisné chyby. <stage>(Čte potichu a pozorně báseň.)</stage></p>
+        </sp>
+        <stage>(Vejde Kornel s puškou v ruce.)</stage>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Vy jste tu oba? – <stage>(Cvaká kohoutkem pušky.)</stage> Musel jsem ji, potvoru, celou rozebrat, ale teď hraje jedna radost. <stage>(Staví pušku do stojanu.)</stage> Měli bychom si ji vyzkoušet, Petře. – Tak co děláte, mládenci? <stage>(Vyndává další pušku a zkouší na ní kohoutek.)</stage></p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(dívá se s napětím na Petra)</stage>
+          <p>Ale nic.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Tady v tom verši, Toni, máš o dvě slabiky víc.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Ve kterém? Ukaž?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>V tom, jak se začíná: Ty Krásná Neznámá však přicházíš –</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(fouká na kohoutek pušky)</stage>
+          <p>A jé, básně! Tonimu zas ucházejí rýmy? <stage>(Položí pušku na stůl a vyndá ze zásuvky olej a koudel.)</stage></p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>A kdo to je, ta Krásná Neznámá?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(vyskočí a chce mu vytrhnout papír)</stage>
+          <p>Dej to sem! Já vím, že jsem to pokazil. Pusť, já to spálím!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ne, já se ptám vážně. Neblbni, Toni. Náhodou ty verše nejsou tak zlé, abys věděl.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Jistě ne?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(potichu čte)</stage>
+          <p>To si myslím. Nezní to špatně, ty Arióne.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>To přece musíš poznat sám, kdo to je… ta Neznámá.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ty myslíš… smrt, viď Toni? <stage>(Vrací mu papír.)</stage></p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Tak proč se ptáš, když to víš?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Se jenom divím, proč tak vzýváš smrt. Takový kluk jako ty!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(čistí na psacím stole pušku)</stage>
+          <p>Právě proto, že je ještě kluk, člověče. Toni má světobol. Krásná Neznámá – dej pokoj! Já nevím, co je na smrti tak krásného; leda –</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>– leda že je to smrt za něco, ne?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Správně. Zlatá slova, Petříčku. Například za ten váš černý hadr na holi, viď? Smrt na barikádách – laciněji to náš Petr nedá. Bum!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(skoro se slzami v hlase)</stage>
+          <p>Přestaňte! Vy se zas budete hádat!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(sedá k šachovnici)</stage>
+          <p>Ale nebudeme, maličký. Ani mě nenapadne. Kdo by poslouchal, co říká ta stařičká, zlostná, zpátečnická fosilie! Co dělat, narodil se o půl hodiny dřív než já. To je předěl generací, synáčku. Jenže kola dějin se nedají zastavit; nastupuje nové, o půl hodiny mladší pokolení – <stage>(Táhne na šachovnici.)</stage> D5. D5. Myslím, že to nepůjde tak, jak si tatínek představoval. <stage>(Bere tah zpátky.)</stage></p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Mně ty verše neukážeš, Toni?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>To bych je musel dřív vypilovat.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(utírá si prsty do koudele)</stage>
+          <p>Jen to nech, jak to je. Čím víc se něco předělává, tím je to horší.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(podává mu papír)</stage>
+          <p>Ale nesmíš se mi smát, Kornele.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(nad šachovnicí)</stage>
+          <p>Kdepak, Kornel se nikdy nesměje. Kornel se jenom přísně podívá, není-li tam nějaká podvratná tendence, například volný verš –</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>To přece není ve volném verši!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Tvé štěstí, Toni. Jinak by tě Kornel vyhlásil za národního zrádce a bolševika. Nesmíš být destruktivní element, Toni. To nech na mně. Já jsem černý Petr rodiny. – Co abych hnul tady tím běžcem? <stage>(Kroutí hlavou.)</stage> Ne, to bych si odkryl hruď, a bílý by mě zasáhl rovnou do srdce. Počkat. – Ty Krásná Neznámá však přicházíš –</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Nech Kornela číst!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Promiň, já myslím nahlas. To dělá ten řečnický talent.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(odkládá papír)</stage>
+          <p>Hrůza!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Je to špatné?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Děsné! Petře, z toho kluka bude básník! Taková slušná důstojnická rodina – Co myslíš, nemáme mu nařezat?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(nesmírně šťasten)</stage>
+          <p>Tobě se to opravdu líbí?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(přátelsky ho zatřepe za vlasy)</stage>
+          <p>No, musíš se ještě hodně učit, Toni. A se smrtí si nezačínej, rozumíš? To není nic pro tebe, ty maminčin poklade! Ono se taky může básnit o životě –</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Myslíš, že bych měl psát dál?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(začíná znovu čistit pušku)</stage>
+          <p>Inu to víš, v naší rodině dělá každý něco jiného. Taková rodinná kletba myslím.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Víš už, že se dnes náš Jirka asi pokusí o rekord?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(přestane čistit)</stage>
+          <p>Kdo to povídal?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Toni. Prý mu Jiří řekl, aby mu držel palec.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Ježíš, já jsem na to zapomněl! <stage>(Honem svírá ruce.)</stage></p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(podívá se oknem ven)</stage>
+          <p>Počasí má pěkné; kdyby měl trochu štěstí –</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Jaký to má být rekord?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Výškový.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Se zatížením. <stage>(Skloní se znovu nad puškou.)</stage></p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>To musí být úžasný pocit… letět tak vysoko… kroužit tam, kde už je jen to modré, a zpívat si: ještě výš! ještě výš!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Hlavně na ruce to musí zábst, člověče.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Vsaďte se, že Jirka ten rekord jednou udělá. Jiří je po tatínkovi.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Čím?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(ponořený do šachů)</stage>
+          <p>Bravurou.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(nad puškou)</stage>
+          <p>Smyslem pro povinnost, Petře.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Vy jste aspoň tatínka znali, ale já – Byl náš Ondra taky po tatínkovi?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Byl. Proto šel tam dolů.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>A ty?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Já se o to snažím, Toni. Dělám, co mohu.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>A Petr?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Ten se zoufale snaží, aby byl po něm co nejmíň.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Já? Kamaráde, já se zoufale snažím dořešit jeho šachové úlohy.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Leda to, ale jinak… To by se chudák tatínek divil, člověče. Major od jízdy, a tadyhle syn mu chce převracet svět. Hotová rodinná tragédie. – Čím to je, že ty pušky po tatínkovi tak chytají rez?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Nevěř mu, synu. Tatínek byl vždycky tam, kde se šlo dopředu. To já mám po něm. <stage>(Táhne na šachovnici.)</stage> Pročež černý pěšec postupuje na f4. Bílý se brání.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Bílý se brání? Ukaž! <stage>(Přejde k šachovnici.)</stage></p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Černý přechází v útok. Bílý ztrácí půdu.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(nad šachovnicí)</stage>
+          <p>Počkej, černý Petře, to by nebylo fér. Tatínek by táhnul tím koněm na d5.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Možná, ale dnes je jiná doba. Tatínek byl kavalerista, kdežto mé srdce je na straně pěších. Pěší jde vždycky dopředu. Pěšák může padnout, ale nemůže couvnout. Pióni světa, spojte se!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Ale kdyby šel kůň na d5 –</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Nesahat do mé hry!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>To je tatínkova hra. Koukej, s d5 dá bílý třetím tahem mat.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Jenže to já právě nechci, bratříčku. Já chci bílého porazit. Pročež černý pión postoupí na barikádu a zažene bílého koně –</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Safra, tak to je chyba v úloze. S tím úloha nepočítala.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Tak vidíš. Úloha připouští dvojí řešení, vaše blahorodí.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>To první je tatínkovo.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>A to druhé je revoluční. Dopředu s utlačenými pióny! Bílá věž je ohrožena. Pozor!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Poslechni, Petříčku, dej toho černého sedláka zpátky. Takhle bys pokazil celou hru.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Jakou hru?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Tatínkovu. Tati by táhl na d5.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Tati byl voják, člověče. Řekl by, černý je chlapík, černý se nedá. A vrhl by se do boje za bílé –</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>No tak, vem toho pěšáka zpátky!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Proč bych to dělal?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Já bych chtěl vidět, jak by to dohrál tatínek.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Teď už se hraje jiná partie. To už není tatínek. To jsme my. Marně kopeš, bílý koni; nic už nezastaví černého pióna na jeho postupu. Čtvrtým tahem bude z něho všemohoucí dáma – ale my tomu říkáme jinak.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Jak?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(najednou vážně)</stage>
+          <p>Nová vláda, bratříčku. Vláda černých. Však už se toho dočkáme.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Toho ne, Petře. Ještě zbývá jeden tah.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Který?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Tenhle! <stage>(Rozmetá rukou figurky na šachovnici.)</stage></p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Aha. Tomu se říká cesta násilí. <stage>(Vstává.)</stage> Taky dobře. To si tedy vyřídíme jinak.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(který na pohovce četl, zvedá hlavu a křičí skoro hystericky)</stage>
+          <p>Tak nechte už té politiky! Já to nesnesu!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Ale vždyť je to jen hra, ty citlivko! My si jen chceme zašermovat, viď, Petře?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>To není žádná hra! Já vím, co si myslíte!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Správně, Toni. To je hrozně vážná věc. Boj starého a nového světa. Ale neboj se, já připíchnu Kornela jako brouka. In tyrannos! <stage>(Naráží na hlavu divošskou přílbu.)</stage> Ať zhyne starý podlý svět! Bububu, Kornele!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(narazil si přílbu kavaleristy)</stage>
+          <p>Už jdu. <stage>(Snímá ze stěny dva kordy.)</stage> Račte si vybrat, pane nepříteli!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(ohýbá jeden kord)</stage>
+          <p>Dobrá. Ale boj stejnými zbraněmi, lidi, to už se ani nedělá. Hrozně staromódní. <stage>(Oba se postaví do střehu.)</stage> Tak, Toni, vel!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(zarývá se očima do knihy a zacpává si uši)</stage>
+          <p>Já nechci!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Pozor – teď!</p>
+        </sp>
+        <stage>(Oba se smíchem šermují.)</stage>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>La! La!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Ala!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Pryč s tyrany a zrádci všemi! La! La!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>La!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>První zásah!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Rameno. Lehká rána. Boj trvá se střídavým štěstím.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>A potom budem vládnout my!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Na to si počkáš! Touché!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Pouhé škrábnutí. La! La! Kupředu, černý pióne!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Oho, stojíme jako skála, pane! La! La!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Poslední bitva vzplála – Toccato!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Kdepak! Ale tumáš! – <stage>(Zastaví se.)</stage> Počkej, nebolelo to, Petříčku?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>To nic není. En garde!</p>
+        </sp>
+        <stage>(Překocené stolky a taburety.)</stage>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>La!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Ala!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Stop! Tohle by byla krční žíla, Kornele. Jsi mrtev.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Raněn, ale bojuje se dál. Do posledního dechu. Ala!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(křičí)</stage>
+          <p>Přestaňte!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Hned to bude, Toni. Pión útočí. Ha! Ha! Starý svět se kácí –</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Finito! Tak tohle ti šlo přímo do srdce, Petře. <stage>(Skloní kord.)</stage></p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(zdraví kordem)</stage>
+          <p>Děkuju, jsem mrtev.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(zdraví kordem)</stage>
+          <p>Je mi líto.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ale za mnou povstávají tisícové černých piónů – Hurá, kamarádi!</p>
+        </sp>
+        <stage>(Vejde Matka a stane na prahu.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Hoši, hoši, co tu zase děláte!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Jej, maminka. <stage>(Zavěšuje honem kord na stěnu.)</stage> Kornel mě právě zabil, mami. Ranou do srdce. <stage>(Odkládá přílbu.)</stage></p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(zavěšuje kord)</stage>
+          <p>Ale mně Petr probodl krk, maminko. Taky prima rána. <stage>(Odkládá přílbu.)</stage></p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Vy dvě dvojčata se musíte pořád rvát! Koukejte, vy dareby, tady to zase vypadá! Zrovna tatínkův pokoj!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>My to zase dáme do pořádku, mami, jen se nestarej. Pojď, Kornele!</p>
+        </sp>
+        <stage>(Oba zběžně dělají pořádek, zvedají pokácené stolky a taburety.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Nechte to, já znám váš pořádek, vy mužští! Čím víc děláte pořádek, tím je to horší.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(na všech čtyřech, narovnává koberec)</stage>
+          <p>Hned to bude, mami. Pusť, Petře!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(rovněž na všech čtyřech, odstrkuje ho)</stage>
+          <p>Pusť ty! <stage>(Než se kdo naděje, popadnou se do křížku a válejí se po podlaze.)</stage> Půjdeš na lopatky!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(supí)</stage>
+          <p>Zkus to!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Jen počkej! <stage>(Kutálejí se po pokoji.)</stage></p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tak už dost! Vy to tu jednou opravdu všecko rozbijete! Že se nestydíte, takoví velcí – Co si o vás pomyslí Toni?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(pouští Kornela)</stage>
+          <p>Pojď, Toni, já tě to taky naučím!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Já nechci!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Toniho nechte. A už ať vás tady nevidím! Toni, proč se do sebe dostali?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Petr nechtěl táhnout na d5.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(sbírá na zemi šachové figurky)</stage>
+          <p>Víš, mami, to byl tatínkův tah. Já jsem jenom hájil rodinnou tradici.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Není pravda, mami. Úloha připouštěla dvojí výklad.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(staví figurky na šachovnici)</stage>
+          <p>Tak proč ji nehrát jako tatínek?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>A proč ji nehrát jinak? Dnes by ji tati taky třeba hrál jako já.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Pšš, už se nehádejte a hybaj odtud! Já to tu musím dát po vás do pořádku, vy mužská holoto!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>My ti pomůžeme, mami.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Vy byste mi tak pomohli! Co vy víte, co je pořádek!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Dát věci tam, kde byly.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Dát věci tam, kde mají být.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ba ne. Dát věci tam, kde jim je dobře; ale tomu vy nerozumíte. Tak alou, dvojčata, jděte mi odtud!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Pojď si do zahrady střelit z té pušky, Petře!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Tak dobře. Kdo na sto kroků trefí láhev, ne?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Jen když můžete něco rozbít!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Toni, ty nepůjdeš? <stage>(Bere ze stojanu pušku, kterou prve přinesl.)</stage></p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ne, Toni nemá rád vaše střílení, viď, Toni?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Já vím. Toni se bojí.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Nebojí. Vy mu nerozumíte. Je jiný než vy, to je to celé.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>My jsme každý jiný, maminko.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Míň, než si myslíte. A jděte už, vy velcí uličníci!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(políbí ji na tvář)</stage>
+          <p>Už se nezlobíš?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(políbí ji na druhou tvář)</stage>
+          <p>Kdepak maminka! Ta už je na to zvyklá.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Nevíte, kde je Jiří?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Nu, kde by byl! Nevíš, Toni?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Prý… prý má nějakou schůzku.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>S kým?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>To víš, mami. Asi s nějakou krásnou neznámou.</p>
+        </sp>
+        <stage>(Oba bratři se navzájem vyžďuchají ze dveří.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>A co tys tu měl co dělat, Toni?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Nic. Jen… jenom jsem tady četl.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Z tatínkových knížek?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Takový cestopis, mami.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Pořád ty daleké země – To pro tebe není, Toni. Ty přece nebudeš nikdy cestovat, viď? <stage>(Přechází a tiše urovnává věci.)</stage></p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Třeba nebudu, ale já si to dovedu tak představit, víš –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Co například?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Já nevím. Třeba trávu na stepi, a najednou ti takové stádo antilop – Já nechápu, mami, jak může někdo střílet zvířata.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tatínek je střílel, ale ty už budeš jiný, viď? <stage>(Vezme ho kolem krku.)</stage> Já bych aspoň chtěla, abys byl vždycky, jako jsi teď. Někdo musí zůstat doma, Toni. Víš, jinak by nebyl na světě žádný domov. <stage>(Políbí ho.)</stage> A jdi teď, já tu mám co dělat.</p>
+        </sp>
+        <stage>(Toni odejde.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(nehlasně poklízí)</stage>
+          <p>Toni bude jiný. Toni musí být jiný. <stage>(Zastaví se před otcovou podobiznou a dívá se na ni. Pokrčí rameny a jde spustit těžké záclony v oknech. V pokoji se rozhostí polotma. Matka se vrací k otcově podobizně a rozsvítí před ní stojací lampu.)</stage> Vidíš, proč mi je sem pořád taháš! Víš, že to nevidím ráda. I ten tvůj pohrobek Toni – jakživ tě ani neviděl, a jak jen může, už sem zaleze. Prosím tě, proč mi to děláš! Já je taky chci mít pro sebe, Richarde! Já nechci, aby se táhli pořád za tebou.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(vystupuje pomalu z temného kouta; má na sobě stejnou uniformu jako na portrétu)</stage>
+          <p>Já je sem netahám, dušinko. To oni sami. To víš, když si od dětství hráli s tím haraburdím tady – Nediv se jim.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(obrátí se k němu bez jakéhokoliv překvapení)</stage>
+          <p>To ty vždycky říkáš, můj milý. Teď už jsou na ty tvé hračky trochu velcí, a vidíš, pořád je tu máš!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Inu, vzpomínky z dětství. Všaks mohla ty krámy dávno vyhodit, miláčku. Co s tím!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>To tak, vyhodit! Památky po tobě, viď? Ne, ne, Richarde, na ty mám já právo, ty tu jsou pro mne. Ty věci, to jsi byl ty. <stage>(Usedne do křesla.)</stage> Ale když sem nalezou hoši, zůstane vždycky po nich něco ve vzduchu… něco, jako bys tu byl ty sám. Ty sám.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(sedne si obkročmo na židli)</stage>
+          <p>To je jen tabák, drahoušku.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tabák a život. Ty nevíš, jak mi pak je. Jen zamhouřit oči, a cítím tak hrozně silně: Richard byl tady – Richard – Richard – – Je tě tu pořád plno, člověk tě zrovna dýchá. Neříkej, to nedělá to haraburdí; to jsi ty, to jsi ty – Ty mi ty hochy kazíš, Richarde.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Ale jdi, maminko, to si ani neber do hlavy. Prosím tě, jak bych já je mohl kazit! Když je člověk jednou – kolik už je tomu let?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>To bys mohl vědět. Sedmnáct.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Už? Tak vidíš, když je člověk jednou sedmnáct let mrtev, tak už z něho zbývá hrozně málo, miláčku. Pořád je ho míň a míň. Já už k ničemu nejsem, dušinko. Jen aby se tady po mně utíral prach na té veteši.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>To je jedno. Vábíš je. Proto sem pořád lezou. To přece je něco pro kluky: tatínek voják, tatínek hrdina! Já vím, jak je to okouzluje. Vždycky je to okouzlovalo.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Nemělas jim o mně povídat, holčičko. To je tvá chyba.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Neměla! To se ti řekne! Kdo jiný má udržovat tvou paměť, když ne já? Já jsem od tvé smrti, Richarde, mnoho jiné radosti neměla než tvou památku a ty děti. Já vím, co jsem ti dlužna, můj zbožňovaný. Mnoho-li dětí může být tak pyšno na svého otce – Nemáš ponětí, co to pro naše hochy bylo. Řekni, měla jsem je o to připravit?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Přepínáš, maminko; nezlob se, ale v tomhle jsi vždycky přepínala. Jaképak hrdinství! To nebyla tak veliká věc. Docela bezvýznamná srážka s domorodci – a ještě k tomu prohraná.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Já vím, to říkáš vždycky. Ale tvůj generál mi tehdy sám psal: Madam, oplakáváte hrdinu. Váš manžel se sám přihlásil na nejnebezpečnější místo –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>To jsou jen takové řeči, holčičko; to ti snad chtěli osladit, že… že se mi stal ten malér, víš? Jakýpak hrdina! Někdo tam musel jít. Kdybych se nepřihlásil já, tak by tam šel někdo jiný. To je to celé.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ale ten jiný by snad nebyl otcem pěti dětí, Richarde!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Nu pravda, ale má-li někdo pět dětí, nemusí proto ještě být špatným vojákem, miláčku. Vždyť jsem ani neudělal nic zvláštního… ale tomu ty nerozumíš, maminko: když se střílí, myslí člověk docela jinak. To se dá těžko vysvětlit. Pak to třeba vypadá jako bůhvíjaká bravura, ale když je člověk v tom – Co dělat, to už patří k věci. Prostě ten bok se musel krýt, holčičko. Koukej, takhle postupovala hlavní kolona, a tady v boku zůstal horský průsmyk, víš? A ten průsmyk jsme měli obsadit malým oddílem. To bylo to celé. Všeho všudy dvaapadesát mrtvých. To přece nemá žádný význam.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Dvaapadesát mrtvých – z kolika mužů?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Nu, z dvaapadesáti, maminko; ale zato jsme se drželi celých šest dní. Abych ti řekl, nejhorší byla ta žízeň. My jsme tam neměli vodu, víš? Tak to ti byla ukrutná žízeň – a zlost. Já jsem se tam děsně zlobil, dušinko.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Proč?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Protože to vlastně bylo zbytečné. Náš plukovník udělal chybu, víš? Hlavní kolona měla počkat dole, a do toho průsmyku se měly poslat aspoň dva batalióny. A horská baterie. Já to věděl předem. Říkal jsem to plukovníkovi, a on mi řekl, jak se zdá, majore, máte strach –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Richarde! A proto jsi šel – na smrt?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Hlavně proto, dušinko, hlavně proto. Aby náš plukovník viděl, že já jsem měl pravdu, víš? Takový trouba! Tak naletět domorodcům! –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>A kvůli němu – kvůli němu –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Tobě se to zdá hloupé, viď? Ale u pluku, holčičko, se tomu říká čest. Víš, na vojně to jinak nejde.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Richarde, tos mi ještě neřekl! Tak ty jsi padl jen proto, že ten plukovník dal špatný rozkaz?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>To se někdy stává, maminko. Ale aspoň se ukázalo, že jsem já měl pravdu. To taky stálo za to.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tak vidíš, na to jsi myslel: dokázat, žes měl pravdu ty! A na nás jsi nemyslel, viď? Na to, že zrovna čekám páté dítě, jsi taky nemyslel?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Myslel, drahoušku, jak bych nemyslel! V takové situaci toho člověk namyslí moc, to nemáš ponětí. Například jede na koni a říká si: Za tři měsíce bych mohl být doma. To už bude dítě na světě. Budu muset hezky tiše postavit šavli v předsíni a jít po špičkách… jít po špičkách… Copak náš Ondra, ten už mi podá ruku jako mužský. Nazdar, tati, řekne – Nazdar, Ondro. Co škola? – Nic, tati. – A Jirka, Jirka mi bude ukazovat nějakou mašinku: Koukej, tati! – A dvojčata budou vyvalovat oči a prát se o to, kdo mi dřív vyleze na klín. Nu tak, uličníci, pojďte sem oba, ať se nehádáte! – A žena… víc než půl roku jsem ji neviděl. Víc než půl roku. Až ji vezmu do rukou, zdalipak se zase zlomí a změkne, jako by kostí neměla, a vydechne: Richarde –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Richarde –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(vstane)</stage>
+          <p>Tak co, dušinko, jak ty jsi se zatím měla?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(se zavřenýma očima)</stage>
+          <p>To víš, miláčku, čekala jsem na tebe. Pátého syna jsem ti porodila – Je slaboučký, Richarde, bůhví proč je tak křehký. Asi proto, že jsem pro tebe tolik plakala.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Z toho ještě vyroste, maminko; taky z něho bude chlapík a hrdina, uvidíš.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(s náhlou prudkostí)</stage>
+          <p>Ne! Já nechci! Já nechci, aby z Toniho byl hrdina! Já už toho mám dost, Richarde, slyšíš? Dost už jsem doplatila na vaše hrdinství! Copak nestačí, že ty jsi mi padl? Víš ty, víte vy, co to je ztratit muže? Kdybys věděl, co ze mne zbylo – Co jsi mi to udělal, člověče, jak jsi se mohl nechat tak zbytečně zabít!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Drahoušku, nic platno, když ten trulant plukovník řekl, že mám strach, – nu, musel jsem jít, ne? A řekl to… před druhými důstojníky. Zdá se, majore, že máte strach. Já nevím, holčičko, kdybys byla stála při tom, co bys mi řekla.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(vstane, tiše)</stage>
+          <p>Řekla bych ti: Jdi, Richarde. To si nemůžeš nechat líbit.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Tak vidíš, miláčku, taky bys to tak cítila.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Protože jsem tě milovala, Richarde, protože tě pořád musím milovat! Ale ne, nesmíš na to dát, můj jediný; nevíš, co to pro ženskou znamená, když někoho tak nerozumně, tak po žensku miluje! Já nevím sama, co to v nás je; vím jenom, že se mi to na tobě strašně líbilo… víš, tvé vojáctví, Richarde, řinčení tvých ostruh, tvá odvaha a fanfarónství, tvá čestnost a lehkomyslnost – Já nevím, proč jsem to na tobě tak zbožňovala. Asi jsem byla hloupá, byla jsem zamilovaná, byla jsem blázen; ale ani teď… ani teď bych nesnesla, aby tě něco ponížilo!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Nu tak vidíš; a kdybych byl tehdy nešel…</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ne, ne, Richarde, nesmíš mě brát za slovo! Snad… jistě bych se s tím smířila, kdyby ses tehdy nezachoval… jako voják. Byl by ses vrátil ke mně a k dětem… a odešel z armády. Já bych si… zvykla. A měla bych tě taky ráda. Snad… trochu jinak. Já vím, že by ses hrozně trápil… bez té vojenské cti, ale přežili bychom to… oba; měla bych tě aspoň u sebe, Richarde, a mohla bych se o tebe starat –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>– jako o člověka, který k ničemu není a trápí se. Stačilo by ti to, miláčku?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>– – Muselo by mi to stačit. Nemysli si, já jsem i tak musela vystačit… s moc málem.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>… Já vím, maminko. Je mi hrozně líto. Ta majorská penzička, co po mně zbyla…</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Bylo tu pět dětí, Richarde, – a podívej se na ně. Ty nevíš, co to je pro samotnou ženskou. Ne, ne, tomu zase ty nemůžeš rozumět. Odpusť, můj milovaný, neměla bych o tom mluvit, ale o tom vy nemáte ponětí – Šaty, jídlo, školy a znovu šaty, jídlo, školy – Pořád, pořád muset počítat, pětkrát obracet každý hadřík a každý haléř, – co vy o tom víte. Pravda, žádné hrdinství to není, ale – taky to musí být, můj milý. Miláčku, miláčku, proč se na mne tak díváš? Vidíš, co ze mne je!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Jsi krásná, maminko. Jsi krásnější než tehdy.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Nemluv hlouposti, Richarde. My živí se hrozně měníme. Ty ne, ty jsi se vůbec nezměnil. Já se až stydím, jak se vedle tebe cítím stará. Nesmíš se na mne dívat, můj jediný. Já měla příliš mnoho starostí, víš? Bylo to těžké bez tebe –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Dušinko, já jsem ti přece byl tak málo platen!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Aspoň jsem nebyla sama! A nejvíc, člověče, nejvíc jsem tě potřebovala, když mě ty děti začaly přerůstat. Ne, nemysli si, byli to hodní hoši. Všichni: Ondra, Jiří, dvojčata – všecko by pro mne udělali. Ale jak dorostli, jako by začali mluvit jiným jazykem. Já jim dost nerozumím, Richarde. Ty bys jim asi rozuměl líp.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Nevím, holčičko, nevím. Myslím, že se v nich taky nevyznám. Copak já vím o medicíně nebo aviatice nebo těch hloupostech, co mají v hlavě ta dvojčata –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Myslíš politiku?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Ano. Já na to nemám hlavu, maminko. Já jsem byl jen voják.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Přec. Na tebe víc dají. Já vím, ty jsi z nich chtěl mít vojáky; ale když jsi padl,… tak jsem si řekla… ne! Vidíš, mohla jsem je dát… zadarmo do vojenských škol; ale raději… raději jsem si našla práci, abych je dala vyučit něčemu jinému. Myslela jsem si, ať je to medicína nebo technika… cokoli, jen vojna ne. Ať dělají něco užitečného… něco, při čem se nemusí umírat. Kdybys věděl, co jsem se nastarala, abych je mohla poslat do těch škol – A vidíš, co z nich mám!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Nu, dušinko, myslím, že s nimi můžeš být spokojena, ne?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Já vlastně nevím. Připadám si jako slepice, která vyseděla orly; sedím při zemi a kdákám strachy, když jeden po druhém vyletují. Někdy si říkám: to nesmíš, nesmíš být tak malodušná, nesmíš jim překážet – Richarde, to je hrozné, co se z člověka stane, když je mámou! Taky jsem přece bývala blázen, taky jsem si o sobě myslela bůhvíco – Ty to víš, můj milý.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Vím, drahoušku.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Vždyť jsem za tebou utekla z domova; a bylo mi všechno jedno, třeba i život dát. A teď, teď bych chtěla sedět jako lakomec na tom, co je můj život, a křičet na každého: nedám! nedám! Já už jsem dala dost, Richarde. Tebe… a našeho Ondru. Víc už se ode mne nemůže žádat. Víš, mně přišlo příliš draho to, čemu se říká… hrdinství. Nejdřív ty, a potom Ondra –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Nech být, maminko, Ondra měl krásnou smrt. Krásnou… a čestnou.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Čestnou, já vím. Vám připadá hrozně čestné za něco umřít; ale na to, že umřete někomu, na to už nemyslíte. Tys třeba musel jít na smrt, Richarde, tys byl voják. Ale Ondra nemusel. Ondra byl lékař a badatel; mohl být někde na klinice – a nemusel se nakazit –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>To se lékařům stává, holčičko. U nás u pluku taky jednou zemřel doktor. Hrozně milý člověk to byl, hrával jsem s ním šachy. Nu vidíš, a zčistajasna se nakazil cholerou –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ale náš Ondra se nemusel hlásit tam dolů, do kolonií! To tys udělal!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Ale maminko, já jsem přece byl už tak dávno mrtev!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>To je jedno, ale tahals ho sem, do svého pokoje. Tys měl na něho vliv, můj milý. Tady se Ondra vždycky učil, tady ležel v knihách, tady přecházel po celé hodiny a kouřil – A tady mi z ničeho nic ohlásil, mami, já pojedu na rovník, abych viděl kousek světa. Že tam jede bojovat se žlutou zimnicí, to… zapomněl říci. Vždycky přede mnou schováváte, co máte za lubem. Mně řeknete, mami, to je jen takový výlet, a pak tam zůstanete. Jako zloděj ujel!</p>
+        </sp>
+        <stage>(Z temného kouta se blíží Ondra v bílém lékařském plášti.)</stage>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Ale mamino, to už jsem ti přece tolikrát vysvětloval – Nechtěl jsem, aby sis dělala starosti. Proto jsem ti nic neřekl. To je to celé.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tomu ty říkáš vysvětlení? Na to tys myslel, já vím; ale na to, že se tam můžeš nakazit nebo co, na to ne. Na to bych zase já byla myslela, Ondro. Tak je to.</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Nu a co by ti to bylo platno, maminko! Stejně bych byl jel –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Vidíš, Ondro, takový jsi býval vážný a rozumný hoch! Nebýt tebe, tak nevím, co bych si kolikrát počala. Byl jsi těm druhým dětem místo otce – takový moudrý a odpovědný – A najednou prásk, ujedeš si na rovník a zemřeš mi tam na žlutou zimnici. Tos přece nemusel, Ondro, to mi neříkej!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Víš, dušinko, doktor má taky svou službu. To už je takové povolání, viď, Ondro?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Co sis to vzal do hlavy s tou žlutou zimnicí! Mohl jsi být doma a léčit – nebo pomáhat na svět dětem –</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Podívej se, mami: na žlutou zimnici umíralo ročně tolik set tisíc lidí – To by přece byla hanba, kdyby se proti ní něco nenašlo. To je… prostě povinnost, ne?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tvá povinnost?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Povinnost vědy. Víš, maminko, byla to moc zlá nemoc; a ti lidé tam dole – kdybys je viděla umírat, sama bys řekla: Ondro, nemůžeš je tak nechat! To je těžká věc, mami. Někdo tam musel jít.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ale nemusels to být zrovna ty, Ondro! To mi nenamluvíš!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>A proč ne zrovna on? Já myslím, že měl dobrou hlavu. Na takové věci, holčičko, musejí vždycky jít ti nejlepší.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>A ti nejlepší na to mají zemřít?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Nu ano. To jinak nejde, dušinko. Ti nejlepší musejí vždycky jít napřed, víš? Nic si z toho nedělej, Ondro. Dobře jsi udělal.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Já vím, vy vždycky držíte dohromady proti mně, vy mužští! To se ti řekne, dobře udělal; ale kdybys věděl, jak mně bylo, když jsem dostala ten telegram – Já to nemohla za živého boha pochopit. Paní, váš syn padl jako hrdina na bojišti vědy –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Tak vidíš, maminko: jako hrdina. To přece stálo za to, ne?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>To ne, tati. Vidíš, na tom by mně záleželo nejmíň. Mně šlo jen o to… poznat příčiny zimnice. To není žádné hrdinství. Když člověk dělá vědu,… tak musí hledat příčiny, víš? A na jiném mu čerta záleží. Jaképak hrdinství nebo čest – to je dětinství, tati. Ale kousek poznání – to stojí za to.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>A poznals něco?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Já ne, maminko, ale druzí. Jeden Švéd a jeden Američan.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Škoda. Američany já nemám rád.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tak vidíš, Ondro, nebylo to nadarmo? Nebylo to zbytečné?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Nebylo, maminko. Tomu ty nerozumíš.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ne, nerozumím. Já jsem vám asi nikdy nerozuměla. To slyším pořád… od Jirky i od dvojčat: mami, tomu ty nerozumíš – Nerozumím! Nerozumím! Kriste Ježíši, já už přestávám rozumět sama sobě! Vždyť vy jste kusy mého těla – I ty, Richarde; vešel jsi do mne a jsi mé celé tělo, jsi má celá duše. A já vám nerozumím, že? Co vy to máte jiného, co vy to máte tak hrozně svého, že vám už nerozumím?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <stage>(jde blíž k ní)</stage>
+          <p>Ale maminko, nesmíš se rozčilovat. Máš slabé srdce, škodí ti to.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ne, nech mne! Vždyť jsem vám tak rozuměla, když jste byli malí, pamatuješ se, Ondro? Doma jsem věděla, když si někdo z vás venku rozbil koleno, a už jsem vyběhla – A když jste všichni seděli kolem stolu, cítila jsem tak silně – to jsem já. To všecko jsem já. Docela tělesně jsem to cítila: Ty děti, to jsem já! A teď – mami, tomu ty nerozumíš. Richarde, co to do těch dětí vlezlo cizího a… proti mně?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>To víš, drahoušku: jsou už velicí – a mají své vlastní zájmy, ne?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ale já jsem měla vždycky jenom jejich zájmy, rozumíš? Vy všichni, vy jdete za svými věcmi, za svou ctí, za svým posláním, já nevím za čím velikým, já tomu ani nerozumím. Ale já, já jsem šla jenom za vámi. Já jsem neměla žádné jiné poslání než vás. Já vím, nebylo to nic velikého: jen starat se a milovat – Ale když jsem vám, pěti dětem, nesla na stůl mísu jídla, bylo to pro mne jako bohoslužba. Ondro, Ondro, ty nevíš, jak je tam po tobě prázdno!</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Je mi líto, maminko.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Máte pravdu, já tomu asi nerozumím. Například tvůj tatínek padnul, protože bylo nutno pobíjet nějaké divochy. A ty, Ondro, tys umřel na to, žes jim chtěl zachraňovat životy. Vidíš, na to jsem asi hloupá. Každý děláte něco obráceného, a pak mi řeknete, to jsou veliké úkoly, maminko, tomu ty ani nemůžeš rozumět. Jeden z vás bude něco stavět, a druhý to bude bourat; a mně řeknete, to jsou ohromné věci, mami, to my musíme dělat, i kdyby nás to mělo život stát! Život! Vám se to mluví! Sám zemřít, to by každý uměl; ale ztratit muže nebo syna, to byste teprve viděli, co to je, – to byste viděli –</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>V tomhle… snad máš pravdu, mami.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>A i kdybych neměla… Já nechci mít pravdu, já chci mít vás, já chci mít své děti! Tys neměl umřít, Ondřeji; byl jsi tak hodný a vážný chlapec – A měl jsi nevěstu, můj hochu, měl jsi se ženit – Tomu snad rozumím, ne, Ondro?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>– – Ano, maminko.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tak vidíš.</p>
+        </sp>
+        <stage>(Dva výstřely na zahradě.)</stage>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(zvedne hlavu)</stage>
+          <p>Co je?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Nic. To střílejí hoši do terče. Kornel – a Petr.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>To je dobře. Kdo neumí střílet, není k ničemu.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Náš Toni nebude střílet, Richarde. Nemá na to povahu. Ondra taky nerad střílel, že, Ondro! Tys taky byl samé knížky jako Toni –</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Jenže u Toniho to je jako hašiš, maminko. Snít s očima dokořán, víš? To je chyba.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Prosím tě, vždyť je to ještě dítě!</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>To ty si budeš o něm vždycky myslet.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Protože je slabý!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Měla bys ho přidržet, dušinko, aby něco vážně dělal.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Já nechci! Já nechci, aby si Toni bral už teď něco do hlavy! Já ho sem už nepustím –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Proč?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Protože byste chtěli mít na něho vliv! Protože byste mu našeptávali: Buď mužem, Toni, buď mužem! Dělej něco! Jdi pro něco zemřít: pro slávu, pro čest, pro pravdu – Ne, já to nechci, slyšíte? Dejte Tonimu pokoj!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Ale matko, přece nechceš z Toniho udělat holčičku?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Já ho chci mít pro sebe. Ty na něho nemáš žádné právo, Richarde! Toni je pohrobek! Toni je můj, jenom můj, rozumíš? Ten sem už nesmí!</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Maminka nás asi považuje za špatnou společnost.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>– – Ano. Protože jste mrtví.</p>
+        </sp>
+        <stage>(Výstřely na zahradě.)</stage>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Mami, ty se nás bojíš?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Jak bych já se vás mohla bát, můj hochu! Pojď sem blíž, Ondro, ukaž se mi! Kdybys věděl, jak ti sluší ten bílý plášť! Vždycky jsem si myslela, že budeš jednou u mne, až… až se budu loučit s dětmi –</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Ale jdi, maminko, ty tu budeš ještě moc dlouho! Ty tu budeš pořád, víš?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Maminka je silnější, než sama ví. <stage>(Přejde ke stolku se šachovnicí.)</stage> Kdo to tady hrál, miláčku?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Dvojčata. Prý je to tvá úloha.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Já vím. Jednou jsem ji začal řešit – Byla to pěkná úloha.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Hoši se nad tím pohádali. Kornel chtěl, aby Petr táhl na d5.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Správně. Já bych aspoň táhl na d5.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ale Petr říkal, že je ještě jiné řešení. To víš, ti dva jsou pořád v sobě.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(roztržitě)</stage>
+          <p>Jiné řešení? To bych rád věděl – – Asi je teď jiná šachová škola. Ledaže by se šlo dopředu piónem – Zajímavé! Koukám, že má Petr trochu pravdu.</p>
+        </sp>
+        <stage>(Dveřmi vejde docela tiše Jiří v leteckém overalu.)</stage>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Dobrý večer, maminko. Nazdar, tati. Tě bůh, Ondro!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(obrátí se)</stage>
+          <p>Á vida, Jirka!</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Nazdar.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Cože tak brzo, Jiříčku – Lítal jsi dnes?</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Lítal, mami. Dnes se ti ohromně lítalo.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Dobře, že už jsi doma. Já to nevidím ráda, když lítáš; já mám takový strach – Ještě že jsi tak brzo přišel.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>To víš, mami, že má první cesta… je za tebou.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Správně. Koukám, hochu, jak ti to sluší.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(s hrůzou vstává)</stage>
+          <p>Počkej – Jiří, ty vidíš… tatínka… a Ondru?</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Vidím, maminko. Jak bych je neviděl?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ale vždyť oni… oni jsou mrtvi, Jirko! Jak ty je můžeš vidět… jak ty s nimi můžeš mluvit – Jiří!</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>No víš, mami – Ale nebudeš se na mne zlobit? Mně se totiž něco porouchalo na letadle, víš? To je to celé.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Jirko, tobě se něco stalo?</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Nic, mami. Opravdu, ani to vůbec nebolelo. Víš, mně se u letadla ulomilo křídlo – a tak, víš?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Jiří, ty přede mnou něco tajíš!</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Nesmíš se zlobit, maminko, ale já jsem se zabil.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ty… ty…</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Prosím tě, mami, nerozčiluj se!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>… ty jsi tedy mrtev, Jiříčku?</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Ano, mami. Já jsem… to, čemu se říká mrtev.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(kvílí)</stage>
+          <p>Ježíši Kriste, Jiří! Jiříčku!</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Tiše, tiše, mamino. Musíš být klidná.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Jirko, ty jsi se mi zabil!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Musíš to nést statečně, dušinko. Vidíš přece, že zemřel jako hrdina. Byla to krásná smrt.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(jako zkamenělá)</stage>
+          <p>Krásná smrt. – Tak tady to máš, Richarde! Tady to máš!</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Mami, za to opravdu nikdo nemůže. Víš, já jsem totiž něco zkoušel – a selhal mi motor. Já vlastně sám nevím, jak se to stalo.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Můj Jirka – <stage>(Usedne do křesla a rozpláče se.)</stage></p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Nech maminku. Uleví jí to. <stage>(Zůstane nad ní stát.)</stage></p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(odvede Jiřího stranou)</stage>
+          <p>Cos to zkoušel, Jiříku?</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Výškový rekord, tati. Se zatížením. Patnáct set kilogramů.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>A – má to nějaký význam, takový rekord?</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Má, tati. Například ve válce – přeletět co nejvýš s největším nákladem pum, víš?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Pravda. Na tom něco je.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Nebo při letecké dopravě – Tam nahoře už nemáš bouře a mraky, víš? To by mohlo mít ohromný význam.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Nu a jak jsi byl vysoko?</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Něco přes dvanáct tisíc metrů; ale najednou mi začal vysazovat motor –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Je to rekord?</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Je, tatínku. V té kategorii je to světový rekord.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Tak to je dobře. Mám radost, chlapče.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Jenže… když jsem spadl, to ti byla hrozná paseka, tati. Já myslím, že se výškoměr rozbil. Škoda.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Proč?</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Teď se nemůže ani zaznamenat, že jsem byl tak vysoko.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>To je jedno, Jirko. Jen když se té výšky dosáhlo!</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Když o tom nikdo nebude vědět!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Ale udělalo se to, to je hlavní. Kdo by to do tebe řekl! Takový jsi byl hračkář – To ti, hochu, gratuluju.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(sténá)</stage>
+          <p>Jiří – Jiříčku –</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Buď klidná, mamino.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Neplač, dušinko. Stálo to za to. Tak už neplač. Koukej, budou teď starosti s pohřbem –</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Maminko, nesmíš se na mne dívat, až mě přinesou, víš? To, co přinesou, už nejsem já. Já jsem tady… tak, jak jsem byl… a nikdy mě nebudeš vidět jinačího, viď?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Proč jsi mi neřekl, že chceš tak vysoko letět! Já bych tě nebyla pustila –</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>To nešlo, mami. Já jsem musel.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Co tě to napadlo, Jiříčku, co sis to vzal do hlavy! Proč jsi chtěl dělat ten rekord!</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Když má člověk tak dobrý stroj – To se musí, maminko, tomu ty nerozumíš. Víš, to člověka samo táhne – ten stroj si o to řekne sám –</p>
+        </sp>
+        <stage>(Zaklepání.)</stage>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(zhasí žárovku pod svým obrazem; je hluboké šero)</stage>
+          <p>Nesmíš se trápit, miláčku.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Můj Jirka! Takový statný hoch! Proč – proč –</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <stage>(stále tišeji)</stage>
+          <p>Tomu ty nerozumíš, maminko, tomu ty nemůžeš rozumět –</p>
+        </sp>
+        <stage>(Zaklepání.)</stage>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <stage>(šeptem)</stage>
+          <p>Musíš být klidná, mami. Musíš být silná.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(šeptem)</stage>
+          <p>Miláčku, sbohem!</p>
+        </sp>
+        <stage>(Zaklepání.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(vstává)</stage>
+          <p>Ano.</p>
+        </sp>
+        <stage>(Ve dveřích plných denního světla stojí Kornel.)</stage>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Odpusť, maminko,… nechtěl jsem tě vyrušovat… ale… Já ti mám něco říci.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ano.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Právě jsme totiž dostali… zprávu, víš?… Náš Jirka… měl jakousi nehodu s letadlem. Ale nesmíš se lekat, mami. Není to tak zlé…</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>… Ano.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Jiří totiž… Maminko! Ty to už víš?</p>
+        </sp>
+        <stage>Opona</stage>
+      </div>
+      <div type="act">
+        <head>II.</head>
+        <stage>Týž pokoj, ale přibyla rozhlasová skřínka.</stage>
+        <stage>(Toni klečí u rozhlasové skřínky a točí knoflíkem. Ozve se vojenský pochod. Toni s grimasou nechuti točí dál. Ozve se Hlasatel.)</stage>
+        <sp who="#hlas-v-amplionu">
+          <speaker>HLAS V AMPLIÓNU:</speaker>
+          <p>Pozor, pozor, pozor!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Ty máš hlas jako náš Kornel.</p>
+        </sp>
+        <sp who="#hlas-v-amplionu">
+          <speaker>HLAS V AMPLIÓNU:</speaker>
+          <p>Vyzýváme všechny občany, aby zachovali klid a pořádek. Varujeme je důtklivě, aby se nehromadili na ulicích; jinak zakročí policejní i vojenské orgány s největší přísností…</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Brrr! <stage>(Točí knoflíkem dál; ozve se jemná, daleká hudba. Toni klečí a poslouchá, dávaje rukama takt.)</stage></p>
+        </sp>
+        <stage>(Vejde Kornel v polovojenské uniformě: vysoké boty, breeches a kabát s odznaky.)</stage>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Nech toho, Toni. Víš, že to maminka nevidí ráda, když si s tím někdo hraje. Je to památka po našem Jirkovi –</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>– – Slyšíš, Kornele, to je krása!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Ano, ale teď není čas na nějakou krásu. Zavři to, Toni! Já to nemohu poslouchat.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(vypne rozhlas a zůstane klečet)</stage>
+          <p>Škoda. Byla to cizina, ani nevím odkud. Já si představuju, že to hráli… někde na severu. Víš, znělo to tak sněživě –</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Ty si pořád něco představuješ. <stage>(Zapaluje si cigaretu a přechází neklidně po pokoji.)</stage> Hloupé, že musím být doma – <stage>(Dívá se na náramkové hodinky.)</stage> Teď půjdou dělníci z práce. Mohlo by se venku něco semlít – Krucifix, kdybych tam mohl být! <stage>(Zastaví se u okna a poslouchá.)</stage></p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>– – Kornele?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Co?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Co je s Petrem?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Nevím. Někde je zavřený. Neměl se do toho plést.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Ty se taky do toho pleteš, Kornele.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Ano, ale na druhé straně. To je rozdíl.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Jaký rozdíl?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>My jsme pro pořádek – a blaho národa. Tomu ty ještě nerozumíš, Toni. A buď rád.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Petr byl taky pro blaho lidu. A přece jste ho zatkli.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Protože si to blaho představoval jinak. Myslel si, že nám může vládnout ta špinavá luza – Pěkně děkuju, to by to vypadalo! Už nám ukázali, co dovedou: drancovat a mstít se – <stage>(Zamačkává cigaretu.)</stage> To by byla zkáza vlasti, Toni.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Ale Petr přece vystoupil proti tomu, aby se plenilo!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Tím hůř! Petr by chtěl, aby se z té bandy udělala vláda. To my teprve nemůžeme připustit.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Kdo my?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Naše strana. My, národ. Kdyby ti nám měli vládnout s těmi jejich utopiemi… s jejich pacifismem a rovností,… to by byl mazec, chlapče! Brr! Vždyť je to přímo zrada na národě, co ti chlapi chtějí! Armádu rozpustit – úřady převzít – továrny vyvlastnit – to tak! To by byl konec kultury a všeho. Ne, ne, Petře, my svůj národ nenecháme takhle zhuntovat! – Nejvyšší čas, člověče, že se s těmi žvanily a zrádci zatočí – Ale já tě nebudu pořád poučovat, Toni.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(vstane)</stage>
+          <p>Kornele –</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Nu?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Co se stane s Petrem?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(krčí rameny)</stage>
+          <p>Nedá se nic dělat. Musíme čekat. Naši ho zatkli a – zatím je ve vazbě.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Jako zločinec?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Jako rukojmí. Neboj se, tam se mu nic nestane. Ale kdyby ta černá banda začala znova na ulicích střílet, pak – nevím.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Pak Petra… zastřelíte?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Já ne, Toni; ale to víš, boj je boj. Neměl si Petr s tím hnutím nic začínat. To si můžeš myslet, mně by bylo strašně líto, kdyby… kdyby se mu něco stalo. Ale to už není v naší moci – Ať ti holomci složí zbraně, a pak naši pustí Petra – i ty druhé rukojmí. Tak je to.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(s vyjevenýma očima)</stage>
+          <p>Představ si, Kornele,… představ si, jak musí Petrovi být! Jak se dívá na dveře a čeká, pořád čeká,… kdy se otevrou… Půjdete s námi! – Kam? – Marš, to uvidíte!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Počkej. <stage>(Poslouchá.)</stage> Ticho. Naštěstí se tam nestřílí. Kdyby někde padla rána, tak je zle, Toni. Pak naši půjdou bezohledně – Ale já myslím, že už ta holota zalezla. Zbabělci jsou to. Aspoň Petr vidí, s jakými lidmi šel! Postav proti nim strojní pušku, a rozběhnou se jako slepice. – Slyšíš? Je tam ticho. Asi se vyjednává. Ačkoliv nechápu, jak může někdo s takovými gangstery vyjednávat.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Kornele, to má člověk svázané ruce?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Kdo? Kdy?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Když ho vedou na popravu.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Ovšem. Samozřejmě musí být svázán. Proč se ptáš?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(sepne ruce na zádech, jako by je měl svázané)</stage>
+          <p>Víš, já si to dovedu tak hrozně živě představit,… jak je člověku, když takhle stojí… proti vojákům s puškami. Víš, jak se jim dívá… někam přes hlavu… a cítí ve vlasech takový chladný vítr. Ještě ne… ještě okamžik… K líci zbraň! – Ježíši Kriste!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Přestaň!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(řve)</stage>
+          <p>Vy psi! Krvaví psi!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Toni!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Palte! <stage>(Zakolísá a padá na kolena.)</stage></p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(chytí ho za rameno a třese jím)</stage>
+          <p>A už dost! Toni, ty máš chorobnou fantazii!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(zakrývá si oči a vstává)</stage>
+          <p>Kornele, jak se mohou lidé tak strašně nenávidět!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Tomu ty nemůžeš rozumět, chlapče. Ty ses ještě nenaučil strašně věřit.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>V co věřit?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Ve svou pravdu. Nikdy by člověk neudělal za sebe, co dělá za svůj prapor. Nesmíš být tak přecitlivělý, Toni. Naše maminka tě jenom kazí.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Čím?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Jak tě vychovává. Takhle z tebe nikdy nebude muž, který bude za něco bojovat. Mír, láska, soucit – já vím, to je moc hezké, ale… dnes na to není čas, Toni. Dnes jsou na to příliš vážné… a velké doby. Tomu maminka nerozumí. My musíme být připraveni… na všechno. Kdyby se něco Petrovi stalo – Toni, maminka nesmí vědět, jak to s ním je. Musíme jí říkat, že je jen ve vazbě, víš? A třeba už je opravdu odtroubeno; snad se ta černá holota už vzdala, že je tam tak… divně ticho. – Nesmíš ven, Toni.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>A ty?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(krčí rameny)</stage>
+          <p>Měl bych být u našich, tam venku. Bože, jen nechybět, kdyby se něco semlelo! To je tak blbé, že musím trčet doma, u maminky! Ale to víš, kdyby se tu sebemíň stalo… Maminka má tak slabé srdce – Člověk s tou chátrou neví. Jak se jednou začne rabovat – Někdo vás tady musí hlídat. <stage>(Zády k Tonimu vyjme ze zásuvky revolver a nabíjí jej; pak jej dá zpátky.)</stage> Já vím, kde je mé místo. Ale maminka nesmí vědět, že je to tak vážné, Toni. Já tedy… zůstanu doma. Kvůli mamince… a tobě.</p>
+        </sp>
+        <stage>(Vejde Matka.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Kornele, kde je Petr? Proč se ještě nevrátil? Ráno jsi říkal, že to je jistě jen nějaké nedorozumění… že ho na noc pustí… Slyšíš, Kornele?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Ano, maminko, ale… ono to nejde tak rychle. Víš, oni asi pozatýkali sta a sta lidí, a než se to všechno vyšetří – To může trvat… třeba i týden.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Celý týden? Kornele, je to možné, že by našeho Petra tak trápili? Ne, ne. To já tak nenechám. Já tam za nimi půjdu a řeknu jim –</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>To nemůžeš, mami. Ani by tě tam nepustili.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>To by bylo, aby tam nepustili matku! Já tam donesu Petrovi prádlo a něco jíst – Nikdo přece nemůže bránit matce, chlapečku. Matka má na to právo.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Musíš s tím počkat, mami. Podívej se, vždyť jsou i ulice zavřeny vojskem – nikdo nesmí do středu města –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ale matku pustí! Já jim řeknu, že nesu něco synovi – Já musím vidět Petra, Kornele. Já musím vědět, co s ním je. Petr přece není žádný zločinec, aby ho směli zavřít. Ale já jim to řeknu, nemysli si. Já jim řeknu, že nemají právo věznit mého syna!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Těžká věc, mami. To právo mají.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Copak je Petr nějaký zločinec? Udělal někomu něco?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Zločinec… není, mami. To nikdo netvrdí.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tak vidíš! Ale pak nemají právo ho pro nic za nic zatknout!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Maminko, ty tomu snad dost dobře nerozumíš –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Já vím. – Jdi, Toni, jdi. To pro tebe není. Nemusíš slyšet, jak je tvá matka hloupá.</p>
+        </sp>
+        <stage>(Toni se nerad šourá ven.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Já se snažím rozumět všemu, Kornele. Ale nemohu, nu. Jak může někdo zavřít mého syna, když nikomu neublížil, tomu asi budu těžko rozumět.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Promiň, mami. Ty pořád nechceš pochopit, že vlastně máme… občanskou válku.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Nu a? Musíme ji snad mít?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Musíme. Protože jsou lidé rozděleni na dvě strany, a vládnout může jen jedna, víš? A tak se musí rozhodnout bojem, maminko, kdo bude u nás vládnout.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>A kvůli tomu se střílí?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Ano. To jinak nejde.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Prosím tě, to jim tak hrozně záleží na tom, aby vládli? Copak nemají své rodiny? Ať se každý stará o svou rodinu!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Jenže rodina není všecko.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Je, Kornele. Pro mne je. A neříkej, že by Petr chtěl někomu vládnout. Já ho přece znám; ani psíka neuměl uhodit – To spíš ty, Kornele, ale Petr ne. Ten nemá tu povahu, aby někomu poroučel.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>To je jedno, mami; ale jeho strana by chtěla poroučet všem; chtěla by všechno převracet po svém – To by bylo neštěstí pro celý národ, rozumíš? Vždyť je to banda zločinců a zrádců, maminko! Všecko by rozvrátili a rozkradli –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>To ne, Kornele. To zase neříkej! Já přece Petra znám… Petr by nešel s takovými lidmi. Ty bys taky nešel se žádnými zločinci a zrádci, Kornele.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Bohužel, Petr lidem tak slepě důvěřuje –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Vždyť je mladý! Tys nebyl nikdy tak mladý a družný, Kornele. Ty ses tak nekamarádil kde s kým, býval jsi spíš trochu pyšný – Ale s něčím špatným by náš Petr nedržel.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Tak potom bych musel já držet s něčím špatným, maminko. Buď má pravdu jeho strana, nebo… my. Jeden z nás musí jet zatraceně špatně.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ty ne, Kornele. Ty máš něco panského a vznešeného v povaze. Ty bys taky nemohl dělat nic špinavého… a nečestného.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Tak vidíš. A když ti tedy řeknu na svou čest, že náš Petr byl na… nedobré straně a že se ta smečka musí odklidit, aby byl na světě pořádek –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Počkej, chlapče. Museli zavřít našeho Petra, aby byl na světě pořádek?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>– – Museli, maminko. Když už se jednou do toho připletl –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Pak je to hanba, Kornele! Nemohou mít pravdu, když zavřeli našeho Petra!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Mami, kdyby to šlo, tak by Petr nechal… zatknout mne.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Petr?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Já myslím jeho lidé. Jeho strana, víš?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ledaže by to byli hlupáci… a ničemové! Ty přece nemyslíš nic zlého, Kornele! Jak by mohli tebe zatknout? To by bylo stejné bezpráví jako to, že zavřeli našeho Petra. Jsou to zlí lidé, Kornele. Zlí, suroví, hloupí lidé. Bože, kdybych je mohla touhle pěstí udeřit do tváře –</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Prosím tě, mami!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>My ho tam nesmíme nechat, Kornele! Musíš mi nějak pomoci – Říkáš, že ho tam mohou držet ještě několik dní?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Snad, mami; ale pak ho jistě pustí na svobodu. Už je venku klid; uvidíš, že do zítřka bude po všem –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>A pak se mnou půjdeš pro Petra?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Ano, maminko.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>A nemohla bych mu už dnes něco donést?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Dnes ne, maminko.</p>
+        </sp>
+        <stage>(Několik výstřelů v dáli. Stmívá se.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Co je to?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(nervózně)</stage>
+          <p>Nic. To někde na ulici… Prosím tě, mami, nikdo nesmí ven.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ale když Petr jistě čeká –</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Pořád s tím Petrem! Nejde jen o Petra, maminko.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Myslíš, že by se něco mohlo stát Tonimu – nebo tobě?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Odpusť, mami, já myslím na náš národ.</p>
+        </sp>
+        <stage>(Pár dalekých výstřelů.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Jen aby se nic nestalo Petrovi!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(poslouchá u okna)</stage>
+          <p>Jen aby se nic nestalo našemu národu, maminko. – Tam někde venku stojí připravená četa; kdybys věděla, jací to jsou skvělí hoši – elitní četa se jim říká. Vybraní střelci, kteří půjdou první. Čekají, kdy to bude, a dívají se na sebe: Kde je Kornel? – Tady jsem, kamarádi. Já nemohu. Já… musím zůstat doma. Někdo tu musí být, kdyby se cokoli stalo. Chlapci, držte se; ale já… mne můžete škrtnout.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Kornele, co je ti?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Nic, maminko. Neboj se, já… zůstanu u tebe… a Toniho. To víš, když jsou na ulicích nepokoje, tak se mohou vynořit všelijací lidé – Nemusíš se ničeho bát, mami. Já budu doma. <stage>(Jde ke stojanu s puškami.)</stage></p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Co tam hledáš?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Tatínkovu karabinu, co měl v Africe. Měla by se zas jednou vyčistit. <stage>(Vyjímá pušku ze stojanu.)</stage></p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Vždyť na ní denně utírám prach!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Tomu ty nerozumíš, maminko. Puška si žádá víc. Někdy se z ní musí taky vystřelit, víš? <stage>(Položí matce ruku na rameno.)</stage> Žádná starost, mami. Všecko bude v pořádku, uvidíš.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>A Petr se vrátí?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Vrátí, maminko, vrátí.</p>
+        </sp>
+        <stage>(Odchází s puškou. Soumrak houstne.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(dívá se za ním)</stage>
+          <p>Já vím, že mi neříkáš pravdu, Kornele. <stage>(Přechází po pokoji a tu a tam rovná věci.)</stage></p>
+        </sp>
+        <stage>(V dáli několik výstřelů.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Bože, co on, Petr! <stage>(Usedne do lenošky a sepne ruce.)</stage> Kriste panebože, opatruj mého Petra. Marie, Matko milosrdenství, smiluj se nade mnou a ochraňuj mé děti. Kriste Ježíši, vrať mi mého Petra. Marie, Matko boží, oroduj za mé děti. Ježíši ukřižovaný, smiluj se nad mými dětmi.</p>
+        </sp>
+        <stage>(Petr se tiše objeví ve dveřích, má na sobě jen kalhoty a rozhalenou košili. Je už skoro tma.)</stage>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Nazdar, mami!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(vyskočí)</stage>
+          <p>Petře! Už tě pustili?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Kdepak! Ale já už s nimi nemám co mluvit, maminko.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(jde k němu)</stage>
+          <p>Já měla o tebe takový strach – Pojď ke mně, Petříčku!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(uhýbá)</stage>
+          <p>To ne, mami. Prosím tě, zůstaň tam!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(sahá po něm)</stage>
+          <p>Co je s tebou, synáčku? Kdes nechal kabát?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(uhýbá)</stage>
+          <p>Tam. Tam. Oni ti jej asi pošlou, mami. Kabát a všechno. Oni jsou ukrutně pořádní.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Kdo?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Oni. Ti bílí, víš? Nerozsvěcuj ještě, maminko. Mně je hrozně líto, ale já bych ti měl něco říci. Totiž proto jsem za tebou přišel. Snad bude líp, když ti to řeknu sám.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Petře, co se stalo? <stage>(Hmatá po něm.)</stage> Tak pojď sem!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(uniká)</stage>
+          <p>Nesmíš se na mne zlobit, ale já za to opravdu nemohu, mami. Kornel za to taky nemůže.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Zač?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Bože maminko, ty jsi nechápavá! To se přece dalo čekat. Kornel to taky předem věděl. Tak už je to odbyto, víš?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(s rostoucí úzkostí)</stage>
+          <p>Co je odbyto, Petříčku?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ale to už je děsně dávno, mami. To bylo už před půl hodinou.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Co bylo?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>No přece, zastřelili mě, maminko!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Petře! <stage>(Zakolísá a zhroutí se na zem.)</stage></p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ale mami! Bože co já – Pojďte mi někdo pomoci! Ondro!</p>
+        </sp>
+        <stage>(Ze tmy vyběhne Ondra v bílém plášti.)</stage>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Co se stalo?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Podívej se, maminka –</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <stage>(kleká k ní a sahá jí na puls)</stage>
+          <p>Nu ukaž, mamino –</p>
+        </sp>
+        <stage>(Ze tmy vystoupí Otec v uniformě.)</stage>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Je jí něco?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Já nevím, najednou se skácela na zem –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Proč nedáš pozor! <stage>(Kleká k Matce.)</stage> Dušinko, co ti je?</p>
+        </sp>
+        <stage>(Ze tmy se vynoří Jiří v leteckém overalu.)</stage>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Nazdar, Petře. Mamince není dobře? <stage>(Rozsvítí lampu na psacím stole.)</stage></p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <stage>(klečí u ní)</stage>
+          <p>Srdce. Kdybyste věděli, jak jí vysazuje tep – Chudák mami!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Kdybychom mohli někoho přivolat!</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Nač? Vždyť jsme tady my. Teď nebude chvíli o sobě vědět. Nervový otřes, víš? Nejlíp nechat ji v klidu. – Dejte sem nějaké polštáře!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(shání polštáře)</stage>
+          <p>Tady jsou.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <stage>(nese plnou náruč polštářů)</stage>
+          <p>Tumáš.</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Nadzvedni jí hlavu, tati. <stage>(Podkládá ji polštáři.)</stage> Tak, a teď hezky tiše lež, mami. <stage>(Vstane.)</stage> Jděte od ní, ať má pokoj.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(vstává)</stage>
+          <p>Cos ji tak poděsil, Petře? A prosím tě, kde ty se tu vůbec bereš?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Okamžik, tati. <stage>(Obrátí Petra k světlu a dívá se mu na čelo.)</stage> A jej! Jedna a druhá. <stage>(Rozhalí mu na prsou košili a ťuká prstem.)</stage> Jedna, dvě, tři. Tahle ti šla rovnou srdcem, člověče.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Ukaž? Pěkná trefa! – Zvláštní, to vypadá skoro jako – Jednou jsme totiž popravili olovem nějakého Araba – Chlapče, jaks k tomu přišel?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Poprava olovem, tati.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Hochu, hochu, to tě popravili vojáci?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Vojáci, tatínku.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Petře, snad jsi se nedopustil zrady?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ne, tati. Já jsem šel s velkou… a poctivou věcí.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Proti vojákům? To se mi nezdá, mládenče.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Na naší straně jsou taky vojáci, tatínku.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Na obou stranách vojáci?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ano.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Naši proti našim?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ano, tati.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>To se mi nelíbí, Petře. Naši proti našim – máte to nějak popletené, mládenci. – Tak tys dělal vyzvědače, Petříčku?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ne, tati. Já jsem jenom psal do novin.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Nelži, Petře. Za to by tě vojáci nezastřelili. My jsme popravovali jenom špióny nebo zrádce.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Dnes jsou jiné časy, tatínku.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Zdá se. Máte asi nějaká nová pravidla hry, hoši. <stage>(Obrací se k Matce.)</stage> Nu, jak je jí?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <stage>(sedí, skloněn nad ní)</stage>
+          <p>Nic, je v bezvědomí; člověk by řekl, že spí.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>To je dobře. Ona jediná nás může slyšet –</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>– a s námi mluvit. Jen maminka nás ještě může vidět. Ta s námi kontakt neztratila.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(roztáčí bezcílně glóbus na psacím stole)</stage>
+          <p>Mládenci, to byla tak trapná chvíle, když jsem jí to musel říci –</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>To já znám, kamaráde. Člověk má při tom hrozně hloupý pocit, jako by se přiznával k nějakému uličnictví. <stage>(Otvírá u psacího stolu zásuvku a přehrabává se v ní.)</stage> Kluci, víte, že maminka má schované i naše dýmky? To je dobrák, ta mami! Zaživa říkala: Jdeš s tím ven! <stage>(Dává si do úst prázdnou lulku s automatickými pohyby kuřáka.)</stage> M. Mm. Člověk se tu přece jen cítí jako doma.</p>
+        </sp>
+        <stage>(Venku výstřely.)</stage>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(jde k oknu)</stage>
+          <p>Jako by se někde střílelo. Pum! Pum! Vojenské pušky. <stage>(Poslouchá.)</stage></p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(bezcílně přenáší popelníčky a těžítka)</stage>
+          <p>To jsou naši. To střílejí naši.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>A mé sešity tu jsou taky! Ne, co ta mami všechno schovává! <stage>(Listuje v sešitě.)</stage> Aha, tady jsem si kreslil – To je legrace! Tuhle jsem zkoušel nový profil křídel.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(staví na psací stůl černošskou sošku, která byla na skříni)</stage>
+          <p>Dovol!</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Proč to sem nosíš?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Jen tak – Já vlastně nevím. Abych něco dělal, ne?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(obrací se od okna)</stage>
+          <p>Jen ho nech, Jirko! To je jenom neklid mrtvých. Chtějí na sebe upozornit, že tu byli, víš? To ho jednou přejde – Poslouchej, Petře, držel jsi se aspoň… jako muž?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(staví někam dózu s tabákem)</stage>
+          <p>Držel, tati. Ani jsem nemrknul.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Tak je dobře. Nesmíš nám dělat hanbu, víš?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <stage>(sedí u Matky)</stage>
+          <p>– – Musí to být… zatraceně nepříjemný pocit, taková vlastní poprava.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ani se neptej! Když tak člověk stojí se svázanýma rukama, a proti němu těch šest venkovských vojáčků – Mně ti jich bylo líto, člověče. Já bych nemohl někoho popravit –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Tys neměl zavázané oči?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ne, tati. Já jsem nechtěl.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Chlapík. Kdo při tom velel?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Takový mrňavý, pisklavý lajtnant, tati. Děsně se naparoval, aby nebylo vidět, že mu je z toho špatně. Ještě si přede mnou nabíjel revolver… jako že mě dorazí, kdyby snad ti vojáci špatně trefili.</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Sakra!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>To se musí, Ondro. To jinak nejde.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Krucifix, ten mi šel na nervy, ten ferda! Tak jsem mu řekl, jdi pryč, ty mrťafo, já budu velet sám –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Tos neměl, Petře. Poprava… je vážná věc. Já při tom jednou byl a – nu jaképak řeči!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Tati, něčím si člověk musí dodat kuráže. To ti je tak všivá situace – Vojáci se smáli, a já taky. Nějak nám to všem ulevilo, víš? Tak on zrudnul, vytasil šavli a vřísknul: Pozor! K líci zbraň! – Já vám řeknu, mládenci –</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Co?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>– já měl co dělat, abych nepadl na kolena nebo co. To vám je najednou takový ohavný pocit slabosti v nohách… a v žaludku… brr! Jako hadr jsem si připadal. Zvláštní, ani se nepamatuju, že ten nácek zařval Palte. Jenom jsem cítil, jak mi do vlasů vane chladný vítr.</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>To byl strach.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Možná. <stage>(Znovu neklidně přemisťuje věci.)</stage> Ale řeknu vám… je to hrozný pocit. Hrozný.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <stage>(vzhlédne od svého sešitu)</stage>
+          <p>Mně nemusíš povídat.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ne, to ty si nemůžeš představit, Jirko. A nikdo.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Já to znám, holenku. Víš, když jsem padal se svým letadlem.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Copak, to byl jen okamžik.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Si nemysli. Z dvanácti tisíc metrů to nějakou chvíli trvá. To člověk vůbec nemůže odhadnout, jak dlouho padá. Připadá mu to… jako věčnost. A pořád, pořád se mu zdá, že se proti němu řítí celá země.</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Co sis při tom myslel?</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Nic vlastně. To byl jen takový děsný klid. Tak to je konec, nebo tak něco. Docela klidně, jasně a hloupě si to člověk myslí a přitom kouká, kde se asi rozmázne. Tamhle bych nechtěl, tam jsou stromy; ale tady na tom poli by to snad bylo lepší –</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Tak tos měl ještě dobré, Jirko.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Nemysli si. Ta lhostejnost, to ti je horší a… odpornější než nevímjaká bolest. Jako by v tobě něco zaživa tuhlo, a ty se už nemůžeš hnout – Brr!</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>To nebyla lhostejnost, Jirko. Spíš hrůza.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Já nevím; ale podruhé bych nechtěl – Hu! Příšerný pocit!</p>
+        </sp>
+        <stage>(Pauza.)</stage>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>A… jak to bylo u tebe, Ondro?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Já měl dost času, člověče. U mne to trvalo… pár dní a nocí.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>To umírání?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Ano. Tři dny jsem věděl,… že musím natáhnout. To se člověk něco namyslí… a navzpomíná, o jej! A přitom… přitom jsem se pořád pozoroval: tak teď jsem u těch a těch příznaků. Játra jsou pryč, Ondroušku. Tak to jsme tak a tak daleko –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>– – Prosím tě, Ondro, jaks tu žlutou zimnici chytil?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>To byl pokus, tati. My jsme chtěli zkusit, přenáší-li ji ten mizerný komár, ta Stegomyia, taky z nemocných, kteří překonali první stadium nákazy. Víš, to se s jistotou nevědělo. Tak jsem se nechal poštípat od pokusných komárů –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>– a dostals ji.</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Dostal, a pořádnou. Ale bylo to vlastně proti předpokladu.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Ty, má takový pokus nějakou cenu?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <stage>(krčí rameny)</stage>
+          <p>Má, aspoň vědeckou. My jsme chtěli poznat, jak se ten bacil v komárovi vyvíjí. To je dost důležité, tati.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>A umírá se na tu zimnici těžko?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Těžko, chlapče; ležíš jako Lazar, horečky a žloutenka a – nu ledacos ještě. Všivá nemoc, kamaráde. Brr! Já bych ji nikomu nepřál.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>– – Tak vlastně jenom náš tatínek měl krásnou smrt.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Já? Proč myslíš?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Inu padnout v boji, to aspoň má člověk na to tata odbyto; a může se přitom bránit –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Ale vždyť já jsem nepadl, synáčku!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ne? Jak to? My jsme vždycky mysleli –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>– že jsem padl při posledním výpadu, já vím. To bylo kvůli mamince, děti. Jí se přece nemohlo říci, jak to bylo.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Jak jsi tedy –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Já jsem nepadl, kdepak. Jenom jsem tam zůstal ležet, hoši.</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Raněn?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Ano. A tam mě našli domorodci.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>A pak –?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Nu, pak mě umučili. <stage>(Mávne rukou.)</stage> A dost o tom, ne? – Ondro, jak je mamince?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Puls je lepší.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Děti, rozumí se, maminka to nikdy nesmí vědět –</p>
+        </sp>
+        <stage>(Pauza.)</stage>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <stage>(nad svým sešitem)</stage>
+          <p>Víte, ono se řekne… umřít za něco velkého: za vědu, za vlast, za víru, za spásu lidstva nebo co; ale když je člověk v tom –</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>– tak to vypadá jinak, já vím. Kdyby si lidé dovedli představit, jak při tom člověku je, tak by se… snad… míň oháněli tím, jak je krásné… za něco umřít. Krásné! Já jsem moc krásného na své smrti nenašel.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Já taky ne, člověče.</p>
+        </sp>
+        <stage>(Venku v dáli pár výstřelů.)</stage>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Inu vždycky se za něco umíralo, kdopak ví už zač; asi to jinak nejde. Ale někdy si myslím,… kdybych byl teď plukovníkem nebo generálem na penzi a žil tady s vámi a s maminkou, – psal bych své paměti a zrýval půdu na zahradě… Nebylo by to špatné, hoši. Nechte to být, život je život; člověk aspoň může něco dělat. Já vím, vy všichni jste položili život za něco velikého: tuhle Ondřej za vědu a Jirka za pokrok techniky, a Petr – zač jsi vlastně zemřel, Petříčku?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(staví figurky na šachovnici)</stage>
+          <p>Za rovnost a svobodu, tati.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Aha. A já za krále, vlast a za čest praporu. Nebo proto, že jeden plukovník dal pitomý rozkaz, ale to už je jedno. Samé krásné a veliké věci, jenomže… víte, já jsem z vás nejdéle mrtev a řeknu vám – nebylo by k zahození ještě trochu žít. Já byl moc rád na světě, děti. Hrozně rád. A když se dívám na vás, myslím si, třeba by někdo z těch kluků opravdu dokázal něco kloudného… nebo i velikého. A zatím jsme samý hrdina. Je to bída, mládenci. Mohli jsme být naživu.</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <stage>(vstává a protahuje se)</stage>
+          <p>Je to otrava, viď? Jenom přikukovat, co dělají jiní – My mrtví se jen tak vezeme s sebou. <stage>(Přechází ke knihovně.)</stage> Lidi, kdybych teď byl živ, já bych pracoval jako divý. Spavá nemoc, to by mne bavilo!</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <stage>(nad svým sešitem)</stage>
+          <p>To jsem blázen!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Co máš?</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Ale tady ten konstruktivní nápad. Docela možná věc, tati. Sakra, že jsem to nedodělal dřív! Počkat, to by muselo být takhle – <stage>(Kreslí, sedě u psacího stolu.)</stage> To by šlo.</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <stage>(otvírá knihovnu)</stage>
+          <p>Ne, ta naše mami je ohromná!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(nad šachovnicí)</stage>
+          <p>Proč?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Pořád ještě odebírá mé medicínské časopisy! Tady je nový sešit Bulletinu pro tropické nemoci – Do toho jsem taky psával.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>On tam byl kdysi o tobě pěkný nekrolog, víš?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <stage>(vytahuje jeden sešit)</stage>
+          <p>Vlastně bych se měl na něco podívat. <stage>(Uvelebí se na pohovce a prohlíží nerozřezaný sešit.)</stage></p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(stojí nad Matkou)</stage>
+          <p>Tak vidíš, dušinko, máš jich tu zas plno. Jsou tu jako doma. Pro tebe, maminko, jsme pořád jako živí, viď?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(nad šachovnicí)</stage>
+          <p>Ne, to nepůjde. Kruci, to je těžké!</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <stage>(nad výkresem)</stage>
+          <p>Šlo by to, ale těžiště by se muselo dostat doleji.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(otvírá přenosný gramofon)</stage>
+          <p>Ten gramofon jsem vozil s sebou, děti. I na vojnu. <stage>(Mechanicky jej natáčí.)</stage> Tohle byla má nejmilejší deska. Chudák maminka ji tam nechává na památku – <stage>(Spustí gramofon.)</stage></p>
+        </sp>
+        <stage>(Gramofon tiše hraje. Otec poslouchá. Ostatní zabráni ve své.)</stage>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <stage>(nad svým sešitem)</stage>
+          <p>Tak vida, už našli něco proti lepře. To se mi zas líbí.</p>
+        </sp>
+        <stage>(Venku střelba.)</stage>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <stage>(nad svým výkresem)</stage>
+          <p>A pořád se tam střílí.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(nad šachovnicí)</stage>
+          <p>Počkejte, to se teprve začne. Tati, ta tvá úloha kouká na remis. Nedá se to vyhrát. Ani černý, ani bílý. Škoda.</p>
+        </sp>
+        <stage>(Střelby přibývá. Gramofon dohrává.)</stage>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>To byla má nejmilejší – <stage>(Obrátí se a poslouchá.)</stage> Slyšíte? Ratata. To jsou strojní pušky, Petře.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Tak to je začátek! <stage>(Vyskočí.)</stage> Škoda, chtěl bych být při tom. Tak teď se, kamarádi, držte!</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <stage>(vstává a odhazuje sešit)</stage>
+          <p>To zas bude hrdinů, co? – Lidi, tohle já nerad slyším!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Člověče, vždyť je to hudba! Teď to naši roztáčejí. Už je to tady, mládenci. Teď ženou útokem. Teď před sebou zametají ulice strojními puškami a běží, běží dopředu – To je nádhera! Hoši, přece jsem nezemřel nadarmo!</p>
+        </sp>
+        <stage>(Střelba houstne a mohutní.)</stage>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Tohle je rychlopalné dělo. Pam – pam – pam – pam. Vzdálenost tři kilometry, směr – tam.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <stage>(vstává)</stage>
+          <p>Střed města, tati.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(zimničně)</stage>
+          <p>To jsou naše děla! Tak teď máme vyhráno!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Aby to nepoděsilo maminku.</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Ta o ničem neví. <stage>(Mechanicky svíjí a rozvíjí v rukou kus obvazového fáče, který vyňal z kapsy.)</stage> Blázni, v ulicích střílet! To bude masakr!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ať je! Musí se udělat místo pro nový svět. Ondro, Jiří, to přece stojí za to! I kdyby to tisíce a tisíce životů stálo – Slyšíte tu střelbu? To je krása! Lidi, kdybych tam mohl být –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Teď se střílí taky tam a tam – Mně se to nelíbí. To už není bitva, chlapče. To zní jako vraždění.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Aťsi! To jinak nejde. Jednou lid musí se zrádci zúčtovat – Jen ať je postřílí, ty bílé bandity! Slyšíte, jak se to šíří? Naši se nedají! S námi jde pěchota. S námi jdou námořníci. S námi je lid. Oni mají jen důstojníky. Oni mají letce a děla, ale ve městě z nich nemohou střílet. Vždyť by si rozbili město, že tati?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Já nevím, Petře. Vy teď máte jiná pravidla.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <stage>(u rozhlasové skřínky)</stage>
+          <p>A kdo má v rukou vysílačku?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Samozřejmě naši. Zkus to, Jirko, ať je slyšíme –</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Dobrá. <stage>(Otočí knoflíkem rádia.)</stage> Tak pozor.</p>
+        </sp>
+        <sp who="#hlas-v-amplionu">
+          <speaker>HLAS Z AMPLIÓNU:</speaker>
+          <stage>(připomínající hlas Kornelův)</stage>
+          <p>Halo, zde velitelství bílých.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(ustrne)</stage>
+          <p>To není možné!</p>
+        </sp>
+        <sp who="#hlas-v-amplionu">
+          <speaker>HLAS Z AMPLIÓNU:</speaker>
+          <p>Halo halo! Velitel armády bílých vyzývá naposledy černé bandy, aby zastavily řež ve městských ulicích. Složte zbraně! Nestane-li se tak do pěti minut, dá velitel rozkaz, aby jeho dělostřelectvo pálilo na město.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <stage>(křičí)</stage>
+          <p>To přece nemohou udělat! Tati, Ondro, že to nemohou udělat? Ti chlapi se zbláznili!</p>
+        </sp>
+        <sp who="#hlas-v-amplionu">
+          <speaker>HLAS Z AMPLIÓNU:</speaker>
+          <p>Halo halo! Velitel armády bílých nařizuje občanům, aby se ihned uchýlili do sklepů. Neopustí-li černí své pozice, bude do čtyř minut zahájena palba z děl na střed města. Podle potřeby budou nasazeny i síly letecké.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Barbaři! Barbaři! To přece neuděláte! Vy byste nám chtěli nahnat strachu, vy bílé bestie –</p>
+        </sp>
+        <sp who="#hlas-v-amplionu">
+          <speaker>HLAS Z AMPLIÓNU:</speaker>
+          <p>Halo halo! Odpovědnost za zničení města a lidské životy padne na vedení černých. Varovali jsme včas. Vyjednávali jsme do poslední chvíle, zatímco černí začali zákeřně vraždit naše rukojmí, naše důstojníky a občany –</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>To je lež! To vy jste začali, vy psi, vy krvaví psi! <stage>(Rozhaluje si prsa.)</stage> Co bylo tohle?</p>
+        </sp>
+        <sp who="#hlas-v-amplionu">
+          <speaker>HLAS Z AMPLIÓNU:</speaker>
+          <p>Odmítáme další vyjednávání. Kdo bude přistižen se zbraní v ruce, bude na místě zastřelen. Kdokoli stál na straně černých, bude postaven před válečný soud. Halo halo! Za dvě minuty bude zahájena palba z děl na střed města. Vyzýváme naposledy černé, aby se vzdali. Jen tak můžete uchránit naše město před nedozírnou pohromou.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ne, ne, ne, neposlouchejte to! Kamarádi venku, nesmíte se vzdát! Ať si tedy rozbijí město! Ať se děje co chce!</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Ať je zač umírat, viď? Zavři to, Jiří!</p>
+        </sp>
+        <stage>(Jiří otočí knoflíkem rádia.)</stage>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ano, ať je zač umírat! Černí, do boje! Za naši svobodu! Za naše vítězství! Za nový svět! Kamarádi, kamarádi, nedejte se! Ať na to zajde celé město, ať se podřeže národ, ať na to svět praskne: jen když to vyhraje naše věc! Raději všichni pojít, než aby měli vrch ti bílí psi –</p>
+        </sp>
+        <stage>(V dáli dělová salva.)</stage>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Tak to jsou děla. Patnáctky. Vidíte, drželi slovo.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Víte, lidi, teď jsem skoro rád –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>– že jsi mrtev, ne? To ti věřím. Bum! Tohle byla čtyřiadvacítka, hoši.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Vrazi! Mizerní vrazi!</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Počkejte – Tiše. Maminka přichází k sobě.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Chudák mami, zrovna teď –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Zhaste!</p>
+        </sp>
+        <stage>(Tma. Dunění děl a rachot pušek.)</stage>
+        <sp who="#ondrej">
+          <speaker>HLAS ONDRŮV:</speaker>
+          <p>Tak sbohem, mamino.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>HLAS OTCŮV:</speaker>
+          <p>Neboj se, miláčku. My jsme pořád s tebou.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>HLAS JIŘÍHO:</speaker>
+          <p>To je jen bouřka, mami, to přejde.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>HLAS PETRŮV:</speaker>
+          <p>Vrazi! Vrazi!</p>
+        </sp>
+        <stage>(Dunění děl a střelba. V okně roste rudá záplava dalekého požáru.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(zvedá se)</stage>
+          <p>Petře! – Kornele! – Toni! – Kornele, co se to děje? Kde je Petr? – Toni, kde je Kornel? – Kornele, slyšíš?</p>
+        </sp>
+        <stage>(Ve dveřích Toni.)</stage>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Mami, maminko, ty jsi tady? <stage>(Rozsvítí.)</stage> Já tě hledám –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(zakrývá si oči)</stage>
+          <p>Toni, kde je Petr? Ještě nepřišel?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Ne, mami. Prosím tě –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Co se tam děje, Toni?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Střílí se, maminko, ale hrozně daleko, víš? Nemusíš se bát. Já budu stejně u tebe – <stage>(Otvírá ve stole zásuvku a chce vyjmout revolver, jejž Kornel nabil.)</stage> Nic se neboj!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Co to bereš, Toni! – Necháš tam ten revolver! Neber to do rukou, to není pro tebe!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Víš, mami,… já jsem jenom myslel, kdyby něco… On Kornel říkal…</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Kde je Kornel? Zavolej Kornela!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Nesmíš se zlobit, mami –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Toni, kde je náš Kornel?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Šel tam, mami. Vzal pušku a řekl: Toni,… řekni mamince, ať se nezlobí, že ji tu musím nechat…, ale já musím jít!</p>
+        </sp>
+        <stage>(Za dunění děl) Opona</stage>
+      </div>
+      <div type="act">
+        <head>III.</head>
+        <stage>Týž pokoj, ale všechny zbraně ze stěn i stojanů jsou odklizeny.</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(snímá ze stěny poslední pár pistolí a zamyká je do zásuvky. Klíč bere k sobě)</stage>
+          <p>Tak. Já nechci, aby měl Toni na očích samé zbraně. <stage>(Rozhlíží se.)</stage> Já to nechci. <stage>(Jde k oknu a zavírá okenice.)</stage> A ven se taky dívat nebude. <stage>(Rozsvítí vypinačem u dveří.)</stage> Není tu už nic? – <stage>(Jde k rozhlasové skřínce.)</stage> A ty, ty už taky přestaneš mluvit. Toni nemusí vědět, co se děje venku. <stage>(Váhá u rozhlasové skřínky.)</stage> A já – já to nepotřebuju vědět. Já už nechci nic slyšet. Mně už po ničem nic není. <stage>(Váhá.)</stage> Nu vidíš, musíš mlčet. A chtěla bys mluvit, viď? Zase bys chtěla plést Tonimu hlavu, že? Nene, ty už nám tu křičet nebudeš. Hlásej si, co chceš, – ale tady ne. Tady ne. Tady jsem já. Už nebudeš mému Tonimu nic namlouvat – Nu, co tomu říkáš? <stage>(Otočí knoflíkem rádia.)</stage> Tak co, ty –?</p>
+        </sp>
+        <sp who="#hlas-v-amplionu">
+          <speaker>HLAS Z AMPLIÓNU:</speaker>
+          <stage>(ženský, vášnivý, naléhavý)</stage>
+          <p>Je to zločin. Byl spáchán zločin proti všemu právu, jsou pošlapány všechny smlouvy, stalo se nejbrutálnější násilí. Slyšte, slyšte, slyšte: bez opovědění války, bez důvodu, beze slova jednání překročila cizí armáda hranice naší země. Bez jediného slova výstrahy, bez důvodu, bez opovědění války počala cizí děla a letadla bombardovat naše města. Nepřítel využil chvíle, kdy se náš národ sám smrtelně oslabil nešťastnou občanskou válkou, a přepadl naše území pod záminkou, že přichází obnovit pořádek. Kdo mu dal k tomu právo? Jaký má důvod k intervenci? Není důvodu, není práva. Voláme z ampliónu celý svět: slyšte, stal se zločin, stal se nevýslovný zločin! We call the world: hear, hear, it is an outrage, it is an awful crime! Nous appelons toute l’humanité: voyez, quel crime! Wir rufen die ganze Welt: es wurde ein schreckliches Verbrechen begangen! Náš národ, náš nešťastný a vysílený národ je dobíjen jako zvíře!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(zavírá knoflík rádia)</stage>
+          <p>Co na mne křičíš? Já tě nechci slyšet! Zločin! Zločin! To nebyl zločin, když zastřelili mého Petra? A to nebyl zločin, že musel padnout můj Kornel? Můj Kornel! Můj Petr! Mně budeš mluvit o zločinech! Já, já je znám, já matka; na mně se jich spáchalo nejvíc. Já vím, tys neznala mé hochy; kdybys je byla viděla, jak jich tu bývalo plno – Jen si křič do světa; já jsem taky křičela, a myslíš, že mi někdo odpověděl? <stage>(Otočí knoflíkem.)</stage></p>
+        </sp>
+        <sp who="#hlas-v-amplionu">
+          <speaker>HLAS Z AMPLIÓNU:</speaker>
+          <p>– My sami, my sami si musíme pomoci. Budeme se bránit do posledního dechu. Nastavíme hradbu těl a srdcí. Naše pluky vržené proti nepříteli bojují se zoufalou statečností; ale nemohou se udržet, nedostanou-li posil. Voláme všechny muže: musíte je vystřídat. Slyšte, voláme všechny muže do posledního. Voláme vás, muži této země: hlaste se, hlaste se, hlaste se do zbraně! Voláme vás, ženy této země: nastoupíte do práce za své muže a syny, které pošlete k praporům –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(otočí knoflíkem)</stage>
+          <p>Ne, ne. To máš marné. Já ti nikoho nemohu poslat, já už nikoho nemám. Toni nemůže, Toni je ještě dítě. Takový rozkaz není, aby musely děti na vojnu. To je nesmysl. Co ty máš co posílat něčí muže a syny k praporům? Nejsou tvoji, tak nemluv! Máš ty nějakého syna? To kdybys mně řekla! <stage>(Otočí knoflíkem.)</stage></p>
+        </sp>
+        <sp who="#hlas-v-amplionu">
+          <speaker>HLAS Z AMPLIÓNU:</speaker>
+          <p>– Už ne lidský hlas, ale vlast sama vás volá. Já vlast volám všechny muže. Já matka vlast prosím své syny: braňte mne, braňte mé děti –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(zavírá knoflík rádia)</stage>
+          <p>Ne, ty nejsi matka! Já jsem matka, já, já, rozumíš? Jaké ty máš právo na mé děti? Kdybys byla matka, nemohla bys je posílat na vojnu! Ukryla bys je jako já, zamkla bys je jako já a křičela bys: nedám, nedám! – Já už nemám koho dát, abys věděla. Nikdo tu není. Jsem tu jen já, stará, bláznivá ženská. Já už jsem dala všechny syny. Nemám už, nemám –</p>
+        </sp>
+        <stage>(Ve dveřích stojí Toni.)</stage>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Maminko –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(obrátí se)</stage>
+          <p>Co tu chceš? <stage>(Vykřikne hrůzou.)</stage> Toni, ty taky –? <stage>(Vrhne se k němu a ohmatává ho.)</stage> Ne, chválabohu jsi to ty, jsi to ty! Jsi živý, viď? Jak jsi mne poděsil! – Co tu hledáš, Toni? Víš, že to nechci, abys… abys tady poslouchal… tu ženskou. Já si to nepřeju, Toni!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Mami, když má takový… krásný a strašný hlas! Víš, já si ji dovedu tak živě představit: je vysoká a bledá… a má tak veliké oči –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Nestarej se o ni.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Když mne volá!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>To se tebe netýká, Toni. Nech ji, ať si říká, co chce. A sem už nechoď, můj chlapečku. Já ten pokoj zamknu.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Proč?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(usedá)</stage>
+          <p>Nu tak, zamknu. Víš, dám sem zásoby jídla pro nás. Když teď bude vojna, musím mít co ti dát jíst, můj maličký. Ten pokoj už stejně k ničemu není – Chvála bohu, že jsem pamatovala na zásoby! My dva, víš, my budeme bydlet dole, ve sklepě. Aby nás nikdo neviděl. Bude to jako vymřelý dům.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Ale mami –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Počkej, Toni. Neboj se, já tě dobře schovám, nikdo nebude vědět, že jsi doma. Nesmíš ven, ale to vydržíš – všecko vydržíme, dokud se to venku nepřežene. Ani nebudeš vědět, že je válka. To pro tebe není, viď? Ty jsi na to příliš mladý. Zalezeme do sklepa jako myši, a ty, ty si tam budeš číst knížky, viď, – a vzpomínat, jak venku svítí slunce. Řekni, že nám tam nebude zle?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Maminko, prosím tě – prosím tě, mami, pusť mě!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ale dítě, co to říkáš? S tím už přestaň, chlapče!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Prosím tě, maminko, pusť mě, pusť mě, abych se mohl hlásit jako dobrovolník! Mami, já tady nemohu zůstat –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Neblázni, Toni! Ty přece nemůžeš jít. Není ti ještě osmnáct let –</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>To je jedno, maminko! Uvidíš, všichni půjdou, celá naše třída se bude hlásit, mami, prosím tě, maminko, ty mě musíš pustit!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>To je nesmysl, ty dětino. Co by tam s tebou dělali?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>To si nemysli, mami, já budu stejně dobrý voják jako každý z naší třídy! Já už jsem dal své slovo…</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Komu?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Kamarádům ve škole, maminko.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Myslím, Toni, že to je spíš věc tvé matky než tvých kamarádů.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Odpusť, mami, ale když půjdou všichni –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>– tak nemusíš jít ty, můj maličký. Ty zůstaneš doma.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Proč bych zrovna já neměl jít?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Protože ty na to nemáš povahu, Toni. Protože jsi na vojenskou službu slabý. A protože já to nechci, synáčku. Stačí?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Nezlob se, maminko, ale – podívej se, vždyť jde opravdu o všecko… o vlast a… o národ…</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>A ty ten národ zachráníš, ne? Bez tebe to nepůjde, viď? Myslím, chlapečku, že ty to nevytrhneš.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Kdyby takhle mluvila každá matka –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Já bych se jí nedivila, můj milý. Myslíš, že se s tím může smířit, aby jí někdo bral děti jedno po druhém? To by ani nebyla matka, holenku, kdyby si to nechala líbit!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Ale když je taková hrozná válka, mami –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Já jsem ji nezavinila, Toni. Žádná máma ji nezavinila. My matky, synáčku, jsme nikdy žádnou válku nevedly; my jsme na ni jen doplácely svými dětmi. Ale já už nebudu tak hloupá, abych dala to poslední, co mám. Ať si to kdo chce vyřídí beze mne. Já už nic nedám. Tebe nedám, Toni.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Nesmíš se zlobit, mami, ale – já musím. Víš, to je… prostě nařízení. Všichni muži se musejí hlásit.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ty nejsi muž, Toni. Ty jsi mé dítě. Stačí, abych zavřela oči, a víš, co vidím? Vidím malé, žvatlavé dítě, jak sedí na zemi a strká si do pusy hračku. To nesmíš, Toni, to nesmíš! Dej tu hračku z pusy!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Já už nejsem dítě, maminko!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ne? Tak pojď sem a ukaž se mi! Ty bys tedy chtěl jít na vojnu? Já jsem opravdu měla… velkého syna, Toni, ale ten sliboval… něco jiného než tohle, pamatuješ se? Já jsem měla syna, kterého jsem učila… nenávidět válku, že? Který říkal, mami, až my budeme velcí, tak už nikdy nebude válka; my ji nechceme, my už nebudeme zabíjet, my už se nedáme honit na jatky; mami, jak může někdo vzít do ruky zbraň proti člověku, – pravda, Toni?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Ano, ale – tohle je něco docela jiného, mami. To je jen obrana, víš?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Copak ty bys mohl jít někoho zabíjet?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Ano, maminko. Totiž já myslím… když člověk musí –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>A šel bys – rád?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>… Děsně rád, maminko.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>– – Tak vidíš, Toni. Tak vidíš. Už i ty jsi se mi vysmekl z rukou, můj hošo. Já už ani tobě nebudu rozumět. Jak ses mi změnil, můj maličký!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Mami, ty pláčeš? Ty… ty mne tedy pustíš?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ne, Toni. Já jsem stará… a tvrdohlavá ženská. Já nedám svého syna… na něco, co jsem proklela. Mně už ty vaše války přišly příliš draho, synáčku. Ty nepůjdeš. Já tě nepustím.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Mami, to mně přece nemůžeš udělat! Uvidíš, já… já ti uteču! Uteču! Uteču!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(vstane)</stage>
+          <p>Tak počkej! Podívej se na mne, Toni! Podívej se na mne!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Maminko, když tě tak prosím –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ty bys mne tu nechal, můj jediný? Na to ty nemyslíš, co by bylo se mnou? Jak bych já mohla být živa, kdybys ty mi odešel! To mně přece nemůžeš udělat, Toni. Já už mám jenom tebe.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Vždyť se mi nic nestane, mami, neboj se! Na mou čest, já to cítím, já to vím – Já si vůbec nedovedu představit, že by se mi něco stalo.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ne, ty si to nemůžeš představit, ale já ano, Toni. Já ano. Všichni, všichni jste šli jako na procházku, a jen se neboj, mami, za chvíli nás tu zase máš – Já vás znám, chlapče. Mně nic nenamluvíš.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Ne, mami, tobě nechci nic namlouvat. Já vím, že… že tam třeba mohu padnout. Víš, já si to dovedu tak přesně představit – Od té chvíle, co jsem se rozhodl… jít, jsem už tolikrát padl… víš, já to jen tak prožiju, ale tak ti živě – Nebo tam vidím ležet kluky z naší třídy – jako že všichni padli, víš? Taková ti hromada jich leží, a mají ještě inkoust na prstech – A vidíš, je mi to docela jedno. Žádný strach z toho nemám. Rozumíš, to jako znamená, že musím. Já si vůbec nedovedu představit, že bych nešel… My jsme si řekli, že to je prostě povinnost… nás všech.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tak víš, Toni, co je tvá povinnost? Abys zůstal u mne. Jsi mi to dlužen… za tatínka… a za své bratry. Někoho mi tu musíte nechat. Já mám snad… taky nějaké právo, děti!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Já vím, maminko, ale tady je větší povinnost –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Větší, větší – Já vím, hochu, že pro tebe už nic nejsem. Nakonec jsem pro vás všechny byla… něco vedlejšího. Já už jsem poznala ty vaše veliké mužské povinnosti, – ale abych je brala tak vážně jako vy, to nemůže nikdo žádat, Toni. Na to jsem příliš stará. Tisíce, tisíce let stará, mé dítě.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Mami, nepustíš-li mě, tak – tak –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tak co? Přestaneš mě mít rád, že? Budeš mě nenávidět, viď? Budeš opovrhovat mnou i sebou, budeš sebou trhat jako na řetěze – Já to vím, Toni. Měj si mě nerad, můj maličký, ale budu tě mít! A až bude po té válce, řekneš sám: Měla jsi pravdu, mami, i na život je třeba mužů. <stage>(Položí mu ruku na rameno.)</stage> Tak co, Toni?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(vymkne se jí)</stage>
+          <p>Prosím tě, mami, nech mne –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tak dobře. Měj si mě nerad, synáčku. Já už jsem dost tvrdá… i na to. Nakonec i láska je tvrdá a zlá, můj milý. Připadám si jako vlčice. Nic na světě není tak zběsilého jako mateřství. – Když tedy chceš, jdi si, Toni, jdi si, ale zabiješ mne. Nu tak, co nejdeš?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Prosím tě, maminko, nezlob se na mne; víš, já ti to neumím tak říci, ale nech mluvit ji… vlast, a uvidíš… uvidíš sama, že musím jít jako všichni…</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Nic neuvidím, Toni. Copak nevíš, že jsem slepá pláčem? Co já mám vidět, já, stará máma! Já jsem vždycky viděla jenom vás, děti, vás, malé, košilaté děti – Snad jsem si na to ani nezvykla, že jste tak vyrostli! Ukaž se mi, dítě, pojď sem! Jak už jsi veliký! Viď, Toni, že už se musíš zachovat… jako dospělý muž?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Ano, maminko. Musím.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tak vidíš. Pak tu nesmíš nechat starou, bláznivou, pětibolestnou mámu, aby se utrápila. Ty nevíš, co bych udělala; šla bych na ulice a křičela, že proklínám tuhle válku, že proklínám ty, kdo vás do ní posílají –</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Mami!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>To mi nesmíš udělat, Toni. Musíš být mamince oporou… a ochranou. Já už mám jen tebe. Já vím, že je to pro tebe oběť…, ale jako muž, Toni, musíš i takovou oběť unést…</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(kouše se do rtů, aby přemohl pláč)</stage>
+          <p>Mami, já… To víš, když mne potřebuješ… já tedy… já opravdu nevím…</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(políbí ho na čelo)</stage>
+          <p>Tak vidíš. Já jsem věděla, co od tebe mohu čekat. Jsi rozumný… a statečný hoch. Tatínek by měl z tebe radost. Pojď, Toni, musíme se připravit… na tu válku. <stage>(Opírá se mu o rameno a vede ho ven. U dveří zhasí vypinačem. Tma.)</stage></p>
+        </sp>
+        <stage>(Je slyšet, jak zvenčí zamyká pokoj a vytahuje klíč.)</stage>
+        <sp who="#ondrej">
+          <speaker>HLAS ONDRŮV:</speaker>
+          <stage>(potmě)</stage>
+          <p>Chudák mamina!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>HLAS OTCŮV:</speaker>
+          <p>Chudák Toni!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>HLAS KORNELŮV:</speaker>
+          <p>Musí to být hrozné pro toho hocha.</p>
+        </sp>
+        <stage>(Pauza. Zvenčí je slyšet bubny a pochod vojáků.)</stage>
+        <sp who="#petr">
+          <speaker>HLAS PETRŮV:</speaker>
+          <p>Slyšíte? Vojáci.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>HLAS JIŘÍHO:</speaker>
+          <p>Jdou na frontu.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>HLAS OTCŮV:</speaker>
+          <p>Dobře jdou. Ráz dva! Ráz dva!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>HLAS KORNELŮV:</speaker>
+          <p>Hned by šel člověk s sebou.</p>
+        </sp>
+        <stage>(Pauza. Bubínky zvenčí doznívají.)</stage>
+        <sp who="#otec">
+          <speaker>HLAS OTCŮV:</speaker>
+          <p>Jiří, snad bys mohl chytit nějaké zprávy z rozhlasu… Měli bychom vědět, co se děje.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>HLAS JIŘÍHO:</speaker>
+          <p>Ano, tati. <stage>(Cvakne knoflík radioaparátu.)</stage></p>
+        </sp>
+        <sp who="#muzsky-hlas-v-amplionu">
+          <speaker>MUŽSKÝ HLAS Z AMPLIÓNU:</speaker>
+          <stage>(tlumený)</stage>
+          <p>… naše východní armáda ustupuje dál za těžkých bojů; na pravém křídle se zastavila, opřena o horský hřeben, a klade nepříteli houževnatý odpor.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>HLAS OTCŮV:</speaker>
+          <p>Jen aby nás neobešli!</p>
+        </sp>
+        <sp who="#muzsky-hlas-v-amplionu">
+          <speaker>MUŽSKÝ HLAS Z AMPLIÓNU:</speaker>
+          <p>Při leteckých bojích bylo sestřeleno sedmnáct nepřátelských letadel. Devět z našich letců se nevrátilo.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>HLAS JIŘÍHO:</speaker>
+          <p>Devět k sedmnácti, to není zlé.</p>
+        </sp>
+        <sp who="#muzsky-hlas-v-amplionu">
+          <speaker>MUŽSKÝ HLAS Z AMPLIÓNU:</speaker>
+          <p>Bombardování našich otevřených měst pokračuje. Počet zabitých civilních osob se odhaduje na osm tisíc. O osudu města Villamedie, napadené nepřátelským letectvem, nemáme dosud bližších zpráv –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>HLAS OTCŮV:</speaker>
+          <p>Zavři to, Jiří. Někdo jde. <stage>(Cvaknutí knoflíku.)</stage></p>
+        </sp>
+        <stage>(Ticho.)</stage>
+        <stage>(Rachotí klíč, a do temného pokoje vejde Matka.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(zamkne za sebou dveře, jde několik kroků dál a zůstane nehnutě stát)</stage>
+          <p>Já vím, že jste tady. Slézáte se sem jako švábi k pivu. – Co na mně chcete?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>HLAS OTCŮV:</speaker>
+          <p>My jsme jen tak přišli za tebou, dušinko.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Za mnou ne, Richarde. <stage>(Rozsvítí lampu na psacím stole a rozhlíží se.)</stage></p>
+        </sp>
+        <stage>(V pokoji porůznu stojí nebo sedí Starý pán, Otec, Ondra, Jiří, Kornel a Petr.)</stage>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Dobrý večer, mami.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tak vida, všichni jste tady!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Miláčku, ty sis ani nevšimla – Taky dědeček nám přišel.</p>
+        </sp>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <stage>(sedí na křesle v staromódních černých šatech, s řády na prsou)</stage>
+          <p>Dobrý večer, holčičko.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Dědeček je tu taky? Tatínku, tebe jsem už tak dlouho neviděla!</p>
+        </sp>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <p>Nu vidíš, děvenko. Ani jsem se moc nezměnil, viď?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Nezměnil. A proč, prosím tě – <stage>(Dívá se z jednoho na druhého.)</stage> Proč jste se tu tak sešli? To má být rodinná rada?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Ale ne, maminko. My jsme jen chtěli být při tobě, když jsou tak těžké dny.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Nelžeš, Ondro? Já nevím, že byste někdy byli tak moc při mně. – O čem jste tady mluvili?</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>O ničem, mami. Jenom jsme poslouchali zprávy.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Koukejme! Člověk by ani nevěřil, že vás to ještě může tak tuze zajímat.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Nás mrtvé? Hrozně, maminko. Víc, než si dovedeš představit.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Jenomže už se do toho chválabohu nemůžete míchat.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Nemysli si, dušinko. Víc, než víš. Víc, než vy živí víte. Když je vojna, my mrtví vstáváme –</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>My totiž nejsme tak moc mrtví, jak ty si myslíš, maminko.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Víš, to, co se děje, je ještě pořád náš osud. A naše dílo.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Vaše dílo, já vím. Je-li tohle vaše dílo, tak se tím nemusíte zrovna chlubit.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Ale miláčku, vždyť ta válka ještě není u konce! Ještě se může krásně vyhrát. Jen dosadit nové síly – Já mám starost s tím levým křídlem. Staroušku, kam jsi dala mé štábní mapy?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(odemyká psací stůl)</stage>
+          <p>Tady jsou. Prosím tě, co s tím chceš?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Jenom se na něco podívat. Děkuju. <stage>(Rozkládá si mapy po stole.)</stage></p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>– – Nejhorší je, tati, že máme rozbité kádry. A málo důstojníků. V té občanské válce jich bylo pobito, to ti byla hrůza. – Teď teprve člověk vidí, jaká to byla paseka!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Tu paseku jste ovšem zavinili vy, Kornele.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>My ne, Petře. Vy ji máte na svědomí. Vy s vaší anarchií, s vaší luzou, s vaším sebevražedným pacifismem –</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>A vy s vašimi kanóny, člověče. Ty byly horší.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Nevěř tomu. Snad jsme se měli klidně dívat, jak rozvracíte národ, ne? Pěkně děkuju, to by to dopadlo! Zaplaťpánbůh, že jsme před vaším rozkladem zachránili aspoň jádro naší armády!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>A my jsme chválabohu aspoň naučili bojovat lid. Ještě budete rádi, že si zvykl umírat!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Ale poslouchat ne.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Ne, vás už asi poslouchat nebude. Uvidíš po válce!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>To víš, po válce bude někdo mít pokdy na vaše nesmyslné utopie!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Bude! Zrovna bude! Holenku, jak jednou ozbrojíš lid – To se teprve ukáže, k čemu bude tahle válka dobrá!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Petře, vyjde-li někdo z téhle války vítězně, bude to jenom národ. Silný, ukázněný, sebevědomý národ. Za to té válce žehnám. Za to, že udělá konec všemu tomu hloupému žvanění o novém a lepším řádu světa –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Děti, děti, vy jste se ještě nepřestali hádat? Že se nestydíte, vy dvojčata: oba jste na to padli, a ještě toho nemáte dost? Co si o vás pomyslí dědeček?</p>
+        </sp>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <p>Já tomu nerozumím, děvenko; to víš, mladá krev!</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Odpusť, mami; ale dokud trvají myšlenky – pokud není rozhodnuto, oč jsme bojovali – To nedá člověku ani po smrti.</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>My všichni, maminko, vedeme dál svůj boj. Za pravdu, za národ, za lidstvo – jak kdo. Ještě chceme, aby naše věc zvítězila. A ještě můžeme všechno prohrát – i po smrti.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(skloněný nad štábní mapou)</stage>
+          <p>Tahle linie by se dala hájit. Hoši, to by byl klasický manévr: pevně zakotvený střed, a průlom na křídle – A pak je, ty pacholky, poženeme od moře!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Já nevím, tati; na průlom bychom museli dosadit hrozné síly.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Museli, mládenče, museli. Však do toho půjdeme všichni, ne?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Kdo všichni, Richarde?</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Nu všichni, dušinko. My taky. My taky.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Vy tam budete něco platni!</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Víc, než si myslíš, maminko. Národ musí mít s sebou své mrtvé.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Proto si jich musel tolik nadělat, ne?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Víš, mami, tentokrát jde i o nás; kdyby se ta válka prohrála –</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>– pak jsme umřeli nadarmo, my všichni; pak by nezbylo nic… ani po nás mrtvých, maminko.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Richarde, děti, vy… vy chcete opravdu jít –?</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Musíme, maminko, to je služba. Vždyť víš, že nás volají. Tatínek půjde se svým starým plukem –</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Já bych šel s dobrovolníky.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>A já – nu, já asi zůstanu při svém letectví.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Kdyby se tak dostal Toni k mému pluku!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Richarde!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>To býval výborný pluk, dušinko. Slavný pluk. Vždycky míval nejvíc padlých.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tak proto jste sem přišli, že? To jsem si myslela! – Ale já vám Toniho nedám, slyšíte? Toni nemůže jít! Toni nemůže!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>To by byla veliká škoda, matko. To by mně toho chlapce bylo hrozně líto.</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Musíš to chápat, maminko. Toniho by děsně pokořovalo, kdyby musel zůstat doma. Toni je tak citlivý – Pro něho je to věc svědomí.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Je přece… synem majora. Jeho tatínek padl na bojišti… jako hrdina. Jak by to, prosím tě, vypadalo, kdyby se náš kluk nehlásil! To je otázka cti, víš?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Je to boj za vlast, maminko. To se musí. To je jeho povinnost.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Mami, já tě taky prosím. To víš, já jsem byl a… jsem pořád proti válkám; ale takovému násilí se musíme bránit, maminko. To je věc přesvědčení.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(rozhlíží se jako štvaná)</stage>
+          <p>Vy byste chtěli, aby taky padl, že? Přišli jste si pro něho, ne? Tak vy jste všichni proti mně! Všichni jste proti mně!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Ale dušinko, to není proti tobě!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Je! Vida, co jste toho na mne vytáhli! Čest! svědomí! přesvědčení! povinnost! A to má být všecko? Víc už nevíte?</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Co tím myslíš, mami?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Vy jste mi zapomněli říci: Tomu ty nerozumíš, maminko. To je mužská záležitost.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Máš pravdu, Dolores; je to mužská záležitost.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tak vidíte. A já jsem z ní udělala… svou ženskou záležitost. Svou mateřskou záležitost. My si asi… nebudeme rozumět, Richarde. A vy děti,… s vámi se taky už nedomluvím. Myslím, že bychom o tom… nemuseli dál mluvit.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Ale maminko –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Nechte mne! A jděte mi odtud! Já… já už vás nechci vidět. <stage>(Odvrátí se.)</stage></p>
+        </sp>
+        <stage>(Pauza. Mrtví se na sebe bezradně dívají.)</stage>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Nám maminka nevěří –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Já mám proč, Ondro.</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>My jsme pro Toniho… špatný příklad, viď? Ale kdyby ti to řekl dědeček –</p>
+        </sp>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <p>Co, já?</p>
+        </sp>
+        <stage>(Všichni se obracejí k Starému pánovi.)</stage>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <p>Bože to je tak těžká věc, děti. Já přece nejsem žádný voják nebo hrdina – Já ani žádnou válku nepamatuju.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tatínku, poslal bys posledního syna do války?</p>
+        </sp>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <p>Holčičko, my jsme byli takový starý svět – Vy jste jiní. Vy už jste si na války a takové věci zvykli. Jeden mrtvý, tisíc, sto tisíc mrtvých, co to pro vás je? Ale my, kdepak! Válka, to pro nás bylo – jako báje, víš? Jako něco, co snad u nás ani nemůže doopravdy být.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ale kdyby byla, tatínku, kdyby byla –?</p>
+        </sp>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <p>Ale počkej, my jsme nevyřizovali věci tak hr hr. Víš, my jsme o válkách spíš jenom četli; a učili jsme se, že je čestné zemřít pro vlast. My staří jsme tomu věřili, holčičko; pravda, ono se tehdy nepadalo tolik jako teď – bylo to vzácnější, víš? Nu, já už asi jiný nebudu. Zemřít za vlast – já bych tam šel, děvenko. Řeknu ti, šel bych.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Já ti to věřím, tatínku. Ale poslal bys do války své děti?</p>
+        </sp>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <p>Počkej, to je jiná otázka, to mi sem nepleť. Já jenom říkám, kdybych byl jako Toni, že bych šel. Já jsem starý člověk, děti, a – nu, moc hrdinství jsem v životě nenadělal. A taky jsem to někam dotáhl, ne? Myslel jsem si, krásná kariéra: takový vysoký úřad a řády a tituly – Počkej, co jsem to chtěl říci?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tatínku, poslal bys své děti na smrt?</p>
+        </sp>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <p>Aha, už vím. Koukej, já jsem svá léta dožil do poslední tečky; naplnil jsem všechno… a nechal jsem po sobě dobrou památku. Byl to šťastný život. A přece si někdy myslím, – to bylo všecko? – Nu vidíš, holčičko, tak je to.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Co tím chceš říci? Co to má co dělat s Tonim?</p>
+        </sp>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <p>Nic, dceruško, nic; já jen, abys věděla, co je život. Víš, když ty ses měla narodit,… tak to tvou maminku mohlo stát život. Já jsem klečel u ní a… nu, hrozně jsem se styděl, víš? Říkal jsem si… tak tady má žena dává všechno v sázku, aby se narodilo dítě, – a co já? – Tak vidíš, v tom je cena života: že se za něj platí… třeba i životem. To je taky… ženská záležitost, holčičko. A to máš tak se vším, rozumíš? Kdyby se za vlast neplatilo životem… kdyby se za čest, za pravdu, za svobodu neplatilo životem, neměly by tu ohromnou, tu strašnou cenu, víš? Jen ho nech jít, toho svého synka. Je to tak… v pořádku.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tatínku, nic víc mi neřekneš?</p>
+        </sp>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <p>Já ani nevím, dceruško. Já bych chtěl, víš, abych mohl být v té válce taky něco platen. Kdybych mohl aspoň jednoho vnuka poslat… aspoň jednoho, abych nebyl tak docela mrtev, tak docela k ničemu! To víš, takový starý, mrtvý člověk jako já už nemůže mnoho dát –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tatínku, tys Toniho nikdy ani neviděl! Jak můžeš tak mluvit?</p>
+        </sp>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <p>Pravda, neviděl, ale je to můj rod. Šel by tam za nás. Takový starý, dobrý rod –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tatínku, Toni nepůjde!</p>
+        </sp>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <p>Jak myslíš, holčičko. Je to škoda. Takový dobrý rod jsme byli –</p>
+        </sp>
+        <stage>(Pauza.)</stage>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Nu tak, podívej se, dušinko. Pusť toho chlapce!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Richarde, vždyť ty Toniho vůbec neznáš! Nikdys ho nedržel v náručí, nikdys ho nechoval na klíně – Kdybys věděl, jak byl droboučký, když se narodil, kdybys viděl ty jeho ručičky – Ty s ním nemůžeš tak cítit, ty bys nemohl tak mluvit, kdybys ho znal! Toni nemůže jít. Toni je na vojnu slabý. Ty ho znáš, Ondro: tys byl doktor, a řekni – řekni tady, jak byl Toni vždycky slaboučký! Sám jsi mu předpisoval léky, pamatuješ se? Ondro, tys mu býval místo otce: tak řekni, tak přece řekni, že Toni nemůže jít!</p>
+        </sp>
+        <stage>(Ondra krčí mlčky rameny.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ty nechceš mluvit? – Tak pověz ty, Jiří; tys byl nejhravější z dětí – Co jsi se Toniho natrápil, že si neumí a nechce hrát! Vždycky jsi říkal, Toni k ničemu není, Toni je holčička, Toni je strašpytel – Jen si vzpomeň, jak ses mu vysmíval! Řekni, Jirko, řekni sám: copak by mohl tak bojácný hoch jít na vojnu? Můžeš si to vůbec představit?</p>
+        </sp>
+        <stage>(Jiří krčí mlčky rameny.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ty taky nechceš mluvit, viď? Tak řekni ty, Kornele, řekni ty, Petře: vy přece víte, jak je Toni… chorobně citlivý! Vždycky zbledl jako stěna, když vy dva jste se začali rvát, a dal se do pláče – Pamatujete se, jak jednou viděl týrat koně? Dostal skoro křeče… a ještě po týdnech křičel ze spaní… Prosím tě, Kornele, co by si počal na vojně? Proboha Petře, řekni aspoň ty – Vy dva jste ho znali nejlíp!</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Těžká věc, mami. Všichni budou muset jít.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>– – Vy nemáte Toniho rádi! Nikdo z vás!</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Ale máme, dušinko, máme ho opravdu rádi, jenže… chlapec se utrápí, když bude muset zůstat doma. My už kvůli němu…</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Tak ať se trápí! Když je takový… když je to pro něho taková oběť, zůstat u matky… Ani ten Toni mne už nemá rád!</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Má, maminko. Nesmírně tě má rád. My všichni tě máme rádi, víš?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Neříkej, Ondro, to mně neříkejte! Vy vůbec nevíte, co to je, mít rád! Vy jste vždycky měli ještě něco jiného, ještě něco bůhvíjak většího, než je láska; ale já ne. Já nemám nic většího, Richarde. Já si neumím nic většího představit. Kdybyste věděli, co to je takové dítě – Richarde, kdybys viděl Toniho, když se narodil! Byl tak bezmocný a sladký – Kdybys viděl ty jeho směšné vlásky – Jak si, lidi, můžete myslet, že by Toni mohl jít na vojnu!</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Mami, Toni je už veliký.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>To se zdá vám, ale mně ne. Tak vidíš, že ničemu nerozumíte! Toni je přece dítě, které se mi narodilo plačící, dítě u mých prsou, dítě, které vedu za udumlanou ručičku – Kristepane, lidi, vy jste se zbláznili! Copak mohu takové dítě někam pustit?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Nás jsi taky… musela pustit, maminko.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>To není pravda! Nepustila! Ale vy, vy jste vždycky měli nějaký svůj svět, kam jsem já za vámi nemohla; měli jste svůj svět, kde jste si hráli na velké… Copak si myslíte, že jste pro mne někdy byli velcí a dospělí? Vy? Myslíte, že já jsem ve vás někdy viděla hrdiny? Ne, hoši; jen zabitá mláďata jsem ve vás viděla, jen malé, hloupé děti, kterým se stalo neštěstí – I ty, Richarde! Víš, co ty jsi pro mne byl? Muž, který spí po mém boku s otevřenými ústy; slyším ho dýchat a celým svým tělem, celou svou radostí cítím, že je můj. A najednou mi ho někde daleko zabijí! Copak nechápete, jak je to nesmyslné? Jak já k tomu přijdu, co mně bylo po nějaké vaší hloupé, cizí Africe! A přece já, já jsem za ni musela dát člověka, který byl můj –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>To už je tak dávno, miláčku!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Není, Richarde. Pro mne ne. Pro mne to všechno je přítomnost. Nebo ty, Ondro: pro mne jsi pořád ještě ten bručivý, zamračený chlapec, který dělá strašně rozumného na svá léta; chodím s tebou po zahradě, ruku na tvém rameni, jako bych se o tebe opírala – Nebo ty, Jirko: co jsem se ti naspravovala kalhot! Pořád jsi mi lezl po stromech – Pamatuješ se, jak jsem ti každý večer natírala jódem tvé věčné odřeniny a škrábance? To nebolí, mami, říkal jsi, to nic není… Nebo ty, Kornele –</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Co s tím, maminko! To jsou maličkosti…</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Co s tím? Vidíš, tomu vy právě nerozumíte. Vidíte, každá ta maličkost mně i teď připadá tisíckrát důležitější než všechny vaše výpravy a války. A víš proč? Protože já máma jsem z vás měla jen ty maličkosti. Já jsem vám mohla sloužit jen v těch maličkostech. To byl můj svět. Jak jste si vzali do hlavy něco velikého, už jste se mi nějak vysmekli z rukou – Ani jste se mi nemohli do očí podívat, jako byste měli špatné svědomí. Tomu ty nerozumíš, maminko! Teď máte zas takové vyhýbavé oči, vy všichni. Já vím, vy máte zas něco za lubem, něco vašeho, něco velikého –</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Nesmíš se zlobit, maminko, ale tentokrát jde opravdu o něco tak vážného –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Já to nechci slyšet, Ondro. Jde-li o Toniho, já nechci nic slyšet. Vy máte své důvody, a já mám taky své. Já vím, vy máte své úkoly a povinnosti, svou slávu, svou čest, svou vlast a já nevím co ještě –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Svou službu, maminko.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ano, svou službu. Já měla taky svou slávu, a to jste byli vy. Já měla svůj domov, a to jste byli vy. Já měla svou službu, a to jste byli vy, vy, vy – Tak mně vyložte, proč zrovna já, proč jsem to vždycky já, proč po celé dějiny světa jsem jenom já, já máma, já ženská, kdo musí tak hrozně platit za vaše veliké věci!</p>
+        </sp>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <p>Nesmíš se na ně tak zlobit, děvečko.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Já se na ně nezlobím, tati. Já se zlobím na svět. Pořád posílají mé děti na smrt za něco velkého, za nějakou slávu nebo spásu nebo co – A řekni, tatínku, je tím ten svět o něco lepší? Bylo to vůbec něco platno?</p>
+        </sp>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <p>Bylo, holčičko, bylo. Víš, velká minulost, to taky musí být.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Já vím, dušinko, pro tebe to bylo těžké, ale – víš, když se tak na tebe dívám –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Nedívej se na mne, Richarde, nedívejte se na mne, děti! Vypadám hrozně, když se zlobím.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Ty jsi tak prudká, víš? Ty bys taky šla na smrt, miláčku, kdyby to muselo být.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ale za vás, člověče! Za vás a za nic jiného! Za svého muže, za svou rodinu, za děti – Co mně ženské kdy bylo po něčem jiném! Ne, ne, ne, já vám Toniho nedám!</p>
+        </sp>
+        <stage>(Pauza.)</stage>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Víš, tati, ona má trochu pravdu. Toni je skutečně… fyzicky slaboučký. Takový chabý, nevyvinutý hoch –</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Spíš povahově slabý, Ondro. Exaltovaný a přitom hrozně bázlivý. Já jsem ještě neviděl kluka, který by měl tak málo životní odvahy.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Za to on nemůže, Jirko, to jsou nervy. Toni je nadaný, ale nemožně nervózní. Já nevím, co z toho hocha bude.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Je ho škoda. Takhle nebude nikdy k ničemu.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ne, tak zase nesmíte mluvit! Vy mu křivdíte! Richarde, nesmíš na ně dát, oni ho vždycky podceňovali! Toni je prostě… příliš citlivý; ale jinak se mi spravil… měl bys z něho radost, jak je teď zdravý a silný! Abys věděl, on sám se chtěl hlásit na vojnu! Sám s tím přišel a prosil – Toni za to nemůže. Já jsem ho nepustila. Já ho nepustím.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>A proč, Dolores?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>… Protože nechci být sama. Třeba je to ode mne sobecké, ––– ale já už mám jen Toniho, Richarde! Prosím vás, děti, prosím tě, tatínku, nechte mi ho! Vždyť bych už neměla proč být živa, neměla bych komu sloužit, neměla bych nic – Copak nemám žádné právo na život, který jsem zrodila? Copak jsem si za ty tisíce let nic nevysloužila? Prosím vás, děti, udělejte to kvůli mně, kvůli své pošetilé, utahané mámě, a řekněte sami, že Toniho nemusím dát – tak to řekněte, copak neslyšíte?</p>
+        </sp>
+        <stage>(Pauza.)</stage>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <p>Bože bože! To jsou těžké věci. Nesmíš se tak rozčilovat, děvečko. Třeba už na toho hocha ani nedojde. Třeba už je pozdě a jsme poraženi –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(skloní se k mapě)</stage>
+          <p>Ještě nejsme, dědečku. Tahle linie by se dala hájit. Kdyby se nasadily všechny síly –</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Já počítám s naším lidem, tati. Lid má zbraně… a bude střílet na ulicích. Uvidíš, i děti půjdou; vezmou flinty po tatících –</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <stage>(rozhlíží se)</stage>
+          <p>Mami, kam jsi dala ty zbraně odtud?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Co říkáš, můj milý?</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Kam jsi dala tatínkovy zbraně?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Schovala. Před Tonim.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Škoda. Ta jedna kulovnice by potřebovala namazat.</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <stage>(otvírá zásuvku u psacího stolu a vytahuje svůj starý sešit, listuje v něm)</stage>
+          <p>Škoda že jsem nemohl dodělat tu svou konstrukci. Dobrá by byla. <stage>(Usedne se sešitem.)</stage></p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(nad mapou)</stage>
+          <p>Tady tu pozici, tu bych sám chtěl hájit, hoši. Je to takový pěkný průsmyk –</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Prosím tě, mami, kde máš tu kulovnici?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Vy se natrápíte! <stage>(Odemyká dubovou skříň.)</stage> Tam ji máš.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Děkuju. <stage>(Vytáhne kulovnici a prohlíží ji.)</stage> Dobrá by byla. <stage>(Začne ji čistit na stole koudelí a olejem.)</stage></p>
+        </sp>
+        <stage>(Pauza.)</stage>
+        <sp who="#stary-pan">
+          <speaker>STARÝ PÁN:</speaker>
+          <p>Tak vidíš, holčičko, už máš skoro celou rodinu pohromadě.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>– – Slyšíte?</p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <p>Co?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>To ticho.</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Jako by někdo chtěl něco říci.</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Kdo –? <stage>(Dívá se z jednoho na druhého a pak se obrátí k rozhlasové skřínce.)</stage> Už vím.</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <stage>(zvedá hlavu)</stage>
+          <p>Co je? <stage>(Obrací se k rozhlasu.)</stage></p>
+        </sp>
+        <sp who="#jiri">
+          <speaker>JIŘÍ:</speaker>
+          <stage>(zvedá hlavu)</stage>
+          <p>Co máte? <stage>(Dívá se napjatě k ampliónu.)</stage></p>
+        </sp>
+        <stage>(Všichni obráceni tváří k ampliónu. Pauza.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Když chcete – Vás už nic jiného nezajímá. Jen ta válka. <stage>(Otočí knoflíkem rádia.)</stage></p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Když je válka, mami, tak se dělá válka.</p>
+        </sp>
+        <sp who="#muzsky-hlas-v-amplionu">
+          <speaker>MUŽSKÝ HLAS V AMPLIÓNU:</speaker>
+          <p>– – předvoj se blíží k řece. Dobrovolné čety vyhodily mosty do povětří a jsou připraveny hájit předmostí do posledního muže. Nepřítel musí být zdržen stůj co stůj. Dobrovolníci vám vzkazují: Padneme, ale neustoupíme.</p>
+        </sp>
+        <sp who="#zensky-hlas-v-amplionu">
+          <speaker>ŽENSKÝ HLAS V AMPLIÓNU:</speaker>
+          <p>Slyšte, slyšte, slyšte! Voláme všechny muže do zbraně. Voláme všechny muže. Na nás už nezáleží. Už nebojujeme za sebe, ale za zem svých otců a dětí. Ve jménu mrtvých i budoucích voláme do zbraně celý národ!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ne. Toni nepůjde. Já ti ho nedám!</p>
+        </sp>
+        <sp who="#muzsky-hlas-v-amplionu">
+          <speaker>MUŽSKÝ HLAS V AMPLIÓNU:</speaker>
+          <p>Halo halo! Velitelství severní armády hlásí další ústupové boje. Bojuje se o každou píď půdy, o každou mez, o každý domek. Lidé ze vsí odmítli opustit své domovy a hájí je se zbraní v ruce. Nepřítel je nucen každou vesnici i samotu srovnat se zemí. Ztráty na životech jsou neobyčejně těžké.</p>
+        </sp>
+        <sp who="#ondrej">
+          <speaker>ONDRA:</speaker>
+          <p>Chudáci, ti lidé tam –</p>
+        </sp>
+        <sp who="#otec">
+          <speaker>OTEC:</speaker>
+          <p>Nech být, dobré je to. Přece jen to zpomalí postup nepřítele.</p>
+        </sp>
+        <sp who="#zensky-hlas-v-amplionu">
+          <speaker>ŽENSKÝ HLAS V AMPLIÓNU:</speaker>
+          <p>Slyšte, slyšte, právě zachycujeme jiskrovou zprávu z lodi Gorgony. – Sečkejte u ampliónů, nemohu to přečíst. Naše loď Gorgona… Ach bože! <stage>(Hlas se zlomí:)</stage> Odpusťte mi, já tam mám syna! <stage>(Pomlka.)</stage> – Slyšte, slyšte, slyšte! Naše cvičná loď Gorgona… se čtyřmi sty námořními kadety na palubě… se pokusila prorazit nepřátelskou blokádu, aby se vrátila do svého přístavu. V pět hodin sedm minut… byla zasažena nepřátelským torpédem. Loď… se potápí. <stage>(Vzdech.)</stage> Kadeti na palubě Gorgony vzkazují… poslední pozdrav domů. Prosí, aby jim byla… naposledy… zahrána… naše hymna. – Můj synu! Můj chlapečku!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Cože? Tak ty přece máš syna? Ty taky máš dítě?</p>
+        </sp>
+        <sp who="#muzsky-hlas-v-amplionu">
+          <speaker>MUŽSKÝ HLAS V AMPLIÓNU:</speaker>
+          <p>Halo halo, přerušujeme vysílání zpráv. Halo halo halo! Voláme cvičnou loď Gorgonu! Voláme Gorgonu! – Halo! – Halo, slyšíte nás? Kadeti na Gorgoně, pozor! Kadeti na palubě Gorgony, vlast vám posílá poslední pozdrav.</p>
+        </sp>
+        <stage>(Z ampliónu zní hymna.)</stage>
+        <stage>(Všichni mrtví se beze slova zvedají a stojí v pozoru.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>– – Čtyři sta chlapců? Copak se to smí, zabíjet takové hochy?</p>
+        </sp>
+        <sp who="#petr">
+          <speaker>PETR:</speaker>
+          <p>Prosím tě, mami, teď nemluv!</p>
+        </sp>
+        <stage>(Všichni stojí jako zkamenělí. Hymna doznívá.)</stage>
+        <sp who="#muzsky-hlas-v-amplionu">
+          <speaker>MUŽSKÝ HLAS V AMPLIÓNU:</speaker>
+          <p>Halo halo halo! Cvičná loď Gorgona se už nehlásí.</p>
+        </sp>
+        <sp who="#kornel">
+          <speaker>KORNEL:</speaker>
+          <p>Sbohem, kadeti! <stage>(Pověsí pušku na stěnu.)</stage></p>
+        </sp>
+        <sp who="#zensky-hlas-v-amplionu">
+          <speaker>ŽENSKÝ HLAS V AMPLIÓNU:</speaker>
+          <p>Slyšte, slyšte, slyšte! Voláme všechny muže. Voláme národ do boje. Vlast volá své děti. Do zbraně! Do zbraně!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Co, ty ještě křičíš! Ještě nemáš dost, ty matko? Ještě tam posíláš jiné?</p>
+        </sp>
+        <sp who="#muzsky-hlas-v-amplionu">
+          <speaker>MUŽSKÝ HLAS V AMPLIÓNU:</speaker>
+          <p>Halo halo! Velitelství západního úseku hlásí: Bojujeme na celé frontě proti přesile. Boj na obou stranách nabývá nebývalé zuřivosti. Naši letci hlásí nástup nových nepřátelských divizí –</p>
+        </sp>
+        <stage>(Bušení na dveře.)</stage>
+        <sp who="#toni">
+          <speaker>HLAS TONIHO:</speaker>
+          <p>Mami! Maminko!</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(otočí knoflíkem rádia)</stage>
+          <p>Ticho!</p>
+        </sp>
+        <stage>(Bušení na dveře.)</stage>
+        <sp who="#toni">
+          <speaker>HLAS TONIHO:</speaker>
+          <p>Maminko, jsi tam?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Ano, maličký. <stage>(Dává znamení, aby někdo zhasil.)</stage> Už jdu.</p>
+        </sp>
+        <stage>(Tma, pauza.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(odemyká dveře)</stage>
+          <p>Co tu chceš, Toni?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Ty jsi tady potmě?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Rozsvěť.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(rozsvítí lustr kontaktem u dveří. Pokoj je prázdný, jen na stole zůstaly rozložené štábní mapy)</stage>
+          <p>Mami, s kým jsi to mluvila?</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>S nikým, synáčku.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Ale já jsem tady slyšel takové hlasy –</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>To bylo jen… tohle, chlapče. <stage>(Otočí knoflíkem rádia.)</stage></p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>A nač tu máš ty mapy?</p>
+        </sp>
+        <sp who="#muzsky-hlas-v-amplionu">
+          <speaker>MUŽSKÝ HLAS V AMPLIÓNU:</speaker>
+          <p>Halo halo! Hlavní stan hlásí: Při ranním náletu nepřátel bylo zničeno město Villamedia. O život přišlo přes osm set civilních osob, z toho většina žen a dětí. Náš starý hrad, pokladnice našich dějin, lehl popelem.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Slyšíš, mami?</p>
+        </sp>
+        <sp who="#muzsky-hlas-v-amplionu">
+          <speaker>MUŽSKÝ HLAS V AMPLIÓNU:</speaker>
+          <p>Letecká puma zasáhla nemocnici, kde zahynulo šedesát nemocných. Město Villamedia hoří.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <p>Maminko, prosím tě –</p>
+        </sp>
+        <sp who="#zensky-hlas-v-amplionu">
+          <speaker>ŽENSKÝ HLAS V AMPLIÓNU:</speaker>
+          <p>Slyšte, slyšte, slyšte! Voláme k ampliónu celý svět! Voláme lidi! Nepřátelská letadla napadla dnes ráno vesnici Borgo a svrhla pumy na obecnou školu. Do prchajících dětí střílela ze strojních pušek. Osmdesát dětí bylo raněno. Devatenáct dětí postříleno. Třicet pět dětí bylo výbuchem… roztrháno.</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <p>Co říkáš? Děti? Copak někdo zabíjí děti?</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>TONI:</speaker>
+          <stage>(hledá na mapě)</stage>
+          <p>Kde to je… kde to je…</p>
+        </sp>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(stojí jako zkamenělá)</stage>
+          <p>Děti! Malé, usmrkané děti!</p>
+        </sp>
+        <stage>(Ticho.)</stage>
+        <sp who="#matka">
+          <speaker>MATKA:</speaker>
+          <stage>(strhne ze stěny pušku a podává ji oběma rukama Tonimu. S velkým gestem)</stage>
+          <p>Jdi!</p>
+        </sp>
+        <stage>Opona</stage>
+      </div>
+    </body>
+  </text>
+</TEI>

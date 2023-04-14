@@ -1,2 +1,2 @@
-# czdracor
+# czedracor
 Czech Drama Corpus
