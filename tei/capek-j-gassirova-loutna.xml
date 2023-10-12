@@ -108,7 +108,7 @@
   <text>
     <front>
       <argument>
-        <head>I.</head>
+        <label>I.</label>
         <p>Diarre a chlapec</p>
         <p>Ženy Gassirovy</p>
         <p>2 otroci</p>
@@ -119,15 +119,15 @@
         <p>Gassire zůstane</p>
         <p>Samomluva</p>
         <p>Hlasy</p>
-        <head>II./1</head>
+        <label>II./1</label>
         <p>Cesta ke Kiekorrovi</p>
-        <head>II./2</head>
+        <label>II./2</label>
         <p>Zpěv křepelčin</p>
-        <head>II./3</head>
+        <label>II./3</label>
         <p>Kovář</p>
-        <head>III.</head>
+        <label>III.</label>
         <p>Gassire jde se syny do boje</p>
-        <head>x</head>
+        <label>x</label>
         <p>Otroci</p>
         <p>Ženy a král</p>
         <p>Gassire přichází s mrtvolou synovou</p>
@@ -135,7 +135,7 @@
         <p>Ženy přicházejí od krvavé urny</p>
         <p>Loutna nezní</p>
         <p>Gassire vyzývá druhé syny</p>
-        <head>IV.</head>
+        <label>IV.</label>
         <p>Otroci</p>
         <p>Nářek nad šesti hroby</p>
         <p>Diarre s chlapcem se dívá na boj</p>

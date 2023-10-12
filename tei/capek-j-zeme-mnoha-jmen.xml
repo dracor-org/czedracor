@@ -308,92 +308,96 @@
   </standOff>
   <text>
     <front>
+      <head>Osoby v pořádku, jak vystupují</head>
       <castList>
-        <head>Osoby v pořádku, jak vystupují</head>
-        <castList>
-          <head>I. jednání</head>
-          <castItem>Elan Chol</castItem>
-          <castItem>1. metař</castItem>
-          <castItem>2. metař</castItem>
-          <castItem>Opilec</castItem>
-          <castGroup>
-            <castItem>1. klepna</castItem>
-            <castItem>2. klepna</castItem>
-            <castItem>3. klepna</castItem>
-          </castGroup>
-          <castItem>
-            <role>Pieris</role>
-            <roleDesc>básník starší školy</roleDesc>
-          </castItem>
-          <castItem>Milenec</castItem>
-          <castItem>Milenka</castItem>
-          <castItem>Horlitel</castItem>
-          <castItem>Dollarson</castItem>
-          <castItem>Vandergold</castItem>
-          <castItem>1. a 2. muž z davu</castItem>
-          <castItem>1. a 2. žena z davu</castItem>
-          <castItem>Dav</castItem>
-          <head>Přeměna:</head>
-          <castGroup>
-            <castItem>1. dělník</castItem>
-            <castItem>2. dělník</castItem>
-          </castGroup>
-          <castGroup>
-            <castItem>1. strážník</castItem>
-            <castItem>2. strážník</castItem>
-          </castGroup>
-          <castItem>Výrostek</castItem>
-          <castGroup>
-            <castItem>1. muž</castItem>
-            <castItem>2. muž</castItem>
-          </castGroup>
-          <castItem>Dollarson</castItem>
-          <castItem>Vandergold</castItem>
-          <castItem>Primátor</castItem>
-          <castItem>Pieris</castItem>
-          <castItem>Elan Chol</castItem>
-          <castItem>Milenec</castItem>
-          <castItem>Milenka</castItem>
-          <castItem>Školní děti a učitelé</castItem>
-          <castItem>Dav</castItem>
-          <head>II. jednání</head>
-          <castItem>Muž s rýčem</castItem>
-          <castItem>Otec</castItem>
-          <castItem>Matka</castItem>
-          <castItem>Výrostek</castItem>
+        <head>I. jednání</head>
+        <castItem>Elan Chol</castItem>
+        <castItem>1. metař</castItem>
+        <castItem>2. metař</castItem>
+        <castItem>Opilec</castItem>
+        <castGroup>
+          <castItem>1. klepna</castItem>
+          <castItem>2. klepna</castItem>
+          <castItem>3. klepna</castItem>
+        </castGroup>
+        <castItem>
+          <role>Pieris</role>
+          <roleDesc>básník starší školy</roleDesc>
+        </castItem>
+        <castItem>Milenec</castItem>
+        <castItem>Milenka</castItem>
+        <castItem>Horlitel</castItem>
+        <castItem>Dollarson</castItem>
+        <castItem>Vandergold</castItem>
+        <castItem>1. a 2. muž z davu</castItem>
+        <castItem>1. a 2. žena z davu</castItem>
+        <castItem>Dav</castItem>
+      </castList>
+      <castList>
+        <head>Přeměna:</head>
+        <castGroup>
+          <castItem>1. dělník</castItem>
+          <castItem>2. dělník</castItem>
+        </castGroup>
+        <castGroup>
+          <castItem>1. strážník</castItem>
+          <castItem>2. strážník</castItem>
+        </castGroup>
+        <castItem>Výrostek</castItem>
+        <castGroup>
           <castItem>1. muž</castItem>
-          <castItem>Pieris</castItem>
-          <castItem>Elan Chol</castItem>
-          <castItem> Milenec</castItem>
-          <castItem>Milenka</castItem>
-          <castItem>Uspěchaný muž</castItem>
-          <castItem>Jeho žena</castItem>
-          <castGroup>
-            <castItem>1. sendvičmen</castItem>
-            <castItem>2. sendvičmen</castItem>
-          </castGroup>
-          <castItem>Sbor chuďasů</castItem>
-          <castItem> Dav</castItem>
-          <castItem>Vandergold</castItem>
-          <castItem>Žena v černých závojích</castItem>
-          <head>III. jednání</head>
-          <castItem>Elan Chol</castItem>
-          <castItem>1. a 2. invalida</castItem>
-          <castItem>3. voják</castItem>
-          <castItem>Slepec</castItem>
-          <castItem>Občan</castItem>
-          <castItem>Milenec</castItem>
-          <castItem>Stará matka</castItem>
-          <castItem>Vdova</castItem>
-          <castItem>Milenka</castItem>
-          <castItem>Hlasatel</castItem>
-          <castItem>1. muž z davu</castItem>
-          <castItem>Dollarson</castItem>
-          <castItem>Pieris</castItem>
-          <castItem>Žena v černých závojích</castItem>
-          <castItem>Armáda inženýrů, vojáků a úředníků</castItem>
-          <castItem>Dav</castItem>
-        </castList>
+          <castItem>2. muž</castItem>
+        </castGroup>
+        <castItem>Dollarson</castItem>
+        <castItem>Vandergold</castItem>
+        <castItem>Primátor</castItem>
+        <castItem>Pieris</castItem>
+        <castItem>Elan Chol</castItem>
+        <castItem>Milenec</castItem>
+        <castItem>Milenka</castItem>
+        <castItem>Školní děti a učitelé</castItem>
+        <castItem>Dav</castItem>
+      </castList>
+      <castList>
+        <head>II. jednání</head>
+        <castItem>Muž s rýčem</castItem>
+        <castItem>Otec</castItem>
+        <castItem>Matka</castItem>
+        <castItem>Výrostek</castItem>
+        <castItem>1. muž</castItem>
+        <castItem>Pieris</castItem>
+        <castItem>Elan Chol</castItem>
+        <castItem> Milenec</castItem>
+        <castItem>Milenka</castItem>
+        <castItem>Uspěchaný muž</castItem>
+        <castItem>Jeho žena</castItem>
+        <castGroup>
+          <castItem>1. sendvičmen</castItem>
+          <castItem>2. sendvičmen</castItem>
+        </castGroup>
+        <castItem>Sbor chuďasů</castItem>
+        <castItem> Dav</castItem>
+        <castItem>Vandergold</castItem>
+        <castItem>Žena v černých závojích</castItem>
+      </castList>
+      <castList>
+        <head>III. jednání</head>
+        <castItem>Elan Chol</castItem>
+        <castItem>1. a 2. invalida</castItem>
+        <castItem>3. voják</castItem>
+        <castItem>Slepec</castItem>
+        <castItem>Občan</castItem>
+        <castItem>Milenec</castItem>
+        <castItem>Stará matka</castItem>
+        <castItem>Vdova</castItem>
+        <castItem>Milenka</castItem>
+        <castItem>Hlasatel</castItem>
+        <castItem>1. muž z davu</castItem>
+        <castItem>Dollarson</castItem>
+        <castItem>Pieris</castItem>
+        <castItem>Žena v černých závojích</castItem>
+        <castItem>Armáda inženýrů, vojáků a úředníků</castItem>
+        <castItem>Dav</castItem>
       </castList>
     </front>  
     <body>

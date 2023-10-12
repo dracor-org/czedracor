@@ -221,7 +221,7 @@
           <person xml:id="pronikavy-vykrik" sex="UNKNOWN">
             <persName>PRONIKAVÝ VÝKŘIK</persName>
           </person>
-          <personGrp xml:id="cely-svet" sex="UNKNOWN"> <!--PP: Grp "cely svet" = the whole world. Its the last line of the play within "back" element, an alternative text version of Epilogue.-->.-->
+          <personGrp xml:id="cely-svet" sex="UNKNOWN"> <!--PP: Grp "cely svet" = the whole world. Its the last line of the play within "back" element, an alternative text version of Epilogue.-->
             <persName>CELÝ SVĚT</persName>
           </personGrp>  
           <listRelation type="personal">

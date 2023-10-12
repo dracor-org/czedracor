@@ -175,18 +175,22 @@
         <castItem>EVA</castItem>
         <castItem>LILITH</castItem>
         <castItem>ŽENA ALTER EGOVA</castItem>
-        <head>Osoby stvořené Adamem:</head>
-        <castItem>RÉTOR</castItem>
-        <castItem>POETA</castItem>
-        <castItem>VĚDÁTOR</castItem>
-        <castItem>ROMANTIK</castItem>
-        <castItem>HÉDONIK</castItem>
-        <castItem>FILOZOF</castItem>
-        <head>Osoby stvořené Alter Egem:</head>
-        <castItem>PRVNÍ AE</castItem>
-        <castItem>DRUHÝ AE</castItem>
-        <castItem>TŘETÍ AE</castItem>
-        <castItem>ČTVRTÝ AE</castItem>
+        <castGroup>
+          <head>Osoby stvořené Adamem:</head>
+          <castItem>RÉTOR</castItem>
+          <castItem>POETA</castItem>
+          <castItem>VĚDÁTOR</castItem>
+          <castItem>ROMANTIK</castItem>
+          <castItem>HÉDONIK</castItem>
+          <castItem>FILOZOF</castItem>
+        </castGroup>
+        <castGroup>
+          <head>Osoby stvořené Alter Egem:</head>
+          <castItem>PRVNÍ AE</castItem>
+          <castItem>DRUHÝ AE</castItem>
+          <castItem>TŘETÍ AE</castItem>
+          <castItem>ČTVRTÝ AE</castItem>
+        </castGroup>
         <!--PP: PÁTÝ AE and ŠESTÝ AE  – mentioned here in the character overview in the original text, but not in the text itself, does not appear in the text at all?! What to do with this?-->
         <castItem>PÁTÝ AE</castItem>
         <castItem>ŠESTÝ AE</castItem>
@@ -5721,7 +5725,7 @@
           <speaker>VŠICHNI AE:</speaker>
           <p>U nás hoří!</p>
         </sp>
-        <stage>(Všichni se obrátí k oběma městům, jež hoří plamenem.)</stage>m
+        <stage>(Všichni se obrátí k oběma městům, jež hoří plamenem.)</stage>
         <sp who="#cerveny-hlasatel">
           <speaker>ČERVENÝ HLASATEL:</speaker>
           <p>To udělali naši! Revoluce!</p>

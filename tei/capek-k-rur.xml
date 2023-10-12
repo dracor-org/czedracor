@@ -138,33 +138,33 @@
         <castItem>
           <role>HARRY DOMIN</role>
           <roleDesc>centrální ředitel Rossumových Univerzálních Robotů</roleDesc>
-        </castItem>
           <roleDesc>Domin, v předehře asi osmatřicetiletý, vysoký, oholený</roleDesc>
+        </castItem>
         <castItem>
           <role>INŽ. FABRY</role>
           <roleDesc>generální technický ředitel RUR</roleDesc>
-        </castItem>
           <roleDesc>Fabry, rovněž oholený, plavý, vážné a jemné tváře</roleDesc>
+        </castItem>
         <castItem>
           <role>DR. GALL</role>
           <roleDesc>přednosta fyziologického a výzkumného oddělení RUR</roleDesc>
-        </castItem>
           <roleDesc>Dr. Gall, drobný, živý, snědý, s černým knírem</roleDesc>
+        </castItem>
         <castItem>
           <role>DR. HALLEMEIER</role>
           <roleDesc>přednosta Ústavu pro psychologii a výchovu Robotů</roleDesc>
-        </castItem>
           <roleDesc>Hallemeier, ohromný, hřmotný, se zrzavým anglickým knírem a zrzavým kartáčem vlasů</roleDesc>
+        </castItem>
         <castItem>
           <role>KONZUL BUSMAN</role>
           <roleDesc>generální komerční ředitel RUR</roleDesc>
-        </castItem>
           <roleDesc>Busman, tlustý, plešatý, krátkozraký Žid</roleDesc>
+        </castItem>
         <castItem>
           <role>STAVITEL ALQUIST</role>
           <roleDesc>šéf staveb RUR</roleDesc>
-        </castItem>
           <roleDesc>Alquist, starší než ostatní, nedbale oblečený, dlouhých, prošedivělých vlasů a vousů</roleDesc>
+        </castItem>
         <castItem>
           <role>HELENA GLORYOVÁ</role>
           <roleDesc>Helena, velmi elegantní</roleDesc>
@@ -173,8 +173,10 @@
           <role>NÁNA</role>
           <roleDesc>její chůva</roleDesc>
         </castItem>
-        <castItem>MARIUS, Robot</castItem>
-          <roleDesc></roleDesc>
+        <castItem>
+          <role>MARIUS</role>
+          <roleDesc>Robot</roleDesc>
+        </castItem>
         <castItem>
           <role>SULLA</role>
           <roleDesc>Robotka</roleDesc>
