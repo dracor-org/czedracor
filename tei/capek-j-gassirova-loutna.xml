@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="cze000011" xml:lang="cze" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cze000011" xml:lang="cze">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -28,8 +28,7 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Licence</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Licence</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
@@ -454,7 +453,7 @@
         <stage>(Otroci rozvinují a kladou rohože.)</stage>
         <sp who="#otrok-1">
           <speaker>1. OTROK:</speaker>
-          <p></p>
+          <p/>
         </sp>
         <stage>(bručí).</stage>
         <sp who="#otrok-2">

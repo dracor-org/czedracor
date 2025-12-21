@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xml:id="cze000002" xml:lang="cze" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cze000002" xml:lang="cze">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +30,11 @@
           <availability>
             <licence>
               <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode"
-                >Licence</ref>
+              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Licence</ref>
             </licence>
           </availability>
           <bibl type="originalSource">
-            <title >Karel Čapek: Tři hry. Loupežník, RUR, Bílá nemoc. Edice: Česká knižnice, svazek 75. Editor: Jiří Holý. Brno: Host, 2014.</title>
+            <title>Karel Čapek: Tři hry. Loupežník, RUR, Bílá nemoc. Edice: Česká knižnice, svazek 75. Editor: Jiří Holý. Brno: Host, 2014.</title>
           </bibl>
         </bibl>
       </sourceDesc>
