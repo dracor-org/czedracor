@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cze000011" xml:lang="cze">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cze000011" xml:lang="cz">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">GASSIROVA LOUTNA</title>
+        <title>GASSIROVA LOUTNA</title>
         <author>
           <persName>
             <forename>Josef</forename>
@@ -16,20 +16,14 @@
         <publisher xml:id="dracor">DraCor</publisher>
         <idno type="URL">https://dracor.org</idno>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>From the printed edition</name>
           <availability>
-            <licence>
-              <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Licence</ref>
-            </licence>
+            <licence target="http://creativecommons.org/licenses/by/3.0/de/legalcode">CC-BY-3.0</licence>
           </availability>
           <bibl type="originalSource">
             <title>Josef Čapek: Beletrie 1: Živý plamen, Tři prózy, Podzim 1914, Lelio, Lakomec, Moc pověry, Gassirova loutna, Země mnoha jmen, Pro delfína, Stín kapradiny. Edice: Delfín, sv. 116; 1. svazek Spisů Josefa Čapka. Editor: Daniel Vojtěch. Praha: Triáda, 2011.</title>
