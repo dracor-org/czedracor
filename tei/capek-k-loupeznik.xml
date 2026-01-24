@@ -17,20 +17,14 @@
         <publisher xml:id="dracor">DraCor</publisher>
         <idno type="URL">https://dracor.org</idno>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>From the printed edition</name>
            <availability>
-            <licence>
-              <ab>CC-BY-3.0</ab>
-              <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Licence</ref>
-            </licence>
+            <licence target="http://creativecommons.org/licenses/by/3.0/de/legalcode">CC-BY-3.0</licence>
           </availability>
           <bibl type="originalSource">
             <title>Karel Čapek: Tři hry. Loupežník, RUR, Bílá nemoc. Edice: Česká knižnice, svazek 75. Editor: Jiří Holý. Brno: Host, 2014.</title>
